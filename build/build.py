@@ -26,6 +26,10 @@ def main():
     print("--- Trainers: competitive movesets + bigger route teams ---")
     feature_trainers.apply(rom)
 
+    import feature_megastones
+    print("--- Mega Stones: bosses hold them; scatter the rest as item balls ---")
+    feature_megastones.apply(rom)
+
     try:
         import feature_hms
         print("--- Feature 4: reduce HM necessity ---")

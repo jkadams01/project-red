@@ -31,51 +31,58 @@ def resolve(resolver, name):
 
 # Item ids resolved by name from data.items.stats at apply()-time; fall back to 0 if missing.
 ACE_ITEM="LEFTOVERS"; SUB_ITEM="SITRUS BERRY"
+MEGA_RING_ITEM=353   # key item that flags a side as Mega-capable (player bag / trainer items)
 
 # Each boss: trainer ids, level list (ace last & highest), and 6 species (ace last, must be Gen-1 #<=151).
 # 5 themed cross-gen mons + Gen-1 ace.
+# Each boss now has ONE mega-capable mon holding its Mega Stone: mega=(species, stone_item_id).
+# Where a Gen-1 ace itself has a Mega (Venusaur/Charizard/Blastoise/Beedrill/Alakazam/Gengar/
+# Gyarados/Aerodactyl), the ACE mega-evolves; otherwise the ace stays its signature Gen-1 mon and
+# a themed non-ace teammate carries the stone. Stone ids: 533 Venusaurite 534/535 Charizardite X/Y
+# 536 Blastoisinite 537 Beedrillite 539 Alakazite 541 Gengarite 544 Gyaradosite 545 Aerodactylite
+# 562 Manectite 568 Glalitite 574 Garchompite 575 Lucarionite 569 Salamencite.
 def boss_defs():
     return [
       # --- Gym leaders ---
       dict(name="Brock",   ids=[414], iv=120, lv=[12,12,13,13,14,16],
-           team=["Rockruff","Nacli","Rolycoly","Larvitar","Geodude","Onix"]),
+           team=["Rockruff","Nacli","Rolycoly","Larvitar","Onix","Aerodactyl"], mega=("Aerodactyl",545)),
       dict(name="Misty",   ids=[415], iv=130, lv=[18,18,19,19,20,22],
-           team=["Marill","Chinchou","Wooper","Buizel","Staryu","Starmie"]),
-      dict(name="Surge",   ids=[416], iv=140, lv=[21,21,22,22,23,25],
-           team=["Magnemite","Electrike","Blitzle","Tynamo","Pikachu","Raichu"]),
+           team=["Marill","Chinchou","Wooper","Buizel","Starmie","Gyarados"], mega=("Gyarados",544)),
+      dict(name="Surge",   ids=[416], iv=140, lv=[21,21,22,22,24,25],
+           team=["Magnemite","Electrike","Blitzle","Pikachu","Manectric","Raichu"], mega=("Manectric",562)),
       dict(name="Erika",   ids=[417], iv=150, lv=[26,26,27,28,28,30],
-           team=["Petilil","Cottonee","Fomantis","Bellsprout","Gloom","Vileplume"]),
+           team=["Petilil","Cottonee","Fomantis","Bellsprout","Vileplume","Venusaur"], mega=("Venusaur",533)),
       dict(name="Koga",    ids=[418], iv=170, lv=[36,36,37,38,39,41],
-           team=["Crobat","Skuntank","Toxicroak","Garbodor","Muk","Weezing"]),
+           team=["Crobat","Skuntank","Toxicroak","Garbodor","Weezing","Beedrill"], mega=("Beedrill",537)),
       dict(name="Sabrina", ids=[420], iv=175, lv=[38,38,39,40,41,43],
-           team=["Espeon","Gardevoir","Metang","Gallade","Gothitelle","Alakazam"]),
+           team=["Espeon","Gardevoir","Metang","Gallade","Gothitelle","Alakazam"], mega=("Alakazam",539)),
       dict(name="Blaine",  ids=[419], iv=180, lv=[42,42,43,44,45,47],
-           team=["Magmar","Ninetales","Houndoom","Camerupt","Chandelure","Arcanine"]),
+           team=["Magmar","Ninetales","Houndoom","Camerupt","Arcanine","Charizard"], mega=("Charizard",535)),
       dict(name="GiovanniGym", ids=[350], iv=190, lv=[45,45,46,47,48,50],
-           team=["Dugtrio","Sandslash","Krookodile","Excadrill","Garchomp","Nidoking"]),
+           team=["Dugtrio","Sandslash","Excadrill","Krookodile","Garchomp","Nidoking"], mega=("Garchomp",574)),
       # --- Rocket leader (Giovanni earlier appearances) ---
       dict(name="GiovanniHideout", ids=[348], iv=120, lv=[24,24,25,25,26,28],
-           team=["Diglett","Sandshrew","Mankey","Drilbur","Rhyhorn","Nidorino"]),
+           team=["Diglett","Sandshrew","Mankey","Drilbur","Rhyhorn","Nidorino"], mega=None),
       dict(name="GiovanniSilph",   ids=[349], iv=160, lv=[36,36,37,38,39,41],
-           team=["Dugtrio","Marowak","Rhydon","Krookodile","Mamoswine","Nidoking"]),
+           team=["Dugtrio","Marowak","Rhydon","Krookodile","Garchomp","Nidoking"], mega=("Garchomp",574)),
       # --- Elite Four (round 1) ---
       dict(name="Lorelei", ids=[410], iv=210, lv=[52,52,53,53,54,56],
-           team=["Cloyster","Dewgong","Weavile","Mamoswine","Glaceon","Lapras"]),
+           team=["Cloyster","Dewgong","Weavile","Mamoswine","Glalie","Lapras"], mega=("Glalie",568)),
       dict(name="Bruno",   ids=[411], iv=210, lv=[52,53,53,54,55,57],
-           team=["Hitmonlee","Hitmonchan","Hariyama","Lucario","Conkeldurr","Machamp"]),
+           team=["Hitmonlee","Hitmonchan","Hariyama","Conkeldurr","Lucario","Machamp"], mega=("Lucario",575)),
       dict(name="Agatha",  ids=[412], iv=215, lv=[53,54,54,55,56,58],
-           team=["Haunter","Mismagius","Dusknoir","Chandelure","Mimikyu","Gengar"]),
+           team=["Haunter","Mismagius","Dusknoir","Chandelure","Mimikyu","Gengar"], mega=("Gengar",541)),
       dict(name="Lance",   ids=[413], iv=220, lv=[55,55,56,57,58,60],
-           team=["Gyarados","Aerodactyl","Salamence","Garchomp","Hydreigon","Dragonite"]),
+           team=["Gyarados","Aerodactyl","Garchomp","Hydreigon","Salamence","Dragonite"], mega=("Salamence",569)),
       # --- Elite Four rematch (round 2) ---
       dict(name="Lorelei2",ids=[735], iv=235, lv=[62,62,63,63,64,66],
-           team=["Cloyster","Walrein","Weavile","Mamoswine","Froslass","Lapras"]),
+           team=["Cloyster","Walrein","Weavile","Mamoswine","Glalie","Lapras"], mega=("Glalie",568)),
       dict(name="Bruno2",  ids=[736], iv=235, lv=[62,63,63,64,65,67],
-           team=["Hitmonlee","Hitmonchan","Hariyama","Lucario","Conkeldurr","Machamp"]),
+           team=["Hitmonlee","Hitmonchan","Hariyama","Conkeldurr","Lucario","Machamp"], mega=("Lucario",575)),
       dict(name="Agatha2", ids=[737], iv=240, lv=[63,64,64,65,66,68],
-           team=["Crobat","Mismagius","Dusknoir","Chandelure","Mimikyu","Gengar"]),
+           team=["Crobat","Mismagius","Dusknoir","Chandelure","Mimikyu","Gengar"], mega=("Gengar",541)),
       dict(name="Lance2",  ids=[738], iv=245, lv=[65,65,66,67,68,70],
-           team=["Gyarados","Salamence","Garchomp","Hydreigon","Dragapult","Dragonite"]),
+           team=["Gyarados","Garchomp","Hydreigon","Dragapult","Salamence","Dragonite"], mega=("Salamence",569)),
     ]
 
 # Champion (Terry) varies by player's starter; ace = the Gen-1 starter's final form.
@@ -84,18 +91,18 @@ def champion_defs():
     return [
       # round 1: tr438 (vs Squirtle pick -> ace Blastoise), 439 (Venusaur), 440 (Charizard)
       dict(name="ChampBlastoise", ids=[438], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Exeggutor","Blastoise"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Exeggutor","Blastoise"], mega=("Blastoise",536)),
       dict(name="ChampVenusaur",  ids=[439], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Arcanine","Venusaur"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Arcanine","Venusaur"], mega=("Venusaur",533)),
       dict(name="ChampCharizard", ids=[440], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Exeggutor","Charizard"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Exeggutor","Charizard"], mega=("Charizard",534)),
       # rematch: tr739/740/741
       dict(name="ChampBlastoise2",ids=[739], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Heracross","Blastoise"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Heracross","Blastoise"], mega=("Blastoise",536)),
       dict(name="ChampVenusaur2", ids=[740], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Venusaur"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Venusaur"], mega=("Venusaur",533)),
       dict(name="ChampCharizard2",ids=[741], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Charizard"]),
+           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Charizard"], mega=("Charizard",534)),
     ]
 
 def item_id(rom, name):
@@ -126,9 +133,20 @@ def apply(rom, verbose=True):
         ace = team[-1]
         if ace > 151:
             bad.append(d["name"]+":ace_not_gen1"); continue
+        # the mega mon holds its stone (others: ace=Leftovers, rest=Sitrus)
+        mega_sp = None; mega_stone = 0
+        if d.get("mega"):
+            mega_sp = resolve(resolver, d["mega"][0]); mega_stone = d["mega"][1]
+            if mega_sp not in team:
+                bad.append(d["name"]+":mega_not_in_team"); continue
         blob = bytearray()
         for k, (sp, lv) in enumerate(zip(team, d["lv"])):
-            item = lefto if k == len(team)-1 else sitrus
+            if mega_sp is not None and sp == mega_sp:
+                item = mega_stone
+            elif k == len(team)-1:
+                item = lefto
+            else:
+                item = sitrus
             blob += struct.pack("<HHHH", IV, lv, sp, item)
         off = rom.alloc(len(blob))
         rom.data[off:off+len(blob)] = blob
@@ -138,6 +156,12 @@ def apply(rom, verbose=True):
             rom.wu8(o+0x18, 0)        # single battle
             rom.wu8(o+0x20, 6)        # party count = 6
             rom.wptr(o+0x24, off)     # party pointer -> new team
+            # CFRU: a trainer only Mega Evolves if its trainer-items contain the Mega Ring (the AI
+            # equivalent of the player's key stone). FindTrainerKeystone scans item1..4 @0x10 for 353.
+            if mega_sp is not None:
+                slots = [o+0x10+k*2 for k in range(4)]
+                free = next((s for s in slots if rom.u16(s)==0), slots[-1])  # free slot, else replace item4
+                rom.wu16(free, MEGA_RING_ITEM)
             count_written += 1
     if verbose:
         print("[bosses] upgraded %d boss trainer slots to 6-mon teams (%d definitions)"

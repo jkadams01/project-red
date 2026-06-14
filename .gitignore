@@ -28,7 +28,7 @@ __pycache__/
 *.pyc
 build/*.json
 build/species_names.txt
-build/theme_audit_workflow.js
+build/*_workflow.js
 
 # --- Local editor / agent settings ---
 .claude/

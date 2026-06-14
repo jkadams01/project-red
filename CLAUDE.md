@@ -60,8 +60,16 @@ that already contains all Gen 1–9 species/moves/abilities/forms — *not* the 
 - `feature_towngrass.py` — adds tall-grass tiles + encounter tables to towns (reuses redundant duplicate
   wild entries instead of relocating the wild table).
 - `feature_bosses.py` — rewrites gym leader / Giovanni / Elite Four / Champion trainers to 6-mon themed
-  teams keeping a Gen-1 ace.
+  teams keeping a Gen-1 ace. Also arms each boss for **Mega Evolution**: the mega mon holds its stone AND
+  the trainer carries a Mega Ring (item 353) in an `item1..4` slot — CFRU's `FindTrainerKeystone` requires
+  that trainer-side key item, the held stone alone is inert.
+- `feature_trainers.py` — competitive custom movesets (structType 3) for all 742 trainers + 1–3 extra
+  route Pokémon scaled by progression. Runs **after** `feature_bosses` and preserves held items.
+- `feature_megastones.py` — scatters Mega Stones by repointing low-value overworld item balls (preserving
+  each ball's pickup flag) and gives the player the Mega Ring via the new-game bedroom PC (`scripts.newgame.pc.item`).
 - `feature_hms.py` — reduces HM necessity (currently: de-darkens Rock Tunnel so Flash isn't required).
+- `map_render.py` — stdlib tileset/metatile renderer (LZ77 + palettes) → PNG; its `GreenGround` classifier
+  keeps town grass on real lawn, not paved roads.
 - `verify.py` / `dump_encounters.py` — read-back verification of the built ROM.
 
 **Scratch/recon scripts** (`recon*.py`, `trainer_recon*.py`, `wild.py`, `maps.py`, `species_analysis.py`,

@@ -54,3 +54,39 @@ for mp in ["ROUTE 1","ROUTE 2","VIRIDIAN FOREST","ROUTE 10","VICTORY ROAD"]:
     for nm,sl in samples.items():
         if nm.upper().startswith(mp):
             print("  %-16s %s"%(nm,[(n,'L%d-%d'%(lo,hi)) for n,lo,hi in sl]));break
+
+# ---- Verify Mega Evolution feature ----
+print("\n=== mega evolution ===")
+IST=rom.tables["data.items.stats"]["addr"]
+def _itn(i): return rom.read_name(IST+i*44,14)
+mega_bad=[]
+for d in feature_bosses.boss_defs()+feature_bosses.champion_defs():
+    if not d.get("mega"): continue
+    tid=d["ids"][0]; o=TR+tid*40; st=rom.u8(o); cnt=rom.u8(o+0x20); ptr=rom.ptr(o+0x24); esz=ELS[st]
+    has_ring = 353 in [rom.u16(o+0x10+k*2) for k in range(4)]              # trainer-side mega enable
+    stones   = [rom.u16(ptr+k*esz+6) for k in range(cnt) if 533<=rom.u16(ptr+k*esz+6)<=579]
+    if not (has_ring and len(stones)==1): mega_bad.append((d["name"],has_ring,stones))
+print("bosses with Mega Ring(items) + exactly one held stone:",
+      sum(1 for d in feature_bosses.boss_defs()+feature_bosses.champion_defs() if d.get("mega"))-len(mega_bad),
+      " problems:", mega_bad or "none")
+pc=rom.ptr(0xEB6A8); ring_in_pc=any(rom.u16(pc+k*4)==353 for k in range(4))
+print("player Mega Ring in new-game PC:", ring_in_pc)
+import feature_megastones as _fm
+scattered=0
+for b in range(43):
+    for m in range(_fm.bank_mapcount(rom,b)):
+        import mapinfo as _mi
+        h=_mi.header(rom,b,m)
+        if not h: continue
+        ev=rom.ptr(h+4)
+        if not ev: continue
+        oc=rom.u8(ev); op=rom.ptr(ev+4)
+        if not op: continue
+        for i in range(oc):
+            ob=op+i*0x18
+            if rom.u8(ob+1)!=0x5C: continue
+            sc=rom.ptr(ob+0x10)
+            if sc and rom.u8(sc)==0x1A and rom.u16(sc+1)==0x8000 and 533<=rom.u16(sc+3)<=579: scattered+=1
+print("scattered Mega Stone item-balls:", scattered)
+assert not mega_bad and ring_in_pc, "MEGA FEATURE VERIFICATION FAILED"
+print("mega feature: OK")
