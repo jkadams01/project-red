@@ -85,25 +85,61 @@ def boss_defs():
            team=["Gyarados","Garchomp","Hydreigon","Dragapult","Salamence","Dragonite"], mega=("Salamence",569)),
     ]
 
-# Champion (Terry) varies by player's starter; ace = the Gen-1 starter's final form.
+# The rival (Terry) keeps ONLY the player-chosen starter; his Champion team is a Fire/Grass/Water core
+# (the starter fills its own type, the other two are filled by Arcanine/Exeggutor/Gyarados) plus one
+# pseudo-legendary (Tyranitar) and two other competitive mons (Alakazam, Gengar). He is shown assembling
+# exactly this team across the game. Trainer variants per fight are [Squirtle, Bulbasaur, Charmander].
+STARTER_LINES = {0:["Squirtle","Wartortle","Blastoise"],
+                 1:["Bulbasaur","Ivysaur","Venusaur"],
+                 2:["Charmander","Charmeleon","Charizard"]}
+STARTER_STONE = {0:536, 1:533, 2:534}     # Blastoisinite / Venusaurite / CharizarditeX
+CORE_TYPES    = {0:("fire","grass"), 1:("fire","water"), 2:("grass","water")}  # non-starter F/G/W per variant
+
+def _evo(line, lvl):
+    return {
+      "psy":    "Abra"      if lvl<16 else "Kadabra"  if lvl<36 else "Alakazam",
+      "ghost":  "Gastly"    if lvl<25 else "Haunter"  if lvl<36 else "Gengar",
+      "water":  "Magikarp"  if lvl<20 else "Gyarados",
+      "fire":   "Growlithe" if lvl<37 else "Arcanine",
+      "grass":  "Exeggcute" if lvl<37 else "Exeggutor",
+      "pseudo": "Larvitar"  if lvl<30 else "Pupitar"  if lvl<55 else "Tyranitar",
+      "bird":   "Pidgey"    if lvl<18 else "Pidgeotto",   # early-bird filler; dropped before it ever reaches Pidgeot
+    }[line]
+def _line(tok, v):   # 'C'/'D' resolve to the variant's two non-starter core types
+    return CORE_TYPES[v][0] if tok=="C" else CORE_TYPES[v][1] if tok=="D" else tok
+
+# Rival build-up: (trainer ids per variant, starter-stage, starter-level, [(line, level)...non-starter]).
+# Early fights carry a throwaway "early bird" (Pidgey->Pidgeotto) for an extra body; he drops it at Silph Co
+# once the pseudo-legendary joins, then evolves the rest toward the final Champion team.
+RIVAL_SCHEDULE = [
+  ([326,327,328], 0, 6,  [("bird",5)]),                                                       # Oak's Lab
+  ([329,330,331], 0, 10, [("bird",9),("psy",8)]),                                             # Route 22 #1
+  ([332,333,334], 0, 17, [("bird",15),("psy",14),("ghost",15)]),                              # Cerulean
+  ([426,427,428], 1, 23, [("bird",19),("psy",18),("ghost",20),("C",20)]),                     # S.S. Anne
+  ([429,430,431], 1, 29, [("bird",26),("psy",25),("ghost",26),("C",26),("D",25)]),            # Pokemon Tower (6, w/ bird)
+  ([432,433,434], 2, 42, [("psy",37),("ghost",38),("C",38),("D",39),("pseudo",38)]),          # Silph Co (bird dropped, full 6)
+  ([435,436,437], 2, 54, [("psy",48),("ghost",48),("C",49),("D",49),("pseudo",50)]),          # Route 22 #2
+]
+
+def rival_defs():
+    out=[]
+    for ids, sstage, slvl, nonstarter in RIVAL_SCHEDULE:
+        for v,tid in enumerate(ids):
+            team=[_evo(_line(tok,v), l) for tok,l in nonstarter]; lv=[l for _,l in nonstarter]
+            team.append(STARTER_LINES[v][sstage]); lv.append(slvl)   # starter = ace (last)
+            out.append(dict(name="Rival%d_v%d"%(ids[0],v), ids=[tid], iv=100, lv=lv,
+                            team=team, mega=None, rival=True))
+    return out
+
 def champion_defs():
-    # (trainer_id, ace_gen1_final, second-strong cross-gen support)
-    return [
-      # round 1: tr438 (vs Squirtle pick -> ace Blastoise), 439 (Venusaur), 440 (Charizard)
-      dict(name="ChampBlastoise", ids=[438], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Exeggutor","Blastoise"], mega=("Blastoise",536)),
-      dict(name="ChampVenusaur",  ids=[439], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Arcanine","Venusaur"], mega=("Venusaur",533)),
-      dict(name="ChampCharizard", ids=[440], iv=230, lv=[58,59,59,60,61,63],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Exeggutor","Charizard"], mega=("Charizard",534)),
-      # rematch: tr739/740/741
-      dict(name="ChampBlastoise2",ids=[739], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gengar","Heracross","Blastoise"], mega=("Blastoise",536)),
-      dict(name="ChampVenusaur2", ids=[740], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Venusaur"], mega=("Venusaur",533)),
-      dict(name="ChampCharizard2",ids=[741], iv=250, lv=[66,67,67,68,69,71],
-           team=["Pidgeot","Alakazam","Tyranitar","Gyarados","Heracross","Charizard"], mega=("Charizard",534)),
-    ]
+    out=[]
+    for ids,lv in [([438,439,440],[57,59,59,60,61,63]), ([739,740,741],[72,72,73,73,73,75])]:
+        for v,tid in enumerate(ids):
+            c0,c1=CORE_TYPES[v]; starter=STARTER_LINES[v][2]
+            team=[_evo("psy",60),_evo("ghost",60),_evo(c0,60),_evo(c1,60),_evo("pseudo",60),starter]
+            out.append(dict(name="Champ%d_%s"%(tid,starter), ids=[tid], iv=255, lv=lv,
+                            team=team, mega=(starter, STARTER_STONE[v])))
+    return out
 
 def item_id(rom, name):
     try:
@@ -123,7 +159,7 @@ def apply(rom, verbose=True):
     sitrus = item_id(rom, SUB_ITEM) or 0
     IV = 255  # -> max IVs (challenging bosses), matches Champion's vanilla value
     TR = rom.tables["data.trainers.stats"]["addr"]
-    alldefs = boss_defs() + champion_defs()
+    alldefs = boss_defs() + champion_defs() + rival_defs()
     count_written = 0
     bad = []
     for d in alldefs:
@@ -143,6 +179,8 @@ def apply(rom, verbose=True):
         for k, (sp, lv) in enumerate(zip(team, d["lv"])):
             if mega_sp is not None and sp == mega_sp:
                 item = mega_stone
+            elif d.get("rival"):       # rival build-up fights carry no held items
+                item = 0
             elif k == len(team)-1:
                 item = lefto
             else:
@@ -154,7 +192,7 @@ def apply(rom, verbose=True):
             o = TR + tid*TR_STRIDE
             rom.wu8(o+0x00, 2)        # structType 2 = held item + default level-up moves
             rom.wu8(o+0x18, 0)        # single battle
-            rom.wu8(o+0x20, 6)        # party count = 6
+            rom.wu8(o+0x20, len(team))  # party count (rivals grow 1 -> 6)
             rom.wptr(o+0x24, off)     # party pointer -> new team
             # CFRU: a trainer only Mega Evolves if its trainer-items contain the Mega Ring (the AI
             # equivalent of the player's key stone). FindTrainerKeystone scans item1..4 @0x10 for 353.
@@ -164,7 +202,7 @@ def apply(rom, verbose=True):
                 rom.wu16(free, MEGA_RING_ITEM)
             count_written += 1
     if verbose:
-        print("[bosses] upgraded %d boss trainer slots to 6-mon teams (%d definitions)"
+        print("[bosses] wrote %d trainer slots (%d defs: gyms/E4/champion 6-mon + rival build-up)"
               % (count_written, len(alldefs)))
         if bad: print("[bosses] PROBLEM defs:", bad)
     return dict(written=count_written, bad=bad)
