@@ -69,9 +69,12 @@ that already contains all Gen 1–9 species/moves/abilities/forms — *not* the 
   each ball's pickup flag) and gives the player the Mega Ring via the new-game bedroom PC (`scripts.newgame.pc.item`).
 - `feature_starterregion.py` — lets the player choose which **region's** starters to pick from at the first
   Oak's-Lab ball: repoints the 3 ball objects (Oak Lab = bank 4 map 3, obj4/5/6) to a wrapper that runs a
-  region multichoice (overwrites menu slot 64) and fills 3 verified-unused vars (0x40E9/EA/ED/B8); the ball
+  paginated region menu and fills 3 verified-unused vars (0x40E9/EA/ED/B8); the ball
   `setvar VAR_0x4002,<species>` is swapped in-place to `copyvar`. Rival stays Kanto (position-based).
-  This is the only feature that edits the new-game/starter flow → **must be mGBA-playtested**.
+  Gotchas learned the hard way (all needed for the menu to not freeze): use **`6F multichoice`** not the
+  `71` grid (CFRU doesn't implement grid); FRLG menus cap at **6 options** so the 9 regions are paginated
+  across two list slots (64 + 63: 5+MORE / 4+BACK); and the script must `lock` before showing the menu.
+  This feature edits the new-game/starter flow → **mGBA-playtested** (confirmed working).
 - `feature_hms.py` — reduces HM necessity (currently: de-darkens Rock Tunnel so Flash isn't required).
 - `map_render.py` — stdlib tileset/metatile renderer (LZ77 + palettes) → PNG; its `GreenGround` classifier
   keeps town grass on real lawn, not paved roads.
