@@ -30,6 +30,10 @@ def main():
     print("--- Mega Stones: bosses hold them; scatter the rest as item balls ---")
     feature_megastones.apply(rom)
 
+    import feature_starterregion
+    print("--- Starter region select: choose which region's starters at the first ball ---")
+    feature_starterregion.apply(rom)
+
     try:
         import feature_hms
         print("--- Feature 4: reduce HM necessity ---")

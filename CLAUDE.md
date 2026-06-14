@@ -40,8 +40,8 @@ Multi-agent thematic audit of the encounters (regenerate after changing themes):
 ## Architecture
 
 **Pipeline (`build.py`)**: copies the pristine base ROM **and** its `.toml` to `build/project-red.gba` /
-`.toml`, then calls each feature module's `apply(rom)` in order — **towngrass → wild → bosses → hms** —
-and saves once. It is reproducible from scratch every run; **never** rely on editing the output ROM in
+`.toml`, then calls each feature module's `apply(rom)` in order — **towngrass → wild → bosses → trainers
+→ megastones → starterregion → hms** — and saves once. It is reproducible from scratch every run; **never** rely on editing the output ROM in
 place across runs (always rebuild from the base). The base is `Roms/UCDEP/...gba` (a CFRU/DPE expansion
 that already contains all Gen 1–9 species/moves/abilities/forms — *not* the smaller `Roms/Firered/` gen8 base).
 
@@ -67,6 +67,11 @@ that already contains all Gen 1–9 species/moves/abilities/forms — *not* the 
   route Pokémon scaled by progression. Runs **after** `feature_bosses` and preserves held items.
 - `feature_megastones.py` — scatters Mega Stones by repointing low-value overworld item balls (preserving
   each ball's pickup flag) and gives the player the Mega Ring via the new-game bedroom PC (`scripts.newgame.pc.item`).
+- `feature_starterregion.py` — lets the player choose which **region's** starters to pick from at the first
+  Oak's-Lab ball: repoints the 3 ball objects (Oak Lab = bank 4 map 3, obj4/5/6) to a wrapper that runs a
+  region multichoice (overwrites menu slot 64) and fills 3 verified-unused vars (0x40E9/EA/ED/B8); the ball
+  `setvar VAR_0x4002,<species>` is swapped in-place to `copyvar`. Rival stays Kanto (position-based).
+  This is the only feature that edits the new-game/starter flow → **must be mGBA-playtested**.
 - `feature_hms.py` — reduces HM necessity (currently: de-darkens Rock Tunnel so Flash isn't required).
 - `map_render.py` — stdlib tileset/metatile renderer (LZ77 + palettes) → PNG; its `GreenGround` classifier
   keeps town grass on real lawn, not paved roads.
