@@ -1,0 +1,33 @@
+# --- Copyrighted game ROMs, saves & patches (never commit) ---
+Roms/
+*.gba
+*.gbc
+*.gb
+*.sav
+*.srm
+*.ups
+*.ips
+*.bps
+*.zip
+
+# --- Third-party tools / large binaries ---
+Hexmaniac/
+*.exe
+*.dll
+*.pdb
+
+# --- Build output (the generated ROM + its HMA metadata) ---
+build/project-red.gba
+build/project-red.toml
+
+# --- Generated / derived artifacts (reproducible via the build scripts) ---
+build/maps/
+build/__pycache__/
+__pycache__/
+*.pyc
+build/*.json
+build/species_names.txt
+build/theme_audit_workflow.js
+
+# --- Local editor / agent settings ---
+.claude/
