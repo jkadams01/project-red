@@ -4,7 +4,7 @@
     * towns with an existing wild entry -> set the (currently null) grass pointer.
     * towns with no wild entry          -> repurpose a redundant duplicate Altering Cave entry.
 """
-import mapinfo
+import mapinfo, map_render
 
 # (name, bank, map, level_lo, level_hi). Story-ordered level ranges.
 TOWNS = [
@@ -26,10 +26,11 @@ def find_patch(rom, lay, b, m, pw=PATCH_W, ph=PATCH_H, margin=MARGIN):
     W,H=lay["width"],lay["height"]
     objs,warps,signs=mapinfo.read_events(rom,b,m)
     blockers=warps+signs+objs
+    gg=map_render.GreenGround(rom,lay)   # only plant on real green grass-ground, never paved roads
     def cell(x,y): v=rom.u16(lay["blockmap"]+(y*W+x)*2); return v&0x3FF,(v>>10)&0x3
     def normal_ground(x,y):
         if not(0<=x<W and 0<=y<H): return False
-        mt,col=cell(x,y); return col==0 and mapinfo.behavior(rom,lay,mt)==0x00
+        mt,col=cell(x,y); return col==0 and mapinfo.behavior(rom,lay,mt)==0x00 and gg.is_green(mt)
     def walkable(x,y):
         return 0<=x<W and 0<=y<H and cell(x,y)[1]==0
     corners=[(margin,margin),(W-1-margin,margin),(margin,H-1-margin),(W-1-margin,H-1-margin)]

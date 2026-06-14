@@ -22,6 +22,7 @@ build/project-red.toml
 
 # --- Generated / derived artifacts (reproducible via the build scripts) ---
 build/maps/
+build/maps_real/
 build/__pycache__/
 __pycache__/
 *.pyc

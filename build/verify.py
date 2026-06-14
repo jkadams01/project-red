@@ -28,9 +28,9 @@ for tid,lab in [(414,"Brock"),(415,"Misty"),(416,"Surge"),(417,"Erika"),(418,"Ko
     show_boss(tid,lab)
 
 # ---- Verify wild coverage + level sanity ----
-import feature_wild
+import feature_wild, mapinfo
 entries=feature_wild.walk_wild(rom)
-def label(e): return feature_wild.section_name(rom, feature_wild.region_section(rom,e["bank"],e["map"]))
+def label(e): return mapinfo.map_name(rom, e["bank"], e["map"])
 present=set()
 samples={}
 for e in entries:
@@ -39,11 +39,11 @@ for e in entries:
     for cat,_ in feature_wild.CATS:
         c=e["cats"][cat]
         if not c: continue
-        for s in c["slots"]:
+        for s in c:
             sp=rom.u16(s["off"]+2); present.add(sp)
     if nm not in samples:
         g=e["cats"]["grass"]
-        if g: samples[nm]=[(gamedata.spname(rom,rom.u16(s["off"]+2)),s["lo"],s["hi"]) for s in g["slots"][:6]]
+        if g: samples[nm]=[(gamedata.spname(rom,rom.u16(s["off"]+2)),s["lo"],s["hi"]) for s in g[:6]]
 
 lines=gamedata.base_lines(rom)
 missing=[L["name"] for L in lines if L["idx"] not in present]
