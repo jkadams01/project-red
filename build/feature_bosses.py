@@ -112,7 +112,7 @@ def _line(tok, v):   # 'C'/'D' resolve to the variant's two non-starter core typ
 # Early fights carry a throwaway "early bird" (Pidgey->Pidgeotto) for an extra body; he drops it at Silph Co
 # once the pseudo-legendary joins, then evolves the rest toward the final Champion team.
 RIVAL_SCHEDULE = [
-  ([326,327,328], 0, 6,  [("bird",5)]),                                                       # Oak's Lab
+  ([326,327,328], 0, 5,  []),                                                                 # Oak's Lab (starter only)
   ([329,330,331], 0, 10, [("bird",9),("psy",8)]),                                             # Route 22 #1
   ([332,333,334], 0, 17, [("bird",15),("psy",14),("ghost",15)]),                              # Cerulean
   ([426,427,428], 1, 23, [("bird",19),("psy",18),("ghost",20),("C",20)]),                     # S.S. Anne
