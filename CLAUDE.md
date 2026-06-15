@@ -63,8 +63,14 @@ that already contains all Gen 1–9 species/moves/abilities/forms — *not* the 
   teams keeping a Gen-1 ace. Also arms each boss for **Mega Evolution**: the mega mon holds its stone AND
   the trainer carries a Mega Ring (item 353) in an `item1..4` slot — CFRU's `FindTrainerKeystone` requires
   that trainer-side key item, the held stone alone is inert.
-- `feature_trainers.py` — competitive custom movesets (structType 3) for all 742 trainers + 1–3 extra
-  route Pokémon scaled by progression. Runs **after** `feature_bosses` and preserves held items.
+- `feature_trainers.py` — competitive custom movesets (structType 3) for all trainers + 1–3 extra
+  route Pokémon scaled by progression. Runs **after** `feature_bosses` and preserves held items. Every
+  generated move is filtered through `learnset.Learnset` so a mon never gets a move outside its real
+  Gen-9 learnset. **Exception:** the first rival fight (`feature_bosses.FIRST_RIVAL_IDS`, Oak's Lab right
+  after the starter pick) is skipped, so it keeps `feature_bosses`' easy level-up-only (structType 2) team.
+- `learnset.py` — parses the ROM's own learnset tables (level-up + TM/HM-compat + tutor-compat + egg, the
+  last inherited up the evo line) into a per-species set of legal move ids; `feature_trainers` filters
+  against it and falls back to the mon's actual level-up moves when a curated pick isn't legal.
 - `feature_megastones.py` — scatters Mega Stones by repointing low-value overworld item balls (preserving
   each ball's pickup flag) and gives the player the Mega Ring via the new-game bedroom PC (`scripts.newgame.pc.item`).
 - `feature_starterregion.py` — lets the player choose which **region's** starters to pick from at the first

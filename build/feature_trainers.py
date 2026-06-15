@@ -6,8 +6,11 @@
    (early trainers skew to +1, later trainers to +3), capped at 6.
 
 All processed trainers are rewritten as structType 3 (held item + 4 custom moves) in fresh free space.
+Every generated move is filtered through learnset.Learnset so a mon never gets a move outside its real
+Gen-9 learnset (e.g. the rival's Bulbasaur can no longer roll Thunder Shock as coverage).
 """
-import gamedata
+import gamedata, learnset
+from feature_bosses import FIRST_RIVAL_IDS
 
 TR_STRIDE=40; ELS={0:8,1:16,2:8,3:16}
 BOSS_IDS={348,349,350,410,411,412,413,414,415,416,417,418,419,420,
@@ -83,7 +86,7 @@ def _cap(level):
     if level<=55: return 120
     return 999
 
-def build_moveset(M, rom, species, level, boss=False):
+def build_moveset(M, rom, species, level, boss=False, L=None):
     st=gamedata.stats(rom,species)
     t1=_canon_type(gamedata.type_name(rom,st["t1"]))
     t2=_canon_type(gamedata.type_name(rom,st["t2"]))
@@ -91,9 +94,11 @@ def build_moveset(M, rom, species, level, boss=False):
     montypes={t1,t2}
     pref = 0 if st["atk"] >= st["spa"] else 1   # 0 phys, 1 spec
     cap=_cap(level)
+    legal = L.legal(species) if L is not None else None   # restrict every pick to the real learnset
+    def ok(mid): return legal is None or mid in legal
     moves=[]
     def best_from(pool_names, want_cat=None):
-        cands=[c for c in M.resolve_pool(pool_names) if 0<c[1]<=cap and c[0] not in moves]
+        cands=[c for c in M.resolve_pool(pool_names) if 0<c[1]<=cap and c[0] not in moves and ok(c[0])]
         if want_cat is not None:
             cands=[c for c in cands if c[2]==want_cat] or cands
         cands.sort(key=lambda c:c[1], reverse=True)
@@ -114,7 +119,7 @@ def build_moveset(M, rom, species, level, boss=False):
     if boss and level>=30 and len(moves)>=3:
         for nm in (BOOST_PHYS if pref==0 else BOOST_SPEC)+STATUS:
             mid=M.id(nm)
-            if mid is not None and mid not in moves:
+            if mid is not None and mid not in moves and ok(mid):
                 moves=moves[:3]+[mid]; break
     # 4) fill to 4 distinct, level-appropriate moves
     if len(moves)<4:
@@ -122,13 +127,27 @@ def build_moveset(M, rom, species, level, boss=False):
         for nm in pool:
             if len(moves)>=4: break
             mid=M.id(nm)
-            if mid is not None and mid not in moves and 0<M.stat(mid)["power"]<=cap:
+            if mid is not None and mid not in moves and ok(mid) and 0<M.stat(mid)["power"]<=cap:
                 moves.append(mid)
-    # 5) absolute last resort: distinct weak moves
-    for nm in ["Quick Attack","Tackle","Scratch","Pound","Ember","Water Gun"]:
-        if len(moves)>=4: break
-        mid=M.id(nm)
-        if mid is not None and mid not in moves: moves.append(mid)
+    # 5) last resort: pad from the mon's OWN level-up learnset (always legal)
+    if len(moves)<4 and L is not None:
+        for mid in L.fallback_moves(species, level):
+            if len(moves)>=4: break
+            if mid not in moves: moves.append(mid)
+    # 6) movepool-starved mon (e.g. low-level Abra): fill remaining slots with other legal moves so we
+    #    get 4 DISTINCT legal moves instead of repeating one. Stay level-appropriate: damaging moves
+    #    within the power cap first, then status moves, then (only if truly stuck) anything legal.
+    if len(moves)<4 and legal is not None:
+        by_power=sorted(legal, key=lambda x:M.stat(x)["power"], reverse=True)
+        def fill_from(pred):
+            for mid in by_power:
+                if len(moves)>=4: break
+                if mid not in moves and pred(M.stat(mid)["power"]): moves.append(mid)
+        fill_from(lambda p: 0<p<=cap)   # damaging, level-appropriate
+        fill_from(lambda p: p==0)       # status (Calm Mind, Light Screen, Thunder Wave, ...)
+        fill_from(lambda p: True)       # absolute last resort: any legal move
+    if not moves:   # mon with no usable learnset at all (shouldn't happen) -> a guaranteed-legal Tackle
+        mid=M.id("Tackle"); moves.append(mid if mid is not None else 1)
     while len(moves)<4: moves.append(moves[0])
     return moves[:4]
 
@@ -182,6 +201,7 @@ def _addcount(level, salt):
 import struct
 def apply(rom, verbose=True):
     M=Moves(rom)
+    L=learnset.Learnset(rom)
     by_type=build_add_pool(rom)
     TR=rom.tables["data.trainers.stats"]["addr"]
     def read_team(o):
@@ -196,6 +216,9 @@ def apply(rom, verbose=True):
         return st,cnt,team
     nproc=0; nadded=0; nmoves=0
     for tid in range(1,743):
+        # The first rival fight (Oak's Lab, right after the starter pick) is left untouched so it keeps
+        # feature_bosses' auto-generated level-up-only moveset: an easy, fully-legal opener.
+        if tid in FIRST_RIVAL_IDS: continue
         o=TR+tid*TR_STRIDE
         st,cnt,team=read_team(o)
         if not team: continue
@@ -224,7 +247,7 @@ def apply(rom, verbose=True):
         team.sort(key=lambda t:t[1])   # weakest first, ace (highest level) last
         for idx,(iv,lv,sp,item) in enumerate(team):
             is_ace = is_boss and idx==len(team)-1
-            mv=build_moveset(M, rom, sp, lv, boss=(is_boss and (is_ace or lv>=40)))
+            mv=build_moveset(M, rom, sp, lv, boss=(is_boss and (is_ace or lv>=40)), L=L)
             new_iv = 255 if is_boss else 100
             blob += struct.pack("<HHHH", new_iv, lv, sp, item)
             blob += struct.pack("<HHHH", mv[0],mv[1],mv[2],mv[3])

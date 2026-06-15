@@ -112,7 +112,7 @@ def _line(tok, v):   # 'C'/'D' resolve to the variant's two non-starter core typ
 # Early fights carry a throwaway "early bird" (Pidgey->Pidgeotto) for an extra body; he drops it at Silph Co
 # once the pseudo-legendary joins, then evolves the rest toward the final Champion team.
 RIVAL_SCHEDULE = [
-  ([326,327,328], 0, 5,  []),                                                                 # Oak's Lab (starter only)
+  ([326,327,328], 0, 5,  []),                                                                 # Oak's Lab (starter only) -> FIRST_RIVAL_IDS
   ([329,330,331], 0, 10, [("bird",9),("psy",8)]),                                             # Route 22 #1
   ([332,333,334], 0, 17, [("bird",15),("psy",14),("ghost",15)]),                              # Cerulean
   ([426,427,428], 1, 23, [("bird",19),("psy",18),("ghost",20),("C",20)]),                     # S.S. Anne
@@ -120,6 +120,10 @@ RIVAL_SCHEDULE = [
   ([432,433,434], 2, 42, [("psy",37),("ghost",38),("C",38),("D",39),("pseudo",38)]),          # Silph Co (bird dropped, full 6)
   ([435,436,437], 2, 54, [("psy",48),("ghost",48),("C",49),("D",49),("pseudo",50)]),          # Route 22 #2
 ]
+
+# The very first rival fight (right after picking the starter, Oak's Lab). Kept deliberately easy:
+# feature_trainers leaves these alone so they keep their auto-generated level-up-only moveset.
+FIRST_RIVAL_IDS = set(RIVAL_SCHEDULE[0][0])
 
 def rival_defs():
     out=[]
