@@ -41,6 +41,10 @@ def main():
     except ImportError:
         print("--- Feature 4: (feature_hms not present yet) ---")
 
+    import feature_pallet_grass
+    print("--- Pallet grass gate: bottom-left grass also triggers the Oak-to-lab scene ---")
+    feature_pallet_grass.apply(rom)
+
     rom.save(OUT_ROM)
     print("[build] wrote", OUT_ROM)
 
