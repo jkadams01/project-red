@@ -16,6 +16,10 @@ def main():
 
     rom = romlib.Rom(OUT_ROM)
 
+    import feature_evofix
+    print("--- Evo fix: replace impossible trade evolutions with level-up / item evolutions ---")
+    feature_evofix.apply(rom)
+
     import feature_towngrass, feature_wild, feature_bosses, feature_trainers
     print("--- Town grass: add grass + encounter tables to cities/towns ---")
     feature_towngrass.apply(rom)
@@ -44,6 +48,10 @@ def main():
     import feature_pallet_grass
     print("--- Pallet grass gate: bottom-left grass also triggers the Oak-to-lab scene ---")
     feature_pallet_grass.apply(rom)
+
+    import feature_celadon_evoshop
+    print("--- Celadon evo shop: NPC outside the PC sells all evolution items @1000 ---")
+    feature_celadon_evoshop.apply(rom)
 
     rom.save(OUT_ROM)
     print("[build] wrote", OUT_ROM)
