@@ -68,9 +68,16 @@ that already contains all Gen 1–9 species/moves/abilities/forms — *not* the 
   generated move is filtered through `learnset.Learnset` so a mon never gets a move outside its real
   Gen-9 learnset. **Exception:** the first rival fight (`feature_bosses.FIRST_RIVAL_IDS`, Oak's Lab right
   after the starter pick) is skipped, so it keeps `feature_bosses`' easy level-up-only (structType 2) team.
-- `learnset.py` — parses the ROM's own learnset tables (level-up + TM/HM-compat + tutor-compat + egg, the
-  last inherited up the evo line) into a per-species set of legal move ids; `feature_trainers` filters
-  against it and falls back to the mon's actual level-up moves when a curated pick isn't legal.
+- `learnset.py` — per-species **real Gen-9** legal-move sets, loaded from `gen9_legal.py`; `feature_trainers`
+  filters every pick against it (falling back to the mon's actual ROM level-up moves). NOTE: the ROM's *own*
+  TM/tutor compatibility tables are broad/older-gen and **not** Gen-9-accurate (they let Abra "learn" Sand
+  Tomb / Dual Chop / Charge Beam), so we do not use them.
+- `gen9_gen.py` / `gen9_legal.py` — `gen9_gen.py` builds the vendored `gen9_legal.py` (species idx → legal
+  move ids) from Pokémon Showdown's learnset dataset: each species' latest-generation learnset (Gen 9 for
+  SV mons, else its most recent gen) matched by name to this ROM's moves, ∪ the ROM's level-up moves. Run
+  `curl -L -o build/_sd_learnsets.json https://play.pokemonshowdown.com/data/learnsets.json` then
+  `py gen9_gen.py --write` to regenerate (the `_sd_learnsets.json` download is gitignored; `gen9_legal.py`
+  is committed so the build is offline-reproducible).
 - `feature_megastones.py` — scatters Mega Stones by repointing low-value overworld item balls (preserving
   each ball's pickup flag) and gives the player the Mega Ring via the new-game bedroom PC (`scripts.newgame.pc.item`).
 - `feature_starterregion.py` — lets the player choose which **region's** starters to pick from at the first

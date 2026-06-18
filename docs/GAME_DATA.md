@@ -3732,82 +3732,82 @@ starter YOU chose (he takes the one with the type advantage).
 - **Rockruff** Lv12  @Sitrus Berry — Rock Tomb, Fire Fang, Sucker Punch, Bulldoze
 - **Nacli** Lv12  @Sitrus Berry — Rock Throw, Bulldoze, AncientPower, Headbutt
 - **Rolycoly** Lv13  @Sitrus Berry — Rock Tomb, Gyro Ball, Bulldoze, AncientPower
-- **Larvitar** Lv13  @Sitrus Berry — Rock Tomb, Bulldoze, Bite, AncientPower
-- **Onix** Lv14  @Sitrus Berry — Rock Tomb, Bulldoze, Icy Wind, Gyro Ball
+- **Larvitar** Lv13  @Sitrus Berry — Rock Tomb, Bulldoze, Bite, Rock Throw
+- **Onix** Lv14  @Sitrus Berry — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
 - **Aerodactyl** Lv16  @Aerodactlite — Rock Tomb, Wing Attack, Steel Wing, Bulldoze
 
 ### LEADER MISTY  *(trainer #415)*
-- **Marill** Lv18  @Sitrus Berry — Bubble Beam, Bulldoze, Icy Wind, Water Gun
-- **Chinchou** Lv18  @Sitrus Berry — Bubble Beam, Volt Switch, Icy Wind, Water Gun
-- **Wooper** Lv19  @Sitrus Berry — Waterfall, Dig, Rock Slide, Aura Sphere
-- **Buizel** Lv19  @Sitrus Berry — Waterfall, Rock Tomb, Crunch, Brick Break
-- **Starmie** Lv20  @Sitrus Berry — Scald, Psyshock, Avalanche, Flash Cannon
-- **Gyarados** Lv22  @Gyaradosite — Waterfall, Bulldoze, Ice Punch, Rock Blast
+- **Marill** Lv18  @Sitrus Berry — Bubble Beam, Knock Off, Bulldoze, Icy Wind
+- **Chinchou** Lv18  @Sitrus Berry — Bubble Beam, Volt Switch, Sucker Punch, Icy Wind
+- **Wooper** Lv19  @Sitrus Berry — Liquidation, Dig, Rock Slide, Avalanche
+- **Buizel** Lv19  @Sitrus Berry — Liquidation, Rock Tomb, Crunch, Brick Break
+- **Starmie** Lv20  @Sitrus Berry — Scald, Psyshock, Icy Wind, Power Gem
+- **Gyarados** Lv22  @Gyaradosite — Waterfall, Iron Head, Bulldoze, Avalanche
 
 ### LEADER LT. SURGE  *(trainer #416)*
-- **Magnemite** Lv21  @Sitrus Berry — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Electrike** Lv21  @Sitrus Berry — Discharge, Fire Fang, Crunch, Liquidation
-- **Blitzle** Lv22  @Sitrus Berry — Spark, Iron Head, Volt Switch, Discharge
-- **Pikachu** Lv22  @Sitrus Berry — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Manectric** Lv24  @Manectite — Discharge, Power Gem, Fire Fang, Crunch
-- **Raichu** Lv25  @Leftovers — Volt Switch, Brick Break, Dig, ThunderShock
+- **Magnemite** Lv21  @Sitrus Berry — Discharge, Flash Cannon, ThunderShock, Spark
+- **Electrike** Lv21  @Sitrus Berry — Discharge, Fire Fang, Crunch, Spark
+- **Blitzle** Lv22  @Sitrus Berry — Spark, Volt Switch, Discharge, Pursuit
+- **Pikachu** Lv22  @Sitrus Berry — ThunderPunch, Knock Off, Brick Break, Dig
+- **Manectric** Lv24  @Manectite — Discharge, Fire Fang, Crunch, Spark
+- **Raichu** Lv25  @Leftovers — Discharge, Knock Off, Brick Break, Dig
 
 ### LEADER ERIKA  *(trainer #417)*
-- **Petilil** Lv26  @Sitrus Berry — Giga Drain, Liquidation, Iron Head, Mega Drain
-- **Cottonee** Lv26  @Sitrus Berry — Giga Drain, Fairy Wind, Rock Blast, Mega Drain
-- **Fomantis** Lv27  @Sitrus Berry — Razor Leaf, Liquidation, Giga Drain, Leaf Blade
-- **Bellsprout** Lv28  @Sitrus Berry — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Vileplume** Lv28  @Sitrus Berry — Giga Drain, Air Slash, Ice Punch, Power Gem
+- **Petilil** Lv26  @Sitrus Berry — Giga Drain, Mega Drain, Seed Bomb, Stun Spore
+- **Cottonee** Lv26  @Sitrus Berry — Giga Drain, Fairy Wind, Mega Drain, Razor Leaf
+- **Fomantis** Lv27  @Sitrus Berry — Seed Bomb, Razor Leaf, Giga Drain, Leaf Blade
+- **Bellsprout** Lv28  @Sitrus Berry — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Vileplume** Lv28  @Sitrus Berry — Giga Drain, Acid, Mega Drain, Seed Bomb
 - **Venusaur** Lv30  @Venusaurite — Energy Ball, Sludge Bomb, Knock Off, Toxic
 
 ### LEADER KOGA  *(trainer #418)*
-- **Crobat** Lv36  @Sitrus Berry — Cross Poison, Wing Attack, ThunderPunch, Power Gem
-- **Skuntank** Lv36  @Sitrus Berry — Poison Jab, Foul Play, Aqua Tail, Iron Tail
-- **Toxicroak** Lv37  @Sitrus Berry — Poison Jab, Brick Break, Stone Edge, Sucker Punch
-- **Garbodor** Lv38  @Sitrus Berry — Sludge Wave, Giga Drain, Thunderbolt, Rock Blast
-- **Weezing** Lv39  @Sitrus Berry — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Beedrill** Lv41  @Beedrillite — X-Scissor, Gunk Shot, Brick Break, Swords Dance
+- **Crobat** Lv36  @Sitrus Berry — Cross Poison, Wing Attack, Heat Wave, Crunch
+- **Skuntank** Lv36  @Sitrus Berry — Poison Jab, Foul Play, Dig, Flamethrower
+- **Toxicroak** Lv37  @Sitrus Berry — Poison Jab, Brick Break, Stone Edge, Foul Play
+- **Garbodor** Lv38  @Sitrus Berry — Cross Poison, Metal Claw, Seed Bomb, Thunderbolt
+- **Weezing** Lv39  @Sitrus Berry — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Beedrill** Lv41  @Beedrillite — X-Scissor, Poison Jab, Brick Break, Toxic
 
 ### LEADER SABRINA  *(trainer #420)*
-- **Espeon** Lv38  @Sitrus Berry — Psychic, Iron Tail, Mud-Slap, Confusion
-- **Gardevoir** Lv38  @Sitrus Berry — Psychic, Moonblast, Energy Ball, Thunderbolt
-- **Metang** Lv39  @Sitrus Berry — Meteor Mash, Zen Headbutt, Rock Slide, Fire Punch
-- **Gallade** Lv40  @Sitrus Berry — Psychic, Brick Break, Earthquake, Swords Dance
+- **Espeon** Lv38  @Sitrus Berry — Psychic, Bite, Mud-Slap, Power Gem
+- **Gardevoir** Lv38  @Sitrus Berry — Psychic, Moonblast, Energy Ball, Icy Wind
+- **Metang** Lv39  @Sitrus Berry — Meteor Mash, Zen Headbutt, Rock Slide, Brick Break
+- **Gallade** Lv40  @Sitrus Berry — Zen Headbutt, Brick Break, Earthquake, Swords Dance
 - **Gothitelle** Lv41  @Sitrus Berry — Future Sight, Dark Pulse, Brick Break, Calm Mind
 - **Alakazam** Lv43  @Alakazite — Future Sight, Foul Play, Drain Punch, Calm Mind
 
 ### LEADER BLAINE  *(trainer #419)*
-- **Magmar** Lv42  @Sitrus Berry — Fire Blast, Foul Play, Cross Chop, Toxic
-- **Ninetales** Lv42  @Sitrus Berry — Fire Blast, Dark Pulse, Iron Tail, Calm Mind
-- **Houndoom** Lv43  @Sitrus Berry — Dark Pulse, Fire Blast, Superpower, Nasty Plot
-- **Camerupt** Lv44  @Sitrus Berry — Fire Blast, Earth Power, Foul Play, Toxic
-- **Arcanine** Lv45  @Sitrus Berry — Fire Fang, Dig, Ice Punch, Toxic
-- **Charizard** Lv47  @CharzarditeY — Fire Blast, Air Slash, Crunch, Toxic
+- **Magmar** Lv42  @Sitrus Berry — Fire Blast, Knock Off, Brick Break, Will-O-Wisp
+- **Ninetales** Lv42  @Sitrus Berry — Fire Blast, Dark Pulse, Energy Ball, Calm Mind
+- **Houndoom** Lv43  @Sitrus Berry — Dark Pulse, Fire Blast, Mud-Slap, Nasty Plot
+- **Camerupt** Lv44  @Sitrus Berry — Fire Blast, Earth Power, Flash Cannon, Will-O-Wisp
+- **Arcanine** Lv45  @Sitrus Berry — Flare Blitz, Dig, Wild Charge, Will-O-Wisp
+- **Charizard** Lv47  @CharzarditeY — Fire Blast, Hurricane, Crunch, Will-O-Wisp
 
 ### LEADER GIOVANNI  *(trainer #350)*
-- **Dugtrio** Lv45  @Sitrus Berry — Earthquake, Stone Edge, Fire Punch, Swords Dance
-- **Sandslash** Lv45  @Sitrus Berry — Earthquake, Flare Blitz, Night Slash, Swords Dance
-- **Excadrill** Lv46  @Sitrus Berry — Earthquake, Metal Claw, Brick Break, Swords Dance
-- **Krookodile** Lv47  @Sitrus Berry — Earthquake, Foul Play, Brick Break, Bulk Up
-- **Garchomp** Lv48  @Garchompite — Dragon Rush, Earthquake, Crunch, Swords Dance
+- **Dugtrio** Lv45  @Sitrus Berry — Earthquake, Stone Edge, Foul Play, Swords Dance
+- **Sandslash** Lv45  @Sitrus Berry — Earthquake, Knock Off, Brick Break, Swords Dance
+- **Excadrill** Lv46  @Sitrus Berry — Earthquake, Iron Head, Brick Break, Swords Dance
+- **Krookodile** Lv47  @Sitrus Berry — Earthquake, Foul Play, Close Combat, Bulk Up
+- **Garchomp** Lv48  @Garchompite — Outrage, Earthquake, Crunch, Swords Dance
 - **Nidoking** Lv50  @Leftovers — Poison Jab, Earthquake, Iron Tail, Toxic
 
 
 ## Team Rocket (Giovanni)
 
 ### BOSS GIOVANNI  *(trainer #348)*
-- **Diglett** Lv24  @Sitrus Berry — Dig, Rock Slide, Fire Fang, Sucker Punch
+- **Diglett** Lv24  @Sitrus Berry — Dig, Rock Slide, Sucker Punch, Mud-Slap
 - **Sandshrew** Lv24  @Sitrus Berry — Dig, Rock Slide, Night Slash, Brick Break
-- **Mankey** Lv25  @Sitrus Berry — Brick Break, Aerial Ace, Dig, Rock Slide
+- **Mankey** Lv25  @Sitrus Berry — Brick Break, Seed Bomb, Dig, Ice Punch
 - **Drilbur** Lv25  @Sitrus Berry — Dig, Brick Break, Aerial Ace, Metal Claw
 - **Rhyhorn** Lv26  @Sitrus Berry — Dig, Rock Slide, Fire Fang, Crunch
-- **Nidorino** Lv28  @Leftovers — Poison Jab, Iron Head, Dig, Power Gem
+- **Nidorino** Lv28  @Leftovers — Poison Jab, Dig, Helping Hand, Horn Attack
 
 ### BOSS GIOVANNI  *(trainer #349)*
-- **Dugtrio** Lv36  @Sitrus Berry — Earthquake, Stone Edge, Fire Punch, Night Slash
-- **Marowak** Lv36  @Sitrus Berry — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Rhydon** Lv37  @Sitrus Berry — Earthquake, Stone Edge, Fire Punch, Play Rough
-- **Krookodile** Lv38  @Sitrus Berry — Earthquake, Foul Play, Brick Break, Aqua Tail
+- **Dugtrio** Lv36  @Sitrus Berry — Earthquake, Stone Edge, Foul Play, Mud-Slap
+- **Marowak** Lv36  @Sitrus Berry — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Rhydon** Lv37  @Sitrus Berry — Earthquake, Stone Edge, Fire Punch, Crunch
+- **Krookodile** Lv38  @Sitrus Berry — Earthquake, Foul Play, Brick Break, Aerial Ace
 - **Garchomp** Lv39  @Garchompite — Dragon Rush, Earthquake, Crunch, Brick Break
 - **Nidoking** Lv41  @Leftovers — Poison Jab, Earthquake, Iron Tail, Toxic
 
@@ -3815,70 +3815,70 @@ starter YOU chose (he takes the one with the type advantage).
 ## Elite Four
 
 ### ELITE FOUR LORELEI  *(trainer #410)*
-- **Cloyster** Lv52  @Sitrus Berry — Waterfall, Icicle Crash, Rock Blast, Toxic
-- **Dewgong** Lv52  @Sitrus Berry — Aqua Tail, Avalanche, Play Rough, Toxic
-- **Weavile** Lv53  @Sitrus Berry — Night Slash, Icicle Crash, Iron Tail, Swords Dance
-- **Mamoswine** Lv53  @Sitrus Berry — Icicle Crash, Earthquake, Seed Bomb, Toxic
-- **Glalie** Lv54  @Glalitite — Icicle Crash, Earthquake, Fire Fang, Toxic
-- **Lapras** Lv56  @Leftovers — Waterfall, Avalanche, Bulldoze, Dragon Dance
+- **Cloyster** Lv52  @Sitrus Berry — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Dewgong** Lv52  @Sitrus Berry — Aqua Tail, Avalanche, Play Rough, Knock Off
+- **Weavile** Lv53  @Sitrus Berry — Foul Play, Ice Punch, Metal Claw, Swords Dance
+- **Mamoswine** Lv53  @Sitrus Berry — Avalanche, Earthquake, Iron Head, Stone Edge
+- **Glalie** Lv54  @Glalitite — Avalanche, Earthquake, Foul Play, Iron Head
+- **Lapras** Lv56  @Leftovers — Liquidation, Avalanche, Earthquake, Dragon Dance
 
 ### ELITE FOUR BRUNO  *(trainer #411)*
-- **Hitmonlee** Lv52  @Sitrus Berry — Close Combat, Bullet Punch, Earthquake, Bulk Up
-- **Hitmonchan** Lv53  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
+- **Hitmonlee** Lv52  @Sitrus Berry — Close Combat, Earthquake, Stone Edge, Swords Dance
+- **Hitmonchan** Lv53  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Swords Dance
 - **Hariyama** Lv53  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
-- **Conkeldurr** Lv54  @Sitrus Berry — Superpower, Earthquake, ThunderPunch, Dragon Dance
+- **Conkeldurr** Lv54  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
 - **Lucario** Lv55  @Lucarionite — Aura Sphere, Flash Cannon, Aerial Ace, Calm Mind
-- **Machamp** Lv57  @Leftovers — Cross Chop, Muddy Water, Bullet Punch, Bulk Up
+- **Machamp** Lv57  @Leftovers — Close Combat, Earthquake, Ice Punch, Bulk Up
 
 ### ELITE FOUR AGATHA  *(trainer #412)*
-- **Haunter** Lv53  @Sitrus Berry — Shadow Ball, Sludge Wave, Hurricane, Toxic
+- **Haunter** Lv53  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
 - **Mismagius** Lv54  @Sitrus Berry — Shadow Ball, Thunder, Power Gem, Calm Mind
-- **Dusknoir** Lv54  @Sitrus Berry — PhantomForce, ThunderPunch, Rock Slide, Toxic
+- **Dusknoir** Lv54  @Sitrus Berry — PhantomForce, ThunderPunch, Rock Slide, Will-O-Wisp
 - **Chandelure** Lv55  @Sitrus Berry — Shadow Ball, Fire Blast, Dark Pulse, Calm Mind
-- **Mimikyu** Lv56  @Sitrus Berry — Shadow Claw, Play Rough, Giga Drain, Swords Dance
-- **Gengar** Lv58  @Gengarite — Shadow Ball, Sludge Wave, Energy Ball, Toxic
+- **Mimikyu** Lv56  @Sitrus Berry — PhantomForce, Play Rough, Giga Drain, Swords Dance
+- **Gengar** Lv58  @Gengarite — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
 
 ### ELITE FOUR LANCE  *(trainer #413)*
-- **Gyarados** Lv55  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Aerodactyl** Lv55  @Sitrus Berry — Stone Edge, Wing Attack, Iron Tail, Toxic
-- **Garchomp** Lv56  @Sitrus Berry — Dragon Rush, Earthquake, Crunch, Swords Dance
-- **Hydreigon** Lv57  @Sitrus Berry — Dark Pulse, Dragon Pulse, Fire Blast, Toxic
-- **Salamence** Lv58  @Salamencite — Outrage, Aerial Ace, ThunderPunch, Dragon Dance
+- **Gyarados** Lv55  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Aerodactyl** Lv55  @Sitrus Berry — Stone Edge, Wing Attack, Iron Tail, Dragon Dance
+- **Garchomp** Lv56  @Sitrus Berry — Outrage, Earthquake, Crunch, Swords Dance
+- **Hydreigon** Lv57  @Sitrus Berry — Dark Pulse, Draco Meteor, Fire Blast, Nasty Plot
+- **Salamence** Lv58  @Salamencite — Outrage, Aerial Ace, Stone Edge, Dragon Dance
 - **Dragonite** Lv60  @Leftovers — Outrage, Wing Attack, Brick Break, Dragon Dance
 
 
 ## Elite Four (Rematch)
 
 ### ELITE FOUR LORELEI  *(trainer #735)*
-- **Cloyster** Lv62  @Sitrus Berry — Waterfall, Icicle Crash, Rock Blast, Toxic
-- **Walrein** Lv62  @Sitrus Berry — Blizzard, Surf, Iron Tail, Toxic
-- **Weavile** Lv63  @Sitrus Berry — Night Slash, Icicle Crash, Iron Tail, Swords Dance
-- **Mamoswine** Lv63  @Sitrus Berry — Icicle Crash, Earthquake, Seed Bomb, Toxic
-- **Glalie** Lv64  @Glalitite — Icicle Crash, Earthquake, Fire Fang, Toxic
-- **Lapras** Lv66  @Leftovers — Waterfall, Avalanche, Bulldoze, Dragon Dance
+- **Cloyster** Lv62  @Sitrus Berry — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Walrein** Lv62  @Sitrus Berry — Blizzard, Hydro Pump, Iron Tail, Earthquake
+- **Weavile** Lv63  @Sitrus Berry — Foul Play, Ice Punch, Metal Claw, Swords Dance
+- **Mamoswine** Lv63  @Sitrus Berry — Avalanche, Earthquake, Iron Head, Stone Edge
+- **Glalie** Lv64  @Glalitite — Avalanche, Earthquake, Foul Play, Iron Head
+- **Lapras** Lv66  @Leftovers — Liquidation, Avalanche, Earthquake, Dragon Dance
 
 ### ELITE FOUR BRUNO  *(trainer #736)*
-- **Hitmonlee** Lv62  @Sitrus Berry — Close Combat, Bullet Punch, Earthquake, Bulk Up
-- **Hitmonchan** Lv63  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
+- **Hitmonlee** Lv62  @Sitrus Berry — Close Combat, Earthquake, Stone Edge, Swords Dance
+- **Hitmonchan** Lv63  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Swords Dance
 - **Hariyama** Lv63  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
-- **Conkeldurr** Lv64  @Sitrus Berry — Superpower, Earthquake, ThunderPunch, Dragon Dance
+- **Conkeldurr** Lv64  @Sitrus Berry — Close Combat, Earthquake, Ice Punch, Bulk Up
 - **Lucario** Lv65  @Lucarionite — Aura Sphere, Flash Cannon, Aerial Ace, Calm Mind
-- **Machamp** Lv67  @Leftovers — Cross Chop, Muddy Water, Bullet Punch, Bulk Up
+- **Machamp** Lv67  @Leftovers — Close Combat, Earthquake, Ice Punch, Bulk Up
 
 ### ELITE FOUR AGATHA  *(trainer #737)*
-- **Crobat** Lv63  @Sitrus Berry — Cross Poison, Brave Bird, ThunderPunch, Dragon Dance
+- **Crobat** Lv63  @Sitrus Berry — Cross Poison, Brave Bird, Heat Wave, Toxic
 - **Mismagius** Lv64  @Sitrus Berry — Shadow Ball, Thunder, Power Gem, Calm Mind
-- **Dusknoir** Lv64  @Sitrus Berry — PhantomForce, ThunderPunch, Rock Slide, Toxic
+- **Dusknoir** Lv64  @Sitrus Berry — PhantomForce, ThunderPunch, Rock Slide, Will-O-Wisp
 - **Chandelure** Lv65  @Sitrus Berry — Shadow Ball, Fire Blast, Dark Pulse, Calm Mind
-- **Mimikyu** Lv66  @Sitrus Berry — Shadow Claw, Play Rough, Giga Drain, Swords Dance
-- **Gengar** Lv68  @Gengarite — Shadow Ball, Sludge Wave, Energy Ball, Toxic
+- **Mimikyu** Lv66  @Sitrus Berry — PhantomForce, Play Rough, Giga Drain, Swords Dance
+- **Gengar** Lv68  @Gengarite — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
 
 ### ELITE FOUR LANCE  *(trainer #738)*
-- **Gyarados** Lv65  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Garchomp** Lv65  @Sitrus Berry — Dragon Rush, Earthquake, Crunch, Swords Dance
-- **Hydreigon** Lv66  @Sitrus Berry — Dark Pulse, Dragon Pulse, Fire Blast, Toxic
-- **Dragapult** Lv67  @Sitrus Berry — Dragon Rush, PhantomForce, Power Gem, Dragon Dance
-- **Salamence** Lv68  @Salamencite — Outrage, Aerial Ace, ThunderPunch, Dragon Dance
+- **Gyarados** Lv65  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Garchomp** Lv65  @Sitrus Berry — Outrage, Earthquake, Crunch, Swords Dance
+- **Hydreigon** Lv66  @Sitrus Berry — Dark Pulse, Draco Meteor, Fire Blast, Nasty Plot
+- **Dragapult** Lv67  @Sitrus Berry — Outrage, PhantomForce, Fire Blast, Dragon Dance
+- **Salamence** Lv68  @Salamencite — Outrage, Aerial Ace, Stone Edge, Dragon Dance
 - **Dragonite** Lv70  @Leftovers — Outrage, Wing Attack, Brick Break, Dragon Dance
 
 
@@ -3886,54 +3886,54 @@ starter YOU chose (he takes the one with the type advantage).
 
 ### CHAMPION TERRY  *(trainer #438)*
 - **Alakazam** Lv57  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Arcanine** Lv59  @Sitrus Berry — Fire Fang, Dig, Ice Punch, Toxic
-- **Exeggutor** Lv60  @Sitrus Berry — Leaf Storm, Psychic, Liquidation, Calm Mind
-- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
-- **Blastoise** Lv63  @Blastoisnite — Hydro Pump, Flash Cannon, Leaf Storm, Toxic
+- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Arcanine** Lv59  @Sitrus Berry — Flare Blitz, Dig, Wild Charge, Will-O-Wisp
+- **Exeggutor** Lv60  @Sitrus Berry — Leaf Storm, Future Sight, Earthquake, Calm Mind
+- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
+- **Blastoise** Lv63  @Blastoisnite — Hydro Pump, Flash Cannon, Earthquake, Blizzard
 
 ### CHAMPION TERRY  *(trainer #439)*
 - **Alakazam** Lv57  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Arcanine** Lv59  @Sitrus Berry — Fire Fang, Dig, Ice Punch, Toxic
-- **Gyarados** Lv60  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
+- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Arcanine** Lv59  @Sitrus Berry — Flare Blitz, Dig, Wild Charge, Will-O-Wisp
+- **Gyarados** Lv60  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
 - **Venusaur** Lv63  @Venusaurite — Leaf Storm, Sludge Bomb, Knock Off, Toxic
 
 ### CHAMPION TERRY  *(trainer #440)*
 - **Alakazam** Lv57  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Exeggutor** Lv59  @Sitrus Berry — Leaf Storm, Psychic, Liquidation, Calm Mind
-- **Gyarados** Lv60  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
-- **Charizard** Lv63  @CharzarditeX — Fire Blast, Air Slash, Crunch, Toxic
+- **Gengar** Lv59  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Exeggutor** Lv59  @Sitrus Berry — Leaf Storm, Future Sight, Earthquake, Calm Mind
+- **Gyarados** Lv60  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Tyranitar** Lv61  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
+- **Charizard** Lv63  @CharzarditeX — Fire Blast, Hurricane, Crunch, Will-O-Wisp
 
 
 ## Champion (Rematch)
 
 ### CHAMPION TERRY  *(trainer #739)*
 - **Alakazam** Lv72  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Arcanine** Lv73  @Sitrus Berry — Fire Fang, Dig, Ice Punch, Toxic
-- **Exeggutor** Lv73  @Sitrus Berry — Leaf Storm, Psychic, Liquidation, Calm Mind
-- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
-- **Blastoise** Lv75  @Blastoisnite — Hydro Pump, Flash Cannon, Leaf Storm, Toxic
+- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Arcanine** Lv73  @Sitrus Berry — Flare Blitz, Dig, Wild Charge, Will-O-Wisp
+- **Exeggutor** Lv73  @Sitrus Berry — Leaf Storm, Future Sight, Earthquake, Calm Mind
+- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
+- **Blastoise** Lv75  @Blastoisnite — Hydro Pump, Flash Cannon, Earthquake, Blizzard
 
 ### CHAMPION TERRY  *(trainer #740)*
 - **Alakazam** Lv72  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Arcanine** Lv73  @Sitrus Berry — Fire Fang, Dig, Ice Punch, Toxic
-- **Gyarados** Lv73  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
+- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Arcanine** Lv73  @Sitrus Berry — Flare Blitz, Dig, Wild Charge, Will-O-Wisp
+- **Gyarados** Lv73  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
 - **Venusaur** Lv75  @Venusaurite — Leaf Storm, Sludge Bomb, Knock Off, Toxic
 
 ### CHAMPION TERRY  *(trainer #741)*
 - **Alakazam** Lv72  @Sitrus Berry — Future Sight, Foul Play, Drain Punch, Calm Mind
-- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Toxic
-- **Exeggutor** Lv73  @Sitrus Berry — Leaf Storm, Psychic, Liquidation, Calm Mind
-- **Gyarados** Lv73  @Sitrus Berry — Aqua Tail, Hurricane, Iron Tail, Dragon Dance
-- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Crunch, Aqua Tail, Dragon Dance
-- **Charizard** Lv75  @CharzarditeX — Fire Blast, Air Slash, Crunch, Toxic
+- **Gengar** Lv72  @Sitrus Berry — Shadow Ball, Sludge Wave, Energy Ball, Nasty Plot
+- **Exeggutor** Lv73  @Sitrus Berry — Leaf Storm, Future Sight, Earthquake, Calm Mind
+- **Gyarados** Lv73  @Sitrus Berry — Aqua Tail, Hurricane, Iron Head, Dragon Dance
+- **Tyranitar** Lv73  @Sitrus Berry — Stone Edge, Foul Play, Hydro Pump, Dragon Dance
+- **Charizard** Lv75  @CharzarditeX — Fire Blast, Hurricane, Crunch, Will-O-Wisp
 
 
 ## Rival
@@ -3948,130 +3948,130 @@ starter YOU chose (he takes the one with the type advantage).
 - **Charmander** Lv5 — Growl, Scratch, Ember, Smokescreen
 
 ### RIVAL TERRY  *(trainer #329)*
-- **Abra** Lv8 — Teleport, Charge Beam, Dual Chop, Sand Tomb
-- **Pidgey** Lv9 — Tackle, Return, Gust, Sand Attack
-- **Squirtle** Lv10 — Water Gun, Gyro Ball, Withdraw, Tail Whip
+- **Abra** Lv8 — Confusion, Teleport, Snore, Fling
+- **Pidgey** Lv9 — Tackle, Gust, Sand Attack, Quick Attack
+- **Squirtle** Lv10 — Water Gun, Gyro Ball, Icy Wind, Withdraw
 
 ### RIVAL TERRY  *(trainer #330)*
-- **Abra** Lv8 — Teleport, Charge Beam, Dual Chop, Sand Tomb
-- **Pidgey** Lv9 — Tackle, Return, Gust, Sand Attack
+- **Abra** Lv8 — Confusion, Teleport, Snore, Fling
+- **Pidgey** Lv9 — Tackle, Gust, Sand Attack, Quick Attack
 - **Bulbasaur** Lv10 — Razor Leaf, Vine Whip, Leech Seed, Growl
 
 ### RIVAL TERRY  *(trainer #331)*
-- **Abra** Lv8 — Teleport, Charge Beam, Dual Chop, Sand Tomb
-- **Pidgey** Lv9 — Tackle, Return, Gust, Sand Attack
+- **Abra** Lv8 — Confusion, Teleport, Snore, Fling
+- **Pidgey** Lv9 — Tackle, Gust, Sand Attack, Quick Attack
 - **Charmander** Lv10 — Ember, Metal Claw, Smokescreen, Growl
 
 ### RIVAL TERRY  *(trainer #332)*
-- **Abra** Lv14 — Knock Off, Teleport, Facade, Secret Power
-- **Pidgey** Lv15 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Gastly** Lv15 — Hex, Sucker Punch, Lick, Astonish
-- **Squirtle** Lv17 — Water Gun, Gyro Ball, Rock Tomb, Fire Fang
+- **Abra** Lv14 — Confusion, Teleport, Facade, Headbutt
+- **Pidgey** Lv15 — Tackle, Wing Attack, Quick Attack, Gust
+- **Gastly** Lv15 — Hex, Icy Wind, Sucker Punch, Lick
+- **Squirtle** Lv17 — Water Gun, Gyro Ball, Icy Wind, Bite
 
 ### RIVAL TERRY  *(trainer #333)*
-- **Abra** Lv14 — Knock Off, Teleport, Facade, Secret Power
-- **Pidgey** Lv15 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Gastly** Lv15 — Hex, Sucker Punch, Lick, Astonish
-- **Bulbasaur** Lv17 — Razor Leaf, Sludge, Vine Whip, Take Down
+- **Abra** Lv14 — Confusion, Teleport, Facade, Headbutt
+- **Pidgey** Lv15 — Tackle, Wing Attack, Quick Attack, Gust
+- **Gastly** Lv15 — Hex, Icy Wind, Sucker Punch, Lick
+- **Bulbasaur** Lv17 — Razor Leaf, Knock Off, Vine Whip, Take Down
 
 ### RIVAL TERRY  *(trainer #334)*
-- **Abra** Lv14 — Knock Off, Teleport, Facade, Secret Power
-- **Pidgey** Lv15 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Gastly** Lv15 — Hex, Sucker Punch, Lick, Astonish
-- **Charmander** Lv17 — Ember, Bite, Air Cutter, Metal Claw
+- **Abra** Lv14 — Confusion, Teleport, Facade, Headbutt
+- **Pidgey** Lv15 — Tackle, Wing Attack, Quick Attack, Gust
+- **Gastly** Lv15 — Hex, Icy Wind, Sucker Punch, Lick
+- **Charmander** Lv17 — Ember, Bite, Metal Claw, AncientPower
 
 ### RIVAL TERRY  *(trainer #426)*
-- **Kadabra** Lv18 — Psybeam, Knock Off, Confusion, Disable
-- **Pidgeotto** Lv19 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Growlithe** Lv20 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Wartortle** Lv23 — Scald, Gyro Ball, Seed Bomb, Dig
+- **Kadabra** Lv18 — Psybeam, Confusion, Disable, Teleport
+- **Pidgeotto** Lv19 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Growlithe** Lv20 — Fire Fang, Dig, Crunch, Ember
+- **Wartortle** Lv23 — Water Gun, Gyro Ball, Dig, Icy Wind
 
 ### RIVAL TERRY  *(trainer #427)*
-- **Kadabra** Lv18 — Psybeam, Knock Off, Confusion, Disable
-- **Pidgeotto** Lv19 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Growlithe** Lv20 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Ivysaur** Lv23 — Giga Drain, Sludge, Vine Whip, Razor Leaf
+- **Kadabra** Lv18 — Psybeam, Confusion, Disable, Teleport
+- **Pidgeotto** Lv19 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Growlithe** Lv20 — Fire Fang, Dig, Crunch, Ember
+- **Ivysaur** Lv23 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
 
 ### RIVAL TERRY  *(trainer #428)*
-- **Kadabra** Lv18 — Psybeam, Knock Off, Confusion, Disable
-- **Pidgeotto** Lv19 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Exeggcute** Lv20 — Giga Drain, Extrasensory, Crunch, Iron Head
-- **Charmeleon** Lv23 — Ember, Crunch, Brick Break, Air Cutter
+- **Kadabra** Lv18 — Psybeam, Confusion, Disable, Teleport
+- **Pidgeotto** Lv19 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Gastly** Lv20 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Exeggcute** Lv20 — Giga Drain, Psyshock, AncientPower, Mega Drain
+- **Charmeleon** Lv23 — Ember, Crunch, Brick Break, Dig
 
 ### RIVAL TERRY  *(trainer #429)*
-- **Kadabra** Lv25 — Psyshock, Fire Punch, Crunch, Drain Punch
-- **Exeggcute** Lv25 — Giga Drain, Extrasensory, Crunch, Iron Head
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Growlithe** Lv26 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Wartortle** Lv29 — Surf, Iron Tail, Seed Bomb, Dig
+- **Kadabra** Lv25 — Psyshock, Fire Punch, Drain Punch, Dig
+- **Exeggcute** Lv25 — Giga Drain, Psyshock, AncientPower, Mega Drain
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Growlithe** Lv26 — Fire Fang, Dig, Crunch, Ember
+- **Wartortle** Lv29 — Surf, Gyro Ball, Dig, Ice Beam
 
 ### RIVAL TERRY  *(trainer #430)*
-- **Kadabra** Lv25 — Psyshock, Fire Punch, Crunch, Drain Punch
-- **Gyarados** Lv25 — Waterfall, Bulldoze, Ice Punch, Rock Blast
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Growlithe** Lv26 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Ivysaur** Lv29 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
+- **Kadabra** Lv25 — Psyshock, Fire Punch, Drain Punch, Dig
+- **Gyarados** Lv25 — Waterfall, Iron Head, Bulldoze, Avalanche
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Growlithe** Lv26 — Fire Fang, Dig, Crunch, Ember
+- **Ivysaur** Lv29 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
 
 ### RIVAL TERRY  *(trainer #431)*
-- **Kadabra** Lv25 — Psyshock, Fire Punch, Crunch, Drain Punch
-- **Gyarados** Lv25 — Waterfall, Bulldoze, Ice Punch, Rock Blast
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Exeggcute** Lv26 — Giga Drain, Extrasensory, Crunch, Iron Head
-- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Air Cutter
+- **Kadabra** Lv25 — Psyshock, Fire Punch, Drain Punch, Dig
+- **Gyarados** Lv25 — Waterfall, Iron Head, Bulldoze, Avalanche
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Haunter** Lv26 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Exeggcute** Lv26 — Giga Drain, Psyshock, AncientPower, Mega Drain
+- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Dig
 
 ### RIVAL TERRY  *(trainer #432)*
-- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv38 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Arcanine** Lv38 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Exeggutor** Lv39 — Energy Ball, Psychic, Liquidation, Bulldoze
+- **Arcanine** Lv38 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Exeggutor** Lv39 — Energy Ball, Psychic, Earthquake, Mega Drain
 - **Blastoise** Lv42 — Hydro Pump, Flash Cannon, Earthquake, Blizzard
 
 ### RIVAL TERRY  *(trainer #433)*
-- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv38 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Arcanine** Lv38 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Gyarados** Lv39 — Aqua Tail, Iron Tail, Earthquake, Ice Punch
-- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Brave Bird
+- **Arcanine** Lv38 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Gyarados** Lv39 — Aqua Tail, Iron Head, Earthquake, Avalanche
+- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Earth Power
 
 ### RIVAL TERRY  *(trainer #434)*
-- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv37 — Psychic, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv38 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Exeggutor** Lv38 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Gyarados** Lv39 — Aqua Tail, Iron Tail, Earthquake, Ice Punch
-- **Charizard** Lv42 — Fire Blast, Air Slash, Crunch, Brick Break
+- **Exeggutor** Lv38 — Energy Ball, Psychic, Earthquake, Mega Drain
+- **Pupitar** Lv38 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Gyarados** Lv39 — Aqua Tail, Iron Head, Earthquake, Avalanche
+- **Charizard** Lv42 — Fire Blast, Hurricane, Crunch, Brick Break
 
 ### RIVAL TERRY  *(trainer #435)*
-- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv48 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Arcanine** Lv49 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Exeggutor** Lv49 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aqua Tail
+- **Arcanine** Lv49 — Flare Blitz, Dig, Wild Charge, Play Rough
+- **Exeggutor** Lv49 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aerial Ace
 - **Blastoise** Lv54 — Hydro Pump, Flash Cannon, Earthquake, Blizzard
 
 ### RIVAL TERRY  *(trainer #436)*
-- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv48 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Arcanine** Lv49 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Gyarados** Lv49 — Aqua Tail, Hurricane, Iron Tail, Earthquake
-- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Venusaur** Lv54 — Energy Ball, Sludge Bomb, Knock Off, Brave Bird
+- **Arcanine** Lv49 — Flare Blitz, Dig, Wild Charge, Play Rough
+- **Gyarados** Lv49 — Aqua Tail, Hurricane, Iron Head, Earthquake
+- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Venusaur** Lv54 — Energy Ball, Sludge Bomb, Knock Off, Earth Power
 
 ### RIVAL TERRY  *(trainer #437)*
-- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Liquidation
+- **Alakazam** Lv48 — Future Sight, Foul Play, Drain Punch, Iron Tail
 - **Gengar** Lv48 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Exeggutor** Lv49 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Gyarados** Lv49 — Aqua Tail, Hurricane, Iron Tail, Earthquake
-- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Charizard** Lv54 — Fire Blast, Air Slash, Crunch, Brick Break
+- **Exeggutor** Lv49 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **Gyarados** Lv49 — Aqua Tail, Hurricane, Iron Head, Earthquake
+- **Pupitar** Lv50 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Charizard** Lv54 — Fire Blast, Hurricane, Crunch, Brick Break
 
 
 ---
@@ -4083,641 +4083,641 @@ Total: 697 trainers.
 Every other fightable trainer in the game (not a boss/rival), with full teams and movesets.
 
 ### AQUA LEADER  *(trainer #1)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### TEAM AQUA  *(trainer #2)*
 - **Budew** Lv4 — Mega Drain, Razor Leaf, Growth, Absorb
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### TEAM AQUA  *(trainer #3)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### AROMA LADY  *(trainer #4)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### RUIN MANIAC  *(trainer #5)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### INTERVIEWER  *(trainer #6)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### TUBER  *(trainer #7)*
-- **Araquanid** Lv37 — Liquidation, X-Scissor, Seed Bomb, Ice Beam
+- **Araquanid** Lv37 — Liquidation, X-Scissor, Giga Drain, Ice Beam
 - **Starmie** Lv38 — Surf, Psychic, Ice Beam, Thunderbolt
-- **Beheeyem** Lv38 — Psychic, Energy Ball, Earth Power, Thunderbolt
-- **Slowbro** Lv38 — Surf, Psychic, Air Slash, Iron Tail
+- **Beheeyem** Lv38 — Psychic, Energy Ball, Thunderbolt, Rock Slide
+- **Slowbro** Lv38 — Surf, Psychic, Earthquake, Ice Beam
 
 ### TUBER  *(trainer #8)*
-- **Sigilyph** Lv37 — Psychic, Air Slash, ThunderPunch, AncientPower
+- **Sigilyph** Lv37 — Psychic, Air Slash, AncientPower, Heat Wave
 - **Starmie** Lv38 — Surf, Psychic, Ice Beam, Thunderbolt
 - **Sharpedo** Lv38 — Liquidation, Crunch, Earthquake, Avalanche
-- **Whiscash** Lv38 — Aqua Tail, Earthquake, Ice Beam, Spark
+- **Whiscash** Lv38 — Aqua Tail, Earthquake, Ice Beam, Stone Edge
 
 ### COOLTRAINER  *(trainer #9)*
 - **Toxel** Lv4 — Acid, Nuzzle, Teary Look, Growl
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### COOLTRAINER  *(trainer #10)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### HEX MANIAC  *(trainer #11)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### LADY  *(trainer #12)*
 - **Bellsprout** Lv4 — Razor Leaf, Acid, Vine Whip, Growth
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### BEAUTY  *(trainer #13)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### RICH BOY  *(trainer #14)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### POK?MANIAC  *(trainer #15)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### SWIMMER?  *(trainer #16)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### BLACK BELT  *(trainer #17)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### GUITARIST  *(trainer #18)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### KINDLER  *(trainer #19)*
-- **Nidoran?** Lv4 — Poison Fang, Rock Blast, Scratch, Growl
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Nidoran?** Lv4 — Poison Fang, Scratch, Growl, Tail Whip
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### CAMPER  *(trainer #20)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### BUG MANIAC  *(trainer #21)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### PSYCHIC  *(trainer #22)*
-- **Venonat** Lv4 — Struggle Bug, Poison Fang, Rock Blast, Foresight
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Venonat** Lv4 — Struggle Bug, Poison Fang, Foresight, Disable
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### PSYCHIC  *(trainer #23)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### GENTLEMAN  *(trainer #24)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### ELITE FOUR SIDNEY  *(trainer #25)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### ELITE FOUR PHOEBE  *(trainer #26)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### LEADER ROXANNE  *(trainer #27)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### LEADER BRAWLY  *(trainer #28)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### LEADER TATE&LIZA  *(trainer #29)*
-- **Foongus** Lv4 — Mega Drain, Rock Blast, Absorb, Growth
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Foongus** Lv4 — Mega Drain, Absorb, Growth, Astonish
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### SCHOOL KID  *(trainer #30)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### SCHOOL KID  *(trainer #31)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### SR. AND JR.  *(trainer #32)*
 - **Oddish** Lv4 — Mega Drain, Acid, Razor Leaf, Growth
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### POK?FAN  *(trainer #33)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### POK?FAN  *(trainer #34)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### EXPERT  *(trainer #35)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### EXPERT  *(trainer #36)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### YOUNGSTER  *(trainer #37)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### CHAMPION  *(trainer #38)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### FISHERMAN  *(trainer #39)*
 - **Gulpin** Lv4 — Mud-Slap, Pound, Yawn, Poison Gas
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### TRIATHLETE  *(trainer #40)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### TRIATHLETE  *(trainer #41)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### TRIATHLETE  *(trainer #42)*
-- **Stunky** Lv4 — Icy Wind, Poison Gas, Focus Energy, Scratch
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Stunky** Lv4 — Poison Gas, Focus Energy, Scratch, Screech
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### TRIATHLETE  *(trainer #43)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### TRIATHLETE  *(trainer #44)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### TRIATHLETE  *(trainer #45)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### DRAGON TAMER  *(trainer #46)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### BIRD KEEPER  *(trainer #47)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### NINJA BOY  *(trainer #48)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### BATTLE GIRL  *(trainer #49)*
 - **Bulbasaur** Lv4 — Razor Leaf, Vine Whip, Growl, Tackle
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### PARASOL LADY  *(trainer #50)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### SWIMMER?  *(trainer #51)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### PICNICKER  *(trainer #52)*
-- **Kakuna** Lv4 — Harden, Tail Slap, Attract, Magic Room
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Kakuna** Lv4 — Harden, Harden, Harden, Harden
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### TWINS  *(trainer #53)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### SAILOR  *(trainer #54)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### BOARDER  *(trainer #55)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### BOARDER  *(trainer #56)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### COLLECTOR  *(trainer #57)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### ?? TRAINER  *(trainer #58)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### ?? TRAINER  *(trainer #59)*
 - **Grimer** Lv4 — Mud-Slap, Harden, Poison Gas, Pound
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### ?? TRAINER  *(trainer #60)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### ?? TRAINER  *(trainer #61)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### ?? TRAINER  *(trainer #62)*
-- **Venipede** Lv4 — Pin Missile, Gyro Ball, Struggle Bug, Rollout
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Venipede** Lv4 — Pin Missile, Gyro Ball, Rollout, Defense Curl
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### ?? TRAINER  *(trainer #63)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### ?? TRAINER  *(trainer #64)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### ?? BREEDER  *(trainer #65)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### ?? BREEDER  *(trainer #66)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### ?? RANGER  *(trainer #67)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### ?? RANGER  *(trainer #68)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### MAGMA LEADER  *(trainer #69)*
-- **Weedle** Lv4 — String Shot, Poison Sting, Bug Bite, Telekinesis
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Weedle** Lv4 — String Shot, Poison Sting, Bug Bite, String Shot
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### TEAM MAGMA  *(trainer #70)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### TEAM MAGMA  *(trainer #71)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### LASS  *(trainer #72)*
-- **Shroodle** Lv4 — Poison Fang, Return, Leer, Scratch
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Shroodle** Lv4 — Poison Fang, Mud-Slap, Leer, Scratch
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### BUG CATCHER  *(trainer #73)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### HIKER  *(trainer #74)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### YOUNG COUPLE  *(trainer #75)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### OLD COUPLE  *(trainer #76)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### SIS AND BRO  *(trainer #77)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### AQUA ADMIN MATT  *(trainer #78)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### AQUA ADMIN SHELLY  *(trainer #79)*
 - **Spinarak** Lv4 — Pin Missile, Struggle Bug, Constrict, String Shot
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### MAGMA ADMIN TABITHA  *(trainer #80)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### MAGMA ADMIN COURTNEY  *(trainer #81)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### LEADER WATTSON  *(trainer #82)*
-- **Varoom** Lv4 — Gyro Ball, Rock Blast, Smog, Poison Gas
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Varoom** Lv4 — Gyro Ball, Smog, Poison Gas, Lick
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### LEADER FLANNERY  *(trainer #83)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### LEADER NORMAN  *(trainer #84)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### LEADER WINONA  *(trainer #85)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Varoom** Lv5 — Gyro Ball, Rock Blast, Smog, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Varoom** Lv5 — Gyro Ball, Smog, Poison Gas, Lick
 
 ### LEADER WALLACE  *(trainer #86)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Mareanie** Lv5 — Peck, Poison Sting, Bite, Toxic Spikes
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Mareanie** Lv5 — Icy Wind, Peck, Poison Sting, Bite
 
 ### ELITE FOUR GLACIA  *(trainer #87)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### ELITE FOUR DRAKE  *(trainer #88)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### YOUNGSTER BEN  *(trainer #89)*
-- **Rattata** Lv11 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Ekans** Lv11 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Shroodle** Lv11 — Cross Poison, Slash, Knock Off, Poison Fang
+- **Rattata** Lv11 — Tackle, Sucker Punch, Bite, Focus Energy
+- **Ekans** Lv11 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Shroodle** Lv11 — Cross Poison, Slash, Knock Off, Mud-Slap
 
 ### YOUNGSTER CALVIN  *(trainer #90)*
-- **Spearow** Lv14 — Return, Aerial Ace, Steel Wing, Feint Attack
-- **Shroodle** Lv14 — Cross Poison, Slash, Knock Off, Poison Fang
+- **Spearow** Lv14 — Aerial Ace, Fury Attack, Pursuit, Leer
+- **Shroodle** Lv14 — Cross Poison, Slash, Knock Off, Mud-Slap
 
 ### YOUNGSTER JOSH  *(trainer #91)*
-- **Rattata** Lv10 — Tackle, Return, Bite, Focus Energy
-- **Rattata** Lv10 — Tackle, Return, Bite, Focus Energy
-- **Zubat** Lv10 — Poison Fang, Astonish, Supersonic, Absorb
-- **Eevee** Lv10 — Tackle, Icy Wind, Rock Blast, Mud-Slap
+- **Rattata** Lv10 — Tackle, Bite, Focus Energy, Quick Attack
+- **Rattata** Lv10 — Tackle, Bite, Focus Energy, Quick Attack
+- **Zubat** Lv10 — Poison Fang, DualWingbeat, Mega Drain, Astonish
+- **Eevee** Lv10 — Tackle, Mud-Slap, Doll Eyes, Sand Attack
 
 ### YOUNGSTER TIMMY  *(trainer #92)*
-- **Nincada** Lv13 — Bug Bite, Mud-Slap, Night Slash, Aerial Ace
+- **Nincada** Lv13 — Bug Bite, Mud-Slap, Night Slash, Metal Claw
 - **Sandshrew** Lv14 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
-- **Ekans** Lv14 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Nincada** Lv14 — Bug Bite, Mud-Slap, Night Slash, Aerial Ace
+- **Ekans** Lv14 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Nincada** Lv14 — Bug Bite, Mud-Slap, Night Slash, Metal Claw
 
 ### YOUNGSTER JOEY  *(trainer #93)*
-- **Rattata** Lv15 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Spearow** Lv15 — Return, Aerial Ace, Steel Wing, Feint Attack
-- **Aipom** Lv15 — Return, Mud Bomb, Icy Wind, Aerial Ace
+- **Rattata** Lv15 — Tackle, Sucker Punch, Bite, Pursuit
+- **Spearow** Lv15 — Aerial Ace, Fury Attack, Pursuit, Leer
+- **Aipom** Lv15 — Mud-Slap, Knock Off, Aerial Ace, Tickle
 
 ### YOUNGSTER DAN  *(trainer #94)*
 - **Espurr** Lv16 — Psybeam, Confusion, Light Screen, Covet
-- **Slowpoke** Lv17 — Water Gun, Confusion, Bulldoze, Avalanche
-- **Poliwhirl** Lv17 — Bubble Beam, Knock Off, Bulldoze, Water Gun
+- **Slowpoke** Lv17 — Water Gun, Psybeam, Bulldoze, Avalanche
+- **Poliwhirl** Lv17 — Bubble Beam, Icy Wind, Bulldoze, Water Gun
 
 ### YOUNGSTER CHAD  *(trainer #95)*
-- **Whirlipede** Lv13 — Bug Bite, Gyro Ball, Rock Blast, Bite
-- **Ekans** Lv14 — Acid, Bulldoze, Rock Tomb, Sucker Punch
+- **Whirlipede** Lv13 — Bug Bite, Gyro Ball, Pin Missile, Pursuit
+- **Ekans** Lv14 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
 - **Sandshrew** Lv14 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
-- **Golett** Lv14 — Bulldoze, Shadow Punch, Rock Tomb, Gyro Ball
+- **Golett** Lv14 — Bulldoze, Shadow Punch, Rock Tomb, Knock Off
 
 ### YOUNGSTER TYLER  *(trainer #96)*
-- **Oddish** Lv20 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Nidoran?** Lv21 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Beedrill** Lv21 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
+- **Oddish** Lv20 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Nidoran?** Lv21 — Poison Jab, Dig, Sucker Punch, Horn Attack
+- **Beedrill** Lv21 — X-Scissor, Poison Jab, Brick Break, Mega Drain
 
 ### YOUNGSTER EDDIE  *(trainer #97)*
-- **Ekans** Lv21 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Croagunk** Lv21 — Poison Jab, Brick Break, Rock Slide, Sucker Punch
+- **Ekans** Lv21 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Croagunk** Lv21 — Poison Jab, Brick Break, ThunderPunch, Rock Slide
 
 ### YOUNGSTER DILLON  *(trainer #98)*
-- **Tranquill** Lv18 — Return, Aerial Ace, Steel Wing, Rock Blast
+- **Tranquill** Lv18 — DualWingbeat, Steel Wing, Air Cutter, Roost
 - **Sandshrew** Lv19 — Dig, Rock Slide, Night Slash, Brick Break
-- **Zubat** Lv19 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Dustox** Lv19 — U-turn, Crunch, Aerial Ace, Giga Drain
+- **Zubat** Lv19 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Dustox** Lv19 — U-turn, Aerial Ace, Giga Drain, Bug Bite
 
 ### YOUNGSTER YASU  *(trainer #99)*
-- **Rattata** Lv17 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Rattata** Lv17 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Raticate** Lv17 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Loudred** Lv17 — Return, Bulldoze, Rock Tomb, Bite
+- **Rattata** Lv17 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Rattata** Lv17 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Raticate** Lv17 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Loudred** Lv17 — Bulldoze, Icy Wind, Rock Tomb, Bite
 
 ### YOUNGSTER DAVE  *(trainer #100)*
 - **Oddish** Lv17 — Mega Drain, Acid, Razor Leaf, Sleep Powder
-- **Nidoran?** Lv18 — Sucker Punch, Knock Off, Poison Sting, Double Kick
-- **Nidorino** Lv18 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
-- **Glimmet** Lv18 — AncientPower, Knock Off, Rock Throw, Rock Tomb
-- **Nidorina** Lv18 — Poison Fang, Sucker Punch, Aerial Ace, Bite
+- **Nidoran?** Lv18 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
+- **Nidorino** Lv18 — Poison Sting, Double Kick, Focus Energy, Peck
+- **Glimmet** Lv18 — AncientPower, Rock Throw, Rock Tomb, Rock Blast
+- **Nidorina** Lv18 — Poison Fang, Bite, Poison Sting, Double Kick
 
 ### YOUNGSTER BEN  *(trainer #101)*
 - **Grimer** Lv16 — Sludge, Mud Bomb, Rock Tomb, Mud-Slap
-- **Rattata** Lv17 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Ekans** Lv17 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Porygon** Lv17 — Tackle, Aerial Ace, Return, Agility
+- **Rattata** Lv17 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Ekans** Lv17 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Porygon** Lv17 — Tackle, Icy Wind, ThunderShock, Agility
 
 ### BUG CATCHER RICK  *(trainer #102)*
-- **Weedle** Lv6 — String Shot, Poison Sting, Bug Bite, Telekinesis
-- **Caterpie** Lv6 — Rock Blast, String Shot, Tackle, Bug Bite
-- **Skorupi** Lv6 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Weedle** Lv6 — String Shot, Poison Sting, Bug Bite, String Shot
+- **Caterpie** Lv6 — String Shot, Tackle, Bug Bite, Electroweb
+- **Skorupi** Lv6 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### BUG CATCHER DOUG  *(trainer #103)*
-- **Spewpa** Lv6 — Struggle Bug, Icy Wind, Harden, Protect
-- **Weedle** Lv7 — String Shot, Poison Sting, Bug Bite, Telekinesis
-- **Kakuna** Lv7 — Harden, Tail Slap, Attract, Magic Room
-- **Weedle** Lv7 — String Shot, Poison Sting, Bug Bite, Telekinesis
+- **Spewpa** Lv6 — Struggle Bug, Harden, Protect, Iron Defense
+- **Weedle** Lv7 — String Shot, Poison Sting, Bug Bite, String Shot
+- **Kakuna** Lv7 — Harden, Harden, Harden, Harden
+- **Weedle** Lv7 — String Shot, Poison Sting, Bug Bite, String Shot
 - **Gulpin** Lv7 — Mud-Slap, Yawn, Pound, Poison Gas
 
 ### BUG CATCHER SAMMY  *(trainer #104)*
-- **Weedle** Lv9 — Bug Bite, String Shot, Poison Sting, Telekinesis
+- **Weedle** Lv9 — Bug Bite, String Shot, Poison Sting, Bug Bite
 - **Spinarak** Lv9 — Pin Missile, Struggle Bug, Infestation, Absorb
 
 ### BUG CATCHER COLTON  *(trainer #105)*
-- **Caterpie** Lv10 — Rock Blast, Bug Bite, String Shot, Tackle
-- **Weedle** Lv10 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Caterpie** Lv10 — Rock Blast, Bug Bite, String Shot, Tackle
-- **Gastly** Lv10 — Lick, Astonish, Mean Look, Spite
+- **Caterpie** Lv10 — Bug Bite, String Shot, Tackle, Electroweb
+- **Weedle** Lv10 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Caterpie** Lv10 — Bug Bite, String Shot, Tackle, Electroweb
+- **Gastly** Lv10 — Lick, Icy Wind, Astonish, Mean Look
 
 ### BUG CATCHER GREG  *(trainer #106)*
-- **Weedle** Lv9 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Kakuna** Lv9 — Harden, Tail Slap, Attract, Magic Room
-- **Caterpie** Lv9 — Rock Blast, Bug Bite, String Shot, Tackle
-- **Metapod** Lv9 — Harden, Snore, Sand Tomb, Reversal
-- **Ledyba** Lv9 — Struggle Bug, Mach Punch, Swift, Supersonic
+- **Weedle** Lv9 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Kakuna** Lv9 — Harden, Harden, Harden, Harden
+- **Caterpie** Lv9 — Bug Bite, String Shot, Tackle, Electroweb
+- **Metapod** Lv9 — Harden, Electroweb, Iron Defense, Harden
+- **Ledyba** Lv9 — Mach Punch, Swift, Supersonic, Tackle
 
 ### BUG CATCHER JAMES  *(trainer #107)*
-- **Caterpie** Lv11 — Bug Bite, Rock Blast, String Shot, Tackle
-- **Metapod** Lv11 — Harden, Snore, Sand Tomb, Reversal
-- **Paras** Lv11 — Bug Bite, Aerial Ace, Struggle Bug, Absorb
+- **Caterpie** Lv11 — Bug Bite, String Shot, Tackle, Electroweb
+- **Metapod** Lv11 — Harden, Electroweb, Iron Defense, Harden
+- **Paras** Lv11 — Mega Drain, Absorb, PoisonPowder, Stun Spore
 
 ### BUG CATCHER KENT  *(trainer #108)*
-- **Weedle** Lv11 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Kakuna** Lv11 — Harden, Ice Fang, Break Swipe, Tail Slap
+- **Weedle** Lv11 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Kakuna** Lv11 — Harden, Harden, Harden, Harden
 - **Grubbin** Lv11 — Bug Bite, Bite, Mud-Slap, Spark
 
 ### BUG CATCHER ROBBY  *(trainer #109)*
-- **Caterpie** Lv10 — Rock Blast, Bug Bite, String Shot, Tackle
-- **Metapod** Lv10 — Harden, Snore, Sand Tomb, Reversal
-- **Caterpie** Lv10 — Rock Blast, Bug Bite, String Shot, Tackle
+- **Caterpie** Lv10 — Bug Bite, String Shot, Tackle, Electroweb
+- **Metapod** Lv10 — Harden, Electroweb, Iron Defense, Harden
+- **Caterpie** Lv10 — Bug Bite, String Shot, Tackle, Electroweb
 - **Spinarak** Lv10 — Pin Missile, Struggle Bug, Infestation, Absorb
 
 ### BUG CATCHER CALE  *(trainer #110)*
-- **Caterpie** Lv10 — Rock Blast, Bug Bite, String Shot, Tackle
-- **Weedle** Lv10 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Metapod** Lv10 — Harden, Snore, Sand Tomb, Reversal
-- **Kakuna** Lv10 — Harden, Tail Slap, Attract, Magic Room
-- **Surskit** Lv10 — Struggle Bug, Sweet Scent, Quick Attack, Bubble
+- **Caterpie** Lv10 — Bug Bite, String Shot, Tackle, Electroweb
+- **Weedle** Lv10 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Metapod** Lv10 — Harden, Electroweb, Iron Defense, Harden
+- **Kakuna** Lv10 — Harden, Harden, Harden, Harden
+- **Surskit** Lv10 — Struggle Bug, Water Gun, Mud-Slap, Icy Wind
 
 ### BUG CATCHER KEIGO  *(trainer #111)*
-- **Karrablast** Lv15 — Bug Bite, Night Slash, Aerial Ace, Struggle Bug
-- **Weedle** Lv16 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Caterpie** Lv16 — Bug Bite, Rock Blast, String Shot, Tackle
-- **Weedle** Lv16 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Karrablast** Lv16 — Bug Bite, Night Slash, Aerial Ace, Struggle Bug
+- **Karrablast** Lv15 — Bug Bite, Night Slash, Knock Off, Fury Cutter
+- **Weedle** Lv16 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Caterpie** Lv16 — Bug Bite, String Shot, Tackle, Electroweb
+- **Weedle** Lv16 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Karrablast** Lv16 — Bug Bite, Night Slash, Knock Off, Fury Attack
 
 ### BUG CATCHER ELIJAH  *(trainer #112)*
-- **Doduo** Lv19 — Return, Drill Peck, Crunch, Liquidation
-- **Butterfree** Lv20 — Struggle Bug, Air Slash, Giga Drain, U-turn
-- **Mothim** Lv20 — U-turn, Aerial Ace, Giga Drain, Power Gem
+- **Doduo** Lv19 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Butterfree** Lv20 — U-turn, Air Slash, Giga Drain, Bug Bite
+- **Mothim** Lv20 — U-turn, Aerial Ace, Giga Drain, Bug Bite
 
 ### BUG CATCHER  *(trainer #113)*
 - **Pineco** Lv17 — Bug Bite, Bulldoze, Rock Tomb, Gyro Ball
-- **Metapod** Lv18 — Harden, Snore, Sand Tomb, Reversal
-- **Caterpie** Lv18 — Bug Bite, Rock Blast, String Shot, Tackle
-- **Venonat** Lv18 — Struggle Bug, Poison Fang, Rock Blast, Psybeam
-- **Ivysaur** Lv18 — Razor Leaf, Sludge, Vine Whip, Cross Poison
+- **Metapod** Lv18 — Harden, Electroweb, Iron Defense, Harden
+- **Caterpie** Lv18 — Bug Bite, String Shot, Tackle, Electroweb
+- **Venonat** Lv18 — Bug Bite, Poison Fang, Struggle Bug, Psybeam
+- **Ivysaur** Lv18 — Razor Leaf, Knock Off, Vine Whip, Take Down
 - **Larvesta** Lv18 — U-turn, Flame Wheel, Bug Bite, Struggle Bug
 
 ### BUG CATCHER BRENT  *(trainer #114)*
-- **Shroodle** Lv18 — Cross Poison, Slash, Knock Off, Poison Fang
-- **Beedrill** Lv19 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
-- **Beedrill** Lv19 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
-- **Shelmet** Lv19 — Bug Bite, Air Slash, Giga Drain, Mud-Slap
+- **Shroodle** Lv18 — Cross Poison, Slash, Knock Off, Mud-Slap
+- **Beedrill** Lv19 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Beedrill** Lv19 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Shelmet** Lv19 — Leech Life, Giga Drain, Struggle Bug, Mega Drain
 
 ### BUG CATCHER CONNER  *(trainer #115)*
-- **Joltik** Lv19 — Struggle Bug, Discharge, Rock Blast, Sucker Punch
-- **Caterpie** Lv20 — Bug Bite, Rock Blast, Liquidation, String Shot
-- **Weedle** Lv20 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Venonat** Lv20 — Leech Life, Poison Fang, ThunderPunch, Rock Blast
-- **Venonat** Lv20 — Leech Life, Poison Fang, ThunderPunch, Rock Blast
+- **Joltik** Lv19 — Struggle Bug, Discharge, Sucker Punch, Giga Drain
+- **Caterpie** Lv20 — Bug Bite, String Shot, Tackle, Electroweb
+- **Weedle** Lv20 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Venonat** Lv20 — Leech Life, Poison Fang, Giga Drain, Bug Bite
+- **Venonat** Lv20 — Leech Life, Poison Fang, Giga Drain, Bug Bite
 
 ### LASS JANICE  *(trainer #116)*
-- **Pidgey** Lv9 — Tackle, Return, Gust, Sand Attack
-- **Pidgey** Lv9 — Tackle, Return, Gust, Sand Attack
+- **Pidgey** Lv9 — Tackle, Gust, Sand Attack, Quick Attack
+- **Pidgey** Lv9 — Tackle, Gust, Sand Attack, Quick Attack
 - **Taillow** Lv9 — Return, Quick Attack, Focus Energy, Growl
 
 ### LASS SALLY  *(trainer #117)*
 - **Bulbasaur** Lv9 — Razor Leaf, Vine Whip, Leech Seed, Growl
-- **Rattata** Lv10 — Tackle, Return, Bite, Focus Energy
-- **Nidoran?** Lv10 — Poison Fang, Rock Blast, Double Kick, Tail Whip
-- **Pidove** Lv10 — Return, Leer, Growl, Gust
+- **Rattata** Lv10 — Tackle, Bite, Focus Energy, Quick Attack
+- **Nidoran?** Lv10 — Poison Fang, Double Kick, Tail Whip, Scratch
+- **Pidove** Lv10 — DualWingbeat, Leer, Growl, Gust
 
 ### LASS ROBIN  *(trainer #118)*
-- **Jigglypuff** Lv14 — Return, Feint Attack, Gyro Ball, Disable
-- **Shroodle** Lv14 — Cross Poison, Slash, Knock Off, Poison Fang
+- **Jigglypuff** Lv14 — Knock Off, Gyro Ball, Icy Wind, Disable
+- **Shroodle** Lv14 — Cross Poison, Slash, Knock Off, Mud-Slap
 
 ### LASS CRISSY  *(trainer #119)*
 - **Charjabug** Lv30 — X-Scissor, Wild Charge, Crunch, Dig
-- **Paras** Lv31 — X-Scissor, Energy Ball, Iron Head, Dig
-- **Paras** Lv31 — X-Scissor, Energy Ball, Iron Head, Dig
-- **Parasect** Lv31 — X-Scissor, Energy Ball, Dig, Rock Blast
-- **Wormadam** Lv31 — Bug Buzz, Energy Ball, Dig, Rock Blast
-- **Carnivine** Lv31 — Razor Leaf, Crunch, Vine Whip, Giga Drain
+- **Paras** Lv31 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Paras** Lv31 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Parasect** Lv31 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Wormadam** Lv31 — Bug Buzz, Energy Ball, Sucker Punch, Bug Bite
+- **Carnivine** Lv31 — Seed Bomb, Crunch, Vine Whip, Razor Leaf
 
 ### LASS MIRIAM  *(trainer #120)*
 - **Oddish** Lv11 — Mega Drain, Acid, Razor Leaf, Sweet Scent
-- **Bellsprout** Lv11 — Razor Leaf, Acid, Knock Off, Vine Whip
-- **Cottonee** Lv11 — Mega Drain, Fairy Wind, Rock Blast, Razor Leaf
+- **Bellsprout** Lv11 — Razor Leaf, Acid, Sucker Punch, Vine Whip
+- **Cottonee** Lv11 — Mega Drain, Fairy Wind, Razor Leaf, Stun Spore
 
 ### LASS IRIS  *(trainer #121)*
-- **Clefairy** Lv14 — Defense Curl, Double Slap, Sing, Encore
-- **Milcery** Lv14 — Icy Wind, Sweet Scent, Sweet Kiss, Tackle
+- **Clefairy** Lv14 — Icy Wind, Knock Off, DualWingbeat, Defense Curl
+- **Milcery** Lv14 — Sweet Scent, Sweet Kiss, Tackle, Aroma Mist
 
 ### LASS RELI  *(trainer #122)*
-- **Nidoran?** Lv16 — Sucker Punch, Knock Off, Poison Sting, Double Kick
-- **Nidoran?** Lv16 — Cross Poison, Sucker Punch, Aerial Ace, Rock Blast
-- **Skrelp** Lv16 — Acid, Water Gun, Knock Off, Feint Attack
+- **Nidoran?** Lv16 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
+- **Nidoran?** Lv16 — Poison Fang, Bite, Poison Sting, Double Kick
+- **Skrelp** Lv16 — Acid, Water Gun, Feint Attack, Mud-Slap
 
 ### LASS ALI  *(trainer #123)*
-- **Pidgey** Lv12 — Tackle, Wing Attack, Feint Attack, Steel Wing
+- **Pidgey** Lv12 — Tackle, Wing Attack, Gust, Sand Attack
 - **Oddish** Lv12 — Mega Drain, Acid, Razor Leaf, Sweet Scent
-- **Bellsprout** Lv12 — Razor Leaf, Acid, Knock Off, Vine Whip
-- **Bellsprout** Lv12 — Razor Leaf, Acid, Knock Off, Vine Whip
+- **Bellsprout** Lv12 — Razor Leaf, Acid, Sucker Punch, Vine Whip
+- **Bellsprout** Lv12 — Razor Leaf, Acid, Sucker Punch, Vine Whip
 
 ### LASS  *(trainer #124)*
-- **Nidoran?** Lv15 — Sucker Punch, Knock Off, Poison Sting, Double Kick
-- **Nidoran?** Lv15 — Cross Poison, Sucker Punch, Aerial Ace, Rock Blast
-- **Venipede** Lv15 — Bug Bite, Cross Poison, Gyro Ball, Bite
+- **Nidoran?** Lv15 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
+- **Nidoran?** Lv15 — Poison Fang, Bite, Poison Sting, Double Kick
+- **Venipede** Lv15 — Bug Bite, Gyro Ball, Bite, Pin Missile
 
 ### LASS HALEY  *(trainer #125)*
 - **Capsakid** Lv12 — Razor Leaf, Bite, Growth, Leafage
 - **Oddish** Lv13 — Mega Drain, Acid, Razor Leaf, PoisonPowder
-- **Pidgey** Lv13 — Tackle, Wing Attack, Feint Attack, Steel Wing
+- **Pidgey** Lv13 — Tackle, Wing Attack, Quick Attack, Gust
 - **Oddish** Lv13 — Mega Drain, Acid, Razor Leaf, PoisonPowder
-- **Nidorino** Lv13 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
+- **Nidorino** Lv13 — Poison Sting, Double Kick, Focus Energy, Peck
 
 ### LASS ANN  *(trainer #126)*
-- **Pidgey** Lv18 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Nidoran?** Lv18 — Cross Poison, Sucker Punch, Aerial Ace, Rock Blast
-- **Varoom** Lv18 — Gyro Ball, Sludge, Rock Blast, Bulldoze
+- **Pidgey** Lv18 — Tackle, Wing Attack, Whirlwind, Quick Attack
+- **Nidoran?** Lv18 — Poison Fang, Bite, Poison Sting, Double Kick
+- **Varoom** Lv18 — Gyro Ball, Sludge, Bulldoze, Assurance
 
 ### LASS DAWN  *(trainer #127)*
-- **Minccino** Lv17 — Return, Knock Off, Bone Rush, Mud-Slap
-- **Rattata** Lv18 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Pikachu** Lv18 — Spark, ThunderShock, Volt Switch, Thunder Wave
-- **Wattrel** Lv18 — Volt Switch, Aerial Ace, Knock Off, Steel Wing
+- **Minccino** Lv17 — Knock Off, Mud-Slap, Encore, Double Slap
+- **Rattata** Lv18 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Pikachu** Lv18 — Spark, Knock Off, ThunderShock, Volt Switch
+- **Wattrel** Lv18 — Volt Switch, Air Cutter, ThunderShock, Spark
 
 ### LASS PAIGE  *(trainer #128)*
-- **Salandit** Lv22 — Poison Jab, Ember, Knock Off, Iron Head
-- **Nidoran?** Lv23 — Poison Jab, Crunch, Aerial Ace, Iron Head
-- **Nidorina** Lv23 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Oddish** Lv23 — Giga Drain, Acid, Iron Head, Ice Punch
+- **Salandit** Lv22 — Poison Jab, Ember, Knock Off, Mud-Slap
+- **Nidoran?** Lv23 — Poison Jab, Crunch, Dig, Poison Fang
+- **Nidorina** Lv23 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Oddish** Lv23 — Giga Drain, Acid, Mega Drain, Razor Leaf
 
 ### LASS ANDREA  *(trainer #129)*
-- **Farfetch'd** Lv23 — Slash, Aerial Ace, Mud-Slap, Night Slash
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Diggersby** Lv24 — Tackle, Dig, Rock Slide, Brick Break
+- **Farfetch'd** Lv23 — Body Slam, Aerial Ace, Razor Leaf, Night Slash
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Diggersby** Lv24 — Body Slam, Dig, Ice Punch, ThunderPunch
 
 ### LASS MEGAN  *(trainer #130)*
-- **Pidgey** Lv19 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
-- **Nidoran?** Lv19 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Meowth** Lv19 — Slash, Night Slash, Aerial Ace, Dig
-- **Pikachu** Lv19 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Aipom** Lv19 — Body Slam, Dig, Ice Punch, Crunch
+- **Pidgey** Lv19 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
+- **Nidoran?** Lv19 — Poison Jab, Dig, Sucker Punch, Fury Attack
+- **Meowth** Lv19 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Pikachu** Lv19 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Aipom** Lv19 — Seed Bomb, Dig, Ice Punch, ThunderPunch
 
 ### LASS JULIA  *(trainer #131)*
 - **Floette** Lv21 — Fairy Wind, Giga Drain, Vine Whip, Razor Leaf
-- **Clefairy** Lv22 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Clefairy** Lv22 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Cutiefly** Lv22 — Struggle Bug, Fairy Wind, Aerial Ace, Bug Bite
-- **Fidough** Lv22 — Spirit Break, Iron Head, Dig, Crunch
+- **Clefairy** Lv22 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Clefairy** Lv22 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Cutiefly** Lv22 — Struggle Bug, Fairy Wind, Bug Bite, Leech Life
+- **Fidough** Lv22 — Spirit Break, Dig, Fire Fang, Crunch
 
 ### LASS KAY  *(trainer #132)*
-- **Weepinbell** Lv22 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
-- **Bellsprout** Lv23 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Weepinbell** Lv23 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
-- **Weepinbell** Lv23 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
+- **Weepinbell** Lv22 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Bellsprout** Lv23 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Weepinbell** Lv23 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Weepinbell** Lv23 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
 
 ### LASS LISA  *(trainer #133)*
-- **Turtwig** Lv22 — Seed Bomb, Air Slash, Bulldoze, Crunch
-- **Oddish** Lv23 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Gloom** Lv23 — Giga Drain, Acid, Drain Punch, Mega Drain
-- **Dustox** Lv23 — U-turn, Crunch, Aerial Ace, Giga Drain
+- **Turtwig** Lv22 — Seed Bomb, Iron Head, Bulldoze, Crunch
+- **Oddish** Lv23 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Gloom** Lv23 — Giga Drain, Acid, Mega Drain, Seed Bomb
+- **Dustox** Lv23 — U-turn, Aerial Ace, Giga Drain, Bug Bite
 
 ### SAILOR EDMOND  *(trainer #134)*
 - **Croconaw** Lv17 — Water Gun, Rock Tomb, Bite, Aerial Ace
@@ -4726,3731 +4726,3731 @@ Every other fightable trainer in the game (not a boss/rival), with full teams an
 - **Omanyte** Lv18 — AncientPower, Bubble Beam, Knock Off, Gyro Ball
 
 ### SAILOR TREVOR  *(trainer #135)*
-- **Monferno** Lv16 — Flame Wheel, Mach Punch, Icy Wind, Rock Tomb
+- **Monferno** Lv16 — Flame Wheel, Mach Punch, Mud-Slap, Rock Tomb
 - **Machop** Lv17 — Karate Chop, Knock Off, Bullet Punch, Bulldoze
 - **Tentacool** Lv17 — Bubble Beam, Acid, Aurora Beam, Knock Off
-- **Koffing** Lv17 — Sludge, Icy Wind, Knock Off, Gyro Ball
+- **Koffing** Lv17 — Sludge, Gyro Ball, Clear Smog, Assurance
 
 ### SAILOR LEONARD  *(trainer #136)*
-- **Clamperl** Lv20 — Scald, Crunch, Water Gun, Waterfall
-- **Shellder** Lv21 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Azumarill** Lv21 — Scald, Fire Fang, Aura Sphere, Dig
+- **Clamperl** Lv20 — Scald, Icy Wind, Water Gun, Waterfall
+- **Shellder** Lv21 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Azumarill** Lv21 — Bubble Beam, Knock Off, Brick Break, Mud-Slap
 
 ### SAILOR DUNCAN  *(trainer #137)*
-- **Quaxly** Lv16 — Water Gun, Wing Attack, Steel Wing, Aerial Ace
-- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
+- **Quaxly** Lv16 — Water Gun, Wing Attack, Aerial Ace, Air Cutter
+- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
 - **Shellder** Lv17 — Bubble Beam, Avalanche, Rock Blast, Water Gun
 - **Tentacool** Lv17 — Bubble Beam, Acid, Aurora Beam, Knock Off
-- **Weepinbell** Lv17 — Razor Leaf, Acid, Fire Fang, Knock Off
+- **Weepinbell** Lv17 — Razor Leaf, Acid, Knock Off, Vine Whip
 
 ### SAILOR HUEY  *(trainer #138)*
-- **Barboach** Lv17 — Water Gun, Bulldoze, Spark, Rock Tomb
+- **Barboach** Lv17 — Water Gun, Bulldoze, Icy Wind, Spark
 - **Tentacool** Lv18 — Bubble Beam, Acid, Aurora Beam, Knock Off
-- **Staryu** Lv18 — Bubble Beam, Gyro Ball, Water Gun, Swift
-- **Luvdisc** Lv18 — Water Gun, Water Pulse, Lucky Chant, Drain Kiss
+- **Staryu** Lv18 — Bubble Beam, Icy Wind, Gyro Ball, Water Gun
+- **Luvdisc** Lv18 — Water Gun, Icy Wind, Water Pulse, Lucky Chant
 
 ### SAILOR DYLAN  *(trainer #139)*
-- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
-- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
-- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
-- **Tympole** Lv17 — Bubble Beam, Mud Bomb, Icy Wind, Mud-Slap
+- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
+- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
+- **Horsea** Lv17 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
+- **Tympole** Lv17 — Bubble Beam, Mud-Slap, Icy Wind, Mud Shot
 
 ### SAILOR PHILLIP  *(trainer #140)*
-- **Machop** Lv20 — Brick Break, Crunch, Bullet Punch, Dig
-- **Stufful** Lv20 — Body Slam, Brick Break, Aerial Ace, Bulldoze
+- **Machop** Lv20 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Stufful** Lv20 — Tackle, Brick Break, Iron Head, Bulldoze
 
 ### SAILOR DWAYNE  *(trainer #141)*
-- **Emolga** Lv20 — Spark, Aerial Ace, Liquidation, Ice Punch
-- **Pikachu** Lv21 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Pikachu** Lv21 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Pawmo** Lv21 — Spark, Mach Punch, Knock Off, Seed Bomb
-- **Luxio** Lv21 — Spark, Ice Punch, Fire Fang, Crunch
+- **Emolga** Lv20 — Spark, DualWingbeat, ThunderShock, Volt Switch
+- **Pikachu** Lv21 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Pikachu** Lv21 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Pawmo** Lv21 — ThunderPunch, Crunch, Metal Claw, Dig
+- **Luxio** Lv21 — Spark, Fire Fang, Crunch, ThunderShock
 
 ### CAMPER LIAM  *(trainer #142)*
-- **Geodude** Lv10 — Rock Throw, Gyro Ball, Rock Blast, Rollout
+- **Geodude** Lv10 — Rock Throw, Mud-Slap, Gyro Ball, Rock Blast
 - **Sandshrew** Lv11 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
 - **Baltoy** Lv11 — Bulldoze, Psybeam, Gyro Ball, Rock Tomb
 
 ### CAMPER SHANE  *(trainer #143)*
-- **Rattata** Lv14 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Ekans** Lv14 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Glimmet** Lv14 — AncientPower, Knock Off, Rock Throw, Rock Tomb
+- **Rattata** Lv14 — Tackle, Sucker Punch, Bite, Pursuit
+- **Ekans** Lv14 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Glimmet** Lv14 — AncientPower, Rock Throw, Rock Tomb, Rock Blast
 
 ### CAMPER ETHAN  *(trainer #144)*
-- **Riolu** Lv17 — Mach Punch, Aerial Ace, Bullet Punch, Bulldoze
-- **Mankey** Lv18 — Karate Chop, Aerial Ace, Bulldoze, Rock Tomb
-- **Combusken** Lv18 — Ember, Night Slash, Aerial Ace, Rock Tomb
+- **Riolu** Lv17 — Aerial Ace, Metal Claw, Bulldoze, Rock Tomb
+- **Mankey** Lv18 — Karate Chop, Bulldoze, Rock Tomb, Night Slash
+- **Combusken** Lv18 — Ember, Aerial Ace, Rock Tomb, Peck
 
 ### CAMPER RICKY  *(trainer #145)*
 - **Spheal** Lv19 — Aurora Beam, Water Gun, Bulldoze, Rock Slide
-- **Squirtle** Lv20 — Scald, Aura Sphere, Iron Head, Dig
-- **Tympole** Lv20 — Scald, Mud Bomb, Icy Wind, Bubble Beam
+- **Squirtle** Lv20 — Water Gun, Brick Break, Gyro Ball, Dig
+- **Tympole** Lv20 — Scald, Mud-Slap, Icy Wind, Bubble Beam
 
 ### CAMPER JEFF  *(trainer #146)*
-- **Rufflet** Lv15 — Slash, Wing Attack, Steel Wing, Rock Tomb
-- **Spearow** Lv16 — Return, Aerial Ace, Steel Wing, Feint Attack
-- **Raticate** Lv16 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Deerling** Lv16 — Tackle, Fire Fang, Feint Attack, Bulldoze
-- **Stufful** Lv16 — Tackle, Aerial Ace, Bulldoze, Icy Wind
+- **Rufflet** Lv15 — Slash, Wing Attack, Rock Tomb, Aerial Ace
+- **Spearow** Lv16 — Aerial Ace, Fury Attack, Pursuit, Leer
+- **Raticate** Lv16 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Deerling** Lv16 — Tackle, Feint Attack, Bulldoze, Leech Seed
+- **Stufful** Lv16 — Tackle, Bulldoze, Rock Tomb, Brutal Swing
 
 ### CAMPER  *(trainer #147)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Foongus** Lv5 — Mega Drain, Rock Blast, Absorb, Growth
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Foongus** Lv5 — Mega Drain, Absorb, Growth, Astonish
 
 ### CAMPER CHRIS  *(trainer #148)*
-- **Fennekin** Lv20 — Ember, Fire Spin, Psybeam, Flame Charge
-- **Growlithe** Lv21 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Charmander** Lv21 — Ember, Crunch, Brick Break, Air Cutter
-- **Sizzlipede** Lv21 — Flame Wheel, Bug Bite, Crunch, Scald
+- **Fennekin** Lv20 — Ember, Mud-Slap, Fire Spin, Psybeam
+- **Growlithe** Lv21 — Fire Fang, Dig, Crunch, Ember
+- **Charmander** Lv21 — Ember, Crunch, Brick Break, Metal Claw
+- **Sizzlipede** Lv21 — Flame Wheel, Leech Life, Crunch, Scald
 
 ### CAMPER DREW  *(trainer #149)*
 - **Trapinch** Lv18 — Bug Bite, Bulldoze, Rock Tomb, Bite
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
 - **Sandshrew** Lv19 — Dig, Rock Slide, Night Slash, Brick Break
-- **Ekans** Lv19 — Poison Jab, Seed Bomb, Dig, Ice Punch
+- **Ekans** Lv19 — Poison Jab, Seed Bomb, Dig, Rock Slide
 - **Sandshrew** Lv19 — Dig, Rock Slide, Night Slash, Brick Break
 - **Roselia** Lv19 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
 
 ### PICNICKER DIANA  *(trainer #150)*
-- **Shellos** Lv18 — Mud Bomb, Icy Wind, Rock Tomb, Mud-Slap
-- **Goldeen** Lv19 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Quaxly** Lv19 — Liquidation, Crunch, Wing Attack, Steel Wing
-- **Totodile** Lv19 — Waterfall, Rock Slide, Crunch, Brick Break
+- **Shellos** Lv18 — Water Gun, Mud Bomb, Icy Wind, AncientPower
+- **Goldeen** Lv19 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Quaxly** Lv19 — Liquidation, Wing Attack, Water Gun, Aerial Ace
+- **Totodile** Lv19 — Liquidation, Rock Slide, Crunch, Brick Break
 
 ### PICNICKER NANCY  *(trainer #151)*
-- **Hoothoot** Lv15 — Tackle, Wing Attack, Steel Wing, Feint Attack
-- **Rattata** Lv16 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Pikachu** Lv16 — Spark, ThunderShock, Volt Switch, Electro Ball
-- **Pawmo** Lv16 — Spark, Mach Punch, Knock Off, ThunderShock
+- **Hoothoot** Lv15 — Tackle, Air Cutter, Wing Attack, Aerial Ace
+- **Rattata** Lv16 — Tackle, Sucker Punch, Bite, Hyper Fang
+- **Pikachu** Lv16 — Spark, Knock Off, ThunderShock, Volt Switch
+- **Pawmo** Lv16 — Spark, Knock Off, Metal Claw, ThunderShock
 
 ### PICNICKER ISABELLE  *(trainer #152)*
-- **Pidgey** Lv16 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgey** Lv16 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgey** Lv16 — Tackle, Wing Attack, Feint Attack, Steel Wing
+- **Pidgey** Lv16 — Tackle, Wing Attack, Quick Attack, Gust
+- **Pidgey** Lv16 — Tackle, Wing Attack, Quick Attack, Gust
+- **Pidgey** Lv16 — Tackle, Wing Attack, Quick Attack, Gust
 - **Taillow** Lv16 — Return, Wing Attack, Steel Wing, Aerial Ace
 
 ### PICNICKER KELSEY  *(trainer #153)*
-- **Nidoran?** Lv15 — Sucker Punch, Knock Off, Poison Sting, Double Kick
-- **Nidoran?** Lv15 — Cross Poison, Sucker Punch, Aerial Ace, Rock Blast
-- **Nidorina** Lv15 — Poison Fang, Sucker Punch, Aerial Ace, Bite
+- **Nidoran?** Lv15 — Sucker Punch, Poison Sting, Double Kick, Focus Energy
+- **Nidoran?** Lv15 — Poison Fang, Bite, Poison Sting, Double Kick
+- **Nidorina** Lv15 — Poison Fang, Bite, Poison Sting, Double Kick
 
 ### PICNICKER ALICIA  *(trainer #154)*
-- **Salandit** Lv17 — Ember, Knock Off, Mud-Slap, Smog
+- **Salandit** Lv17 — Poison Fang, Ember, Knock Off, Mud-Slap
 - **Oddish** Lv18 — Mega Drain, Acid, Razor Leaf, Sleep Powder
-- **Bellsprout** Lv18 — Razor Leaf, Acid, Knock Off, Vine Whip
+- **Bellsprout** Lv18 — Razor Leaf, Acid, Sucker Punch, Vine Whip
 - **Oddish** Lv18 — Mega Drain, Acid, Razor Leaf, Sleep Powder
-- **Bellsprout** Lv18 — Razor Leaf, Acid, Knock Off, Vine Whip
+- **Bellsprout** Lv18 — Razor Leaf, Acid, Sucker Punch, Vine Whip
 - **Toedscool** Lv18 — Mud-Slap, Mega Drain, Knock Off, Supersonic
 
 ### PICNICKER CAITLIN  *(trainer #155)*
-- **Buneary** Lv22 — Body Slam, Dig, Ice Punch, ThunderPunch
-- **Meowth** Lv23 — Slash, Night Slash, Aerial Ace, Dig
-- **Porygon** Lv23 — Tackle, Liquidation, Aerial Ace, Iron Head
+- **Buneary** Lv22 — Dig, Ice Punch, ThunderPunch, Fire Punch
+- **Meowth** Lv23 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Porygon** Lv23 — Tackle, Icy Wind, Discharge, ThunderShock
 - **Chatot** Lv23 — Return, Air Cutter, Steel Wing, Aerial Ace
 
 ### PICNICKER HEIDI  *(trainer #156)*
-- **Luxio** Lv19 — Spark, Ice Punch, Fire Fang, Crunch
-- **Pikachu** Lv20 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Clefairy** Lv20 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Luxio** Lv20 — Spark, Ice Punch, Fire Fang, Crunch
+- **Luxio** Lv19 — Spark, Fire Fang, Crunch, ThunderShock
+- **Pikachu** Lv20 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Clefairy** Lv20 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Luxio** Lv20 — Spark, Fire Fang, Crunch, ThunderShock
 
 ### PICNICKER CAROL  *(trainer #157)*
-- **Pidgey** Lv21 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv21 — Tackle, Wing Attack, Crunch, Steel Wing
+- **Pidgey** Lv21 — Tackle, Wing Attack, Air Slash, Twister
+- **Pidgeotto** Lv21 — Tackle, Wing Attack, Air Slash, Whirlwind
 - **Chatot** Lv21 — Return, Air Cutter, Steel Wing, Aerial Ace
 
 ### PICNICKER SOFIA  *(trainer #158)*
-- **Mothim** Lv20 — U-turn, Aerial Ace, Giga Drain, Power Gem
-- **Jigglypuff** Lv21 — Body Slam, Feint Attack, Brick Break, Gyro Ball
-- **Pidgey** Lv21 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Meowth** Lv21 — Slash, Night Slash, Aerial Ace, Dig
-- **Herdier** Lv21 — Tackle, Aerial Ace, Dig, Ice Punch
+- **Mothim** Lv20 — U-turn, Aerial Ace, Giga Drain, Bug Bite
+- **Jigglypuff** Lv21 — Body Slam, Fire Punch, Knock Off, Brick Break
+- **Pidgey** Lv21 — Tackle, Wing Attack, Air Slash, Twister
+- **Meowth** Lv21 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Herdier** Lv21 — Tackle, Dig, Rock Tomb, Fire Fang
 
 ### PICNICKER MARTHA  *(trainer #159)*
-- **Floragato** Lv21 — Seed Bomb, Fire Fang, Sucker Punch, Aerial Ace
-- **Oddish** Lv22 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Bulbasaur** Lv22 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Dustox** Lv22 — U-turn, Crunch, Aerial Ace, Giga Drain
+- **Floragato** Lv21 — Seed Bomb, Mud-Slap, ThunderPunch, Bite
+- **Oddish** Lv22 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Bulbasaur** Lv22 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Dustox** Lv22 — U-turn, Aerial Ace, Giga Drain, Bug Bite
 
 ### PICNICKER TINA  *(trainer #160)*
-- **Bulbasaur** Lv23 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Bulbasaur** Lv24 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Ivysaur** Lv24 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Oddish** Lv24 — Giga Drain, Acid, Iron Head, Ice Punch
+- **Bulbasaur** Lv23 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Bulbasaur** Lv24 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Ivysaur** Lv24 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Oddish** Lv24 — Giga Drain, Acid, Mega Drain, Razor Leaf
 
 ### PICNICKER HANNAH  *(trainer #161)*
-- **Pidgey** Lv24 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Rattata** Lv24 — Tackle, Air Slash, Dig, Flame Wheel
-- **Pikachu** Lv24 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Skiploom** Lv24 — Seed Bomb, Aerial Ace, Fairy Wind, Crunch
+- **Pidgey** Lv24 — Tackle, Wing Attack, Air Slash, Twister
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Rattata** Lv24 — Tackle, Dig, Crunch, Bite
+- **Pikachu** Lv24 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Skiploom** Lv24 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
 
 ### POK?MANIAC MARK  *(trainer #162)*
-- **Persian** Lv28 — Slash, Night Slash, Aerial Ace, Dig
-- **Rhyhorn** Lv29 — Earthquake, Stone Edge, Fire Fang, Play Rough
-- **Lickitung** Lv29 — Return, Earth Power, Ice Beam, Thunderbolt
-- **Stantler** Lv29 — Tackle, Bite, Iron Tail, Energy Ball
+- **Persian** Lv28 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Rhyhorn** Lv29 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Lickitung** Lv29 — Body Slam, Earthquake, Ice Beam, Thunderbolt
+- **Stantler** Lv29 — Body Slam, Bite, Energy Ball, Earthquake
 
 ### POK?MANIAC HERMAN  *(trainer #163)*
-- **Cubone** Lv20 — Dig, Aerial Ace, Iron Head, Rock Slide
-- **Slowpoke** Lv20 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Exeggcute** Lv20 — Giga Drain, Extrasensory, Crunch, Iron Head
+- **Cubone** Lv20 — Dig, Iron Head, Icy Wind, ThunderPunch
+- **Slowpoke** Lv20 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Exeggcute** Lv20 — Giga Drain, Psyshock, AncientPower, Mega Drain
 
 ### POK?MANIAC COOPER  *(trainer #164)*
-- **Chingling** Lv19 — Psyshock, Iron Head, Confusion, Entrainment
-- **Slowpoke** Lv20 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Slowpoke** Lv20 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Slowpoke** Lv20 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Brionne** Lv20 — Scald, Icy Wind, Aura Sphere, Water Gun
-- **Wugtrio** Lv20 — Liquidation, Iron Head, Dig, Sucker Punch
+- **Chingling** Lv19 — Psyshock, Knock Off, Icy Wind, Confusion
+- **Slowpoke** Lv20 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Slowpoke** Lv20 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Slowpoke** Lv20 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Brionne** Lv20 — Bubble Beam, Icy Wind, Water Gun, Waterfall
+- **Wugtrio** Lv20 — Liquidation, Dig, Sucker Punch, Water Gun
 
 ### POK?MANIAC STEVE  *(trainer #165)*
-- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Sucker Punch
-- **Charmander** Lv22 — Ember, Crunch, Brick Break, Air Cutter
-- **Cubone** Lv22 — Dig, Aerial Ace, Iron Head, Rock Slide
-- **Numel** Lv22 — Lava Plume, Mud Bomb, AncientPower, Liquidation
+- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Brick Break
+- **Charmander** Lv22 — Ember, Crunch, Brick Break, Metal Claw
+- **Cubone** Lv22 — Dig, Iron Head, Icy Wind, ThunderPunch
+- **Numel** Lv22 — Lava Plume, Mud-Slap, AncientPower, Flash Cannon
 
 ### POK?MANIAC WINSTON  *(trainer #166)*
 - **Drowzee** Lv24 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Slowpoke** Lv25 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Kabuto** Lv25 — Rock Slide, Liquidation, Aerial Ace, Giga Drain
+- **Slowpoke** Lv25 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Kabuto** Lv25 — Rock Slide, Liquidation, Giga Drain, Dig
 
 ### POK?MANIAC DAWSON  *(trainer #167)*
-- **Turtonator** Lv39 — Flamethrower, Dragon Pulse, Flash Cannon, Earthquake
-- **Charmeleon** Lv40 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Lapras** Lv40 — Waterfall, Avalanche, Bulldoze, ThunderPunch
-- **Lickitung** Lv40 — Return, Earth Power, Ice Beam, Thunderbolt
-- **Komala** Lv40 — Return, Earthquake, Rock Slide, Play Rough
-- **Coalossal** Lv40 — Stone Edge, Flamethrower, Knock Off, Aqua Tail
+- **Turtonator** Lv39 — Heat Wave, Dragon Pulse, Flash Cannon, Earthquake
+- **Charmeleon** Lv40 — Heat Wave, Crunch, Brick Break, Dig
+- **Lapras** Lv40 — Liquidation, Avalanche, Earthquake, Thunderbolt
+- **Lickitung** Lv40 — Body Slam, Earthquake, Ice Beam, Thunderbolt
+- **Komala** Lv40 — Body Slam, Iron Head, Seed Bomb, Earthquake
+- **Coalossal** Lv40 — Stone Edge, Fire Punch, Scald, Iron Head
 
 ### POK?MANIAC ASHTON  *(trainer #168)*
-- **Clodsire** Lv22 — Poison Jab, Dig, Liquidation, Rock Slide
-- **Cubone** Lv23 — Dig, Aerial Ace, Iron Head, Rock Slide
-- **Slowpoke** Lv23 — Waterfall, Zen Headbutt, Dig, Avalanche
-- **Phanpy** Lv23 — Dig, Rock Slide, Air Slash, Ice Punch
-- **Panpour** Lv23 — Waterfall, Crunch, Aura Sphere, Dig
+- **Clodsire** Lv22 — Poison Jab, Dig, Liquidation, Iron Head
+- **Cubone** Lv23 — Dig, Iron Head, Icy Wind, ThunderPunch
+- **Slowpoke** Lv23 — Liquidation, Zen Headbutt, Dig, Avalanche
+- **Phanpy** Lv23 — Dig, Rock Slide, Knock Off, Iron Head
+- **Panpour** Lv23 — Waterfall, Crunch, Ice Punch, Rock Tomb
 
 ### SUPER NERD JOVAN  *(trainer #169)*
 - **Magnemite** Lv11 — Volt Switch, Gyro Ball, ThunderShock, Spark
-- **Voltorb** Lv11 — Volt Switch, Gyro Ball, Rock Blast, Spark
+- **Voltorb** Lv11 — Volt Switch, Gyro Ball, ThunderShock, Spark
 - **Klink** Lv11 — Volt Switch, ThunderShock, Charge, Vise Grip
 
 ### SUPER NERD MIGUEL  *(trainer #170)*
 - **Grimer** Lv12 — Sludge, Mud Bomb, Rock Tomb, Mud-Slap
-- **Voltorb** Lv12 — Volt Switch, Gyro Ball, Rock Blast, Spark
-- **Koffing** Lv12 — Sludge, Icy Wind, Knock Off, Gyro Ball
-- **Elekid** Lv12 — Volt Switch, Karate Chop, ThunderShock, Swift
+- **Voltorb** Lv12 — Volt Switch, Gyro Ball, ThunderShock, Spark
+- **Koffing** Lv12 — Sludge, Gyro Ball, Assurance, Smokescreen
+- **Elekid** Lv12 — Volt Switch, Knock Off, ThunderShock, Swift
 
 ### SUPER NERD AIDAN  *(trainer #171)*
-- **Pikachu** Lv19 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Voltorb** Lv20 — Discharge, Iron Head, Rock Blast, Spark
-- **Koffing** Lv20 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Voltorb** Lv20 — Discharge, Iron Head, Rock Blast, Spark
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Tentacool** Lv20 — Scald, Acid, Aurora Beam, Knock Off
+- **Pikachu** Lv19 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Voltorb** Lv20 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Koffing** Lv20 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Voltorb** Lv20 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Tentacool** Lv20 — Bubble Beam, Acid, Aurora Beam, Knock Off
 
 ### SUPER NERD GLENN  *(trainer #172)*
 - **Roselia** Lv21 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
-- **Grimer** Lv22 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Muk** Lv22 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Grimer** Lv22 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
+- **Grimer** Lv22 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Muk** Lv22 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Grimer** Lv22 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
 
 ### SUPER NERD LESLIE  *(trainer #173)*
-- **Oddish** Lv25 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Ivysaur** Lv26 — Giga Drain, Sludge, Vine Whip, Razor Leaf
+- **Oddish** Lv25 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Ivysaur** Lv26 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
 
 ### SUPER NERD  *(trainer #174)*
-- **Koffing** Lv22 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Magnemite** Lv22 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Weezing** Lv22 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Stunky** Lv22 — Poison Jab, Crunch, Dig, Icy Wind
+- **Koffing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Magnemite** Lv22 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Weezing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Stunky** Lv22 — Poison Jab, Crunch, Dig, Bite
 
 ### SUPER NERD  *(trainer #175)*
-- **Eelektrik** Lv19 — Spark, Flash Cannon, Giga Drain, Icy Wind
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Koffing** Lv20 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
+- **Eelektrik** Lv19 — Spark, Flash Cannon, Giga Drain, Crunch
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Koffing** Lv20 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
 - **Tinkatuff** Lv20 — Spirit Break, Metal Claw, Brick Break, Rock Slide
 
 ### SUPER NERD  *(trainer #176)*
-- **Klang** Lv23 — Flash Cannon, Icy Wind, Discharge, ThunderShock
-- **Magnemite** Lv24 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Voltorb** Lv24 — Discharge, Iron Head, Rock Blast, Spark
-- **Flaaffy** Lv24 — Discharge, Dig, Icy Wind, Power Gem
+- **Klang** Lv23 — Flash Cannon, Discharge, Power Gem, ThunderShock
+- **Magnemite** Lv24 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Voltorb** Lv24 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Flaaffy** Lv24 — Discharge, Dig, Ice Punch, Power Gem
 
 ### SUPER NERD ERIK  *(trainer #177)*
-- **Braixen** Lv35 — Heat Wave, Iron Tail, Earth Power, Ice Punch
-- **Vulpix** Lv36 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Vulpix** Lv36 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Ninetales** Lv36 — Heat Wave, Dark Pulse, Iron Tail, Energy Ball
-- **Magmar** Lv36 — Flamethrower, Foul Play, Cross Chop, Liquidation
-- **Talonflame** Lv36 — Fire Punch, Aerial Ace, Muddy Water, Steel Wing
+- **Braixen** Lv35 — Heat Wave, Foul Play, Mud-Slap, ThunderPunch
+- **Vulpix** Lv36 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Vulpix** Lv36 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Ninetales** Lv36 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Magmar** Lv36 — Heat Wave, Knock Off, Brick Break, ThunderPunch
+- **Talonflame** Lv36 — Heat Wave, Aerial Ace, Steel Wing, Ember
 
 ### SUPER NERD AVERY  *(trainer #178)*
-- **Simisear** Lv33 — Fire Punch, Rock Slide, Play Rough, Crunch
-- **Ponyta** Lv34 — Fire Punch, Aqua Tail, Iron Tail, Wild Charge
-- **Charmander** Lv34 — Flamethrower, Crunch, Brick Break, Air Cutter
-- **Vulpix** Lv34 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Growlithe** Lv34 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Talonflame** Lv34 — Fire Punch, Aerial Ace, Muddy Water, Steel Wing
+- **Simisear** Lv33 — Fire Punch, Rock Slide, Knock Off, Brick Break
+- **Ponyta** Lv34 — Flame Wheel, Play Rough, Iron Tail, Wild Charge
+- **Charmander** Lv34 — Heat Wave, Crunch, Brick Break, Iron Tail
+- **Vulpix** Lv34 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Growlithe** Lv34 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Talonflame** Lv34 — Heat Wave, Aerial Ace, Steel Wing, Ember
 
 ### SUPER NERD DEREK  *(trainer #179)*
-- **Talonflame** Lv40 — Fire Punch, Aerial Ace, Muddy Water, Steel Wing
-- **Rapidash** Lv41 — Flare Blitz, Aura Sphere, Iron Tail, Earth Power
-- **Torkoal** Lv41 — Flame Wheel, Iron Tail, Earthquake, Stone Edge
-- **Darmanitan** Lv41 — Flare Blitz, Gyro Ball, Seed Bomb, Earthquake
+- **Talonflame** Lv40 — Heat Wave, Aerial Ace, Steel Wing, Ember
+- **Rapidash** Lv41 — Flare Blitz, Iron Tail, Wild Charge, Play Rough
+- **Torkoal** Lv41 — Flare Blitz, Gyro Ball, Earthquake, Stone Edge
+- **Darmanitan** Lv41 — Flare Blitz, Iron Head, Earthquake, Stone Edge
 
 ### SUPER NERD ZAC  *(trainer #180)*
-- **Centskorch** Lv36 — Flame Wheel, X-Scissor, Crunch, Muddy Water
-- **Growlithe** Lv37 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Vulpix** Lv37 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Ceruledge** Lv37 — Fire Fang, Shadow Claw, Play Rough, Foul Play
-- **Blaziken** Lv37 — Fire Punch, Sky Uppercut, Night Slash, Muddy Water
+- **Centskorch** Lv36 — Fire Fang, X-Scissor, Crunch, Scald
+- **Growlithe** Lv37 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Vulpix** Lv37 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Ceruledge** Lv37 — Heat Wave, PhantomForce, Iron Head, Night Slash
+- **Blaziken** Lv37 — Fire Punch, Sky Uppercut, Knock Off, Aerial Ace
 
 ### HIKER MARCOS  *(trainer #181)*
-- **Geodude** Lv10 — Rock Throw, Gyro Ball, Rock Blast, Rollout
-- **Geodude** Lv10 — Rock Throw, Gyro Ball, Rock Blast, Rollout
-- **Onix** Lv10 — Rock Throw, Icy Wind, Gyro Ball, Rock Blast
-- **Sandygast** Lv10 — Astonish, Mega Drain, Icy Wind, Sand Attack
+- **Geodude** Lv10 — Rock Throw, Mud-Slap, Gyro Ball, Rock Blast
+- **Geodude** Lv10 — Rock Throw, Mud-Slap, Gyro Ball, Rock Blast
+- **Onix** Lv10 — Rock Throw, Gyro Ball, Rock Blast, Rock Tomb
+- **Sandygast** Lv10 — Astonish, Mud-Slap, Mega Drain, Sand Attack
 
 ### HIKER FRANKLIN  *(trainer #182)*
-- **Onix** Lv14 — Rock Tomb, Bulldoze, Icy Wind, Gyro Ball
+- **Onix** Lv14 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
 - **Machop** Lv15 — Karate Chop, Knock Off, Bullet Punch, Bulldoze
-- **Geodude** Lv15 — Rock Tomb, Bulldoze, Sucker Punch, Gyro Ball
+- **Geodude** Lv15 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
 - **Nosepass** Lv15 — Rock Tomb, Bulldoze, Spark, Rock Throw
 
 ### HIKER NOB  *(trainer #183)*
-- **Geodude** Lv13 — Rock Tomb, Bulldoze, Sucker Punch, Gyro Ball
-- **Geodude** Lv13 — Rock Tomb, Bulldoze, Sucker Punch, Gyro Ball
+- **Geodude** Lv13 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
+- **Geodude** Lv13 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
 - **Machop** Lv13 — Karate Chop, Knock Off, Bullet Punch, Bulldoze
-- **Geodude** Lv13 — Rock Tomb, Bulldoze, Sucker Punch, Gyro Ball
-- **Mudbray** Lv13 — Bulldoze, Rock Tomb, Mud-Slap, Mud Bomb
+- **Geodude** Lv13 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
+- **Mudbray** Lv13 — Bulldoze, Rock Tomb, Mud-Slap, Rototiller
 
 ### HIKER WAYNE  *(trainer #184)*
 - **Sandshrew** Lv16 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
-- **Onix** Lv17 — Rock Tomb, Bulldoze, Icy Wind, Gyro Ball
-- **Glimmet** Lv17 — AncientPower, Knock Off, Rock Throw, Rock Tomb
+- **Onix** Lv17 — Rock Tomb, Bulldoze, Gyro Ball, Rock Throw
+- **Glimmet** Lv17 — AncientPower, Rock Throw, Rock Tomb, Rock Blast
 
 ### HIKER ALAN  *(trainer #185)*
-- **Aron** Lv20 — Iron Head, Rock Slide, Dig, Aerial Ace
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
-- **Onix** Lv21 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Gabite** Lv21 — Dragon Claw, Dig, Aerial Ace, Iron Head
+- **Aron** Lv20 — Iron Head, Rock Slide, Dig, Metal Claw
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Onix** Lv21 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Gabite** Lv21 — Dragon Claw, Dig, Crunch, Aerial Ace
 
 ### HIKER BRICE  *(trainer #186)*
-- **Palpitoad** Lv19 — Scald, Bulldoze, Fire Fang, Iron Head
-- **Geodude** Lv20 — Rock Slide, Dig, Crunch, Brick Break
-- **Machop** Lv20 — Brick Break, Crunch, Bullet Punch, Dig
-- **Geodude** Lv20 — Rock Slide, Dig, Crunch, Brick Break
+- **Palpitoad** Lv19 — Scald, Bulldoze, Icy Wind, Bubble Beam
+- **Geodude** Lv20 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Machop** Lv20 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Geodude** Lv20 — Rock Slide, Dig, ThunderPunch, Fire Punch
 - **Cranidos** Lv20 — Rock Slide, Crunch, Iron Head, Dig
 
 ### HIKER CLARK  *(trainer #187)*
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
-- **Onix** Lv21 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Onix** Lv21 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
 
 ### HIKER TRENT  *(trainer #188)*
-- **Palpitoad** Lv18 — Bubble Beam, Bulldoze, Fire Fang, Mud-Slap
-- **Onix** Lv19 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Graveler** Lv19 — Rock Slide, Dig, Fire Punch, Sucker Punch
-- **Corsola** Lv19 — Scald, Power Gem, Iron Head, Dig
+- **Palpitoad** Lv18 — Bubble Beam, Bulldoze, Icy Wind, Mud Shot
+- **Onix** Lv19 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Graveler** Lv19 — Rock Slide, Dig, Fire Punch, Brick Break
+- **Corsola** Lv19 — Scald, Power Gem, Dig, Icy Wind
 
 ### HIKER DUDLEY  *(trainer #189)*
 - **Amaura** Lv20 — AncientPower, Aurora Beam, Discharge, Dark Pulse
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
-- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Sucker Punch
-- **Numel** Lv21 — Lava Plume, Mud Bomb, AncientPower, Liquidation
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Brick Break
+- **Numel** Lv21 — Lava Plume, Mud-Slap, AncientPower, Flash Cannon
 
 ### HIKER ALLEN  *(trainer #190)*
-- **Phanpy** Lv24 — Dig, Rock Slide, Air Slash, Ice Punch
-- **Geodude** Lv25 — Rock Slide, Dig, Crunch, Brick Break
+- **Phanpy** Lv24 — Dig, Rock Slide, Knock Off, Iron Head
+- **Geodude** Lv25 — Rock Slide, Dig, ThunderPunch, Fire Punch
 - **Sudowoodo** Lv25 — Rock Slide, Sucker Punch, Brick Break, Dig
 
 ### HIKER ERIC  *(trainer #191)*
-- **Timburr** Lv19 — Brick Break, Dig, Ice Punch, Rock Slide
-- **Machop** Lv20 — Brick Break, Crunch, Bullet Punch, Dig
-- **Onix** Lv20 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Marshtomp** Lv20 — Waterfall, Dig, Iron Head, Avalanche
+- **Timburr** Lv19 — Brick Break, Dig, Ice Punch, ThunderPunch
+- **Machop** Lv20 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Onix** Lv20 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Marshtomp** Lv20 — Liquidation, Dig, Ice Punch, Rock Slide
 
 ### HIKER LENNY  *(trainer #192)*
 - **Baltoy** Lv18 — Bulldoze, Psybeam, Gyro Ball, Rock Tomb
-- **Geodude** Lv19 — Rock Slide, Dig, Crunch, Brick Break
-- **Machop** Lv19 — Brick Break, Crunch, Bullet Punch, Dig
-- **Geodude** Lv19 — Rock Slide, Dig, Crunch, Brick Break
-- **Geodude** Lv19 — Rock Slide, Dig, Crunch, Brick Break
-- **Glimmet** Lv19 — Power Gem, Knock Off, Rock Throw, Rock Tomb
+- **Geodude** Lv19 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Machop** Lv19 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Geodude** Lv19 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Geodude** Lv19 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Glimmet** Lv19 — Power Gem, Rock Throw, Rock Tomb, Rock Slide
 
 ### HIKER OLIVER  *(trainer #193)*
-- **Onix** Lv20 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Onix** Lv20 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Geodude** Lv20 — Rock Slide, Dig, Crunch, Brick Break
-- **Clodsire** Lv20 — Poison Jab, Dig, Liquidation, Rock Slide
+- **Onix** Lv20 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Onix** Lv20 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Geodude** Lv20 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Clodsire** Lv20 — Poison Jab, Dig, Liquidation, Iron Head
 
 ### HIKER LUCAS  *(trainer #194)*
 - **Larvitar** Lv20 — Rock Slide, Dig, Crunch, Brick Break
-- **Geodude** Lv21 — Rock Slide, Dig, Crunch, Brick Break
-- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Sucker Punch
+- **Geodude** Lv21 — Rock Slide, Dig, ThunderPunch, Fire Punch
+- **Graveler** Lv21 — Rock Slide, Dig, Fire Punch, Brick Break
 - **Sudowoodo** Lv21 — Rock Slide, Sucker Punch, Brick Break, Dig
 - **Pupitar** Lv21 — Rock Slide, Dig, Brick Break, Aerial Ace
 
 ### BIKER JARED  *(trainer #195)*
-- **Qwilfish** Lv27 — Waterfall, Poison Jab, Air Slash, Gyro Ball
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Qwilfish** Lv28 — Waterfall, Poison Jab, Air Slash, Gyro Ball
+- **Qwilfish** Lv27 — Liquidation, Poison Jab, Gyro Ball, Icy Wind
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Qwilfish** Lv28 — Liquidation, Poison Jab, Gyro Ball, Icy Wind
 
 ### BIKER MALIK  *(trainer #196)*
-- **Koffing** Lv29 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Grimer** Lv29 — Poison Jab, Flamethrower, Foul Play, Drain Punch
-- **Venomoth** Lv29 — Bug Buzz, Sludge Bomb, ThunderPunch, Muddy Water
+- **Koffing** Lv29 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Grimer** Lv29 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Venomoth** Lv29 — Bug Buzz, Sludge Wave, Air Slash, Energy Ball
 
 ### BIKER ERNEST  *(trainer #197)*
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv25 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Grimer** Lv25 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Beedrill** Lv25 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Weezing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Grimer** Lv25 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Beedrill** Lv25 — X-Scissor, Poison Jab, Brick Break, Mega Drain
 
 ### BIKER ALEX  *(trainer #198)*
-- **Koffing** Lv27 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Grimer** Lv28 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
+- **Koffing** Lv27 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Grimer** Lv28 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
 
 ### BIKER LAO  *(trainer #199)*
-- **Nidorino** Lv28 — Poison Jab, Iron Head, Dig, Power Gem
-- **Grimer** Lv29 — Poison Jab, Flamethrower, Foul Play, Drain Punch
-- **Koffing** Lv29 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Salazzle** Lv29 — Sludge Wave, Flamethrower, Knock Off, Iron Tail
+- **Nidorino** Lv28 — Poison Jab, Dig, Helping Hand, Horn Attack
+- **Grimer** Lv29 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Koffing** Lv29 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Salazzle** Lv29 — Sludge Wave, Heat Wave, Foul Play, Mud-Slap
 
 ### BIKER  *(trainer #200)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### BIKER HIDEO  *(trainer #201)*
-- **Qwilfish** Lv32 — Aqua Tail, Poison Jab, Air Slash, Gyro Ball
-- **Weezing** Lv33 — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Venomoth** Lv33 — Bug Buzz, Sludge Bomb, ThunderPunch, Muddy Water
+- **Qwilfish** Lv32 — Aqua Tail, Poison Jab, Gyro Ball, Ice Beam
+- **Weezing** Lv33 — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Venomoth** Lv33 — Bug Buzz, Sludge Wave, Air Slash, Energy Ball
 
 ### BIKER RUBEN  *(trainer #202)*
-- **Clodsire** Lv27 — Poison Jab, Dig, Liquidation, Rock Slide
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Clodsire** Lv28 — Poison Jab, Dig, Liquidation, Rock Slide
+- **Clodsire** Lv27 — Poison Jab, Dig, Liquidation, Iron Head
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Clodsire** Lv28 — Poison Jab, Dig, Liquidation, Iron Head
 
 ### BIKER BILLY  *(trainer #203)*
-- **Swalot** Lv32 — Poison Jab, Iron Head, Giga Drain, Earthquake
-- **Muk** Lv33 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Ariados** Lv33 — X-Scissor, Poison Jab, Dig, Night Slash
-- **Skuntank** Lv33 — Poison Jab, Foul Play, Aqua Tail, Iron Tail
+- **Swalot** Lv32 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
+- **Muk** Lv33 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Ariados** Lv33 — X-Scissor, Poison Jab, Dig, Foul Play
+- **Skuntank** Lv33 — Poison Jab, Foul Play, Dig, Flamethrower
 
 ### BIKER NIKOLAS  *(trainer #204)*
-- **Morpeko** Lv28 — Spark, Crunch, Brick Break, Rock Blast
-- **Voltorb** Lv29 — Thunderbolt, Iron Head, Rock Blast, Spark
-- **Voltorb** Lv29 — Thunderbolt, Iron Head, Rock Blast, Spark
-- **Flaaffy** Lv29 — Thunderbolt, Earth Power, Icy Wind, Power Gem
+- **Morpeko** Lv28 — ThunderPunch, Crunch, Brick Break, Seed Bomb
+- **Voltorb** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Voltorb** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Flaaffy** Lv29 — Thunderbolt, Dig, Ice Punch, Power Gem
 
 ### BIKER JAXON  *(trainer #205)*
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Muk** Lv29 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Amoonguss** Lv29 — Energy Ball, Sludge Bomb, Muddy Water, Power Gem
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Muk** Lv29 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Amoonguss** Lv29 — Seed Bomb, Sludge Bomb, Foul Play, Mega Drain
 
 ### BIKER WILLIAM  *(trainer #206)*
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv25 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv25 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Clodsire** Lv25 — Poison Jab, Dig, Liquidation, Rock Slide
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Weezing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Weezing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Clodsire** Lv25 — Poison Jab, Dig, Liquidation, Iron Head
 
 ### BIKER LUKAS  *(trainer #207)*
-- **Arbok** Lv25 — Poison Jab, Crunch, Dig, Ice Punch
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Grimer** Lv26 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Stunky** Lv26 — Poison Jab, Crunch, Dig, Icy Wind
+- **Arbok** Lv25 — Poison Jab, Crunch, Dig, Rock Slide
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Grimer** Lv26 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Stunky** Lv26 — Poison Jab, Crunch, Dig, Bite
 
 ### BIKER ISAAC  *(trainer #208)*
 - **Roselia** Lv27 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
-- **Grimer** Lv28 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Grimer** Lv28 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
+- **Grimer** Lv28 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Grimer** Lv28 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
 - **Roselia** Lv28 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
 
 ### BIKER GERALD  *(trainer #209)*
-- **Clodsire** Lv28 — Poison Jab, Dig, Liquidation, Rock Slide
-- **Koffing** Lv29 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Muk** Lv29 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Gloom** Lv29 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
+- **Clodsire** Lv28 — Poison Jab, Dig, Liquidation, Iron Head
+- **Koffing** Lv29 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Muk** Lv29 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Gloom** Lv29 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
 
 ### BURGLAR  *(trainer #210)*
-- **Larvesta** Lv28 — U-turn, Flame Wheel, Liquidation, Iron Head
-- **Growlithe** Lv29 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Vulpix** Lv29 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Combusken** Lv29 — Flamethrower, Sky Uppercut, Night Slash, Muddy Water
+- **Larvesta** Lv28 — Leech Life, Flame Wheel, Giga Drain, Bug Bite
+- **Growlithe** Lv29 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Vulpix** Lv29 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Dig
+- **Combusken** Lv29 — Fire Punch, Sky Uppercut, Aerial Ace, Dig
 
 ### BURGLAR  *(trainer #211)*
-- **Magmar** Lv32 — Flamethrower, Foul Play, Cross Chop, Liquidation
-- **Growlithe** Lv33 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Charmeleon** Lv33 — Heat Wave, Crunch, Brick Break, Air Cutter
+- **Magmar** Lv32 — Heat Wave, Knock Off, Brick Break, ThunderPunch
+- **Growlithe** Lv33 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Charmeleon** Lv33 — Heat Wave, Crunch, Brick Break, Dig
 
 ### BURGLAR  *(trainer #212)*
-- **Magcargo** Lv27 — Lava Plume, AncientPower, Gyro Ball, Bulldoze
-- **Vulpix** Lv28 — Ember, ThunderPunch, Dark Pulse, Dig
-- **Charmander** Lv28 — Ember, Crunch, Brick Break, Air Cutter
-- **Ponyta** Lv28 — Fire Punch, Iron Head, Ember, Flame Wheel
-- **Charmeleon** Lv28 — Ember, Crunch, Brick Break, Air Cutter
+- **Magcargo** Lv27 — Lava Plume, Power Gem, Gyro Ball, Mud-Slap
+- **Vulpix** Lv28 — Ember, Dark Pulse, Dig, Feint Attack
+- **Charmander** Lv28 — Ember, Crunch, Brick Break, Metal Claw
+- **Ponyta** Lv28 — Flame Wheel, Ember, Fire Spin, Flame Charge
+- **Charmeleon** Lv28 — Ember, Crunch, Brick Break, Dig
 
 ### BURGLAR QUINN  *(trainer #213)*
 - **Scovillain** Lv35 — Seed Bomb, Fire Fang, Crunch, Razor Leaf
-- **Growlithe** Lv36 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Vulpix** Lv36 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Ninetales** Lv36 — Heat Wave, Dark Pulse, Iron Tail, Energy Ball
-- **Rapidash** Lv36 — Flame Wheel, Aura Sphere, Iron Tail, Earth Power
-- **Chandelure** Lv36 — Shadow Ball, Heat Wave, Dark Pulse, Muddy Water
+- **Growlithe** Lv36 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Vulpix** Lv36 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Ninetales** Lv36 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Rapidash** Lv36 — Flame Wheel, Iron Tail, Wild Charge, Play Rough
+- **Chandelure** Lv36 — Shadow Ball, Heat Wave, Dark Pulse, Energy Ball
 
 ### BURGLAR RAMON  *(trainer #214)*
-- **Pignite** Lv40 — Flamethrower, Brick Break, Bulldoze, Ice Punch
-- **Ponyta** Lv41 — Flare Blitz, Aqua Tail, Iron Tail, Wild Charge
-- **Delphox** Lv41 — Fire Blast, Future Sight, Iron Tail, Ember
-- **Volcarona** Lv41 — Bug Buzz, Fire Blast, Close Combat, Aqua Tail
+- **Pignite** Lv40 — Fire Punch, Brick Break, Dig, Wild Charge
+- **Ponyta** Lv41 — Flare Blitz, Play Rough, Iron Tail, Wild Charge
+- **Delphox** Lv41 — Fire Blast, Future Sight, Mud-Slap, ThunderPunch
+- **Volcarona** Lv41 — Bug Buzz, Fire Blast, Hurricane, Giga Drain
 
 ### BURGLAR DUSTY  *(trainer #215)*
-- **Charmeleon** Lv36 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Vulpix** Lv37 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Growlithe** Lv37 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Magmar** Lv37 — Flamethrower, Foul Play, Cross Chop, Liquidation
-- **Talonflame** Lv37 — Fire Punch, Aerial Ace, Muddy Water, Steel Wing
+- **Charmeleon** Lv36 — Heat Wave, Crunch, Brick Break, Dig
+- **Vulpix** Lv37 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Growlithe** Lv37 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Magmar** Lv37 — Heat Wave, Knock Off, Brick Break, ThunderPunch
+- **Talonflame** Lv37 — Heat Wave, Aerial Ace, Steel Wing, Ember
 
 ### BURGLAR ARNIE  *(trainer #216)*
-- **Salazzle** Lv33 — Sludge Wave, Flamethrower, Knock Off, Iron Tail
-- **Charmander** Lv34 — Flamethrower, Crunch, Brick Break, Air Cutter
-- **Charmeleon** Lv34 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Heatmor** Lv34 — Heat Wave, Dig, Rock Tomb, Night Slash
+- **Salazzle** Lv33 — Sludge Wave, Heat Wave, Foul Play, Mud-Slap
+- **Charmander** Lv34 — Heat Wave, Crunch, Brick Break, Iron Tail
+- **Charmeleon** Lv34 — Heat Wave, Crunch, Brick Break, Dig
+- **Heatmor** Lv34 — Heat Wave, Dig, ThunderPunch, Rock Tomb
 - **Scovillain** Lv34 — Seed Bomb, Fire Fang, Crunch, Razor Leaf
 
 ### BURGLAR  *(trainer #217)*
 - **Scovillain** Lv33 — Seed Bomb, Fire Fang, Crunch, Razor Leaf
-- **Charmander** Lv34 — Flamethrower, Crunch, Brick Break, Air Cutter
-- **Charmeleon** Lv34 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Sunflora** Lv34 — Energy Ball, Heat Wave, Earth Power, Play Rough
-- **Simisear** Lv34 — Fire Punch, Rock Slide, Play Rough, Crunch
+- **Charmander** Lv34 — Heat Wave, Crunch, Brick Break, Iron Tail
+- **Charmeleon** Lv34 — Heat Wave, Crunch, Brick Break, Dig
+- **Sunflora** Lv34 — Energy Ball, Earth Power, Mega Drain, Razor Leaf
+- **Simisear** Lv34 — Fire Punch, Rock Slide, Knock Off, Brick Break
 
 ### BURGLAR SIMON  *(trainer #218)*
-- **Centskorch** Lv37 — Flame Wheel, X-Scissor, Crunch, Muddy Water
-- **Ninetales** Lv38 — Heat Wave, Dark Pulse, Iron Tail, Energy Ball
-- **Torracat** Lv38 — Fire Fang, Air Slash, Iron Head, Foul Play
-- **Magcargo** Lv38 — Heat Wave, AncientPower, Gyro Ball, Earth Power
+- **Centskorch** Lv37 — Fire Fang, X-Scissor, Crunch, Scald
+- **Ninetales** Lv38 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Torracat** Lv38 — Fire Fang, Crunch, Ember, Flamethrower
+- **Magcargo** Lv38 — Heat Wave, Power Gem, Gyro Ball, Earth Power
 
 ### BURGLAR LEWIS  *(trainer #219)*
-- **Ninetales** Lv33 — Heat Wave, Dark Pulse, Iron Tail, Energy Ball
-- **Growlithe** Lv34 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Ponyta** Lv34 — Fire Punch, Aqua Tail, Iron Tail, Wild Charge
-- **Pyroar** Lv34 — Flamethrower, Hyper Voice, Air Slash, Iron Tail
-- **Coalossal** Lv34 — Stone Edge, Flamethrower, Knock Off, Aqua Tail
+- **Ninetales** Lv33 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Growlithe** Lv34 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Ponyta** Lv34 — Flame Wheel, Play Rough, Iron Tail, Wild Charge
+- **Pyroar** Lv34 — Heat Wave, Hyper Voice, Mud-Slap, Wild Charge
+- **Coalossal** Lv34 — Stone Edge, Fire Punch, Scald, Iron Head
 
 ### ENGINEER BAILY  *(trainer #220)*
-- **Voltorb** Lv21 — Discharge, Iron Head, Rock Blast, Spark
-- **Magnemite** Lv21 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Emolga** Lv21 — Spark, Aerial Ace, Liquidation, Ice Punch
+- **Voltorb** Lv21 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Magnemite** Lv21 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Emolga** Lv21 — Spark, DualWingbeat, ThunderShock, Volt Switch
 
 ### ENGINEER BRAXTON  *(trainer #221)*
-- **Blitzle** Lv20 — Spark, Iron Head, Volt Switch, Discharge
-- **Magnemite** Lv21 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Tinkatink** Lv21 — Spirit Break, Metal Claw, Knock Off, ThunderPunch
-- **Bronzor** Lv21 — Gyro Ball, Zen Headbutt, Bulldoze, Rock Slide
+- **Blitzle** Lv20 — Spark, Volt Switch, Discharge, Flame Charge
+- **Magnemite** Lv21 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Tinkatink** Lv21 — Spirit Break, Metal Claw, Knock Off, Rock Slide
+- **Bronzor** Lv21 — Iron Head, Zen Headbutt, Bulldoze, Rock Slide
 
 ### ENGINEER BERNIE  *(trainer #222)*
-- **Cufant** Lv17 — Bulldoze, Rock Tomb, Rock Smash, Rollout
+- **Cufant** Lv17 — Bulldoze, Rock Tomb, Rock Blast, Rock Smash
 - **Magnemite** Lv18 — Volt Switch, Gyro Ball, ThunderShock, Spark
 - **Magnemite** Lv18 — Volt Switch, Gyro Ball, ThunderShock, Spark
 - **Magneton** Lv18 — Volt Switch, Gyro Ball, ThunderShock, Spark
-- **Wattrel** Lv18 — Volt Switch, Aerial Ace, Knock Off, Steel Wing
+- **Wattrel** Lv18 — Volt Switch, Air Cutter, ThunderShock, Spark
 
 ### FISHERMAN DALE  *(trainer #223)*
 - **Prinplup** Lv16 — Bubble Beam, Rock Tomb, Aerial Ace, Metal Claw
-- **Goldeen** Lv17 — Mud-Slap, Knock Off, Water Pulse, Flail
+- **Goldeen** Lv17 — Mud-Slap, Icy Wind, Water Pulse, Flail
 - **Tentacool** Lv17 — Bubble Beam, Acid, Aurora Beam, Knock Off
-- **Goldeen** Lv17 — Mud-Slap, Knock Off, Water Pulse, Flail
-- **Piplup** Lv17 — Bubble Beam, Rock Tomb, Aerial Ace, Mud-Slap
-- **Haunter** Lv17 — Hex, Sucker Punch, Lick, Astonish
+- **Goldeen** Lv17 — Mud-Slap, Icy Wind, Water Pulse, Flail
+- **Piplup** Lv17 — Bubble Beam, Rock Tomb, Aerial Ace, Icy Wind
+- **Haunter** Lv17 — Hex, Icy Wind, Sucker Punch, Lick
 
 ### FISHERMAN BARNY  *(trainer #224)*
-- **Dewpider** Lv16 — Bubble Beam, Bug Bite, Aurora Beam, Fire Fang
+- **Dewpider** Lv16 — Bubble Beam, Bug Bite, Icy Wind, Bite
 - **Tentacool** Lv17 — Bubble Beam, Acid, Aurora Beam, Knock Off
-- **Staryu** Lv17 — Bubble Beam, Gyro Ball, Water Gun, Swift
+- **Staryu** Lv17 — Bubble Beam, Icy Wind, Gyro Ball, Water Gun
 - **Shellder** Lv17 — Bubble Beam, Avalanche, Rock Blast, Water Gun
-- **Finizen** Lv17 — Water Gun, Double Hit, Aqua Jet, Focus Energy
+- **Finizen** Lv17 — Water Gun, Icy Wind, Double Hit, Aqua Jet
 
 ### FISHERMAN NED  *(trainer #225)*
-- **Buizel** Lv21 — Waterfall, Rock Tomb, Crunch, Brick Break
-- **Goldeen** Lv22 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Poliwag** Lv22 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Goldeen** Lv22 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Finizen** Lv22 — Waterfall, Water Gun, Aqua Tail, Double Hit
+- **Buizel** Lv21 — Liquidation, Rock Tomb, Crunch, Brick Break
+- **Goldeen** Lv22 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Poliwag** Lv22 — Liquidation, Dig, Icy Wind, Water Gun
+- **Goldeen** Lv22 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Finizen** Lv22 — Liquidation, Icy Wind, Water Gun, Waterfall
 
 ### FISHERMAN CHIP  *(trainer #226)*
-- **Chinchou** Lv23 — Scald, Discharge, Seed Bomb, Icy Wind
-- **Tentacool** Lv24 — Scald, Acid, Aurora Beam, Knock Off
-- **Goldeen** Lv24 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Piplup** Lv24 — Scald, Power Gem, Brick Break, Drill Peck
+- **Chinchou** Lv23 — Scald, Discharge, Sucker Punch, Icy Wind
+- **Tentacool** Lv24 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Goldeen** Lv24 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Piplup** Lv24 — Bubble Beam, Rock Tomb, Brick Break, Drill Peck
 
 ### FISHERMAN HANK  *(trainer #227)*
-- **Quaxwell** Lv26 — Liquidation, Wing Attack, Steel Wing, Water Gun
-- **Goldeen** Lv27 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Brionne** Lv27 — Scald, Icy Wind, Aura Sphere, Water Gun
+- **Quaxwell** Lv26 — Liquidation, Wing Attack, Water Gun, Aerial Ace
+- **Goldeen** Lv27 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Brionne** Lv27 — Bubble Beam, Icy Wind, Water Gun, Waterfall
 
 ### FISHERMAN ELLIOT  *(trainer #228)*
-- **Poliwag** Lv20 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Poliwag** Lv21 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Shellder** Lv21 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Goldeen** Lv21 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Horsea** Lv21 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Mantyke** Lv21 — Scald, Air Slash, Bulldoze, Rock Slide
+- **Poliwag** Lv20 — Liquidation, Dig, Icy Wind, Water Gun
+- **Poliwag** Lv21 — Liquidation, Dig, Icy Wind, Water Gun
+- **Shellder** Lv21 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Goldeen** Lv21 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Horsea** Lv21 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Mantyke** Lv21 — Scald, Air Slash, Bulldoze, Icy Wind
 
 ### FISHERMAN RONALD  *(trainer #229)*
-- **Seaking** Lv28 — Waterfall, Mud-Slap, Air Slash, Iron Head
-- **Goldeen** Lv28 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv28 — Waterfall, Mud-Slap, Air Slash, Iron Head
-- **Seaking** Lv28 — Waterfall, Mud-Slap, Air Slash, Iron Head
-- **Pelipper** Lv28 — Scald, Wing Attack, Steel Wing, Water Gun
+- **Seaking** Lv28 — Waterfall, Icy Wind, Scald, Fury Attack
+- **Goldeen** Lv28 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Seaking** Lv28 — Waterfall, Icy Wind, Scald, Fury Attack
+- **Seaking** Lv28 — Waterfall, Icy Wind, Scald, Fury Attack
+- **Pelipper** Lv28 — Water Gun, Air Slash, Seed Bomb, Icy Wind
 
 ### FISHERMAN CLAUDE  *(trainer #230)*
-- **Crabminble** Lv30 — Brick Break, Ice Punch, Earthquake, ThunderPunch
-- **Shellder** Lv31 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Cloyster** Lv31 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
+- **Crabminble** Lv30 — Brick Break, Ice Punch, Iron Head, Earthquake
+- **Shellder** Lv31 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Cloyster** Lv31 — Liquidation, Icicle Crash, Rock Blast, Water Gun
 - **Huntail** Lv31 — Aqua Tail, Rock Tomb, Crunch, Ice Beam
 
 ### FISHERMAN WADE  *(trainer #231)*
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv27 — Liquidation, Icy Wind, Tackle, Splash
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv27 — Tackle, Splash, Flail, Tackle
 
 ### FISHERMAN NOLAN  *(trainer #232)*
-- **Cramorant** Lv32 — Drill Peck, Surf, Steel Wing, Leaf Blade
-- **Seaking** Lv33 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Goldeen** Lv33 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Wartortle** Lv33 — Surf, Iron Tail, Seed Bomb, Dig
-- **Marshtomp** Lv33 — Waterfall, Earthquake, Iron Tail, Avalanche
+- **Cramorant** Lv32 — Drill Peck, Liquidation, Ice Beam, Aerial Ace
+- **Seaking** Lv33 — Waterfall, Ice Beam, Surf, Scald
+- **Goldeen** Lv33 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Wartortle** Lv33 — Surf, Gyro Ball, Dig, Ice Beam
+- **Marshtomp** Lv33 — Liquidation, Earthquake, Ice Punch, Rock Slide
 
 ### FISHERMAN ANDREW  *(trainer #233)*
-- **Corsola** Lv23 — Scald, Power Gem, Iron Head, Dig
-- **Magikarp** Lv24 — Liquidation, Icy Wind, Tackle, Splash
-- **Magikarp** Lv24 — Liquidation, Icy Wind, Tackle, Splash
-- **Mantyke** Lv24 — Scald, Air Slash, Bulldoze, Rock Slide
+- **Corsola** Lv23 — Scald, Power Gem, Dig, Icy Wind
+- **Magikarp** Lv24 — Tackle, Splash, Flail, Tackle
+- **Magikarp** Lv24 — Tackle, Splash, Flail, Tackle
+- **Mantyke** Lv24 — Scald, Air Slash, Bulldoze, Icy Wind
 
 ### SWIMMER? LUIS  *(trainer #234)*
-- **Frillish** Lv15 — Bubble Beam, Hex, Icy Wind, Night Shade
-- **Horsea** Lv16 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
+- **Frillish** Lv15 — Bubble Beam, Hex, Icy Wind, Water Gun
+- **Horsea** Lv16 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
 - **Shellder** Lv16 — Bubble Beam, Avalanche, Rock Blast, Water Gun
-- **Skrelp** Lv16 — Acid, Water Gun, Knock Off, Feint Attack
+- **Skrelp** Lv16 — Acid, Water Gun, Feint Attack, Mud-Slap
 
 ### SWIMMER? RICHARD  *(trainer #235)*
-- **Bibarel** Lv29 — Tackle, Aqua Tail, Air Slash, Iron Tail
+- **Bibarel** Lv29 — Tackle, Aqua Tail, Iron Tail, Bulldoze
 - **Tentacool** Lv30 — Surf, Sludge Wave, Ice Beam, Knock Off
-- **Shellder** Lv30 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Veluza** Lv30 — Liquidation, Psychic, Power Gem, Fire Fang
+- **Shellder** Lv30 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Veluza** Lv30 — Liquidation, Zen Headbutt, Crunch, Ice Beam
 
 ### SWIMMER? REECE  *(trainer #236)*
-- **Goldeen** Lv29 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Horsea** Lv29 — Surf, Flash Cannon, Earth Power, Ice Beam
+- **Goldeen** Lv29 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Horsea** Lv29 — Surf, Flash Cannon, Ice Beam, Water Gun
 - **Staryu** Lv29 — Surf, Ice Beam, Thunderbolt, Power Gem
-- **Quaxwell** Lv29 — Aqua Tail, Wing Attack, Steel Wing, Water Gun
+- **Quaxwell** Lv29 — Liquidation, Wing Attack, Water Gun, Surf
 
 ### SWIMMER? MATTHEW  *(trainer #237)*
-- **Drizzile** Lv29 — Surf, Sucker Punch, Ice Shard, Fire Punch
-- **Poliwag** Lv30 — Waterfall, Dig, Ice Beam, Water Gun
-- **Poliwhirl** Lv30 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Slowbro** Lv30 — Surf, Psychic, Air Slash, Iron Tail
-- **Baraskewda** Lv30 — Liquidation, Seed Bomb, Ice Beam, Fire Fang
+- **Drizzile** Lv29 — Surf, Sucker Punch, Water Gun, Waterfall
+- **Poliwag** Lv30 — Liquidation, Dig, Ice Beam, Water Gun
+- **Poliwhirl** Lv30 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Slowbro** Lv30 — Surf, Psychic, Earthquake, Ice Beam
+- **Baraskewda** Lv30 — Liquidation, Ice Beam, Crunch, Brick Break
 
 ### SWIMMER? DOUGLAS  *(trainer #238)*
-- **Marshtomp** Lv26 — Waterfall, Dig, Iron Head, Avalanche
-- **Horsea** Lv27 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Tentacool** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Tentacool** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Goldeen** Lv27 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Corsola** Lv27 — Scald, Power Gem, Iron Head, Dig
+- **Marshtomp** Lv26 — Liquidation, Dig, Ice Punch, Rock Slide
+- **Horsea** Lv27 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Tentacool** Lv27 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Tentacool** Lv27 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Goldeen** Lv27 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Corsola** Lv27 — Scald, Power Gem, Dig, Icy Wind
 
 ### SWIMMER? DAVID  *(trainer #239)*
-- **Prinplup** Lv28 — Scald, Rock Tomb, Aura Sphere, Air Slash
-- **Goldeen** Lv29 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Shellder** Lv29 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Seaking** Lv29 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Pelipper** Lv29 — Surf, Wing Attack, Steel Wing, Ice Beam
+- **Prinplup** Lv28 — Bubble Beam, Rock Tomb, Brick Break, Drill Peck
+- **Goldeen** Lv29 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Shellder** Lv29 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Seaking** Lv29 — Waterfall, Ice Beam, Surf, Scald
+- **Pelipper** Lv29 — Surf, Air Slash, Seed Bomb, Ice Beam
 
 ### SWIMMER? TONY  *(trainer #240)*
-- **Horsea** Lv30 — Surf, Flash Cannon, Earth Power, Ice Beam
-- **Horsea** Lv30 — Surf, Flash Cannon, Earth Power, Ice Beam
-- **Wartortle** Lv30 — Surf, Iron Tail, Seed Bomb, Dig
+- **Horsea** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Horsea** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Wartortle** Lv30 — Surf, Gyro Ball, Dig, Ice Beam
 
 ### SWIMMER? AXLE  *(trainer #241)*
-- **Tentacool** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Tentacool** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Staryu** Lv27 — Scald, Ice Punch, Power Gem, Flash Cannon
-- **Horsea** Lv27 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Tentacruel** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Amoonguss** Lv27 — Giga Drain, Power Gem, Crunch, Aura Sphere
+- **Tentacool** Lv27 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Tentacool** Lv27 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Staryu** Lv27 — Scald, Icy Wind, Power Gem, Flash Cannon
+- **Horsea** Lv27 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Tentacruel** Lv27 — Bubble Beam, Acid, Icy Wind, Knock Off
+- **Amoonguss** Lv27 — Seed Bomb, Feint Attack, Mega Drain, Giga Drain
 
 ### SWIMMER? BARRY  *(trainer #242)*
-- **Vanillish** Lv30 — Ice Beam, Crunch, Muddy Water, Flash Cannon
-- **Shellder** Lv31 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Cloyster** Lv31 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
-- **Araquanid** Lv31 — Liquidation, X-Scissor, Seed Bomb, Ice Beam
+- **Vanillish** Lv30 — Ice Beam, Flash Cannon, Icy Wind, Avalanche
+- **Shellder** Lv31 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Cloyster** Lv31 — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Araquanid** Lv31 — Liquidation, X-Scissor, Giga Drain, Ice Beam
 - **Sharpedo** Lv31 — Liquidation, Crunch, Earthquake, Avalanche
 
 ### SWIMMER? DEAN  *(trainer #243)*
-- **Azumarill** Lv34 — Surf, Play Rough, Fire Fang, Aura Sphere
+- **Azumarill** Lv34 — Surf, Play Rough, Knock Off, Brick Break
 - **Staryu** Lv35 — Surf, Ice Beam, Thunderbolt, Power Gem
-- **Kabutops** Lv35 — Stone Edge, Liquidation, Aerial Ace, Giga Drain
+- **Kabutops** Lv35 — Stone Edge, Liquidation, Giga Drain, Dig
 - **Carracosta** Lv35 — Aqua Tail, Stone Edge, Crunch, Iron Tail
 
 ### SWIMMER? DARRIN  *(trainer #244)*
-- **Basculin** Lv27 — Waterfall, Fire Punch, Crunch, Water Gun
-- **Horsea** Lv28 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Horsea** Lv28 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Seadra** Lv28 — Scald, Air Slash, Flash Cannon, Aurora Beam
-- **Horsea** Lv28 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Seadra** Lv28 — Scald, Air Slash, Flash Cannon, Aurora Beam
+- **Basculin** Lv27 — Liquidation, Crunch, Icy Wind, Water Gun
+- **Horsea** Lv28 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Horsea** Lv28 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Seadra** Lv28 — Bubble Beam, Flash Cannon, Icy Wind, Water Gun
+- **Horsea** Lv28 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Seadra** Lv28 — Bubble Beam, Flash Cannon, Icy Wind, Water Gun
 
 ### SWIMMER? SPENCER  *(trainer #245)*
-- **Brionne** Lv32 — Surf, Iron Tail, Ice Beam, Moonblast
-- **Seadra** Lv33 — Surf, Air Slash, Flash Cannon, Ice Beam
+- **Brionne** Lv32 — Surf, Ice Beam, Moonblast, Water Gun
+- **Seadra** Lv33 — Surf, Flash Cannon, Ice Beam, Water Gun
 - **Tentacruel** Lv33 — Surf, Sludge Wave, Ice Beam, Knock Off
 - **Huntail** Lv33 — Aqua Tail, Rock Tomb, Crunch, Ice Beam
-- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Ice Punch
+- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Rock Slide
 
 ### SWIMMER? JACK  *(trainer #246)*
-- **Orbeetle** Lv36 — Bug Buzz, Psychic, Heat Wave, Foul Play
+- **Orbeetle** Lv36 — Bug Buzz, Psychic, Energy Ball, Struggle Bug
 - **Starmie** Lv37 — Surf, Psychic, Ice Beam, Thunderbolt
-- **Seadra** Lv37 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Pelipper** Lv37 — Surf, Wing Attack, Steel Wing, Ice Beam
+- **Seadra** Lv37 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Pelipper** Lv37 — Surf, Air Slash, Seed Bomb, Ice Beam
 
 ### SWIMMER? JEROME  *(trainer #247)*
-- **Pelipper** Lv32 — Surf, Wing Attack, Steel Wing, Ice Beam
+- **Pelipper** Lv32 — Surf, Air Slash, Seed Bomb, Ice Beam
 - **Staryu** Lv33 — Surf, Ice Beam, Thunderbolt, Power Gem
-- **Wartortle** Lv33 — Surf, Iron Tail, Seed Bomb, Dig
-- **Omastar** Lv33 — AncientPower, Surf, Aura Sphere, Iron Head
-- **Floatzel** Lv33 — Aqua Tail, Heat Wave, Crunch, Brick Break
+- **Wartortle** Lv33 — Surf, Gyro Ball, Dig, Ice Beam
+- **Omastar** Lv33 — AncientPower, Surf, Gyro Ball, Earth Power
+- **Floatzel** Lv33 — Aqua Tail, Crunch, Brick Break, Dig
 
 ### SWIMMER? ROLAND  *(trainer #248)*
-- **Skuntank** Lv31 — Poison Jab, Foul Play, Aqua Tail, Iron Tail
-- **Poliwhirl** Lv32 — Liquidation, Ice Punch, Knock Off, Brick Break
+- **Skuntank** Lv31 — Poison Jab, Foul Play, Dig, Flamethrower
+- **Poliwhirl** Lv32 — Liquidation, Ice Punch, Brick Break, Earthquake
 - **Tentacool** Lv32 — Surf, Sludge Wave, Ice Beam, Knock Off
-- **Seadra** Lv32 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Araquanid** Lv32 — Liquidation, X-Scissor, Seed Bomb, Ice Beam
+- **Seadra** Lv32 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Araquanid** Lv32 — Liquidation, X-Scissor, Giga Drain, Ice Beam
 - **Sharpedo** Lv32 — Liquidation, Crunch, Earthquake, Avalanche
 
 ### CUE BALL KOJI  *(trainer #249)*
-- **Machop** Lv28 — Brick Break, Crunch, Bullet Punch, Dig
-- **Mankey** Lv28 — Brick Break, Aerial Ace, Dig, Rock Slide
-- **Machop** Lv28 — Brick Break, Crunch, Bullet Punch, Dig
-- **Hakamo-o** Lv28 — Dragon Claw, Sky Uppercut, Fire Punch, Aerial Ace
+- **Machop** Lv28 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Mankey** Lv28 — Brick Break, Seed Bomb, Dig, Ice Punch
+- **Machop** Lv28 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Hakamo-o** Lv28 — Dragon Claw, Sky Uppercut, Aerial Ace, Iron Head
 
 ### CUE BALL LUKE  *(trainer #250)*
-- **Hariyama** Lv28 — Brick Break, Dig, Ice Punch, Rock Slide
-- **Mankey** Lv29 — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Machop** Lv29 — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Hakamo-o** Lv29 — Dragon Claw, Sky Uppercut, Fire Punch, Foul Play
-- **Throh** Lv29 — Brick Break, Stone Edge, Foul Play, Aqua Tail
+- **Hariyama** Lv28 — Brick Break, Dig, Ice Punch, ThunderPunch
+- **Mankey** Lv29 — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Machop** Lv29 — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Hakamo-o** Lv29 — Dragon Claw, Sky Uppercut, Aerial Ace, Iron Head
+- **Throh** Lv29 — Brick Break, Stone Edge, Fire Punch, Earthquake
 
 ### CUE BALL CAMRON  *(trainer #251)*
-- **Hitmontop** Lv28 — Brick Break, Aerial Ace, Bullet Punch, Dig
-- **Mankey** Lv29 — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Machop** Lv29 — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Sawk** Lv29 — Brick Break, Heat Wave, Air Slash, Earthquake
+- **Hitmontop** Lv28 — Brick Break, Aerial Ace, Gyro Ball, Dig
+- **Mankey** Lv29 — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Machop** Lv29 — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Sawk** Lv29 — Brick Break, Fire Punch, Earthquake, Ice Punch
 
 ### CUE BALL RAUL  *(trainer #252)*
-- **Stufful** Lv28 — Body Slam, Brick Break, Aerial Ace, Bulldoze
-- **Mankey** Lv29 — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv29 — Cross Chop, Aerial Ace, Iron Tail, Earthquake
+- **Stufful** Lv28 — Tackle, Brick Break, Iron Head, Bulldoze
+- **Mankey** Lv29 — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv29 — Cross Chop, Seed Bomb, Earthquake, Ice Punch
 - **Hitmonchan** Lv29 — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
 
 ### CUE BALL ISAIAH  *(trainer #253)*
-- **Machop** Lv29 — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machamp** Lv29 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Grapploct** Lv29 — Brick Break, Foul Play, Liquidation, Iron Head
+- **Machop** Lv29 — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machamp** Lv29 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Grapploct** Lv29 — Brick Break, Liquidation, Dig, Ice Punch
 
 ### CUE BALL ZEEK  *(trainer #254)*
-- **Sawk** Lv32 — Brick Break, Heat Wave, Air Slash, Earthquake
-- **Machoke** Lv33 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Throh** Lv33 — Brick Break, Stone Edge, Foul Play, Aqua Tail
+- **Sawk** Lv32 — Brick Break, Fire Punch, Earthquake, Ice Punch
+- **Machoke** Lv33 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Throh** Lv33 — Brick Break, Stone Edge, Fire Punch, Earthquake
 
 ### CUE BALL JAMAL  *(trainer #255)*
-- **Mankey** Lv26 — Brick Break, Aerial Ace, Dig, Rock Slide
-- **Mankey** Lv26 — Brick Break, Aerial Ace, Dig, Rock Slide
-- **Machamp** Lv26 — Brick Break, Bullet Punch, Dig, Ice Punch
-- **Machop** Lv26 — Brick Break, Crunch, Bullet Punch, Dig
+- **Mankey** Lv26 — Brick Break, Seed Bomb, Dig, Ice Punch
+- **Mankey** Lv26 — Brick Break, Seed Bomb, Dig, Ice Punch
+- **Machamp** Lv26 — Brick Break, Dig, Ice Punch, ThunderPunch
+- **Machop** Lv26 — Brick Break, Knock Off, Bullet Punch, Dig
 - **Breloom** Lv26 — Seed Bomb, Sky Uppercut, Aerial Ace, Dig
 
 ### CUE BALL COREY  *(trainer #256)*
-- **Primeape** Lv29 — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Machoke** Lv29 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Medicham** Lv29 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
+- **Primeape** Lv29 — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Machoke** Lv29 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Medicham** Lv29 — Brick Break, Zen Headbutt, Aerial Ace, Energy Ball
 
 ### CUE BALL CHASE  *(trainer #257)*
 - **Croconaw** Lv30 — Aqua Tail, Rock Slide, Crunch, Brick Break
 - **Tentacool** Lv31 — Surf, Sludge Wave, Ice Beam, Knock Off
 - **Tentacool** Lv31 — Surf, Sludge Wave, Ice Beam, Knock Off
 - **Tentacruel** Lv31 — Surf, Sludge Wave, Ice Beam, Knock Off
-- **Swalot** Lv31 — Poison Jab, Iron Head, Giga Drain, Earthquake
+- **Swalot** Lv31 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
 
 ### GAMER HUGO  *(trainer #258)*
 - **Shellder** Lv17 — Bubble Beam, Avalanche, Rock Blast, Water Gun
-- **Poliwag** Lv18 — Bubble Beam, Bulldoze, Water Gun, Mud Bomb
-- **Horsea** Lv18 — Bubble Beam, Aurora Beam, Rock Blast, Water Gun
-- **Luvdisc** Lv18 — Water Gun, Water Pulse, Lucky Chant, Drain Kiss
+- **Poliwag** Lv18 — Bubble Beam, Bulldoze, Icy Wind, Water Gun
+- **Horsea** Lv18 — Bubble Beam, Aurora Beam, Water Gun, Icy Wind
+- **Luvdisc** Lv18 — Water Gun, Icy Wind, Water Pulse, Lucky Chant
 
 ### GAMER JASPER  *(trainer #259)*
-- **Bellsprout** Lv18 — Razor Leaf, Acid, Knock Off, Vine Whip
+- **Bellsprout** Lv18 — Razor Leaf, Acid, Sucker Punch, Vine Whip
 - **Oddish** Lv18 — Mega Drain, Acid, Razor Leaf, Sleep Powder
-- **Shroodle** Lv18 — Cross Poison, Slash, Knock Off, Poison Fang
+- **Shroodle** Lv18 — Cross Poison, Slash, Knock Off, Mud-Slap
 
 ### GAMER DIRK  *(trainer #260)*
-- **Helioptile** Lv17 — Volt Switch, Return, Mud-Slap, Rock Tomb
-- **Voltorb** Lv18 — Volt Switch, Gyro Ball, Rock Blast, Spark
+- **Helioptile** Lv17 — Volt Switch, Mud-Slap, Rock Tomb, ThunderShock
+- **Voltorb** Lv18 — Volt Switch, Gyro Ball, ThunderShock, Spark
 - **Magnemite** Lv18 — Volt Switch, Gyro Ball, ThunderShock, Spark
-- **Wattrel** Lv18 — Volt Switch, Aerial Ace, Knock Off, Steel Wing
+- **Wattrel** Lv18 — Volt Switch, Air Cutter, ThunderShock, Spark
 - **Electrike** Lv18 — Volt Switch, Fire Fang, Bite, Spark
 
 ### GAMER DARIAN  *(trainer #261)*
 - **Torchic** Lv17 — Ember, Night Slash, Aerial Ace, Rock Tomb
-- **Growlithe** Lv18 — Fire Fang, Bite, Aerial Ace, Ember
+- **Growlithe** Lv18 — Fire Fang, Bite, Ember, Flame Wheel
 - **Vulpix** Lv18 — Ember, Feint Attack, Payback, Fire Spin
 - **Torchic** Lv18 — Ember, Night Slash, Aerial Ace, Rock Tomb
 
 ### GAMER STAN  *(trainer #262)*
-- **Goldeen** Lv21 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Poliwag** Lv22 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Poliwag** Lv22 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Poliwhirl** Lv22 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Oshawott** Lv22 — Scald, Fire Fang, Night Slash, Air Slash
+- **Goldeen** Lv21 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Poliwag** Lv22 — Liquidation, Dig, Icy Wind, Water Gun
+- **Poliwag** Lv22 — Liquidation, Dig, Icy Wind, Water Gun
+- **Poliwhirl** Lv22 — Liquidation, Ice Punch, Brick Break, Dig
+- **Oshawott** Lv22 — Water Gun, Night Slash, Air Slash, Dig
 
 ### GAMER  *(trainer #263)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### GAMER RICH  *(trainer #264)*
-- **Larvesta** Lv23 — U-turn, Flame Wheel, Liquidation, Iron Head
-- **Growlithe** Lv24 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Vulpix** Lv24 — Ember, ThunderPunch, Dark Pulse, Dig
-- **Fletchindr** Lv24 — Ember, Aerial Ace, Rock Blast, Steel Wing
+- **Larvesta** Lv23 — Leech Life, Flame Wheel, Giga Drain, Bug Bite
+- **Growlithe** Lv24 — Fire Fang, Dig, Crunch, Ember
+- **Vulpix** Lv24 — Ember, Dark Pulse, Dig, Feint Attack
+- **Fletchindr** Lv24 — Ember, Aerial Ace, Steel Wing, Air Slash
 
 ### BEAUTY BRIDGET  *(trainer #265)*
-- **Pansage** Lv20 — Seed Bomb, Dig, Rock Tomb, Crunch
-- **Oddish** Lv21 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Bellsprout** Lv21 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Oddish** Lv21 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Bellsprout** Lv21 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Stunky** Lv21 — Poison Jab, Crunch, Dig, Icy Wind
+- **Pansage** Lv20 — Seed Bomb, Rock Tomb, Crunch, Vine Whip
+- **Oddish** Lv21 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Bellsprout** Lv21 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Oddish** Lv21 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Bellsprout** Lv21 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Stunky** Lv21 — Poison Jab, Crunch, Dig, Bite
 
 ### BEAUTY TAMIA  *(trainer #266)*
-- **Trubbish** Lv23 — Sludge, Iron Head, Giga Drain, Rock Blast
-- **Bellsprout** Lv24 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Bellsprout** Lv24 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Dolliv** Lv24 — Giga Drain, Body Slam, Icy Wind, Liquidation
+- **Trubbish** Lv23 — Sludge, Seed Bomb, Rock Blast, Dark Pulse
+- **Bellsprout** Lv24 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Bellsprout** Lv24 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Dolliv** Lv24 — Giga Drain, Tackle, Mega Drain, Razor Leaf
 
 ### BEAUTY LORI  *(trainer #267)*
 - **Skiddo** Lv23 — Seed Bomb, Dig, Rock Slide, Brick Break
-- **Exeggcute** Lv24 — Giga Drain, Extrasensory, Crunch, Iron Head
-- **Woobat** Lv24 — Psyshock, Air Slash, Fire Punch, Crunch
+- **Exeggcute** Lv24 — Giga Drain, Psyshock, AncientPower, Mega Drain
+- **Woobat** Lv24 — Psyshock, Air Slash, Knock Off, Steel Wing
 
 ### BEAUTY LOLA  *(trainer #268)*
-- **Diggersby** Lv26 — Tackle, Dig, Rock Slide, Brick Break
-- **Rattata** Lv27 — Tackle, Air Slash, Dig, Flame Wheel
-- **Pikachu** Lv27 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Rattata** Lv27 — Tackle, Air Slash, Dig, Flame Wheel
-- **Herdier** Lv27 — Tackle, Aerial Ace, Dig, Ice Punch
+- **Diggersby** Lv26 — Body Slam, Dig, Ice Punch, ThunderPunch
+- **Rattata** Lv27 — Tackle, Dig, Crunch, Bite
+- **Pikachu** Lv27 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Rattata** Lv27 — Tackle, Dig, Crunch, Bite
+- **Herdier** Lv27 — Tackle, Dig, Rock Tomb, Fire Fang
 
 ### BEAUTY SHEILA  *(trainer #269)*
-- **Raticate** Lv28 — Tackle, Dig, Flame Wheel, Crunch
+- **Raticate** Lv28 — Tackle, Dig, Crunch, Bite
 - **Clefairy** Lv29 — Moonblast, Dig, Ice Beam, Thunderbolt
-- **Meowth** Lv29 — Slash, Foul Play, Aerial Ace, Iron Tail
-- **Wigglytuff** Lv29 — Hyper Voice, Play Rough, Heat Wave, Dark Pulse
+- **Meowth** Lv29 — Body Slam, Play Rough, Foul Play, Aerial Ace
+- **Wigglytuff** Lv29 — Hyper Voice, Play Rough, Flamethrower, Dark Pulse
 
 ### SWIMMER? TIFFANY  *(trainer #270)*
-- **Alomomola** Lv34 — Waterfall, Ice Beam, Fire Fang, Foul Play
-- **Seaking** Lv35 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Arctovish** Lv35 — Waterfall, Icicle Crash, Leaf Blade, Stone Edge
-- **Poliwrath** Lv35 — Waterfall, Brick Break, Rock Slide, Fire Punch
+- **Alomomola** Lv34 — Liquidation, Ice Beam, Play Rough, Surf
+- **Seaking** Lv35 — Waterfall, Ice Beam, Surf, Scald
+- **Arctovish** Lv35 — Liquidation, Icicle Crash, Stone Edge, Crunch
+- **Poliwrath** Lv35 — Liquidation, Brick Break, Rock Slide, Knock Off
 
 ### SWIMMER? NORA  *(trainer #271)*
-- **Basculin** Lv29 — Aqua Tail, Fire Punch, Crunch, Ice Beam
-- **Shellder** Lv30 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Shellder** Lv30 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Cloyster** Lv30 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
-- **Slowbro** Lv30 — Surf, Psychic, Air Slash, Iron Tail
+- **Basculin** Lv29 — Aqua Tail, Crunch, Ice Beam, Water Gun
+- **Shellder** Lv30 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Shellder** Lv30 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Cloyster** Lv30 — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Slowbro** Lv30 — Surf, Psychic, Earthquake, Ice Beam
 
 ### SWIMMER? MELISSA  *(trainer #272)*
-- **Kabuto** Lv30 — Stone Edge, Liquidation, Aerial Ace, Giga Drain
-- **Poliwag** Lv31 — Waterfall, Dig, Ice Beam, Water Gun
-- **Seaking** Lv31 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Prinplup** Lv31 — Surf, Rock Tomb, Heat Wave, Aura Sphere
-- **Corsola** Lv31 — Surf, Power Gem, Iron Head, Earth Power
+- **Kabuto** Lv30 — Stone Edge, Liquidation, Giga Drain, Dig
+- **Poliwag** Lv31 — Liquidation, Dig, Ice Beam, Water Gun
+- **Seaking** Lv31 — Waterfall, Ice Beam, Surf, Scald
+- **Prinplup** Lv31 — Surf, Rock Tomb, Brick Break, Drill Peck
+- **Corsola** Lv31 — Surf, Power Gem, Earth Power, Ice Beam
 
 ### BEAUTY GRACE  *(trainer #273)*
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Wigglytuff** Lv29 — Hyper Voice, Play Rough, Heat Wave, Dark Pulse
-- **Fearow** Lv29 — Return, Drill Peck, Steel Wing, Play Rough
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Wigglytuff** Lv29 — Hyper Voice, Play Rough, Flamethrower, Dark Pulse
+- **Fearow** Lv29 — Drill Peck, Aerial Ace, Agility, Assurance
 
 ### BEAUTY OLIVIA  *(trainer #274)*
-- **Ivysaur** Lv28 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Bulbasaur** Lv29 — Energy Ball, Sludge Bomb, Foul Play, Vine Whip
-- **Ivysaur** Lv29 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
-- **Tangela** Lv29 — Energy Ball, Foul Play, Ice Punch, ThunderPunch
+- **Ivysaur** Lv28 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Bulbasaur** Lv29 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Ivysaur** Lv29 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Tangela** Lv29 — Energy Ball, Knock Off, AncientPower, Vine Whip
 
 ### BEAUTY LAUREN  *(trainer #275)*
-- **Parasect** Lv32 — X-Scissor, Energy Ball, Dig, Rock Blast
-- **Weepinbell** Lv33 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Bellsprout** Lv33 — Razor Leaf, Poison Jab, Foul Play, Vine Whip
-- **Weepinbell** Lv33 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Dustox** Lv33 — U-turn, Sludge Bomb, Crunch, Muddy Water
-- **Gloom** Lv33 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
+- **Parasect** Lv32 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Weepinbell** Lv33 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Bellsprout** Lv33 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Weepinbell** Lv33 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Dustox** Lv33 — U-turn, Sludge Bomb, Aerial Ace, Energy Ball
+- **Gloom** Lv33 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
 
 ### SWIMMER? ANYA  *(trainer #276)*
-- **Poliwag** Lv27 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Goldeen** Lv27 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv27 — Waterfall, Mud-Slap, Air Slash, Iron Head
-- **Goldeen** Lv27 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Poliwag** Lv27 — Waterfall, Dig, Water Gun, Bubble Beam
+- **Poliwag** Lv27 — Liquidation, Dig, Icy Wind, Water Gun
+- **Goldeen** Lv27 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Seaking** Lv27 — Waterfall, Icy Wind, Scald, Fury Attack
+- **Goldeen** Lv27 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Poliwag** Lv27 — Liquidation, Dig, Icy Wind, Water Gun
 - **Tirtouga** Lv27 — Liquidation, Rock Slide, Crunch, Dig
 
 ### SWIMMER? ALICE  *(trainer #277)*
-- **Tirtouga** Lv29 — Aqua Tail, Stone Edge, Play Rough, Crunch
-- **Goldeen** Lv30 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv30 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Pyukumuku** Lv30 — Play Rough, Gastro Acid, Curse, Purify
-- **Dewott** Lv30 — Surf, Night Slash, Brick Break, Air Slash
+- **Tirtouga** Lv29 — Aqua Tail, Stone Edge, Crunch, Iron Tail
+- **Goldeen** Lv30 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Seaking** Lv30 — Waterfall, Ice Beam, Surf, Scald
+- **Pyukumuku** Lv30 — Gastro Acid, Curse, Purify, Counter
+- **Dewott** Lv30 — Surf, Knock Off, Brick Break, Air Slash
 
 ### SWIMMER? CONNIE  *(trainer #278)*
-- **Crawdaunt** Lv28 — Waterfall, Crunch, Rock Slide, Brick Break
+- **Crawdaunt** Lv28 — Liquidation, Crunch, Rock Slide, Brick Break
 - **Staryu** Lv29 — Surf, Ice Beam, Thunderbolt, Power Gem
 - **Staryu** Lv29 — Surf, Ice Beam, Thunderbolt, Power Gem
 - **Staryu** Lv29 — Surf, Ice Beam, Thunderbolt, Power Gem
-- **Poliwhirl** Lv29 — Liquidation, Ice Punch, Knock Off, Brick Break
+- **Poliwhirl** Lv29 — Liquidation, Ice Punch, Brick Break, Earthquake
 
 ### SWIMMER? SHIRLEY  *(trainer #279)*
-- **Marshtomp** Lv29 — Waterfall, Earthquake, Iron Tail, Avalanche
-- **Seadra** Lv30 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Horsea** Lv30 — Surf, Flash Cannon, Earth Power, Ice Beam
-- **Seadra** Lv30 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Wugtrio** Lv30 — Liquidation, Iron Head, Dig, Ice Beam
+- **Marshtomp** Lv29 — Liquidation, Earthquake, Ice Punch, Rock Slide
+- **Seadra** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Horsea** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Seadra** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Wugtrio** Lv30 — Liquidation, Dig, Ice Beam, Foul Play
 
 ### PSYCHIC JOHAN  *(trainer #280)*
-- **Hypno** Lv30 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Kadabra** Lv31 — Psychic, Fire Punch, Crunch, Drain Punch
-- **Slowpoke** Lv31 — Waterfall, Zen Headbutt, Iron Tail, Earthquake
-- **Mr. Mime** Lv31 — Psychic, Thunderbolt, Heat Wave, Brick Break
-- **Kadabra** Lv31 — Psychic, Fire Punch, Crunch, Drain Punch
-- **Meowstic** Lv31 — Psychic, Dark Pulse, Iron Tail, Energy Ball
+- **Hypno** Lv30 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Kadabra** Lv31 — Psychic, Fire Punch, Foul Play, Drain Punch
+- **Slowpoke** Lv31 — Liquidation, Zen Headbutt, Earthquake, Avalanche
+- **Mr. Mime** Lv31 — Psychic, Thunderbolt, Fire Punch, Foul Play
+- **Kadabra** Lv31 — Psychic, Fire Punch, Foul Play, Drain Punch
+- **Meowstic** Lv31 — Psychic, Dark Pulse, Energy Ball, Dig
 
 ### PSYCHIC TYRON  *(trainer #281)*
-- **Grumpig** Lv33 — Psychic, Fire Fang, Brick Break, Flash Cannon
-- **Mr. Mime** Lv34 — Psychic, Thunderbolt, Heat Wave, Brick Break
-- **Kadabra** Lv34 — Psychic, Fire Punch, Crunch, Drain Punch
-- **Clefable** Lv34 — Dig, Ice Beam, Thunderbolt, Flamethrower
+- **Grumpig** Lv33 — Psychic, Fire Punch, Brick Break, Flash Cannon
+- **Mr. Mime** Lv34 — Psychic, Thunderbolt, Fire Punch, Foul Play
+- **Kadabra** Lv34 — Psychic, Fire Punch, Foul Play, Drain Punch
+- **Clefable** Lv34 — Moonblast, Dig, Ice Beam, Thunderbolt
 
 ### PSYCHIC CAMERON  *(trainer #282)*
 - **Bruxish** Lv32 — Aqua Tail, Psychic, Ice Beam, Crunch
-- **Slowpoke** Lv33 — Waterfall, Zen Headbutt, Iron Tail, Earthquake
-- **Slowpoke** Lv33 — Waterfall, Zen Headbutt, Iron Tail, Earthquake
-- **Slowbro** Lv33 — Surf, Psychic, Air Slash, Iron Tail
-- **Basculin** Lv33 — Aqua Tail, Fire Punch, Crunch, Ice Beam
-- **Crawdaunt** Lv33 — Waterfall, Crunch, Rock Slide, Brick Break
+- **Slowpoke** Lv33 — Liquidation, Zen Headbutt, Earthquake, Avalanche
+- **Slowpoke** Lv33 — Liquidation, Zen Headbutt, Earthquake, Avalanche
+- **Slowbro** Lv33 — Surf, Psychic, Earthquake, Ice Beam
+- **Basculin** Lv33 — Aqua Tail, Crunch, Ice Beam, Water Gun
+- **Crawdaunt** Lv33 — Liquidation, Crunch, Rock Slide, Brick Break
 
 ### PSYCHIC PRESTON  *(trainer #283)*
 - **Jellicent** Lv37 — Surf, Shadow Ball, Energy Ball, Ice Beam
-- **Slowbro** Lv38 — Surf, Psychic, Air Slash, Iron Tail
-- **Beheeyem** Lv38 — Psychic, Energy Ball, Earth Power, Thunderbolt
-- **Slowbro** Lv38 — Surf, Psychic, Air Slash, Iron Tail
+- **Slowbro** Lv38 — Surf, Psychic, Earthquake, Ice Beam
+- **Beheeyem** Lv38 — Psychic, Energy Ball, Thunderbolt, Rock Slide
+- **Slowbro** Lv38 — Surf, Psychic, Earthquake, Ice Beam
 
 ### ROCKER RANDALL  *(trainer #284)*
 - **Tinkatuff** Lv19 — Spirit Break, Metal Claw, Brick Break, Rock Slide
-- **Voltorb** Lv20 — Discharge, Iron Head, Rock Blast, Spark
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Voltorb** Lv20 — Discharge, Iron Head, Rock Blast, Spark
-- **Joltik** Lv20 — Struggle Bug, Discharge, Rock Blast, Sucker Punch
-- **Magnemite** Lv20 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
+- **Voltorb** Lv20 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Voltorb** Lv20 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Joltik** Lv20 — Struggle Bug, Discharge, Sucker Punch, Giga Drain
+- **Magnemite** Lv20 — Discharge, Flash Cannon, ThunderShock, Spark
 
 ### ROCKER LUCA  *(trainer #285)*
-- **Lanturn** Lv28 — Scald, Discharge, Air Slash, Icy Wind
-- **Voltorb** Lv29 — Thunderbolt, Iron Head, Rock Blast, Spark
-- **Electrode** Lv29 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Magneton** Lv29 — Thunderbolt, Flash Cannon, Seed Bomb, Fire Punch
+- **Lanturn** Lv28 — Scald, Discharge, Icy Wind, Water Gun
+- **Voltorb** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Magneton** Lv29 — Thunderbolt, Flash Cannon, ThunderShock, Spark
 
 ### JUGGLER DALTON  *(trainer #286)*
-- **Kadabra** Lv29 — Psychic, Fire Punch, Crunch, Drain Punch
-- **Mr. Mime** Lv29 — Psychic, Thunderbolt, Heat Wave, Brick Break
-- **Espurr** Lv29 — Psychic, Dark Pulse, Aqua Tail, Iron Tail
+- **Kadabra** Lv29 — Psychic, Fire Punch, Foul Play, Drain Punch
+- **Mr. Mime** Lv29 — Psychic, Thunderbolt, Fire Punch, Foul Play
+- **Espurr** Lv29 — Psychic, Play Rough, Dark Pulse, Energy Ball
 
 ### JUGGLER NELSON  *(trainer #287)*
-- **Oranguru** Lv40 — Body Slam, Psychic, Energy Ball, Earthquake
+- **Oranguru** Lv40 — Hyper Voice, Psychic, Energy Ball, Earthquake
 - **Drowzee** Lv41 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Hypno** Lv41 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Kadabra** Lv41 — Future Sight, Fire Punch, Crunch, Drain Punch
-- **Kadabra** Lv41 — Future Sight, Fire Punch, Crunch, Drain Punch
-- **Swoobat** Lv41 — Future Sight, Hurricane, Knock Off, Muddy Water
+- **Hypno** Lv41 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Kadabra** Lv41 — Future Sight, Fire Punch, Foul Play, Drain Punch
+- **Kadabra** Lv41 — Future Sight, Fire Punch, Foul Play, Drain Punch
+- **Swoobat** Lv41 — Future Sight, Air Slash, Steel Wing, Energy Ball
 
 ### JUGGLER KIRK  *(trainer #288)*
-- **Solrock** Lv30 — Stone Edge, Psychic, Flamethrower, Gyro Ball
+- **Solrock** Lv30 — Stone Edge, Zen Headbutt, Heat Wave, Iron Head
 - **Drowzee** Lv31 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
 - **Drowzee** Lv31 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Kadabra** Lv31 — Psychic, Fire Punch, Crunch, Drain Punch
+- **Kadabra** Lv31 — Psychic, Fire Punch, Foul Play, Drain Punch
 - **Drowzee** Lv31 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Medicham** Lv31 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
+- **Medicham** Lv31 — Brick Break, Zen Headbutt, Aerial Ace, Energy Ball
 
 ### JUGGLER SHAWN  *(trainer #289)*
-- **Wobbuffet** Lv33 — ThunderPunch, Foul Play, Crunch, Destiny Bond
+- **Wobbuffet** Lv33 — Destiny Bond, Safeguard, Mirror Coat, Counter
 - **Drowzee** Lv34 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Hypno** Lv34 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Gothitelle** Lv34 — Psychic, Dark Pulse, Brick Break, Air Slash
-- **Oranguru** Lv34 — Body Slam, Psychic, Energy Ball, Earthquake
+- **Hypno** Lv34 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Gothitelle** Lv34 — Psychic, Dark Pulse, Brick Break, Energy Ball
+- **Oranguru** Lv34 — Hyper Voice, Psychic, Energy Ball, Earthquake
 
 ### JUGGLER GREGORY  *(trainer #290)*
-- **Whimsicott** Lv47 — Energy Ball, Moonblast, Icy Wind, Heat Wave
-- **Mr. Mime** Lv48 — Future Sight, Thunder, Heat Wave, Brick Break
-- **Hypno** Lv48 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Musharna** Lv48 — Psychic, Aqua Tail, Brave Bird, Iron Head
+- **Whimsicott** Lv47 — Energy Ball, Moonblast, Hurricane, Mega Drain
+- **Mr. Mime** Lv48 — Future Sight, Thunder, Fire Punch, Foul Play
+- **Hypno** Lv48 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Musharna** Lv48 — Future Sight, Gyro Ball, Energy Ball, Rock Slide
 
 ### JUGGLER EDWARD  *(trainer #291)*
-- **Voltorb** Lv46 — Thunder, Hydro Pump, Brave Bird, Iron Head
-- **Voltorb** Lv46 — Thunder, Hydro Pump, Brave Bird, Iron Head
-- **Electrode** Lv47 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Pawmot** Lv47 — Wild Charge, Close Combat, Fire Fang, Play Rough
-- **Mr. Mime** Lv48 — Future Sight, Thunder, Heat Wave, Brick Break
-- **Boltund** Lv48 — Wild Charge, Dig, Play Rough, Crunch
+- **Voltorb** Lv46 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Voltorb** Lv46 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv47 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Pawmot** Lv47 — Wild Charge, Close Combat, Fire Punch, Play Rough
+- **Mr. Mime** Lv48 — Future Sight, Thunder, Fire Punch, Foul Play
+- **Boltund** Lv48 — Wild Charge, Dig, Fire Fang, Play Rough
 
 ### JUGGLER KAYDEN  *(trainer #292)*
-- **Musharna** Lv37 — Psychic, Aqua Tail, Iron Head, Energy Ball
-- **Hypno** Lv38 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Medicham** Lv38 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
-- **Swoobat** Lv38 — Psychic, Air Slash, Knock Off, Muddy Water
+- **Musharna** Lv37 — Psychic, Gyro Ball, Energy Ball, Rock Slide
+- **Hypno** Lv38 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Medicham** Lv38 — Brick Break, Zen Headbutt, Aerial Ace, Energy Ball
+- **Swoobat** Lv38 — Psychic, Air Slash, Steel Wing, Energy Ball
 
 ### JUGGLER NATE  *(trainer #293)*
-- **Grumpig** Lv33 — Psychic, Fire Fang, Brick Break, Flash Cannon
+- **Grumpig** Lv33 — Psychic, Fire Punch, Brick Break, Flash Cannon
 - **Drowzee** Lv34 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Kadabra** Lv34 — Psychic, Fire Punch, Crunch, Drain Punch
-- **Metang** Lv34 — Meteor Mash, Zen Headbutt, Rock Slide, Fire Punch
-- **Jynx** Lv34 — Ice Beam, Psychic, Fire Punch, Brick Break
+- **Kadabra** Lv34 — Psychic, Fire Punch, Foul Play, Drain Punch
+- **Metang** Lv34 — Meteor Mash, Zen Headbutt, Rock Slide, Brick Break
+- **Jynx** Lv34 — Ice Beam, Psychic, Brick Break, Energy Ball
 
 ### TAMER PHIL  *(trainer #294)*
-- **Shiftry** Lv33 — Razor Leaf, Foul Play, Dig, Rock Slide
-- **Sandslash** Lv34 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Arbok** Lv34 — Poison Jab, Crunch, Earthquake, Ice Punch
-- **Clodsire** Lv34 — Poison Jab, Earthquake, Liquidation, Iron Tail
+- **Shiftry** Lv33 — Leaf Blade, Foul Play, Dig, Icy Wind
+- **Sandslash** Lv34 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Arbok** Lv34 — Poison Jab, Crunch, Earthquake, Rock Slide
+- **Clodsire** Lv34 — Poison Jab, Earthquake, Liquidation, Iron Head
 - **Nidoqueen** Lv34 — Poison Jab, Earthquake, Brick Break, Surf
 
 ### TAMER EDGAR  *(trainer #295)*
-- **Mudbray** Lv32 — Earthquake, Liquidation, Stone Edge, Mud-Slap
-- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Ice Punch
-- **Sandslash** Lv33 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Ice Punch
-- **Absol** Lv33 — Night Slash, Fire Fang, Play Rough, Aerial Ace
-- **Dugtrio** Lv33 — Earthquake, Stone Edge, Fire Punch, Night Slash
+- **Mudbray** Lv32 — Earthquake, Iron Head, Stone Edge, Mud-Slap
+- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Rock Slide
+- **Sandslash** Lv33 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Rock Slide
+- **Absol** Lv33 — Foul Play, Flamethrower, Play Rough, Air Slash
+- **Dugtrio** Lv33 — Earthquake, Stone Edge, Foul Play, Mud-Slap
 
 ### TAMER JASON  *(trainer #296)*
-- **Solrock** Lv42 — Stone Edge, Psychic, Flare Blitz, Gyro Ball
-- **Rhyhorn** Lv43 — Earthquake, Stone Edge, Flare Blitz, Play Rough
-- **Marowak** Lv43 — Earthquake, Brave Bird, Iron Tail, Blizzard
-- **Whiscash** Lv43 — Aqua Tail, Earthquake, Blizzard, Spark
+- **Solrock** Lv42 — Stone Edge, Zen Headbutt, Flare Blitz, Iron Head
+- **Rhyhorn** Lv43 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Marowak** Lv43 — Earthquake, Iron Tail, Blizzard, ThunderPunch
+- **Whiscash** Lv43 — Aqua Tail, Earthquake, Blizzard, Stone Edge
 
 ### TAMER COLE  *(trainer #297)*
-- **Farigiraf** Lv38 — Hyper Voice, Psychic, Iron Tail, Energy Ball
-- **Arbok** Lv39 — Poison Jab, Crunch, Earthquake, Ice Punch
-- **Tauros** Lv39 — Tackle, Surf, Iron Tail, Seed Bomb
-- **Mandibuzz** Lv39 — Knock Off, Aerial Ace, Leaf Blade, Bone Rush
-- **Ambipom** Lv39 — Return, Aerial Ace, Iron Tail, Dig
+- **Farigiraf** Lv38 — Hyper Voice, Psychic, Iron Head, Energy Ball
+- **Arbok** Lv39 — Poison Jab, Crunch, Earthquake, Rock Slide
+- **Tauros** Lv39 — Body Slam, Surf, Iron Head, Earthquake
+- **Mandibuzz** Lv39 — Foul Play, Aerial Ace, Bone Rush, Rock Tomb
+- **Ambipom** Lv39 — Aerial Ace, Seed Bomb, Dig, Ice Punch
 
 ### TAMER VINCENT  *(trainer #298)*
-- **Farigiraf** Lv43 — Hyper Voice, Future Sight, Iron Tail, Energy Ball
-- **Persian** Lv44 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Golduck** Lv44 — Hydro Pump, Future Sight, Aura Sphere, Aerial Ace
-- **Milotic** Lv44 — Hydro Pump, Iron Tail, Bulldoze, Blizzard
+- **Farigiraf** Lv43 — Hyper Voice, Future Sight, Iron Head, Energy Ball
+- **Persian** Lv44 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Golduck** Lv44 — Hydro Pump, Future Sight, Brick Break, Dig
+- **Milotic** Lv44 — Hydro Pump, Iron Head, Bulldoze, Blizzard
 
 ### TAMER JOHN  *(trainer #299)*
-- **Revavroom** Lv41 — Iron Head, Poison Jab, Foul Play, Muddy Water
-- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Flare Blitz, Play Rough
-- **Primeape** Lv42 — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Arbok** Lv42 — Gunk Shot, Crunch, Earthquake, Ice Punch
-- **Tauros** Lv42 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Quaquaval** Lv42 — Liquidation, Close Combat, Wing Attack, Steel Wing
+- **Revavroom** Lv41 — Iron Head, Gunk Shot, Bulldoze, Flash Cannon
+- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Primeape** Lv42 — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Arbok** Lv42 — Gunk Shot, Crunch, Earthquake, Rock Slide
+- **Tauros** Lv42 — Double-Edge, Surf, Iron Head, Earthquake
+- **Quaquaval** Lv42 — Liquidation, Close Combat, Knock Off, Brave Bird
 
 ### BIRD KEEPER SEBASTIAN  *(trainer #300)*
-- **Squawkbily** Lv28 — Body Slam, Aerial Ace, Rock Blast, Knock Off
-- **Pidgey** Lv29 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Rufflet** Lv29 — Slash, Wing Attack, Steel Wing, Rock Slide
+- **Squawkbily** Lv28 — Aerial Ace, Air Slash, Air Cutter, DualWingbeat
+- **Pidgey** Lv29 — Tackle, Wing Attack, Air Slash, Agility
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Rufflet** Lv29 — Body Slam, Wing Attack, Rock Slide, Heat Wave
 
 ### BIRD KEEPER PERRY  *(trainer #301)*
-- **Spearow** Lv25 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Pidgey** Lv25 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgey** Lv25 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Spearow** Lv25 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Spearow** Lv25 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Pelipper** Lv25 — Scald, Wing Attack, Steel Wing, Water Gun
+- **Spearow** Lv25 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Pidgey** Lv25 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgey** Lv25 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Spearow** Lv25 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Spearow** Lv25 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Pelipper** Lv25 — Water Gun, Air Slash, Seed Bomb, Icy Wind
 
 ### BIRD KEEPER ROBERT  *(trainer #302)*
-- **Pidgey** Lv26 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Spearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Fearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
+- **Pidgey** Lv26 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Spearow** Lv26 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Fearow** Lv26 — Drill Peck, Aerial Ace, Assurance, Mirror Move
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
 
 ### BIRD KEEPER DONALD  *(trainer #303)*
-- **Fearow** Lv32 — Return, Drill Peck, Steel Wing, Play Rough
-- **Farfetch'd** Lv33 — Slash, Aerial Ace, Mud-Slap, Night Slash
-- **Vivillon** Lv33 — Bug Buzz, Aerial Ace, Knock Off, Liquidation
-- **Dartrix** Lv33 — Leaf Blade, Aerial Ace, Sucker Punch, Steel Wing
+- **Fearow** Lv32 — Drill Peck, Aerial Ace, Focus Energy, Agility
+- **Farfetch'd** Lv33 — Body Slam, Aerial Ace, Leaf Blade, Heat Wave
+- **Vivillon** Lv33 — Bug Buzz, Air Slash, Energy Ball, Bug Bite
+- **Dartrix** Lv33 — Leaf Blade, Aerial Ace, Sucker Punch, Razor Leaf
 
 ### BIRD KEEPER BENNY  *(trainer #304)*
 - **Swellow** Lv28 — Return, Wing Attack, Steel Wing, Aerial Ace
-- **Spearow** Lv29 — Return, Drill Peck, Steel Wing, Earth Power
-- **Fearow** Lv29 — Return, Drill Peck, Steel Wing, Play Rough
-- **Munchlax** Lv29 — Body Slam, Brick Break, Surf, Earthquake
+- **Spearow** Lv29 — Drill Peck, Aerial Ace, Focus Energy, Agility
+- **Fearow** Lv29 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Munchlax** Lv29 — Body Slam, Brick Break, Surf, Seed Bomb
 
 ### BIRD KEEPER EDWIN  *(trainer #305)*
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Farfetch'd** Lv26 — Slash, Aerial Ace, Mud-Slap, Night Slash
-- **Doduo** Lv26 — Return, Drill Peck, Crunch, Liquidation
-- **Pidgey** Lv26 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Togetic** Lv26 — Fairy Wind, Aerial Ace, Iron Head, AncientPower
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Farfetch'd** Lv26 — Body Slam, Aerial Ace, Razor Leaf, Night Slash
+- **Doduo** Lv26 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Pidgey** Lv26 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Togetic** Lv26 — Fairy Wind, DualWingbeat, Steel Wing, AncientPower
 
 ### BIRD KEEPER CHESTER  *(trainer #306)*
-- **Dodrio** Lv28 — Return, Drill Peck, Feint Attack, Liquidation
-- **Doduo** Lv28 — Return, Drill Peck, Crunch, Liquidation
-- **Doduo** Lv28 — Return, Drill Peck, Crunch, Liquidation
-- **Sawsbuck** Lv28 — Body Slam, Giga Drain, Feint Attack, Dig
+- **Dodrio** Lv28 — Body Slam, Drill Peck, Knock Off, Mud-Slap
+- **Doduo** Lv28 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Doduo** Lv28 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Sawsbuck** Lv28 — Body Slam, Seed Bomb, Feint Attack, Dig
 
 ### BIRD KEEPER WILTON  *(trainer #307)*
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Spearow** Lv29 — Return, Drill Peck, Steel Wing, Earth Power
-- **Fearow** Lv29 — Return, Drill Peck, Steel Wing, Play Rough
-- **Mothim** Lv29 — U-turn, Aerial Ace, Energy Ball, Power Gem
-- **Swoobat** Lv29 — Psychic, Air Slash, Knock Off, Muddy Water
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Spearow** Lv29 — Drill Peck, Aerial Ace, Focus Energy, Agility
+- **Fearow** Lv29 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Mothim** Lv29 — U-turn, Aerial Ace, Energy Ball, Bug Bite
+- **Swoobat** Lv29 — Psychic, Air Slash, Steel Wing, Energy Ball
 
 ### BIRD KEEPER RAMIRO  *(trainer #308)*
-- **Tropius** Lv33 — Energy Ball, Air Slash, Steel Wing, Earthquake
-- **Dodrio** Lv34 — Return, Drill Peck, Feint Attack, Liquidation
-- **Linoone** Lv34 — Slash, Ice Punch, Thunderbolt, Play Rough
+- **Tropius** Lv33 — Energy Ball, Air Slash, Earthquake, Razor Leaf
+- **Dodrio** Lv34 — Body Slam, Drill Peck, Knock Off, Mud-Slap
+- **Linoone** Lv34 — Body Slam, Ice Beam, Thunderbolt, Play Rough
 
 ### BIRD KEEPER JACOB  *(trainer #309)*
-- **Watchog** Lv25 — Body Slam, Crunch, Iron Head, Dig
-- **Spearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Spearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Fearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Spearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Minior** Lv26 — Power Gem, Iron Head, Seed Bomb, Ice Punch
+- **Watchog** Lv25 — Tackle, Crunch, Seed Bomb, Ice Punch
+- **Spearow** Lv26 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Spearow** Lv26 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Fearow** Lv26 — Drill Peck, Aerial Ace, Assurance, Mirror Move
+- **Spearow** Lv26 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Minior** Lv26 — Rock Slide, Iron Head, Bulldoze, Rock Tomb
 
 ### BIRD KEEPER ROGER  *(trainer #310)*
-- **Fearow** Lv30 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv30 — Return, Drill Peck, Steel Wing, Play Rough
-- **Pidgeotto** Lv30 — Tackle, Wing Attack, Crunch, Steel Wing
+- **Fearow** Lv30 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Fearow** Lv30 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Pidgeotto** Lv30 — Tackle, Wing Attack, Air Slash, FeatherDance
 - **Dunsparce** Lv30 — Body Slam, Wild Charge, Stone Edge, Flamethrower
 
 ### BIRD KEEPER REED  *(trainer #311)*
-- **Grafaiai** Lv38 — Poison Jab, Slash, Knock Off, Liquidation
-- **Pidgeotto** Lv39 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv39 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgey** Lv39 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv39 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Noivern** Lv39 — Air Slash, Dragon Pulse, Brick Break, Iron Tail
+- **Grafaiai** Lv38 — Poison Jab, Slash, Foul Play, Dig
+- **Pidgeotto** Lv39 — Tackle, Wing Attack, Air Slash, Agility
+- **Pidgeotto** Lv39 — Tackle, Wing Attack, Air Slash, Agility
+- **Pidgey** Lv39 — Tackle, Wing Attack, Air Slash, Roost
+- **Pidgeotto** Lv39 — Tackle, Wing Attack, Air Slash, Agility
+- **Noivern** Lv39 — Air Slash, Dragon Pulse, Brick Break, Wild Charge
 
 ### BIRD KEEPER KEITH  *(trainer #312)*
-- **Murkrow** Lv38 — Foul Play, Drill Peck, Liquidation, Steel Wing
-- **Farfetch'd** Lv39 — Slash, Aerial Ace, Mud-Slap, Night Slash
-- **Fearow** Lv39 — Return, Drill Peck, Steel Wing, Play Rough
-- **Delcatty** Lv39 — Return, Sucker Punch, Iron Tail, Dig
-- **Vigoroth** Lv39 — Body Slam, Night Slash, Brick Break, Liquidation
+- **Murkrow** Lv38 — Foul Play, Drill Peck, Mud-Slap, Icy Wind
+- **Farfetch'd** Lv39 — Body Slam, Aerial Ace, Leaf Blade, Heat Wave
+- **Fearow** Lv39 — Drill Peck, Aerial Ace, Roost, Focus Energy
+- **Delcatty** Lv39 — Return, Iron Tail, Ice Beam, Wild Charge
+- **Vigoroth** Lv39 — Body Slam, Play Rough, Knock Off, Brick Break
 
 ### BIRD KEEPER CARTER  *(trainer #313)*
-- **Porygon** Lv27 — Tackle, Liquidation, Aerial Ace, Iron Head
-- **Pidgey** Lv28 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Doduo** Lv28 — Return, Drill Peck, Crunch, Liquidation
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Togetic** Lv28 — Fairy Wind, Aerial Ace, Iron Head, AncientPower
+- **Porygon** Lv27 — Tackle, Icy Wind, Discharge, ThunderShock
+- **Pidgey** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Doduo** Lv28 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Togetic** Lv28 — Fairy Wind, DualWingbeat, Steel Wing, AncientPower
 - **Chatot** Lv28 — Return, Air Cutter, Steel Wing, Aerial Ace
 
 ### BIRD KEEPER MITCH  *(trainer #314)*
-- **Masquerain** Lv25 — Struggle Bug, Air Slash, Scald, Giga Drain
-- **Pidgey** Lv26 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Spearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Pidgey** Lv26 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Fearow** Lv26 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Stantler** Lv26 — Tackle, Bite, Iron Head, Dig
+- **Masquerain** Lv25 — Struggle Bug, Air Slash, Mud-Slap, Icy Wind
+- **Pidgey** Lv26 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Spearow** Lv26 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Pidgey** Lv26 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Fearow** Lv26 — Drill Peck, Aerial Ace, Assurance, Mirror Move
+- **Stantler** Lv26 — Body Slam, Bite, Dig, Tackle
 
 ### BIRD KEEPER BECK  *(trainer #315)*
-- **Raticate** Lv28 — Tackle, Dig, Flame Wheel, Crunch
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Fearow** Lv29 — Return, Drill Peck, Steel Wing, Play Rough
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
+- **Raticate** Lv28 — Tackle, Dig, Crunch, Bite
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Fearow** Lv29 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
 
 ### BIRD KEEPER MARLON  *(trainer #316)*
-- **Spearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Doduo** Lv28 — Return, Drill Peck, Crunch, Liquidation
-- **Fearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Delcatty** Lv28 — Return, Sucker Punch, Dig, Mud Bomb
+- **Spearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Doduo** Lv28 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Fearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Delcatty** Lv28 — Return, Icy Wind, Double Slap, Attract
 
 ### BLACK BELT KOICHI  *(trainer #317)*
-- **Scrafty** Lv36 — Crunch, Brick Break, Ice Punch, ThunderPunch
-- **Hitmonlee** Lv37  @Black Belt — Brick Break, Bullet Punch, Earthquake, Icy Wind
+- **Scrafty** Lv36 — Foul Play, Brick Break, Ice Punch, ThunderPunch
+- **Hitmonlee** Lv37  @Black Belt — Brick Break, Earthquake, Stone Edge, Sucker Punch
 - **Hitmonchan** Lv37  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Throh** Lv37 — Brick Break, Stone Edge, Foul Play, Aqua Tail
-- **Hariyama** Lv37 — Cross Chop, Earthquake, Ice Punch, Stone Edge
+- **Throh** Lv37 — Brick Break, Stone Edge, Fire Punch, Earthquake
+- **Hariyama** Lv37 — Brick Break, Earthquake, Ice Punch, ThunderPunch
 
 ### BLACK BELT MIKE  *(trainer #318)*
-- **Hariyama** Lv30 — Cross Chop, Earthquake, Ice Punch, Stone Edge
-- **Mankey** Lv31  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Mankey** Lv31  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv31  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Throh** Lv31 — Brick Break, Stone Edge, Foul Play, Aqua Tail
-- **Hariyama** Lv31 — Cross Chop, Earthquake, Ice Punch, Stone Edge
+- **Hariyama** Lv30 — Brick Break, Earthquake, Ice Punch, ThunderPunch
+- **Mankey** Lv31  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Mankey** Lv31  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv31  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Throh** Lv31 — Brick Break, Stone Edge, Fire Punch, Earthquake
+- **Hariyama** Lv31 — Brick Break, Earthquake, Ice Punch, ThunderPunch
 
 ### BLACK BELT HIDEKI  *(trainer #319)*
 - **Hitmonchan** Lv31 — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Machop** Lv32  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv32  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Pangoro** Lv32 — Sky Uppercut, Foul Play, Stone Edge, Surf
-- **Hawlucha** Lv32 — Cross Chop, Wing Attack, Muddy Water, Steel Wing
+- **Machop** Lv32  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv32  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Pangoro** Lv32 — Sky Uppercut, Foul Play, Stone Edge, Fire Punch
+- **Hawlucha** Lv32 — Cross Chop, Wing Attack, Iron Head, Dig
 
 ### BLACK BELT AARON  *(trainer #320)*
-- **Medicham** Lv35 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
-- **Primeape** Lv36  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Bewear** Lv36 — Body Slam, Brick Break, Play Rough, Liquidation
-- **Machamp** Lv36 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
+- **Medicham** Lv35 — Brick Break, Zen Headbutt, Aerial Ace, Energy Ball
+- **Primeape** Lv36  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Bewear** Lv36 — Body Slam, Brick Break, Iron Head, Earthquake
+- **Machamp** Lv36 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
 
 ### BLACK BELT HITOSHI  *(trainer #321)*
-- **Falinks** Lv30 — Brick Break, Rock Slide, Knock Off, Aura Sphere
-- **Machop** Lv31  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Mankey** Lv31  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv31  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Toxicroak** Lv31 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
-- **Falinks** Lv31 — Brick Break, Rock Slide, Knock Off, Aura Sphere
+- **Falinks** Lv30 — Brick Break, Iron Head, Rock Slide, Knock Off
+- **Machop** Lv31  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Mankey** Lv31  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv31  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Toxicroak** Lv31 — Poison Jab, Brick Break, Stone Edge, Foul Play
+- **Falinks** Lv31 — Brick Break, Iron Head, Rock Slide, Knock Off
 
 ### BLACK BELT ATSUSHI  *(trainer #322)*
-- **Pangoro** Lv39 — Sky Uppercut, Foul Play, Stone Edge, Surf
-- **Machop** Lv40  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv40  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
+- **Pangoro** Lv39 — Sky Uppercut, Foul Play, Stone Edge, Fire Punch
+- **Machop** Lv40  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv40  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
 - **Lucario** Lv40 — Aura Sphere, Flash Cannon, Aerial Ace, Earthquake
-- **Emboar** Lv40 — Flamethrower, Brick Break, Wild Charge, Stone Edge
+- **Emboar** Lv40 — Fire Punch, Brick Break, Wild Charge, Stone Edge
 
 ### BLACK BELT KIYO  *(trainer #323)*
-- **Infernape** Lv42 — Flare Blitz, Close Combat, Icy Wind, ThunderPunch
-- **Machoke** Lv43  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Quaquaval** Lv43 — Liquidation, Close Combat, Wing Attack, Steel Wing
-- **Annihilape** Lv43 — Close Combat, PhantomForce, Aqua Tail, Aerial Ace
+- **Infernape** Lv42 — Flare Blitz, Close Combat, ThunderPunch, Stone Edge
+- **Machoke** Lv43  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Quaquaval** Lv43 — Liquidation, Close Combat, Knock Off, Brave Bird
+- **Annihilape** Lv43 — Close Combat, PhantomForce, Seed Bomb, Earthquake
 
 ### BLACK BELT TAKASHI  *(trainer #324)*
-- **Mienshao** Lv37 — Brick Break, Stone Edge, Fire Fang, Knock Off
-- **Machoke** Lv38  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Machop** Lv38  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv38  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Machamp** Lv38 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Sirfetch'd** Lv38 — Brick Break, Crunch, Iron Head, Leaf Blade
+- **Mienshao** Lv37 — Brick Break, Stone Edge, Knock Off, Aerial Ace
+- **Machoke** Lv38  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Machop** Lv38  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv38  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Machamp** Lv38 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Sirfetch'd** Lv38 — Brick Break, Knock Off, DualWingbeat, Steel Wing
 
 ### BLACK BELT DAISUKE  *(trainer #325)*
-- **Hitmonlee** Lv42 — Close Combat, Bullet Punch, Earthquake, Icy Wind
-- **Machoke** Lv43  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machop** Lv43  @Black Belt — Cross Chop, Crunch, Brave Bird, Bullet Punch
-- **Machoke** Lv43  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Hariyama** Lv43 — Close Combat, Earthquake, Ice Punch, Stone Edge
+- **Hitmonlee** Lv42 — Close Combat, Earthquake, Stone Edge, Sucker Punch
+- **Machoke** Lv43  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machop** Lv43  @Black Belt — Close Combat, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv43  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Hariyama** Lv43 — Close Combat, Earthquake, Ice Punch, ThunderPunch
 - **Hitmonchan** Lv43 — Close Combat, Earthquake, Ice Punch, ThunderPunch
 
 ### SCIENTIST TED  *(trainer #335)*
-- **Minun** Lv28 — Discharge, Iron Head, Ice Punch, Spark
-- **Electrode** Lv29 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Seviper** Lv29 — Poison Jab, Brick Break, Iron Tail, Giga Drain
+- **Minun** Lv28 — Discharge, Mud-Slap, Spark, ThunderPunch
+- **Electrode** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Seviper** Lv29 — Poison Jab, Brick Break, Iron Head, Seed Bomb
 
 ### SCIENTIST CONNOR  *(trainer #336)*
-- **Qwilfish** Lv25 — Waterfall, Poison Jab, Air Slash, Gyro Ball
-- **Grimer** Lv26 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Weezing** Lv26 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv26 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Golbat** Lv26 — Poison Fang, Wing Attack, Bite, Aura Sphere
+- **Qwilfish** Lv25 — Liquidation, Poison Jab, Gyro Ball, Icy Wind
+- **Grimer** Lv26 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Weezing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Weezing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Golbat** Lv26 — Poison Fang, Wing Attack, Crunch, Steel Wing
 
 ### SCIENTIST JERRY  *(trainer #337)*
-- **Plusle** Lv27 — Discharge, Crunch, Spark, Volt Switch
-- **Magnemite** Lv28 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Voltorb** Lv28 — Discharge, Iron Head, Rock Blast, Spark
-- **Magneton** Lv28 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
+- **Plusle** Lv27 — Discharge, Mud-Slap, Spark, ThunderPunch
+- **Magnemite** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Voltorb** Lv28 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Magneton** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
 - **Tinkatuff** Lv28 — Spirit Break, Metal Claw, Brick Break, Rock Slide
 
 ### SCIENTIST JOSE  *(trainer #338)*
-- **Nidorina** Lv28 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Electrode** Lv29 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Nidorina** Lv29 — Poison Jab, Crunch, Liquidation, Aerial Ace
+- **Nidorina** Lv28 — Poison Jab, Crunch, Dig, Poison Fang
+- **Electrode** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Weezing** Lv29 — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Nidorina** Lv29 — Poison Jab, Crunch, Iron Tail, Dig
 
 ### SCIENTIST RODNEY  *(trainer #339)*
-- **Plusle** Lv32 — Thunderbolt, Foul Play, Muddy Water, Iron Tail
-- **Electrode** Lv33 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Minun** Lv33 — Thunderbolt, Foul Play, Iron Tail, Ice Punch
-- **Eelektrik** Lv33 — Wild Charge, Iron Tail, Giga Drain, Icy Wind
+- **Plusle** Lv32 — Thunderbolt, Play Rough, Mud-Slap, Spark
+- **Electrode** Lv33 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Minun** Lv33 — Thunderbolt, Mud-Slap, Play Rough, Spark
+- **Eelektrik** Lv33 — Wild Charge, Flash Cannon, Giga Drain, Crunch
 
 ### SCIENTIST BEAU  *(trainer #340)*
-- **Tentacool** Lv25 — Scald, Acid, Aurora Beam, Knock Off
-- **Magneton** Lv26 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv26 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Magnemite** Lv26 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Nidorino** Lv26 — Poison Jab, Iron Head, Dig, Power Gem
+- **Tentacool** Lv25 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Magneton** Lv26 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Weezing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Magnemite** Lv26 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Nidorino** Lv26 — Poison Jab, Dig, Horn Attack, Fury Attack
 
 ### SCIENTIST TAYLOR  *(trainer #341)*
-- **Voltorb** Lv25 — Discharge, Iron Head, Rock Blast, Spark
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Magneton** Lv25 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Magnemite** Lv25 — Discharge, Flash Cannon, Seed Bomb, ThunderShock
-- **Koffing** Lv25 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Pincurchin** Lv25 — Spark, Ice Punch, Rock Blast, Crunch
+- **Voltorb** Lv25 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Magneton** Lv25 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Magnemite** Lv25 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Koffing** Lv25 — Sludge, Dark Pulse, Gyro Ball, Selfdestruct
+- **Pincurchin** Lv25 — Spark, Sucker Punch, Liquidation, ThunderShock
 
 ### SCIENTIST JOSHUA  *(trainer #342)*
-- **Golbat** Lv28 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Electrode** Lv29 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Muk** Lv29 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Golbat** Lv29 — Poison Fang, Wing Attack, Foul Play, Aura Sphere
+- **Golbat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Electrode** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Muk** Lv29 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Golbat** Lv29 — Poison Fang, Wing Attack, Crunch, Steel Wing
 
 ### SCIENTIST PARKER  *(trainer #343)*
-- **Grimer** Lv29 — Poison Jab, Flamethrower, Foul Play, Drain Punch
-- **Electrode** Lv29 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Pawmo** Lv29 — Wild Charge, Mach Punch, Knock Off, Iron Tail
+- **Grimer** Lv29 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Electrode** Lv29 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Pawmo** Lv29 — Wild Charge, Play Rough, Crunch, Metal Claw
 
 ### SCIENTIST ED  *(trainer #344)*
-- **Ariados** Lv27 — X-Scissor, Poison Jab, Dig, Night Slash
-- **Voltorb** Lv28 — Discharge, Iron Head, Rock Blast, Spark
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Magneton** Lv28 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Ariados** Lv28 — X-Scissor, Poison Jab, Dig, Night Slash
+- **Ariados** Lv27 — X-Scissor, Poison Jab, Dig, Sucker Punch
+- **Voltorb** Lv28 — Discharge, Gyro Ball, ThunderShock, Spark
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Magneton** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Ariados** Lv28 — X-Scissor, Poison Jab, Dig, Sucker Punch
 
 ### SCIENTIST TRAVIS  *(trainer #345)*
-- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Rock Blast
-- **Magnemite** Lv29 — Thunderbolt, Flash Cannon, Seed Bomb, ThunderShock
-- **Koffing** Lv29 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Shieldon** Lv29 — Stone Edge, Iron Tail, Aura Sphere, Earthquake
+- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Pin Missile
+- **Magnemite** Lv29 — Thunderbolt, Flash Cannon, ThunderShock, Spark
+- **Koffing** Lv29 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Shieldon** Lv29 — Stone Edge, Iron Head, Earthquake, Ice Beam
 
 ### SCIENTIST BRAYDON  *(trainer #346)*
-- **Kilowatrel** Lv32 — Thunderbolt, Air Slash, Liquidation, Steel Wing
-- **Magnemite** Lv33 — Thunderbolt, Flash Cannon, Seed Bomb, ThunderShock
-- **Magneton** Lv33 — Thunderbolt, Flash Cannon, Seed Bomb, Fire Punch
-- **Voltorb** Lv33 — Thunderbolt, Iron Head, Rock Blast, Spark
-- **Bellibolt** Lv33 — Thunderbolt, Earth Power, Sucker Punch, Muddy Water
+- **Kilowatrel** Lv32 — Thunderbolt, Air Slash, ThunderShock, Spark
+- **Magnemite** Lv33 — Thunderbolt, Flash Cannon, ThunderShock, Spark
+- **Magneton** Lv33 — Thunderbolt, Flash Cannon, ThunderShock, Spark
+- **Voltorb** Lv33 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Bellibolt** Lv33 — Thunderbolt, Mud-Slap, Sucker Punch, Muddy Water
 - **Vikavolt** Lv33 — Bug Buzz, Thunderbolt, Air Slash, Flash Cannon
 
 ### SCIENTIST IVAN  *(trainer #347)*
 - **Dracozolt** Lv33 — Wild Charge, Dragon Rush, Aerial Ace, Iron Tail
-- **Magnemite** Lv34 — Thunderbolt, Flash Cannon, Seed Bomb, ThunderShock
-- **Electrode** Lv34 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Pawmot** Lv34 — Wild Charge, Brick Break, Fire Fang, Play Rough
-- **Bastiodon** Lv34 — Stone Edge, Iron Tail, Liquidation, Earthquake
+- **Magnemite** Lv34 — Thunderbolt, Flash Cannon, ThunderShock, Spark
+- **Electrode** Lv34 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Pawmot** Lv34 — Wild Charge, Brick Break, Fire Punch, Play Rough
+- **Bastiodon** Lv34 — Stone Edge, Iron Head, Earthquake, Avalanche
 
 ### TEAM ROCKET GRUNT  *(trainer #351)*
-- **Rattata** Lv13 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Zubat** Lv13 — Cross Poison, Wing Attack, Bite, Steel Wing
-- **Fletchling** Lv13 — Tackle, Aerial Ace, Rock Blast, Steel Wing
+- **Rattata** Lv13 — Tackle, Sucker Punch, Bite, Pursuit
+- **Zubat** Lv13 — Poison Fang, Wing Attack, Bite, Steel Wing
+- **Fletchling** Lv13 — Tackle, Aerial Ace, Ember, Steel Wing
 
 ### TEAM ROCKET GRUNT  *(trainer #352)*
 - **Sandshrew** Lv11 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
-- **Rattata** Lv11 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Zubat** Lv11 — Cross Poison, Wing Attack, Bite, Steel Wing
-- **Ekans** Lv11 — Acid, Bulldoze, Rock Tomb, Sucker Punch
+- **Rattata** Lv11 — Tackle, Sucker Punch, Bite, Focus Energy
+- **Zubat** Lv11 — Poison Fang, Wing Attack, Bite, Steel Wing
+- **Ekans** Lv11 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
 
 ### TEAM ROCKET GRUNT  *(trainer #353)*
-- **Zubat** Lv11 — Cross Poison, Wing Attack, Bite, Steel Wing
-- **Ekans** Lv11 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Noibat** Lv11 — Air Cutter, Bite, Steel Wing, Wing Attack
+- **Zubat** Lv11 — Poison Fang, Wing Attack, Bite, Steel Wing
+- **Ekans** Lv11 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Noibat** Lv11 — Air Cutter, Bite, Wing Attack, Aerial Ace
 
 ### TEAM ROCKET GRUNT  *(trainer #354)*
-- **Rattata** Lv13 — Tackle, Flame Wheel, Sucker Punch, Return
+- **Rattata** Lv13 — Tackle, Sucker Punch, Bite, Pursuit
 - **Sandshrew** Lv13 — Bulldoze, Rock Tomb, Night Slash, Aerial Ace
-- **Numel** Lv13 — Ember, Mud Bomb, AncientPower, Flame Wheel
+- **Numel** Lv13 — Ember, Mud-Slap, AncientPower, Bulldoze
 
 ### TEAM ROCKET GRUNT  *(trainer #355)*
-- **Pawmo** Lv16 — Spark, Mach Punch, Knock Off, ThunderShock
+- **Pawmo** Lv16 — Spark, Knock Off, Metal Claw, ThunderShock
 - **Machop** Lv17 — Karate Chop, Knock Off, Bullet Punch, Bulldoze
-- **Drowzee** Lv17 — Psybeam, Confusion, Poison Gas, Headbutt
-- **Natu** Lv17 — Aerial Ace, Steel Wing, Fire Fang, Sucker Punch
+- **Drowzee** Lv17 — Psybeam, Knock Off, Confusion, Poison Gas
+- **Natu** Lv17 — DualWingbeat, Steel Wing, Sucker Punch, Stored Power
 
 ### TEAM ROCKET GRUNT  *(trainer #356)*
-- **Ekans** Lv15 — Acid, Bulldoze, Rock Tomb, Sucker Punch
-- **Zubat** Lv15 — Cross Poison, Wing Attack, Bite, Steel Wing
+- **Ekans** Lv15 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
+- **Zubat** Lv15 — Poison Fang, Wing Attack, Bite, Steel Wing
 - **Oddish** Lv15 — Mega Drain, Acid, Razor Leaf, Sleep Powder
 
 ### TEAM ROCKET GRUNT  *(trainer #357)*
-- **Nidorina** Lv19 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Raticate** Lv20 — Tackle, Dig, Flame Wheel, Crunch
-- **Zubat** Lv20 — Cross Poison, Wing Attack, Bite, Aura Sphere
+- **Nidorina** Lv19 — Poison Jab, Crunch, Dig, Poison Fang
+- **Raticate** Lv20 — Tackle, Dig, Crunch, Bite
+- **Zubat** Lv20 — Poison Fang, Wing Attack, Crunch, Steel Wing
 - **Chatot** Lv20 — Return, Air Cutter, Steel Wing, Aerial Ace
-- **Fletchindr** Lv20 — Ember, Aerial Ace, Rock Blast, Steel Wing
+- **Fletchindr** Lv20 — Ember, Aerial Ace, Steel Wing, Air Slash
 
 ### TEAM ROCKET GRUNT  *(trainer #358)*
-- **Monferno** Lv20 — Fire Punch, Brick Break, Dig, Icy Wind
+- **Monferno** Lv20 — Fire Punch, Brick Break, Dig, ThunderPunch
 - **Drowzee** Lv21 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Machop** Lv21 — Brick Break, Crunch, Bullet Punch, Dig
-- **Combusken** Lv21 — Ember, Sky Uppercut, Night Slash, Aerial Ace
+- **Machop** Lv21 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Combusken** Lv21 — Fire Punch, Sky Uppercut, Aerial Ace, Dig
 
 ### TEAM ROCKET GRUNT  *(trainer #359)*
-- **Diggersby** Lv20 — Tackle, Dig, Rock Slide, Brick Break
-- **Raticate** Lv21 — Tackle, Dig, Flame Wheel, Crunch
-- **Raticate** Lv21 — Tackle, Dig, Flame Wheel, Crunch
-- **Squawkbily** Lv21 — Body Slam, Aerial Ace, Rock Blast, Knock Off
+- **Diggersby** Lv20 — Body Slam, Dig, Ice Punch, ThunderPunch
+- **Raticate** Lv21 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv21 — Tackle, Dig, Crunch, Bite
+- **Squawkbily** Lv21 — Aerial Ace, Air Slash, Air Cutter, DualWingbeat
 
 ### TEAM ROCKET GRUNT  *(trainer #360)*
-- **Grimer** Lv20 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Koffing** Lv20 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv20 — Sludge, Icy Wind, Knock Off, Liquidation
+- **Grimer** Lv20 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Koffing** Lv20 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Koffing** Lv20 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
 - **Roselia** Lv20 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
 
 ### TEAM ROCKET GRUNT  *(trainer #361)*
 - **Gumshoos** Lv18 — Tackle, Fire Fang, Knock Off, Bulldoze
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
-- **Raticate** Lv19 — Tackle, Dig, Flame Wheel, Crunch
-- **Raticate** Lv19 — Tackle, Dig, Flame Wheel, Crunch
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
-- **Teddiursa** Lv19 — Slash, Dig, Avalanche, Rock Slide
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv19 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv19 — Tackle, Dig, Crunch, Bite
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
+- **Teddiursa** Lv19 — Body Slam, Dig, Ice Punch, ThunderPunch
 
 ### TEAM ROCKET GRUNT  *(trainer #362)*
 - **Skorupi** Lv21 — Poison Jab, X-Scissor, Dig, Rock Tomb
-- **Grimer** Lv22 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Koffing** Lv22 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Skrelp** Lv22 — Acid, Waterfall, Knock Off, Aura Sphere
+- **Grimer** Lv22 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Koffing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Skrelp** Lv22 — Acid, Liquidation, Feint Attack, Mud-Slap
 
 ### TEAM ROCKET GRUNT  *(trainer #363)*
-- **Zubat** Lv17 — Cross Poison, Wing Attack, Bite, Steel Wing
-- **Koffing** Lv17 — Sludge, Icy Wind, Knock Off, Gyro Ball
+- **Zubat** Lv17 — Poison Fang, Wing Attack, Bite, Steel Wing
+- **Koffing** Lv17 — Sludge, Gyro Ball, Clear Smog, Assurance
 - **Grimer** Lv17 — Sludge, Mud Bomb, Rock Tomb, Mud-Slap
-- **Zubat** Lv17 — Cross Poison, Wing Attack, Bite, Steel Wing
-- **Raticate** Lv17 — Tackle, Flame Wheel, Sucker Punch, Return
+- **Zubat** Lv17 — Poison Fang, Wing Attack, Bite, Steel Wing
+- **Raticate** Lv17 — Tackle, Sucker Punch, Bite, Hyper Fang
 - **Budew** Lv17 — Mega Drain, Razor Leaf, Worry Seed, Stun Spore
 
 ### TEAM ROCKET GRUNT  *(trainer #364)*
 - **Espurr** Lv19 — Psyshock, Dark Pulse, Confusion, Psybeam
-- **Rattata** Lv20 — Tackle, Air Slash, Dig, Flame Wheel
-- **Raticate** Lv20 — Tackle, Dig, Flame Wheel, Crunch
+- **Rattata** Lv20 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv20 — Tackle, Dig, Crunch, Bite
 - **Drowzee** Lv20 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Gothita** Lv20 — Psyshock, Rock Slide, Fire Punch, Dark Pulse
-- **Rufflet** Lv20 — Slash, Wing Attack, Steel Wing, Rock Slide
+- **Gothita** Lv20 — Psyshock, Rock Slide, Dark Pulse, Confusion
+- **Rufflet** Lv20 — Body Slam, Wing Attack, Rock Slide, Slash
 
 ### TEAM ROCKET GRUNT  *(trainer #365)*
-- **Pignite** Lv20 — Ember, Brick Break, Bulldoze, Ice Punch
-- **Machop** Lv21 — Brick Break, Crunch, Bullet Punch, Dig
-- **Machop** Lv21 — Brick Break, Crunch, Bullet Punch, Dig
-- **Medicham** Lv21 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
+- **Pignite** Lv20 — Fire Punch, Brick Break, Dig, ThunderPunch
+- **Machop** Lv21 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Machop** Lv21 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Medicham** Lv21 — Brick Break, Zen Headbutt, Aerial Ace, Ice Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #366)*
-- **Clodsire** Lv22 — Poison Jab, Dig, Liquidation, Rock Slide
+- **Clodsire** Lv22 — Poison Jab, Dig, Liquidation, Iron Head
 - **Sandshrew** Lv23 — Dig, Rock Slide, Night Slash, Brick Break
-- **Ekans** Lv23 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Sandslash** Lv23 — Dig, Fire Fang, Night Slash, Brick Break
-- **Gligar** Lv23 — Dig, Wing Attack, Rock Slide, Crunch
+- **Ekans** Lv23 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Sandslash** Lv23 — Dig, Knock Off, Brick Break, Aerial Ace
+- **Gligar** Lv23 — Bulldoze, Wing Attack, Rock Slide, Fire Fang
 
 ### TEAM ROCKET GRUNT  *(trainer #367)*
 - **Silicobra** Lv22 — Dig, Rock Slide, Mud-Slap, Bulldoze
-- **Ekans** Lv23 — Poison Jab, Seed Bomb, Dig, Ice Punch
+- **Ekans** Lv23 — Poison Jab, Seed Bomb, Dig, Rock Slide
 - **Sandshrew** Lv23 — Dig, Rock Slide, Night Slash, Brick Break
-- **Arbok** Lv23 — Poison Jab, Crunch, Dig, Ice Punch
-- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
+- **Arbok** Lv23 — Poison Jab, Crunch, Dig, Rock Slide
+- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Mega Drain
 
 ### TEAM ROCKET GRUNT  *(trainer #368)*
-- **Whirlipede** Lv20 — Bug Bite, Poison Jab, Gyro Ball, Rock Blast
-- **Koffing** Lv21 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Zubat** Lv21 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Varoom** Lv21 — Iron Head, Poison Jab, Rock Blast, Bulldoze
+- **Whirlipede** Lv20 — Bug Bite, Poison Jab, Gyro Ball, Pin Missile
+- **Koffing** Lv21 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Zubat** Lv21 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Varoom** Lv21 — Iron Head, Poison Jab, Bulldoze, Flash Cannon
 
 ### TEAM ROCKET GRUNT  *(trainer #369)*
-- **Grimer** Lv24 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Golbat** Lv25 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Mantyke** Lv25 — Scald, Air Slash, Bulldoze, Rock Slide
-- **Pidgeotto** Lv25 — Tackle, Wing Attack, Crunch, Steel Wing
+- **Grimer** Lv24 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Golbat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Mantyke** Lv25 — Scald, Air Slash, Bulldoze, Icy Wind
+- **Pidgeotto** Lv25 — Tackle, Wing Attack, Air Slash, Twister
 
 ### TEAM ROCKET GRUNT  *(trainer #370)*
-- **Dottler** Lv25 — Struggle Bug, Psyshock, Knock Off, Pin Missile
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
+- **Dottler** Lv25 — Struggle Bug, Psyshock, Leech Life, Confusion
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
 - **Drowzee** Lv26 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Lunatone** Lv26 — Power Gem, Psyshock, Bulldoze, Gyro Ball
+- **Lunatone** Lv26 — Power Gem, Psyshock, Bulldoze, Icy Wind
 
 ### TEAM ROCKET GRUNT  *(trainer #371)*
-- **Zubat** Lv23 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Rattata** Lv23 — Tackle, Air Slash, Dig, Flame Wheel
-- **Raticate** Lv23 — Tackle, Dig, Flame Wheel, Crunch
-- **Zubat** Lv23 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Eevee** Lv23 — Body Slam, Ice Punch, ThunderPunch, Rock Blast
+- **Zubat** Lv23 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Rattata** Lv23 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv23 — Tackle, Dig, Crunch, Bite
+- **Zubat** Lv23 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Eevee** Lv23 — Body Slam, Bite, Dig, Tackle
 
 ### TEAM ROCKET GRUNT  *(trainer #372)*
 - **Drowzee** Lv26 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Dottler** Lv26 — Struggle Bug, Psyshock, Knock Off, Pin Missile
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Dottler** Lv26 — Struggle Bug, Psyshock, Leech Life, Confusion
 
 ### TEAM ROCKET GRUNT  *(trainer #373)*
-- **Cubone** Lv29 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Zubat** Lv29 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Camerupt** Lv29 — Heat Wave, Earth Power, Foul Play, Aura Sphere
+- **Cubone** Lv29 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Zubat** Lv29 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Camerupt** Lv29 — Heat Wave, Earth Power, Flash Cannon, Stone Edge
 
 ### TEAM ROCKET GRUNT  *(trainer #374)*
-- **Golbat** Lv25 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Raticate** Lv25 — Tackle, Dig, Flame Wheel, Crunch
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Stunky** Lv25 — Poison Jab, Crunch, Dig, Icy Wind
+- **Golbat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Raticate** Lv25 — Tackle, Dig, Crunch, Bite
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Stunky** Lv25 — Poison Jab, Crunch, Dig, Bite
 
 ### TEAM ROCKET GRUNT  *(trainer #375)*
-- **Furret** Lv27 — Body Slam, Crunch, Brick Break, Dig
-- **Raticate** Lv28 — Tackle, Dig, Flame Wheel, Crunch
-- **Hypno** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Raticate** Lv28 — Tackle, Dig, Flame Wheel, Crunch
-- **Indeedee** Lv28 — Psyshock, Return, Knock Off, Drain Punch
+- **Furret** Lv27 — Body Slam, Sucker Punch, Brick Break, Seed Bomb
+- **Raticate** Lv28 — Tackle, Dig, Crunch, Bite
+- **Hypno** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Raticate** Lv28 — Tackle, Dig, Crunch, Bite
+- **Indeedee** Lv28 — Psyshock, Body Slam, Drain Punch, Psybeam
 
 ### TEAM ROCKET GRUNT  *(trainer #376)*
-- **Machop** Lv29 — Cross Chop, Crunch, Bullet Punch, Leaf Blade
+- **Machop** Lv29 — Cross Chop, Knock Off, Bullet Punch, Earthquake
 - **Drowzee** Lv29 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Medicham** Lv29 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
+- **Medicham** Lv29 — Brick Break, Zen Headbutt, Aerial Ace, Energy Ball
 
 ### TEAM ROCKET GRUNT  *(trainer #377)*
-- **Ivysaur** Lv27 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Ekans** Lv28 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Zubat** Lv28 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Cubone** Lv28 — Dig, Aerial Ace, Iron Head, Rock Slide
-- **Stunfisk** Lv28 — Mud Bomb, Discharge, Seed Bomb, Ice Punch
+- **Ivysaur** Lv27 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Ekans** Lv28 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Zubat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Cubone** Lv28 — Dig, Iron Head, Icy Wind, ThunderPunch
+- **Stunfisk** Lv28 — Mud Bomb, Discharge, Rock Slide, Sucker Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #378)*
-- **Absol** Lv32 — Night Slash, Fire Fang, Play Rough, Aerial Ace
-- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Ice Punch
-- **Seviper** Lv33 — Poison Jab, Brick Break, Iron Tail, Giga Drain
-- **Swalot** Lv33 — Poison Jab, Iron Head, Giga Drain, Earthquake
+- **Absol** Lv32 — Foul Play, Flamethrower, Play Rough, Air Slash
+- **Arbok** Lv33 — Poison Jab, Crunch, Earthquake, Rock Slide
+- **Seviper** Lv33 — Poison Jab, Brick Break, Iron Head, Seed Bomb
+- **Swalot** Lv33 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #379)*
-- **Espathra** Lv32 — Psychic, Drill Peck, Flash Cannon, Energy Ball
-- **Hypno** Lv33 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Espathra** Lv33 — Psychic, Drill Peck, Flash Cannon, Energy Ball
-- **Hypno** Lv33 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
+- **Espathra** Lv32 — Psychic, Foul Play, Drill Peck, Flash Cannon
+- **Hypno** Lv33 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Espathra** Lv33 — Psychic, Foul Play, Drill Peck, Flash Cannon
+- **Hypno** Lv33 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #380)*
-- **Combusken** Lv28 — Ember, Sky Uppercut, Night Slash, Aerial Ace
-- **Machop** Lv29 — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv29 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Scraggy** Lv29 — Crunch, Brick Break, Dig, Ice Punch
+- **Combusken** Lv28 — Fire Punch, Sky Uppercut, Aerial Ace, Dig
+- **Machop** Lv29 — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv29 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Scraggy** Lv29 — Foul Play, Brick Break, Dig, Ice Punch
 - **Mienfoo** Lv29 — Brick Break, Dig, Stone Edge, Knock Off
 
 ### TEAM ROCKET GRUNT  *(trainer #381)*
-- **Tentacool** Lv27 — Scald, Acid, Aurora Beam, Knock Off
-- **Zubat** Lv28 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Zubat** Lv28 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Golbat** Lv28 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Vullaby** Lv28 — Crunch, Aerial Ace, Steel Wing, ThunderPunch
+- **Tentacool** Lv27 — Bubble Beam, Acid, Aurora Beam, Knock Off
+- **Zubat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Zubat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Golbat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Vullaby** Lv28 — Knock Off, DualWingbeat, Rock Tomb, Feint Attack
 
 ### TEAM ROCKET GRUNT  *(trainer #382)*
-- **Raticate** Lv26 — Tackle, Dig, Flame Wheel, Crunch
-- **Arbok** Lv26 — Poison Jab, Crunch, Dig, Ice Punch
-- **Koffing** Lv26 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Golbat** Lv26 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Golbat** Lv26 — Poison Fang, Wing Attack, Bite, Aura Sphere
+- **Raticate** Lv26 — Tackle, Dig, Crunch, Bite
+- **Arbok** Lv26 — Poison Jab, Crunch, Dig, Rock Slide
+- **Koffing** Lv26 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Golbat** Lv26 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Golbat** Lv26 — Poison Fang, Wing Attack, Crunch, Steel Wing
 
 ### TEAM ROCKET GRUNT  *(trainer #383)*
-- **Cubone** Lv29 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Cubone** Lv29 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Runerigus** Lv29 — Earthquake, Shadow Claw, Iron Head, Energy Ball
+- **Cubone** Lv29 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Cubone** Lv29 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Runerigus** Lv29 — Earthquake, PhantomForce, Energy Ball, Stone Edge
 
 ### TEAM ROCKET GRUNT  *(trainer #384)*
-- **Dugtrio** Lv28 — Dig, Rock Slide, Fire Punch, Night Slash
-- **Sandshrew** Lv29 — Earthquake, Rock Slide, Night Slash, Brick Break
-- **Sandslash** Lv29 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Palpitoad** Lv29 — Surf, Bulldoze, Fire Fang, Iron Head
+- **Dugtrio** Lv28 — Dig, Rock Slide, Night Slash, Mud-Slap
+- **Sandshrew** Lv29 — Earthquake, Stone Edge, Night Slash, Brick Break
+- **Sandslash** Lv29 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Palpitoad** Lv29 — Surf, Bulldoze, Icy Wind, Bubble Beam
 
 ### TEAM ROCKET GRUNT  *(trainer #385)*
-- **Raticate** Lv26 — Tackle, Dig, Flame Wheel, Crunch
-- **Zubat** Lv26 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Golbat** Lv26 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Rattata** Lv26 — Tackle, Air Slash, Dig, Flame Wheel
-- **Dolliv** Lv26 — Giga Drain, Body Slam, Icy Wind, Liquidation
+- **Raticate** Lv26 — Tackle, Dig, Crunch, Bite
+- **Zubat** Lv26 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Golbat** Lv26 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Rattata** Lv26 — Tackle, Dig, Crunch, Bite
+- **Dolliv** Lv26 — Giga Drain, Tackle, Mega Drain, Razor Leaf
 
 ### TEAM ROCKET GRUNT  *(trainer #386)*
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Golbat** Lv28 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Venomoth** Lv28 — Struggle Bug, Cross Poison, ThunderPunch, Aerial Ace
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Golbat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Venomoth** Lv28 — Struggle Bug, Poison Fang, Air Slash, Giga Drain
 
 ### TEAM ROCKET GRUNT  *(trainer #387)*
-- **Medicham** Lv27 — Brick Break, Zen Headbutt, Aerial Ace, Bullet Punch
+- **Medicham** Lv27 — Brick Break, Zen Headbutt, Aerial Ace, Ice Punch
 - **Drowzee** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Grimer** Lv28 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Machop** Lv28 — Brick Break, Crunch, Bullet Punch, Dig
-- **Seviper** Lv28 — Poison Jab, Brick Break, Giga Drain, Dig
+- **Grimer** Lv28 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Machop** Lv28 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Seviper** Lv28 — Poison Jab, Brick Break, Iron Head, Seed Bomb
 
 ### TEAM ROCKET GRUNT  *(trainer #388)*
-- **Rabsca** Lv27 — Struggle Bug, Psyshock, Rock Tomb, Crunch
-- **Golbat** Lv28 — Poison Fang, Wing Attack, Bite, Aura Sphere
+- **Rabsca** Lv27 — Struggle Bug, Psyshock, Power Gem, Mud-Slap
+- **Golbat** Lv28 — Poison Fang, Wing Attack, Crunch, Steel Wing
 - **Drowzee** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Hypno** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Lunatone** Lv28 — Power Gem, Psyshock, Bulldoze, Gyro Ball
+- **Hypno** Lv28 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Lunatone** Lv28 — Power Gem, Psyshock, Bulldoze, Icy Wind
 
 ### TEAM ROCKET GRUNT  *(trainer #389)*
-- **Bewear** Lv32 — Body Slam, Brick Break, Play Rough, Liquidation
-- **Machoke** Lv33 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Breloom** Lv33 — Seed Bomb, Sky Uppercut, Aerial Ace, Iron Tail
-- **Sawk** Lv33 — Brick Break, Heat Wave, Air Slash, Earthquake
+- **Bewear** Lv32 — Body Slam, Brick Break, Iron Head, Earthquake
+- **Machoke** Lv33 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Breloom** Lv33 — Seed Bomb, Sky Uppercut, Aerial Ace, Dig
+- **Sawk** Lv33 — Brick Break, Fire Punch, Earthquake, Ice Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #390)*
-- **Rattata** Lv25 — Tackle, Air Slash, Dig, Flame Wheel
-- **Rattata** Lv25 — Tackle, Air Slash, Dig, Flame Wheel
-- **Zubat** Lv25 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Rattata** Lv25 — Tackle, Air Slash, Dig, Flame Wheel
-- **Ekans** Lv25 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Squawkbily** Lv25 — Body Slam, Aerial Ace, Rock Blast, Knock Off
+- **Rattata** Lv25 — Tackle, Dig, Crunch, Bite
+- **Rattata** Lv25 — Tackle, Dig, Crunch, Bite
+- **Zubat** Lv25 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Rattata** Lv25 — Tackle, Dig, Crunch, Bite
+- **Ekans** Lv25 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Squawkbily** Lv25 — Aerial Ace, Air Slash, Air Cutter, DualWingbeat
 
 ### TEAM ROCKET GRUNT  *(trainer #391)*
 - **Bruxish** Lv31 — Aqua Tail, Psychic, Ice Beam, Crunch
-- **Cubone** Lv32 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
+- **Cubone** Lv32 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
 - **Drowzee** Lv32 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Marowak** Lv32 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Graveler** Lv32 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Malamar** Lv32 — Foul Play, Psychic, Rock Slide, Fire Punch
+- **Marowak** Lv32 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Graveler** Lv32 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Malamar** Lv32 — Foul Play, Psychic, Rock Slide, Flamethrower
 
 ### COOLTRAINER SAMUEL  *(trainer #392)*
-- **Sandslash** Lv37 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Sandslash** Lv37 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Rhyhorn** Lv38 — Earthquake, Stone Edge, Fire Fang, Play Rough
+- **Sandslash** Lv37 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Sandslash** Lv37 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Rhyhorn** Lv38 — Earthquake, Stone Edge, Fire Fang, Crunch
 - **Nidorino** Lv39 — Poison Jab, Iron Tail, Dig, Ice Beam
-- **Nidoking** Lv39 — Poison Jab, Earthquake, Iron Tail, Avalanche
+- **Nidoking** Lv39 — Poison Jab, Earthquake, Iron Tail, Ice Punch
 - **Toedscruel** Lv39 — Earth Power, Energy Ball, Flash Cannon, Foul Play
 
 ### COOLTRAINER GEORGE  *(trainer #393)*
-- **Exeggutor** Lv42 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Sandslash** Lv42 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Cloyster** Lv42 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
-- **Electrode** Lv42 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Arcanine** Lv42 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Gliscor** Lv42 — Earthquake, Wing Attack, Iron Tail, Ice Punch
+- **Exeggutor** Lv42 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **Sandslash** Lv42 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Cloyster** Lv42 — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Electrode** Lv42 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Arcanine** Lv42 — Flare Blitz, Dig, Wild Charge, Play Rough
+- **Gliscor** Lv42 — Earthquake, Aerial Ace, Metal Claw, Stone Edge
 
 ### COOLTRAINER COLBY  *(trainer #394)*
-- **Kingler** Lv41 — Surf, Rock Slide, Fire Punch, Night Slash
-- **Poliwhirl** Lv42 — Liquidation, Ice Punch, Knock Off, Brick Break
+- **Kingler** Lv41 — Liquidation, Rock Slide, Superpower, Metal Claw
+- **Poliwhirl** Lv42 — Liquidation, Ice Punch, Brick Break, Earthquake
 - **Tentacruel** Lv42 — Hydro Pump, Sludge Wave, Blizzard, Knock Off
-- **Seadra** Lv42 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
+- **Seadra** Lv42 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
 - **Blastoise** Lv43 — Hydro Pump, Flash Cannon, Earthquake, Blizzard
-- **Whiscash** Lv43 — Aqua Tail, Earthquake, Blizzard, Spark
+- **Whiscash** Lv43 — Aqua Tail, Earthquake, Blizzard, Stone Edge
 
 ### COOLTRAINER PAUL  *(trainer #395)*
-- **Slowpoke** Lv42 — Waterfall, Zen Headbutt, Iron Tail, Earthquake
-- **Shellder** Lv42 — Waterfall, Superpower, Brave Bird, Iron Head
-- **Kingler** Lv42 — Surf, Rock Slide, Fire Punch, Night Slash
+- **Slowpoke** Lv42 — Liquidation, Zen Headbutt, Earthquake, Avalanche
+- **Shellder** Lv42 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Kingler** Lv42 — Liquidation, Rock Slide, Superpower, Metal Claw
 - **Starmie** Lv42 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Golduck** Lv42 — Hydro Pump, Future Sight, Aura Sphere, Aerial Ace
-- **Swampert** Lv42 — Waterfall, Earthquake, Iron Tail, Avalanche
+- **Golduck** Lv42 — Hydro Pump, Future Sight, Brick Break, Dig
+- **Swampert** Lv42 — Liquidation, Earthquake, Ice Punch, Stone Edge
 
 ### COOLTRAINER ROLANDO  *(trainer #396)*
-- **Raticate** Lv42 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Ivysaur** Lv42 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
-- **Wartortle** Lv42 — Hydro Pump, Iron Tail, Seed Bomb, Dig
-- **Charmeleon** Lv42 — Fire Blast, Crunch, Close Combat, Hydro Pump
-- **Charizard** Lv42 — Fire Blast, Air Slash, Crunch, Brick Break
-- **Volcarona** Lv42 — Bug Buzz, Fire Blast, Close Combat, Aqua Tail
+- **Raticate** Lv42 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Ivysaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Wartortle** Lv42 — Hydro Pump, Gyro Ball, Dig, Blizzard
+- **Charmeleon** Lv42 — Fire Blast, Crunch, Brick Break, Dig
+- **Charizard** Lv42 — Fire Blast, Hurricane, Crunch, Brick Break
+- **Volcarona** Lv42 — Bug Buzz, Fire Blast, Hurricane, Giga Drain
 
 ### COOLTRAINER GILBERT  *(trainer #397)*
-- **Pidgeotto** Lv42 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Fearow** Lv42 — Return, Drill Peck, Steel Wing, Play Rough
-- **Persian** Lv42 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Lickitung** Lv42 — Return, Earth Power, Blizzard, Thunder
-- **Tauros** Lv42 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Swellow** Lv42 — Return, Brave Bird, Steel Wing, Wing Attack
+- **Pidgeotto** Lv42 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Fearow** Lv42 — Drill Peck, Aerial Ace, Roost, Focus Energy
+- **Persian** Lv42 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Lickitung** Lv42 — Body Slam, Earthquake, Blizzard, Thunder
+- **Tauros** Lv42 — Double-Edge, Surf, Iron Head, Earthquake
+- **Swellow** Lv42 — Return, Brave Bird, Steel Wing, Heat Wave
 
 ### COOLTRAINER OWEN  *(trainer #398)*
 - **Nidorino** Lv42 — Poison Jab, Iron Tail, Dig, Blizzard
-- **Nidorina** Lv42 — Poison Jab, Crunch, Liquidation, Brave Bird
-- **Raticate** Lv42 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Sandslash** Lv42 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Flare Blitz, Play Rough
-- **Piloswine** Lv42 — Icicle Crash, Earthquake, Foul Play, Superpower
+- **Nidorina** Lv42 — Poison Jab, Crunch, Iron Tail, Dig
+- **Raticate** Lv42 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Sandslash** Lv42 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Piloswine** Lv42 — Avalanche, Earthquake, Stone Edge, Ice Shard
 
 ### COOLTRAINER BERKE  *(trainer #399)*
-- **Seel** Lv42 — Aqua Tail, Rock Blast, Iron Tail, Earth Power
-- **Graveler** Lv42 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Kingler** Lv42 — Surf, Rock Slide, Fire Punch, Night Slash
-- **Onix** Lv42 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Cloyster** Lv42 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
-- **Delibird** Lv42 — Blizzard, Drill Peck, Steel Wing, Rock Blast
+- **Seel** Lv42 — Aqua Tail, Avalanche, Surf, Waterfall
+- **Graveler** Lv42 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Kingler** Lv42 — Liquidation, Rock Slide, Superpower, Metal Claw
+- **Onix** Lv42 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Cloyster** Lv42 — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Delibird** Lv42 — Blizzard, Air Slash, Seed Bomb, Foul Play
 
 ### COOLTRAINER YUJI  *(trainer #400)*
-- **Sandslash** Lv38 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Graveler** Lv38 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Onix** Lv38 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Graveler** Lv38 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Marowak** Lv38 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Runerigus** Lv38 — Earthquake, Shadow Claw, Iron Head, Energy Ball
+- **Sandslash** Lv38 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Graveler** Lv38 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Onix** Lv38 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Graveler** Lv38 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Marowak** Lv38 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Runerigus** Lv38 — Earthquake, PhantomForce, Energy Ball, Stone Edge
 
 ### COOLTRAINER WARREN  *(trainer #401)*
-- **Marowak** Lv37 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Marowak** Lv37 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Rhyhorn** Lv38 — Earthquake, Stone Edge, Fire Fang, Play Rough
-- **Nidorina** Lv39 — Poison Jab, Crunch, Liquidation, Aerial Ace
+- **Marowak** Lv37 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Marowak** Lv37 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Rhyhorn** Lv38 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Nidorina** Lv39 — Poison Jab, Crunch, Iron Tail, Dig
 - **Nidoqueen** Lv39 — Poison Jab, Earthquake, Brick Break, Surf
 - **Donphan** Lv39 — Earthquake, Fire Fang, Play Rough, Knock Off
 
 ### COOLTRAINER MARY  *(trainer #402)*
-- **Bellsprout** Lv22 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Oddish** Lv22 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Weepinbell** Lv22 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
-- **Gloom** Lv22 — Giga Drain, Acid, Drain Punch, Mega Drain
-- **Ivysaur** Lv22 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Snivy** Lv22 — Vine Whip, Aerial Ace, Rock Blast, Crunch
+- **Bellsprout** Lv22 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Oddish** Lv22 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Weepinbell** Lv22 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Gloom** Lv22 — Giga Drain, Acid, Mega Drain, Seed Bomb
+- **Ivysaur** Lv22 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Snivy** Lv22 — Seed Bomb, Aerial Ace, Knock Off, Vine Whip
 
 ### COOLTRAINER CAROLINE  *(trainer #403)*
-- **Bellsprout** Lv42 — Power Whip, Poison Jab, Foul Play, Vine Whip
-- **Weepinbell** Lv42 — Power Whip, Poison Jab, Fire Fang, Foul Play
-- **Victreebel** Lv42 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Paras** Lv42 — X-Scissor, Energy Ball, Iron Head, Dig
-- **Parasect** Lv42 — X-Scissor, Energy Ball, Dig, Rock Blast
-- **Toxapex** Lv42 — Poison Jab, Liquidation, Bite, Blizzard
+- **Bellsprout** Lv42 — Power Whip, Poison Jab, Sucker Punch, Vine Whip
+- **Weepinbell** Lv42 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Victreebel** Lv42 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Paras** Lv42 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Parasect** Lv42 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Toxapex** Lv42 — Gunk Shot, Liquidation, Bite, Blizzard
 
 ### COOLTRAINER ALEXA  *(trainer #404)*
-- **Clefairy** Lv42 — Moonblast, Power Whip, Dig, Blizzard
-- **Jigglypuff** Lv42 — Double-Edge, Fire Blast, Feint Attack, Brick Break
-- **Persian** Lv42 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Dewgong** Lv42 — Aqua Tail, Avalanche, Play Rough, Foul Play
-- **Chansey** Lv42 — Double-Edge, Crunch, Brick Break, Iron Tail
-- **Oinkologne** Lv42 — Double-Edge, Iron Tail, Energy Ball, Dig
+- **Clefairy** Lv42 — Moonblast, Dig, Blizzard, Thunder
+- **Jigglypuff** Lv42 — Double-Edge, Play Rough, Fire Punch, Knock Off
+- **Persian** Lv42 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Dewgong** Lv42 — Aqua Tail, Avalanche, Play Rough, Knock Off
+- **Chansey** Lv42 — Hyper Voice, Brick Break, Earthquake, Blizzard
+- **Oinkologne** Lv42 — Double-Edge, Iron Head, Seed Bomb, Dig
 
 ### COOLTRAINER SHANNON  *(trainer #405)*
-- **Beedrill** Lv42 — X-Scissor, Gunk Shot, Brick Break, Aqua Tail
-- **Butterfree** Lv42 — Bug Buzz, Air Slash, Energy Ball, Struggle Bug
-- **Parasect** Lv42 — X-Scissor, Energy Ball, Dig, Rock Blast
-- **Venonat** Lv42 — Leech Life, Poison Fang, ThunderPunch, Rock Blast
-- **Venomoth** Lv42 — Bug Buzz, Sludge Bomb, ThunderPunch, Muddy Water
-- **Jumpluff** Lv42 — Seed Bomb, Aerial Ace, ThunderPunch, Heat Wave
+- **Beedrill** Lv42 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Butterfree** Lv42 — Bug Buzz, Hurricane, Energy Ball, Bug Bite
+- **Parasect** Lv42 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Venonat** Lv42 — Leech Life, Poison Fang, Energy Ball, Bug Bite
+- **Venomoth** Lv42 — Bug Buzz, Sludge Wave, Air Slash, Energy Ball
+- **Jumpluff** Lv42 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
 
 ### COOLTRAINER NAOMI  *(trainer #406)*
-- **Persian** Lv42 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Ponyta** Lv42 — Flare Blitz, Aqua Tail, Iron Tail, Wild Charge
-- **Rapidash** Lv42 — Flare Blitz, Aura Sphere, Iron Tail, Earth Power
-- **Vulpix** Lv42 — Fire Blast, ThunderPunch, Dark Pulse, Iron Tail
-- **Ninetales** Lv42 — Fire Blast, Dark Pulse, Iron Tail, Energy Ball
-- **Charizard** Lv42 — Fire Blast, Air Slash, Crunch, Brick Break
+- **Persian** Lv42 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Ponyta** Lv42 — Flare Blitz, Play Rough, Iron Tail, Wild Charge
+- **Rapidash** Lv42 — Flare Blitz, Iron Tail, Wild Charge, Play Rough
+- **Vulpix** Lv42 — Fire Blast, Dark Pulse, Energy Ball, Dig
+- **Ninetales** Lv42 — Fire Blast, Dark Pulse, Energy Ball, Dig
+- **Charizard** Lv42 — Fire Blast, Hurricane, Crunch, Brick Break
 
 ### COOLTRAINER BROOKE  *(trainer #407)*
-- **Tangela** Lv42 — Energy Ball, Foul Play, Ice Punch, ThunderPunch
-- **Gloom** Lv42 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Vileplume** Lv42 — Energy Ball, Sludge Wave, Air Slash, Earth Power
-- **Ivysaur** Lv42 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
-- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Brave Bird
-- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Brave Bird
+- **Tangela** Lv42 — Energy Ball, Knock Off, AncientPower, Vine Whip
+- **Gloom** Lv42 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Vileplume** Lv42 — Energy Ball, Sludge Wave, Moonblast, Mega Drain
+- **Ivysaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Earth Power
+- **Venusaur** Lv42 — Energy Ball, Sludge Bomb, Knock Off, Earth Power
 
 ### COOLTRAINER AUSTINA  *(trainer #408)*
-- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Flare Blitz, Play Rough
-- **Nidorina** Lv42 — Poison Jab, Crunch, Liquidation, Brave Bird
+- **Rhyhorn** Lv42 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Nidorina** Lv42 — Poison Jab, Crunch, Iron Tail, Dig
 - **Nidoqueen** Lv42 — Poison Jab, Earthquake, Superpower, Surf
 - **Nidorino** Lv42 — Poison Jab, Iron Tail, Dig, Blizzard
-- **Nidoking** Lv42 — Poison Jab, Earthquake, Iron Tail, Avalanche
-- **Crobat** Lv42 — Cross Poison, Brave Bird, ThunderPunch, Power Gem
+- **Nidoking** Lv42 — Poison Jab, Earthquake, Iron Tail, Ice Punch
+- **Crobat** Lv42 — Cross Poison, Brave Bird, Heat Wave, Crunch
 
 ### COOLTRAINER JULIE  *(trainer #409)*
-- **Persian** Lv42 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Ninetales** Lv42 — Fire Blast, Dark Pulse, Iron Tail, Energy Ball
-- **Rapidash** Lv42 — Flare Blitz, Aura Sphere, Iron Tail, Earth Power
-- **Pikachu** Lv42 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Raichu** Lv42 — Thunder, Brick Break, Surf, Iron Tail
-- **Galvantula** Lv42 — Bug Buzz, Thunder, Ice Punch, Fire Punch
+- **Persian** Lv42 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Ninetales** Lv42 — Fire Blast, Dark Pulse, Energy Ball, Dig
+- **Rapidash** Lv42 — Flare Blitz, Iron Tail, Wild Charge, Play Rough
+- **Pikachu** Lv42 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Raichu** Lv42 — Thunder, Play Rough, Knock Off, Brick Break
+- **Galvantula** Lv42 — Bug Buzz, Thunder, Sucker Punch, Energy Ball
 
 ### GENTLEMAN THOMAS  *(trainer #421)*
 - **Quilava** Lv17 — Ember, Aerial Ace, Fire Fang, Flame Wheel
-- **Growlithe** Lv18 — Fire Fang, Bite, Aerial Ace, Ember
-- **Growlithe** Lv18 — Fire Fang, Bite, Aerial Ace, Ember
+- **Growlithe** Lv18 — Fire Fang, Bite, Ember, Flame Wheel
+- **Growlithe** Lv18 — Fire Fang, Bite, Ember, Flame Wheel
 - **Quilava** Lv18 — Ember, Aerial Ace, Fire Fang, Flame Wheel
 
 ### GENTLEMAN ARTHUR  *(trainer #422)*
-- **Gloom** Lv18 — Mega Drain, Acid, Razor Leaf, Sleep Powder
-- **Nidoran?** Lv19 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Nidoran?** Lv19 — Poison Jab, Crunch, Aerial Ace, Iron Head
-- **Gulpin** Lv19 — Poison Jab, Giga Drain, Mud-Slap, Ice Punch
+- **Gloom** Lv18 — Mega Drain, Acid, Sleep Powder, Stun Spore
+- **Nidoran?** Lv19 — Poison Jab, Dig, Sucker Punch, Fury Attack
+- **Nidoran?** Lv19 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gulpin** Lv19 — Poison Jab, Seed Bomb, Mud-Slap, Ice Punch
 
 ### GENTLEMAN TUCKER  *(trainer #423)*
-- **Plusle** Lv22 — Discharge, Crunch, Spark, Volt Switch
-- **Pikachu** Lv23 — ThunderPunch, Brick Break, Dig, ThunderShock
+- **Plusle** Lv22 — Discharge, Mud-Slap, Spark, ThunderPunch
+- **Pikachu** Lv23 — ThunderPunch, Knock Off, Brick Break, Dig
 - **Charjabug** Lv23 — X-Scissor, Spark, Crunch, Dig
 
 ### GENTLEMAN NORTON  *(trainer #424)*
-- **Blissey** Lv47 — Hyper Voice, Thunder, Power Gem, Fire Blast
-- **Persian** Lv48 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Maushold** Lv48 — Return, Foul Play, Close Combat, Aerial Ace
+- **Blissey** Lv47 — Hyper Voice, Thunder, Rock Slide, Fire Blast
+- **Persian** Lv48 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Maushold** Lv48 — Double-Edge, Crunch, Aerial Ace, Seed Bomb
 
 ### GENTLEMAN WALTER  *(trainer #425)*
 - **Cyndaquil** Lv16 — Ember, Aerial Ace, Fire Fang, Flame Wheel
-- **Growlithe** Lv17 — Fire Fang, Bite, Aerial Ace, Ember
+- **Growlithe** Lv17 — Fire Fang, Bite, Ember, Flame Wheel
 - **Ponyta** Lv17 — Flame Wheel, Ember, Stomp, Tail Whip
-- **Fennekin** Lv17 — Ember, Psybeam, Flame Charge, Howl
+- **Fennekin** Lv17 — Ember, Mud-Slap, Psybeam, Flame Charge
 
 ### CHANNELER PATRICIA  *(trainer #441)*
-- **Drakloak** Lv21 — Dragon Pulse, Astonish, Sucker Punch, Scald
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gulpin** Lv22 — Poison Jab, Giga Drain, Mud-Slap, Ice Punch
-- **Mareanie** Lv22 — Poison Jab, Liquidation, Bite, Scald
+- **Drakloak** Lv21 — Dragon Pulse, Astonish, Bite, Shadow Ball
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gulpin** Lv22 — Poison Jab, Seed Bomb, Mud-Slap, Ice Punch
+- **Mareanie** Lv22 — Poison Jab, Liquidation, Bite, Icy Wind
 
 ### CHANNELER CARLY  *(trainer #442)*
-- **Trubbish** Lv23 — Sludge, Iron Head, Giga Drain, Rock Blast
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Sableye** Lv24 — Sucker Punch, Shadow Claw, Gyro Ball, Giga Drain
-- **Drakloak** Lv24 — Dragon Pulse, Astonish, Sucker Punch, Scald
+- **Trubbish** Lv23 — Sludge, Seed Bomb, Rock Blast, Dark Pulse
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Sableye** Lv24 — Sucker Punch, Shadow Claw, Metal Claw, Giga Drain
+- **Drakloak** Lv24 — Dragon Pulse, Astonish, Bite, Shadow Ball
 
 ### CHANNELER HOPE  *(trainer #443)*
-- **Phantump** Lv22 — Shadow Claw, Giga Drain, Dig, Icy Wind
-- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Tentacool** Lv23 — Scald, Acid, Aurora Beam, Knock Off
+- **Phantump** Lv22 — Shadow Claw, Seed Bomb, Dig, Rock Slide
+- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Tentacool** Lv23 — Bubble Beam, Acid, Aurora Beam, Knock Off
 
 ### CHANNELER PAULA  *(trainer #444)*
-- **Nidorina** Lv23 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Sandygast** Lv24 — Shadow Ball, Bulldoze, ThunderPunch, AncientPower
+- **Nidorina** Lv23 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Sandygast** Lv24 — Shadow Ball, Mud-Slap, AncientPower, Flash Cannon
 
 ### CHANNELER LAUREL  *(trainer #445)*
-- **Drifloon** Lv22 — Shadow Ball, Aerial Ace, Gyro Ball, Astonish
-- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Dustox** Lv23 — U-turn, Crunch, Aerial Ace, Giga Drain
-- **Gloom** Lv23 — Giga Drain, Acid, Drain Punch, Mega Drain
+- **Drifloon** Lv22 — Shadow Ball, Air Cutter, Gyro Ball, Icy Wind
+- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Dustox** Lv23 — U-turn, Aerial Ace, Giga Drain, Bug Bite
+- **Gloom** Lv23 — Giga Drain, Acid, Mega Drain, Seed Bomb
 
 ### CHANNELER JODY  *(trainer #446)*
-- **Mareanie** Lv21 — Poison Jab, Liquidation, Bite, Scald
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Sableye** Lv22 — Sucker Punch, Shadow Claw, Gyro Ball, Giga Drain
+- **Mareanie** Lv21 — Poison Jab, Liquidation, Bite, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Sableye** Lv22 — Sucker Punch, Shadow Claw, Metal Claw, Giga Drain
 
 ### CHANNELER TAMMY  *(trainer #447)*
-- **Rotom** Lv22 — Discharge, Shadow Ball, Dark Pulse, Liquidation
-- **Haunter** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
+- **Rotom** Lv22 — Discharge, Shadow Ball, Dark Pulse, ThunderShock
+- **Haunter** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Mega Drain
 
 ### CHANNELER RUTH  *(trainer #448)*
-- **Grimer** Lv21 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Golett** Lv22 — Dig, Shadow Punch, Rock Slide, Brick Break
+- **Grimer** Lv21 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Golett** Lv22 — Dig, Shadow Punch, Rock Slide, Fire Punch
 - **Polchgeist** Lv22 — Giga Drain, Shadow Ball, Scald, Mega Drain
 
 ### CHANNELER KARINA  *(trainer #449)*
-- **Sandygast** Lv23 — Shadow Ball, Bulldoze, ThunderPunch, AncientPower
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Salandit** Lv24 — Poison Jab, Ember, Knock Off, Iron Head
+- **Sandygast** Lv23 — Shadow Ball, Mud-Slap, AncientPower, Flash Cannon
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Salandit** Lv24 — Poison Jab, Ember, Knock Off, Mud-Slap
 
 ### CHANNELER JANAE  *(trainer #450)*
-- **Glimmet** Lv21 — Power Gem, Knock Off, Rock Throw, Rock Tomb
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Honedge** Lv22 — Iron Head, Shadow Claw, Brick Break, Liquidation
+- **Glimmet** Lv21 — Power Gem, Rock Throw, Rock Tomb, Rock Slide
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Honedge** Lv22 — Iron Head, Shadow Claw, Brick Break, Aerial Ace
 
 ### CHANNELER ANGELICA  *(trainer #451)*
-- **Drifloon** Lv21 — Shadow Ball, Aerial Ace, Gyro Ball, Astonish
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Oddish** Lv22 — Giga Drain, Acid, Iron Head, Ice Punch
+- **Drifloon** Lv21 — Shadow Ball, Air Cutter, Gyro Ball, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Oddish** Lv22 — Giga Drain, Acid, Mega Drain, Razor Leaf
 
 ### CHANNELER EMILIA  *(trainer #452)*
-- **Nidorina** Lv23 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Sandygast** Lv24 — Shadow Ball, Bulldoze, ThunderPunch, AncientPower
+- **Nidorina** Lv23 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Sandygast** Lv24 — Shadow Ball, Mud-Slap, AncientPower, Flash Cannon
 - **Frillish** Lv24 — Scald, Shadow Ball, Giga Drain, Icy Wind
 
 ### CHANNELER JENNIFER  *(trainer #453)*
-- **Sinistea** Lv23 — Shadow Ball, Dark Pulse, Aura Sphere, Giga Drain
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Weepinbell** Lv24 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
+- **Sinistea** Lv23 — Shadow Ball, Dark Pulse, Giga Drain, Astonish
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Weepinbell** Lv24 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
 
 ### CHANNELER  *(trainer #454)*
-- **Haunter** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Phantump** Lv23 — Shadow Claw, Giga Drain, Dig, Icy Wind
+- **Haunter** Lv23 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Phantump** Lv23 — Shadow Claw, Seed Bomb, Dig, Rock Slide
 
 ### CHANNELER  *(trainer #455)*
 - **Frillish** Lv23 — Scald, Shadow Ball, Giga Drain, Icy Wind
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Clodsire** Lv24 — Poison Jab, Dig, Liquidation, Rock Slide
-- **Venomoth** Lv24 — Struggle Bug, Cross Poison, ThunderPunch, Aerial Ace
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Clodsire** Lv24 — Poison Jab, Dig, Liquidation, Iron Head
+- **Venomoth** Lv24 — Struggle Bug, Poison Fang, Air Slash, Giga Drain
 
 ### CHANNELER  *(trainer #456)*
-- **Gastly** Lv21 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
+- **Gastly** Lv21 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
 - **Frillish** Lv22 — Scald, Shadow Ball, Giga Drain, Icy Wind
 
 ### CHANNELER  *(trainer #457)*
-- **Drakloak** Lv23 — Dragon Pulse, Astonish, Sucker Punch, Scald
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Salandit** Lv24 — Poison Jab, Ember, Knock Off, Iron Head
+- **Drakloak** Lv23 — Dragon Pulse, Astonish, Bite, Shadow Ball
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Salandit** Lv24 — Poison Jab, Ember, Knock Off, Mud-Slap
 
 ### CHANNELER  *(trainer #458)*
-- **Stunky** Lv21 — Poison Jab, Crunch, Dig, Icy Wind
-- **Haunter** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Drakloak** Lv22 — Dragon Pulse, Astonish, Sucker Punch, Scald
-- **Rotom** Lv22 — Discharge, Shadow Ball, Dark Pulse, Liquidation
+- **Stunky** Lv21 — Poison Jab, Crunch, Dig, Bite
+- **Haunter** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Drakloak** Lv22 — Dragon Pulse, Astonish, Bite, Shadow Ball
+- **Rotom** Lv22 — Discharge, Shadow Ball, Dark Pulse, ThunderShock
 
 ### CHANNELER  *(trainer #459)*
 - **Yamask** Lv21 — Shadow Ball, Dark Pulse, Astonish, Hex
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Gulpin** Lv22 — Poison Jab, Giga Drain, Mud-Slap, Ice Punch
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gastly** Lv22 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Gulpin** Lv22 — Poison Jab, Seed Bomb, Mud-Slap, Ice Punch
 
 ### CHANNELER  *(trainer #460)*
-- **Nidorina** Lv23 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Sandygast** Lv24 — Shadow Ball, Bulldoze, ThunderPunch, AncientPower
+- **Nidorina** Lv23 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Sandygast** Lv24 — Shadow Ball, Mud-Slap, AncientPower, Flash Cannon
 
 ### CHANNELER  *(trainer #461)*
-- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Weepinbell** Lv24 — Razor Leaf, Poison Jab, Fire Fang, Knock Off
+- **Gastly** Lv24 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Weepinbell** Lv24 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
 
 ### CHANNELER AMANDA  *(trainer #462)*
-- **Weepinbell** Lv33 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Gastly** Lv34 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Haunter** Lv34 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Trevenant** Lv34 — PhantomForce, Energy Ball, Rock Slide, Fire Fang
-- **Bramblgast** Lv34 — Seed Bomb, PhantomForce, Aqua Tail, Rock Blast
+- **Weepinbell** Lv33 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Gastly** Lv34 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Haunter** Lv34 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Trevenant** Lv34 — PhantomForce, Seed Bomb, Rock Slide, Foul Play
+- **Bramblgast** Lv34 — Seed Bomb, PhantomForce, Mega Drain, Giga Drain
 
 ### CHANNELER STACY  *(trainer #463)*
-- **Doublade** Lv37 — Iron Head, PhantomForce, Aerial Ace, Leaf Blade
-- **Haunter** Lv38 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Dragalge** Lv38 — Sludge Wave, Dragon Pulse, Surf, Iron Tail
-- **Muk** Lv38 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
+- **Doublade** Lv37 — Iron Head, Shadow Claw, Aerial Ace, Rock Slide
+- **Haunter** Lv38 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Dragalge** Lv38 — Sludge Wave, Dragon Pulse, Surf, Mud-Slap
+- **Muk** Lv38 — Poison Jab, Knock Off, Brick Break, Giga Drain
 
 ### CHANNELER TASHA  *(trainer #464)*
-- **Haunter** Lv32 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Gastly** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Gastly** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Haunter** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Ice Punch
-- **Runerigus** Lv33 — Earthquake, Shadow Claw, Iron Head, Energy Ball
+- **Haunter** Lv32 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Gastly** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Gastly** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Haunter** Lv33 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
+- **Runerigus** Lv33 — Earthquake, PhantomForce, Energy Ball, Stone Edge
 
 ### HIKER JEREMY  *(trainer #465)*
-- **Onix** Lv19 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Machop** Lv20 — Brick Break, Crunch, Bullet Punch, Dig
-- **Onix** Lv20 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Mienfoo** Lv20 — Brick Break, Dig, Rock Slide, Knock Off
+- **Onix** Lv19 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Machop** Lv20 — Brick Break, Knock Off, Bullet Punch, Dig
+- **Onix** Lv20 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Mienfoo** Lv20 — Brick Break, Dig, Rock Tomb, Knock Off
 
 ### PICNICKER ALMA  *(trainer #466)*
-- **Goldeen** Lv28 — Waterfall, Iron Head, Mud-Slap, Ice Punch
-- **Poliwag** Lv28 — Waterfall, Dig, Water Gun, Bubble Beam
-- **Horsea** Lv28 — Scald, Flash Cannon, Aurora Beam, Rock Blast
-- **Whiscash** Lv28 — Waterfall, Bulldoze, Spark, Rock Slide
+- **Goldeen** Lv28 — Waterfall, Mud-Slap, Icy Wind, Scald
+- **Poliwag** Lv28 — Liquidation, Dig, Icy Wind, Water Gun
+- **Horsea** Lv28 — Bubble Beam, Flash Cannon, Aurora Beam, Water Gun
+- **Whiscash** Lv28 — Liquidation, Bulldoze, Icy Wind, Rock Slide
 
 ### PICNICKER SUSIE  *(trainer #467)*
-- **Pidgey** Lv24 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Rattata** Lv24 — Tackle, Air Slash, Dig, Flame Wheel
-- **Pikachu** Lv24 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Meowth** Lv24 — Slash, Night Slash, Aerial Ace, Dig
-- **Pikachu** Lv24 — ThunderPunch, Brick Break, Dig, ThunderShock
+- **Pidgey** Lv24 — Tackle, Wing Attack, Air Slash, Twister
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Rattata** Lv24 — Tackle, Dig, Crunch, Bite
+- **Pikachu** Lv24 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Meowth** Lv24 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Pikachu** Lv24 — ThunderPunch, Knock Off, Brick Break, Dig
 
 ### PICNICKER VALERIE  *(trainer #468)*
-- **Seadra** Lv29 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Poliwag** Lv30 — Waterfall, Dig, Ice Beam, Water Gun
-- **Poliwag** Lv30 — Waterfall, Dig, Ice Beam, Water Gun
-- **Araquanid** Lv30 — Liquidation, X-Scissor, Seed Bomb, Ice Beam
+- **Seadra** Lv29 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Poliwag** Lv30 — Liquidation, Dig, Ice Beam, Water Gun
+- **Poliwag** Lv30 — Liquidation, Dig, Ice Beam, Water Gun
+- **Araquanid** Lv30 — Liquidation, X-Scissor, Giga Drain, Ice Beam
 
 ### PICNICKER GWEN  *(trainer #469)*
-- **Pidgey** Lv27 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Meowth** Lv27 — Slash, Night Slash, Aerial Ace, Dig
-- **Pidgey** Lv27 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv27 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Staravia** Lv27 — Tackle, Wing Attack, Knock Off, Aura Sphere
+- **Pidgey** Lv27 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Meowth** Lv27 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Pidgey** Lv27 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv27 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Staravia** Lv27 — Tackle, Wing Attack, Aerial Ace, Air Slash
 
 ### BIKER VIRGIL  *(trainer #470)*
-- **Whirlipede** Lv27 — Bug Bite, Poison Jab, Gyro Ball, Rock Blast
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Koffing** Lv28 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Weezing** Lv28 — Sludge, Fire Fang, Dark Pulse, Gyro Ball
-- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Rock Blast
-- **Nidorino** Lv28 — Poison Jab, Iron Head, Dig, Power Gem
+- **Whirlipede** Lv27 — Bug Bite, Poison Jab, Gyro Ball, Pin Missile
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Koffing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Weezing** Lv28 — Sludge, Dark Pulse, Gyro Ball, Haze
+- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Pin Missile
+- **Nidorino** Lv28 — Poison Jab, Dig, Helping Hand, Horn Attack
 
 ### CAMPER FLINT  *(trainer #471)*
-- **Rattata** Lv14 — Tackle, Flame Wheel, Sucker Punch, Return
-- **Ekans** Lv14 — Acid, Bulldoze, Rock Tomb, Sucker Punch
+- **Rattata** Lv14 — Tackle, Sucker Punch, Bite, Pursuit
+- **Ekans** Lv14 — Poison Fang, Mud Bomb, Rock Tomb, Fire Fang
 - **Tentacool** Lv14 — Bubble Beam, Acid, Aurora Beam, Knock Off
 
 ### PICNICKER MISSY  *(trainer #472)*
-- **Cramorant** Lv30 — Drill Peck, Surf, Steel Wing, Leaf Blade
-- **Goldeen** Lv31 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv31 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Pyukumuku** Lv31 — Play Rough, Gastro Acid, Curse, Purify
-- **Dewott** Lv31 — Surf, Night Slash, Brick Break, Air Slash
+- **Cramorant** Lv30 — Drill Peck, Liquidation, Ice Beam, Aerial Ace
+- **Goldeen** Lv31 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Seaking** Lv31 — Waterfall, Ice Beam, Surf, Scald
+- **Pyukumuku** Lv31 — Gastro Acid, Curse, Purify, Counter
+- **Dewott** Lv31 — Surf, Knock Off, Brick Break, Air Slash
 
 ### PICNICKER IRENE  *(trainer #473)*
 - **Tentacool** Lv30 — Surf, Sludge Wave, Ice Beam, Knock Off
-- **Horsea** Lv30 — Surf, Flash Cannon, Earth Power, Ice Beam
-- **Seel** Lv30 — Aqua Tail, Rock Blast, Iron Tail, Earth Power
-- **Veluza** Lv30 — Liquidation, Psychic, Power Gem, Fire Fang
+- **Horsea** Lv30 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Seel** Lv30 — Aqua Tail, Avalanche, Surf, Waterfall
+- **Veluza** Lv30 — Liquidation, Zen Headbutt, Crunch, Ice Beam
 
 ### PICNICKER DANA  *(trainer #474)*
-- **Dolliv** Lv19 — Giga Drain, Body Slam, Icy Wind, Liquidation
-- **Meowth** Lv20 — Slash, Night Slash, Aerial Ace, Dig
-- **Oddish** Lv20 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Pidgey** Lv20 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Aipom** Lv20 — Body Slam, Dig, Ice Punch, Crunch
-- **Thwackey** Lv20 — Razor Leaf, Knock Off, Drain Punch, Giga Drain
+- **Dolliv** Lv19 — Giga Drain, Tackle, Mega Drain, Razor Leaf
+- **Meowth** Lv20 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Oddish** Lv20 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Pidgey** Lv20 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Aipom** Lv20 — Seed Bomb, Dig, Ice Punch, ThunderPunch
+- **Thwackey** Lv20 — Seed Bomb, Knock Off, Drain Punch, Razor Leaf
 
 ### PICNICKER ARIANA  *(trainer #475)*
-- **Farfetch'd** Lv18 — Slash, Aerial Ace, Mud-Slap, Night Slash
-- **Pidgey** Lv19 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
-- **Rattata** Lv19 — Tackle, Air Slash, Dig, Flame Wheel
-- **Bellsprout** Lv19 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Tranquill** Lv19 — Return, Aerial Ace, Steel Wing, Seed Bomb
+- **Farfetch'd** Lv18 — Slash, Aerial Ace, Razor Leaf, Night Slash
+- **Pidgey** Lv19 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
+- **Rattata** Lv19 — Tackle, Dig, Crunch, Bite
+- **Bellsprout** Lv19 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Tranquill** Lv19 — DualWingbeat, Steel Wing, Air Slash, Air Cutter
 
 ### PICNICKER LEAH  *(trainer #476)*
-- **Oddish** Lv21 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Bellsprout** Lv22 — Razor Leaf, Poison Jab, Knock Off, Vine Whip
-- **Clefairy** Lv22 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Chespin** Lv22 — Seed Bomb, Rock Slide, Crunch, Brick Break
+- **Oddish** Lv21 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Bellsprout** Lv22 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Clefairy** Lv22 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Chespin** Lv22 — Seed Bomb, ThunderPunch, Rock Slide, Bite
 
 ### CAMPER JUSTIN  *(trainer #477)*
-- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Rock Blast
+- **Whirlipede** Lv28 — Bug Bite, Poison Jab, Gyro Ball, Pin Missile
 - **Nidoran?** Lv29 — Poison Jab, Iron Tail, Dig, Ice Beam
 - **Nidorino** Lv29 — Poison Jab, Iron Tail, Dig, Ice Beam
-- **Weepinbell** Lv29 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Roselia** Lv29 — Energy Ball, Sludge Bomb, Earth Power, Mega Drain
+- **Weepinbell** Lv29 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Roselia** Lv29 — Energy Ball, Sludge Bomb, Mega Drain, Razor Leaf
 
 ### PICNICKER YAZMIN  *(trainer #478)*
-- **Eldegoss** Lv28 — Giga Drain, Air Slash, Razor Leaf, Synthesis
-- **Bellsprout** Lv29 — Razor Leaf, Poison Jab, Foul Play, Vine Whip
-- **Oddish** Lv29 — Energy Ball, Sludge Bomb, Iron Head, Ice Punch
-- **Tangela** Lv29 — Energy Ball, Foul Play, Ice Punch, ThunderPunch
-- **Bramblgast** Lv29 — Seed Bomb, PhantomForce, Aqua Tail, Rock Blast
+- **Eldegoss** Lv28 — Giga Drain, Razor Leaf, Seed Bomb, Synthesis
+- **Bellsprout** Lv29 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Oddish** Lv29 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Tangela** Lv29 — Energy Ball, Knock Off, AncientPower, Vine Whip
+- **Bramblgast** Lv29 — Seed Bomb, PhantomForce, Mega Drain, Giga Drain
 
 ### PICNICKER KINDRA  *(trainer #479)*
-- **Gloom** Lv28 — Giga Drain, Acid, Drain Punch, Mega Drain
-- **Oddish** Lv28 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Oddish** Lv28 — Giga Drain, Acid, Iron Head, Ice Punch
-- **Gloom** Lv28 — Giga Drain, Acid, Drain Punch, Mega Drain
+- **Gloom** Lv28 — Giga Drain, Acid, Mega Drain, Seed Bomb
+- **Oddish** Lv28 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Oddish** Lv28 — Giga Drain, Acid, Mega Drain, Razor Leaf
+- **Gloom** Lv28 — Giga Drain, Acid, Mega Drain, Seed Bomb
 
 ### PICNICKER BECKY  *(trainer #480)*
-- **Elekid** Lv28 — Discharge, Ice Punch, Fire Punch, Brick Break
-- **Pikachu** Lv29 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Raichu** Lv29 — Thunderbolt, Brick Break, Surf, Iron Tail
-- **Pincurchin** Lv29 — Wild Charge, Ice Punch, Rock Blast, Crunch
-- **Rotom** Lv29 — Thunderbolt, Shadow Ball, Dark Pulse, Liquidation
+- **Elekid** Lv28 — Discharge, Ice Punch, Fire Punch, Knock Off
+- **Pikachu** Lv29 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Raichu** Lv29 — Thunderbolt, Play Rough, Knock Off, Brick Break
+- **Pincurchin** Lv29 — Wild Charge, Sucker Punch, Liquidation, ThunderShock
+- **Rotom** Lv29 — Thunderbolt, Shadow Ball, Dark Pulse, ThunderShock
 
 ### PICNICKER CELIA  *(trainer #481)*
-- **Dachsbun** Lv32 — Play Rough, Iron Tail, Seed Bomb, Dig
+- **Dachsbun** Lv32 — Play Rough, Dig, Fire Fang, Crunch
 - **Clefairy** Lv33 — Moonblast, Dig, Ice Beam, Thunderbolt
-- **Clefable** Lv33 — Dig, Ice Beam, Thunderbolt, Flamethrower
+- **Clefable** Lv33 — Moonblast, Dig, Ice Beam, Thunderbolt
 
 ### GENTLEMAN BROOKS  *(trainer #482)*
-- **Luxio** Lv22 — Spark, Ice Punch, Fire Fang, Crunch
-- **Pikachu** Lv23 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Elekid** Lv23 — Discharge, Ice Punch, Fire Punch, Brick Break
+- **Luxio** Lv22 — Spark, Fire Fang, Crunch, ThunderShock
+- **Pikachu** Lv23 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Elekid** Lv23 — Discharge, Ice Punch, Fire Punch, Knock Off
 
 ### GENTLEMAN LAMAR  *(trainer #483)*
-- **Magby** Lv16 — Ember, Feint Attack, Karate Chop, Mach Punch
-- **Growlithe** Lv17 — Fire Fang, Bite, Aerial Ace, Ember
+- **Magby** Lv16 — Flame Wheel, Feint Attack, Mach Punch, Ember
+- **Growlithe** Lv17 — Fire Fang, Bite, Ember, Flame Wheel
 - **Ponyta** Lv17 — Flame Wheel, Ember, Stomp, Tail Whip
-- **Charmeleon** Lv17 — Ember, Bite, Air Cutter, Metal Claw
-- **Combusken** Lv17 — Ember, Night Slash, Aerial Ace, Rock Tomb
+- **Charmeleon** Lv17 — Ember, Rock Tomb, Fire Fang, Dragon Rage
+- **Combusken** Lv17 — Ember, Aerial Ace, Rock Tomb, Peck
 
 ### TWINS ELI & ANNE  *(trainer #484)*
-- **Clefairy** Lv22 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Jigglypuff** Lv22 — Body Slam, Feint Attack, Brick Break, Gyro Ball
+- **Clefairy** Lv22 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Jigglypuff** Lv22 — Body Slam, Fire Punch, Knock Off, Brick Break
 - **Tinkatuff** Lv22 — Spirit Break, Metal Claw, Brick Break, Rock Slide
 
 ### COOL COUPLE RAY & TYRA  *(trainer #485)*
-- **Roserade** Lv44 — Energy Ball, Sludge Bomb, Crunch, Hydro Pump
+- **Roserade** Lv44 — Energy Ball, Sludge Bomb, Mega Drain, Giga Drain
 - **Nidoqueen** Lv45 — Poison Jab, Earthquake, Superpower, Surf
-- **Nidoking** Lv45 — Poison Jab, Earthquake, Iron Tail, Avalanche
-- **Mamoswine** Lv45 — Icicle Crash, Earthquake, Seed Bomb, Stone Edge
+- **Nidoking** Lv45 — Poison Jab, Earthquake, Iron Tail, Ice Punch
+- **Mamoswine** Lv45 — Avalanche, Earthquake, Iron Head, Stone Edge
 
 ### YOUNG COUPLE GIA & JES  *(trainer #486)*
-- **Ivysaur** Lv23 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Nidoran?** Lv24 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Nidoran?** Lv24 — Poison Jab, Crunch, Aerial Ace, Iron Head
-- **Ivysaur** Lv24 — Giga Drain, Sludge, Vine Whip, Razor Leaf
+- **Ivysaur** Lv23 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Nidoran?** Lv24 — Poison Jab, Dig, Sucker Punch, Horn Attack
+- **Nidoran?** Lv24 — Poison Jab, Crunch, Dig, Poison Fang
+- **Ivysaur** Lv24 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
 
 ### TWINS KIRI & JAN  *(trainer #487)*
-- **Crocalor** Lv28 — Ember, Rock Blast, Bite, Iron Head
-- **Charmander** Lv29 — Flamethrower, Crunch, Brick Break, Air Cutter
-- **Squirtle** Lv29 — Surf, Aura Sphere, Iron Tail, Dig
-- **Lanturn** Lv29 — Surf, Thunderbolt, Air Slash, Ice Beam
-- **Heatmor** Lv29 — Heat Wave, Dig, Rock Tomb, Night Slash
+- **Crocalor** Lv28 — Ember, Crunch, Seed Bomb, Mud-Slap
+- **Charmander** Lv29 — Heat Wave, Crunch, Brick Break, Iron Tail
+- **Squirtle** Lv29 — Surf, Brick Break, Gyro Ball, Dig
+- **Lanturn** Lv29 — Surf, Thunderbolt, Ice Beam, Water Gun
+- **Heatmor** Lv29 — Heat Wave, Dig, ThunderPunch, Rock Tomb
 
 ### CRUSH KIN RON & MYA  *(trainer #488)*
-- **Hariyama** Lv28 — Brick Break, Dig, Ice Punch, Rock Slide
+- **Hariyama** Lv28 — Brick Break, Dig, Ice Punch, ThunderPunch
 - **Hitmonchan** Lv29  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Hitmonlee** Lv29  @Black Belt — Brick Break, Bullet Punch, Earthquake, Icy Wind
-- **Machoke** Lv29 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
+- **Hitmonlee** Lv29  @Black Belt — Brick Break, Earthquake, Stone Edge, Sucker Punch
+- **Machoke** Lv29 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
 
 ### YOUNG COUPLE LEA & JED  *(trainer #489)*
 - **Torkoal** Lv28 — Flame Wheel, Gyro Ball, Bulldoze, Rock Slide
-- **Rapidash** Lv29 — Flame Wheel, Aura Sphere, Iron Tail, Earth Power
-- **Ninetales** Lv29 — Heat Wave, Dark Pulse, Iron Tail, Energy Ball
-- **Litleo** Lv29 — Flamethrower, Hyper Voice, Iron Tail, Dig
+- **Rapidash** Lv29 — Flame Wheel, Iron Tail, Wild Charge, Play Rough
+- **Ninetales** Lv29 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Litleo** Lv29 — Heat Wave, Hyper Voice, Mud-Slap, Wild Charge
 
 ### SIS AND BRO LIA & LUC  *(trainer #490)*
-- **Goldeen** Lv30 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv30 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Veluza** Lv30 — Liquidation, Psychic, Power Gem, Fire Fang
+- **Goldeen** Lv30 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Seaking** Lv30 — Waterfall, Ice Beam, Surf, Scald
+- **Veluza** Lv30 — Liquidation, Zen Headbutt, Crunch, Ice Beam
 
 ### SIS AND BRO LIL & IAN  *(trainer #491)*
-- **Kingler** Lv32 — Surf, Rock Slide, Fire Punch, Night Slash
-- **Seadra** Lv33 — Surf, Air Slash, Flash Cannon, Ice Beam
+- **Kingler** Lv32 — Liquidation, Rock Slide, Brick Break, Metal Claw
+- **Seadra** Lv33 — Surf, Flash Cannon, Ice Beam, Water Gun
 - **Starmie** Lv33 — Surf, Psychic, Ice Beam, Thunderbolt
-- **Bronzong** Lv33 — Gyro Ball, Psychic, Earthquake, Rock Slide
+- **Bronzong** Lv33 — Iron Head, Zen Headbutt, Earthquake, Rock Slide
 
 ### BUG CATCHER  *(trainer #492)*
-- **Salandit** Lv4 — Ember, Mud-Slap, Poison Gas, Scratch
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Salandit** Lv4 — Poison Fang, Ember, Mud-Slap, Poison Gas
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Oddish** Lv5 — Mega Drain, Acid, Razor Leaf, Sweet Scent
 
 ### BUG CATCHER  *(trainer #493)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### BUG CATCHER  *(trainer #494)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### BUG CATCHER  *(trainer #495)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### BUG CATCHER  *(trainer #496)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### BUG CATCHER  *(trainer #497)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### YOUNGSTER BEN  *(trainer #498)*
-- **Ariados** Lv27 — X-Scissor, Poison Jab, Dig, Night Slash
-- **Raticate** Lv28 — Tackle, Dig, Flame Wheel, Crunch
-- **Ekans** Lv28 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Ariados** Lv28 — X-Scissor, Poison Jab, Dig, Night Slash
+- **Ariados** Lv27 — X-Scissor, Poison Jab, Dig, Sucker Punch
+- **Raticate** Lv28 — Tackle, Dig, Crunch, Bite
+- **Ekans** Lv28 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Ariados** Lv28 — X-Scissor, Poison Jab, Dig, Sucker Punch
 
 ### YOUNGSTER BEN  *(trainer #499)*
-- **Ambipom** Lv47 — Return, Aerial Ace, Iron Tail, Dig
-- **Raticate** Lv48 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Ice Punch
-- **Sharpedo** Lv48 — Liquidation, Crunch, Earthquake, Avalanche
+- **Ambipom** Lv47 — Double-Edge, Aerial Ace, Seed Bomb, Dig
+- **Raticate** Lv48 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Rock Slide
+- **Sharpedo** Lv48 — Liquidation, Crunch, Close Combat, Earthquake
 
 ### YOUNGSTER CHAD  *(trainer #500)*
-- **Ekans** Lv20 — Poison Jab, Seed Bomb, Dig, Ice Punch
+- **Ekans** Lv20 — Poison Jab, Seed Bomb, Dig, Rock Slide
 - **Sandshrew** Lv20 — Dig, Rock Slide, Night Slash, Brick Break
-- **Salandit** Lv20 — Poison Jab, Ember, Knock Off, Iron Head
+- **Salandit** Lv20 — Poison Jab, Ember, Knock Off, Mud-Slap
 
 ### LASS RELI  *(trainer #501)*
-- **Croagunk** Lv19 — Poison Jab, Brick Break, Rock Slide, Sucker Punch
-- **Pidgey** Lv20 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Nidoran?** Lv20 — Poison Jab, Crunch, Aerial Ace, Iron Head
-- **Gligar** Lv20 — Dig, Wing Attack, Rock Slide, Crunch
+- **Croagunk** Lv19 — Poison Jab, Brick Break, ThunderPunch, Rock Slide
+- **Pidgey** Lv20 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Nidoran?** Lv20 — Poison Jab, Crunch, Dig, Poison Fang
+- **Gligar** Lv20 — Bulldoze, Wing Attack, Rock Slide, Fire Fang
 
 ### LASS RELI  *(trainer #502)*
-- **Haunter** Lv27 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Nidorina** Lv28 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Haunter** Lv28 — Shadow Ball, Poison Jab, Giga Drain, Ice Punch
+- **Haunter** Lv27 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Nidorina** Lv28 — Poison Jab, Crunch, Dig, Poison Fang
+- **Haunter** Lv28 — Shadow Ball, Poison Jab, Giga Drain, Icy Wind
 
 ### YOUNGSTER TIMMY  *(trainer #503)*
-- **Raticate** Lv19 — Tackle, Dig, Flame Wheel, Crunch
-- **Ekans** Lv19 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Zubat** Lv19 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Squawkbily** Lv19 — Body Slam, Aerial Ace, Rock Blast, Knock Off
+- **Raticate** Lv19 — Tackle, Dig, Crunch, Bite
+- **Ekans** Lv19 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Zubat** Lv19 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Squawkbily** Lv19 — Aerial Ace, Air Slash, Air Cutter, DualWingbeat
 
 ### YOUNGSTER TIMMY  *(trainer #504)*
 - **Swellow** Lv26 — Return, Wing Attack, Steel Wing, Aerial Ace
-- **Raticate** Lv27 — Tackle, Dig, Flame Wheel, Crunch
-- **Ekans** Lv27 — Poison Jab, Seed Bomb, Dig, Ice Punch
-- **Golbat** Lv27 — Poison Fang, Wing Attack, Bite, Aura Sphere
-- **Porygon** Lv27 — Tackle, Liquidation, Aerial Ace, Iron Head
+- **Raticate** Lv27 — Tackle, Dig, Crunch, Bite
+- **Ekans** Lv27 — Poison Jab, Seed Bomb, Dig, Rock Slide
+- **Golbat** Lv27 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Porygon** Lv27 — Tackle, Icy Wind, Discharge, ThunderShock
 
 ### YOUNGSTER TIMMY  *(trainer #505)*
-- **Sneasler** Lv51 — Poison Jab, Close Combat, Aerial Ace, Iron Tail
-- **Raticate** Lv52 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Arbok** Lv52 — Gunk Shot, Crunch, Earthquake, Ice Punch
-- **Golbat** Lv52 — Poison Fang, Brave Bird, Foul Play, Close Combat
-- **Snorlax** Lv52 — Double-Edge, Power Whip, Earthquake, Ice Punch
-- **Krookodile** Lv52 — Earthquake, Foul Play, Brick Break, Aqua Tail
+- **Sneasler** Lv51 — Gunk Shot, Close Combat, Aerial Ace, Metal Claw
+- **Raticate** Lv52 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Arbok** Lv52 — Gunk Shot, Crunch, Earthquake, Rock Slide
+- **Golbat** Lv52 — Poison Fang, Brave Bird, Crunch, Steel Wing
+- **Snorlax** Lv52 — Double-Edge, Seed Bomb, Earthquake, Ice Punch
+- **Krookodile** Lv52 — Earthquake, Foul Play, Close Combat, Aerial Ace
 
 ### YOUNGSTER CHAD  *(trainer #506)*
-- **Arbok** Lv28 — Poison Jab, Crunch, Dig, Ice Punch
+- **Arbok** Lv28 — Poison Jab, Crunch, Dig, Rock Slide
 - **Sandshrew** Lv28 — Dig, Rock Slide, Night Slash, Brick Break
-- **Marshtomp** Lv28 — Waterfall, Dig, Iron Head, Avalanche
+- **Marshtomp** Lv28 — Liquidation, Dig, Ice Punch, Rock Slide
 
 ### LASS JANICE  *(trainer #507)*
-- **Tandemaus** Lv19 — Return, Crunch, Aerial Ace, Dig
-- **Pidgeotto** Lv20 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv20 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Fletchindr** Lv20 — Ember, Aerial Ace, Rock Blast, Steel Wing
-- **Beautifly** Lv20 — Struggle Bug, Air Cutter, Fire Fang, Crunch
+- **Tandemaus** Lv19 — Crunch, Aerial Ace, Seed Bomb, Dig
+- **Pidgeotto** Lv20 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Pidgeotto** Lv20 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Fletchindr** Lv20 — Ember, Aerial Ace, Steel Wing, Air Slash
+- **Beautifly** Lv20 — U-turn, Air Cutter, Giga Drain, Bug Bite
 
 ### LASS JANICE  *(trainer #508)*
-- **Rufflet** Lv27 — Slash, Wing Attack, Steel Wing, Rock Slide
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Trumbeak** Lv28 — Return, Drill Peck, ThunderPunch, Rock Blast
+- **Rufflet** Lv27 — Body Slam, Wing Attack, Rock Slide, Slash
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Trumbeak** Lv28 — Drill Peck, Rock Blast, Knock Off, Brick Break
 
 ### YOUNGSTER CHAD  *(trainer #509)*
-- **Golem** Lv47 — Stone Edge, Earthquake, Fire Punch, Foul Play
-- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Ice Punch
-- **Sandslash** Lv48 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **BruteBonet** Lv48 — Seed Bomb, Crunch, Close Combat, Mega Drain
+- **Golem** Lv47 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Rock Slide
+- **Sandslash** Lv48 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **BruteBonet** Lv48 — Seed Bomb, Crunch, Close Combat, Earth Power
 
 ### HIKER FRANKLIN  *(trainer #510)*
-- **Clodsire** Lv24 — Poison Jab, Dig, Liquidation, Rock Slide
-- **Machoke** Lv25 — Brick Break, Bullet Punch, Dig, Ice Punch
-- **Graveler** Lv25 — Rock Slide, Dig, Fire Punch, Sucker Punch
-- **Carkol** Lv25 — Rock Slide, Fire Punch, ThunderPunch, Scald
+- **Clodsire** Lv24 — Poison Jab, Dig, Liquidation, Iron Head
+- **Machoke** Lv25 — Brick Break, Dig, Ice Punch, ThunderPunch
+- **Graveler** Lv25 — Rock Slide, Dig, Fire Punch, Brick Break
+- **Carkol** Lv25 — Rock Slide, Scald, Iron Head, Dig
 
 ### ?? PROF. PROF. OAK  *(trainer #511)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Grimer** Lv5 — Mud-Slap, Harden, Poison Gas, Pound
 
 ### PLAYER BRENDAN  *(trainer #512)*
-- **Zubat** Lv4 — Poison Fang, Absorb, Supersonic, Astonish
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Zubat** Lv4 — Poison Fang, DualWingbeat, Mega Drain, Absorb
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### PLAYER MAY  *(trainer #513)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Kakuna** Lv5 — Harden, Tail Slap, Attract, Magic Room
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Kakuna** Lv5 — Harden, Harden, Harden, Harden
 
 ### PLAYER RED  *(trainer #514)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Spinarak** Lv5 — Pin Missile, Struggle Bug, Absorb, Constrict
 
 ### PLAYER LEAF  *(trainer #515)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
 - **Budew** Lv5 — Mega Drain, Razor Leaf, Growth, Absorb
 
 ### TEAM ROCKET GRUNT  *(trainer #516)*
-- **Magmar** Lv48 — Fire Blast, Foul Play, Cross Chop, Liquidation
-- **Houndour** Lv49 — Dark Pulse, Fire Blast, Earth Power, Iron Tail
-- **Houndour** Lv49 — Dark Pulse, Fire Blast, Earth Power, Iron Tail
-- **Mandibuzz** Lv49 — Knock Off, Brave Bird, Leaf Blade, Bone Rush
+- **Magmar** Lv48 — Fire Blast, Knock Off, Brick Break, ThunderPunch
+- **Houndour** Lv49 — Dark Pulse, Fire Blast, Mud-Slap, Bite
+- **Houndour** Lv49 — Dark Pulse, Fire Blast, Mud-Slap, Bite
+- **Mandibuzz** Lv49 — Foul Play, Brave Bird, Bone Rush, Rock Tomb
 
 ### PSYCHIC JACLYN  *(trainer #517)*
-- **Natu** Lv48 — Future Sight, Hurricane, Steel Wing, Giga Drain
-- **Slowbro** Lv48 — Surf, Future Sight, Air Slash, Iron Tail
+- **Natu** Lv48 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Slowbro** Lv48 — Hydro Pump, Future Sight, Earthquake, Blizzard
 - **Starmie** Lv48 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Kadabra** Lv49 — Future Sight, Fire Punch, Crunch, Drain Punch
-- **Charizard** Lv49 — Fire Blast, Air Slash, Crunch, Brick Break
-- **Metagross** Lv49 — Meteor Mash, Zen Headbutt, Play Rough, Close Combat
+- **Kadabra** Lv49 — Future Sight, Fire Punch, Foul Play, Drain Punch
+- **Charizard** Lv49 — Fire Blast, Hurricane, Crunch, Brick Break
+- **Metagross** Lv49 — Meteor Mash, Zen Headbutt, Knock Off, Brick Break
 
 ### CRUSH GIRL SHARON  *(trainer #518)*
-- **Breloom** Lv36 — Seed Bomb, Sky Uppercut, Aerial Ace, Iron Tail
-- **Mankey** Lv37  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv37  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Samurott** Lv37 — Surf, Brick Break, Night Slash, Air Slash
-- **Chesnaught** Lv37 — Seed Bomb, Brick Break, Knock Off, Aerial Ace
+- **Breloom** Lv36 — Seed Bomb, Sky Uppercut, Aerial Ace, Dig
+- **Mankey** Lv37  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv37  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Samurott** Lv37 — Surf, Brick Break, Knock Off, Air Slash
+- **Chesnaught** Lv37 — Seed Bomb, Brick Break, Crunch, Aerial Ace
 
 ### TUBER AMIRA  *(trainer #519)*
-- **Poliwag** Lv34 — Waterfall, Dig, Ice Beam, Water Gun
-- **Poliwag** Lv34 — Waterfall, Dig, Ice Beam, Water Gun
-- **Seismitoad** Lv34 — Surf, Earthquake, ThunderPunch, Rock Slide
-- **Poliwhirl** Lv35 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Dracovish** Lv35 — Waterfall, Dragon Rush, Earthquake, Stone Edge
-- **Seismitoad** Lv35 — Surf, Earthquake, ThunderPunch, Rock Slide
+- **Poliwag** Lv34 — Liquidation, Dig, Ice Beam, Water Gun
+- **Poliwag** Lv34 — Liquidation, Dig, Ice Beam, Water Gun
+- **Seismitoad** Lv34 — Liquidation, Earthquake, Rock Slide, Brick Break
+- **Poliwhirl** Lv35 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Dracovish** Lv35 — Liquidation, Dragon Rush, Iron Head, Earthquake
+- **Seismitoad** Lv35 — Liquidation, Earthquake, Rock Slide, Brick Break
 
 ### ?? BREEDER ALIZE  *(trainer #520)*
-- **Togekiss** Lv47 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
-- **Pikachu** Lv48 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Clefairy** Lv48 — Moonblast, Power Whip, Dig, Blizzard
-- **Marill** Lv48 — Aqua Tail, Play Rough, Foul Play, Superpower
-- **Empoleon** Lv48 — Hydro Pump, Flash Cannon, Flare Blitz, Brick Break
+- **Togekiss** Lv47 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
+- **Pikachu** Lv48 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Clefairy** Lv48 — Moonblast, Dig, Blizzard, Thunder
+- **Marill** Lv48 — Aqua Tail, Play Rough, Knock Off, Superpower
+- **Empoleon** Lv48 — Hydro Pump, Flash Cannon, Knock Off, Brick Break
 - **Luxray** Lv48 — Wild Charge, Crunch, Fire Fang, Play Rough
 
 ### ?? RANGER NICOLAS  *(trainer #521)*
-- **Trevenant** Lv50 — PhantomForce, Energy Ball, Rock Slide, Fire Fang
-- **Weepinbell** Lv51 — Power Whip, Poison Jab, Fire Fang, Foul Play
-- **Victreebel** Lv51 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Toxtricity** Lv51 — Thunder, Sludge Wave, Play Rough, Knock Off
-- **Nidoking** Lv51 — Poison Jab, Earthquake, Iron Tail, Avalanche
+- **Trevenant** Lv50 — PhantomForce, Seed Bomb, Rock Slide, Foul Play
+- **Weepinbell** Lv51 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Victreebel** Lv51 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Toxtricity** Lv51 — Thunder, Sludge Wave, Fire Punch, Brick Break
+- **Nidoking** Lv51 — Poison Jab, Earthquake, Iron Tail, Ice Punch
 
 ### ?? RANGER MADELINE  *(trainer #522)*
-- **Garbodor** Lv50 — Gunk Shot, Giga Drain, Thunderbolt, Rock Blast
-- **Gloom** Lv51 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Vileplume** Lv51 — Energy Ball, Sludge Wave, Air Slash, Earth Power
-- **Leavanny** Lv51 — X-Scissor, Leaf Blade, Aerial Ace, Iron Head
-- **Tsareena** Lv51 — Power Whip, Muddy Water, Hurricane, Ice Punch
+- **Garbodor** Lv50 — Gunk Shot, Metal Claw, Seed Bomb, Thunderbolt
+- **Gloom** Lv51 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Vileplume** Lv51 — Energy Ball, Sludge Wave, Moonblast, Mega Drain
+- **Leavanny** Lv51 — X-Scissor, Leaf Blade, Air Slash, Knock Off
+- **Tsareena** Lv51 — Power Whip, Play Rough, Knock Off, Razor Leaf
 
 ### AROMA LADY NIKKI  *(trainer #523)*
-- **Bayleef** Lv36 — Energy Ball, Iron Tail, Earth Power, AncientPower
-- **Bellsprout** Lv37 — Razor Leaf, Poison Jab, Foul Play, Vine Whip
-- **Weepinbell** Lv37 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Amoonguss** Lv37 — Energy Ball, Sludge Bomb, Muddy Water, Power Gem
-- **Ariados** Lv37 — X-Scissor, Poison Jab, Dig, Night Slash
+- **Bayleef** Lv36 — Energy Ball, Mud-Slap, Knock Off, Razor Leaf
+- **Bellsprout** Lv37 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Weepinbell** Lv37 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Amoonguss** Lv37 — Seed Bomb, Sludge Bomb, Foul Play, Mega Drain
+- **Ariados** Lv37 — X-Scissor, Poison Jab, Dig, Foul Play
 
 ### RUIN MANIAC STANLY  *(trainer #524)*
-- **Krookodile** Lv47 — Earthquake, Foul Play, Brick Break, Aqua Tail
-- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Onix** Lv48 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Drednaw** Lv48 — Liquidation, Stone Edge, Iron Tail, Earthquake
-- **Golem** Lv48 — Stone Edge, Earthquake, Fire Punch, Foul Play
+- **Krookodile** Lv47 — Earthquake, Foul Play, Close Combat, Aerial Ace
+- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Onix** Lv48 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Drednaw** Lv48 — Liquidation, Stone Edge, Earthquake, Blizzard
+- **Golem** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
 
 ### LADY JACKI  *(trainer #525)*
-- **Hoppip** Lv48  @Stardust — Leaf Blade, Aerial Ace, Rock Blast, Fire Fang
-- **Arboliva** Lv49 — Energy Ball, Tackle, Earth Power, Power Gem
-- **Skiploom** Lv50  @Stardust — Leaf Blade, Brave Bird, Aqua Tail, Play Rough
-- **Corvknight** Lv50 — Brave Bird, Iron Head, Power Whip, ThunderPunch
-- **Talonflame** Lv50 — Flare Blitz, Brave Bird, Hydro Pump, Steel Wing
+- **Hoppip** Lv48  @Stardust — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Arboliva** Lv49 — Energy Ball, Hyper Voice, Earth Power, Mega Drain
+- **Skiploom** Lv50  @Stardust — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Corvknight** Lv50 — Brave Bird, Iron Head, Aerial Ace, Air Slash
+- **Talonflame** Lv50 — Flare Blitz, Brave Bird, Steel Wing, Ember
 
 ### PAINTER DAISY  *(trainer #526)*
-- **Furfrou** Lv49 — Tackle, Heat Wave, Play Rough, Crunch
-- **Smeargle** Lv50 — Icy Wind, ThunderPunch, Power Gem, Sketch
-- **Dudunsprce** Lv50 — Double-Edge, Iron Tail, Power Whip, Earthquake
-- **Porygon-Z** Lv50 — Body Slam, Seed Bomb, Blizzard, Thunder
+- **Furfrou** Lv49 — Tackle, Sucker Punch, Surf, Iron Tail
+- **Smeargle** Lv50 — Sketch, Sketch, Sketch, Sketch
+- **Dudunsprce** Lv50 — Double-Edge, Gyro Ball, Earthquake, Blizzard
+- **Porygon-Z** Lv50 — Double-Edge, Blizzard, Thunder, Dark Pulse
 
 ### BIKER GOON  *(trainer #527)*
 - **Toxapex** Lv36 — Poison Jab, Liquidation, Bite, Ice Beam
-- **Koffing** Lv37 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Grimer** Lv37 — Poison Jab, Flamethrower, Foul Play, Drain Punch
+- **Koffing** Lv37 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Grimer** Lv37 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
 - **Toxapex** Lv37 — Poison Jab, Liquidation, Bite, Ice Beam
 - **Gengar** Lv37 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
 
 ### BIKER GOON  *(trainer #528)*
-- **Revavroom** Lv37 — Iron Head, Poison Jab, Foul Play, Muddy Water
-- **Koffing** Lv38 — Sludge Wave, Icy Wind, Thunderbolt, Flamethrower
-- **Revavroom** Lv38 — Iron Head, Poison Jab, Foul Play, Muddy Water
+- **Revavroom** Lv37 — Iron Head, Poison Jab, Bulldoze, Flash Cannon
+- **Koffing** Lv38 — Sludge Wave, Thunderbolt, Flamethrower, Dark Pulse
+- **Revavroom** Lv38 — Iron Head, Poison Jab, Bulldoze, Flash Cannon
 - **Nidoqueen** Lv38 — Poison Jab, Earthquake, Brick Break, Surf
 
 ### BIKER GOON  *(trainer #529)*
-- **Nidoking** Lv37 — Poison Jab, Earthquake, Iron Tail, Avalanche
-- **Grimer** Lv38 — Poison Jab, Flamethrower, Foul Play, Drain Punch
-- **Nidoking** Lv38 — Poison Jab, Earthquake, Iron Tail, Avalanche
+- **Nidoking** Lv37 — Poison Jab, Earthquake, Iron Tail, Ice Punch
+- **Grimer** Lv38 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Nidoking** Lv38 — Poison Jab, Earthquake, Iron Tail, Ice Punch
 
 ### BIKER  *(trainer #530)*
-- **Ekans** Lv5 — Acid, Poison Sting, Leer, Wrap
-- **Skorupi** Lv5 — Poison Fang, Pin Missile, Struggle Bug, Knock Off
+- **Ekans** Lv5 — Poison Fang, Mud-Slap, Acid, Poison Sting
+- **Skorupi** Lv5 — Poison Fang, Pin Missile, Knock Off, Leer
 
 ### BUG CATCHER ANTHONY  *(trainer #531)*
-- **Caterpie** Lv7 — Rock Blast, String Shot, Tackle, Bug Bite
-- **Caterpie** Lv8 — Rock Blast, String Shot, Tackle, Bug Bite
-- **Surskit** Lv8 — Struggle Bug, Quick Attack, Bubble, Sweet Scent
+- **Caterpie** Lv7 — String Shot, Tackle, Bug Bite, Electroweb
+- **Caterpie** Lv8 — String Shot, Tackle, Bug Bite, Electroweb
+- **Surskit** Lv8 — Struggle Bug, Water Gun, Mud-Slap, Icy Wind
 
 ### BUG CATCHER CHARLIE  *(trainer #532)*
-- **Metapod** Lv7 — Harden, Snore, Sand Tomb, Reversal
-- **Caterpie** Lv7 — Rock Blast, String Shot, Tackle, Bug Bite
-- **Metapod** Lv7 — Harden, Snore, Sand Tomb, Reversal
-- **Rellor** Lv7 — Struggle Bug, Icy Wind, Sand Attack, Defense Curl
+- **Metapod** Lv7 — Harden, Electroweb, Iron Defense, Harden
+- **Caterpie** Lv7 — String Shot, Tackle, Bug Bite, Electroweb
+- **Metapod** Lv7 — Harden, Electroweb, Iron Defense, Harden
+- **Rellor** Lv7 — Struggle Bug, Mud-Slap, Sand Attack, Defense Curl
 
 ### TWINS ELI & ANNE  *(trainer #533)*
-- **Porygon** Lv27 — Tackle, Liquidation, Aerial Ace, Iron Head
-- **Clefairy** Lv28 — Dig, Ice Punch, Brick Break, Drain Punch
-- **Jigglypuff** Lv28 — Body Slam, Feint Attack, Brick Break, Gyro Ball
-- **Swirlix** Lv28 — Fairy Wind, Knock Off, Aura Sphere, Air Slash
+- **Porygon** Lv27 — Tackle, Icy Wind, Discharge, ThunderShock
+- **Clefairy** Lv28 — Dig, Icy Wind, ThunderPunch, Fire Punch
+- **Jigglypuff** Lv28 — Body Slam, Fire Punch, Knock Off, Brick Break
+- **Swirlix** Lv28 — Fairy Wind, Aromatherapy, Endeavor, Cotton Spore
 - **Floette** Lv28 — Fairy Wind, Giga Drain, Vine Whip, Razor Leaf
 
 ### YOUNGSTER JOHNSON  *(trainer #534)*
-- **Ekans** Lv33 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
-- **Ekans** Lv33 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
+- **Ekans** Lv33 — Poison Jab, Seed Bomb, Earthquake, Rock Slide
+- **Ekans** Lv33 — Poison Jab, Seed Bomb, Earthquake, Rock Slide
 - **Scolipede** Lv33 — X-Scissor, Poison Jab, Iron Tail, Earthquake
 - **Raticate** Lv34 — Tackle, Iron Tail, Dig, Ice Beam
 - **Gengar** Lv34 — Shadow Ball, Sludge Wave, Energy Ball, Icy Wind
-- **Revavroom** Lv34 — Iron Head, Poison Jab, Foul Play, Muddy Water
+- **Revavroom** Lv34 — Iron Head, Poison Jab, Bulldoze, Flash Cannon
 
 ### BIKER RICARDO  *(trainer #535)*
-- **Koffing** Lv22 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv22 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Koffing** Lv22 — Sludge, Icy Wind, Knock Off, Liquidation
-- **Grimer** Lv23 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Aerial Ace
-- **Qwilfish** Lv23 — Waterfall, Poison Jab, Air Slash, Gyro Ball
+- **Koffing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Koffing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Koffing** Lv22 — Sludge, Dark Pulse, Gyro Ball, Clear Smog
+- **Grimer** Lv23 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Beedrill** Lv23 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Qwilfish** Lv23 — Liquidation, Poison Jab, Gyro Ball, Icy Wind
 
 ### BIKER JAREN  *(trainer #536)*
-- **Bulbasaur** Lv23 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Grimer** Lv24 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Grimer** Lv24 — Poison Jab, Drain Punch, Giga Drain, Dig
-- **Bulbasaur** Lv24 — Giga Drain, Sludge, Vine Whip, Razor Leaf
+- **Bulbasaur** Lv23 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Grimer** Lv24 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Grimer** Lv24 — Poison Jab, Fire Punch, Drain Punch, Giga Drain
+- **Bulbasaur** Lv24 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
 
 ### TEAM ROCKET GRUNT  *(trainer #537)*
-- **Dugtrio** Lv36 — Earthquake, Stone Edge, Fire Punch, Night Slash
-- **Cubone** Lv37 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Marowak** Lv37 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Pupitar** Lv37 — Stone Edge, Earthquake, Brick Break, Aqua Tail
-- **Diggersby** Lv37 — Tackle, Earthquake, Wild Charge, Stone Edge
+- **Dugtrio** Lv36 — Earthquake, Stone Edge, Foul Play, Mud-Slap
+- **Cubone** Lv37 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Marowak** Lv37 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Pupitar** Lv37 — Stone Edge, Earthquake, Brick Break, Aerial Ace
+- **Diggersby** Lv37 — Body Slam, Earthquake, Ice Punch, Wild Charge
 
 ### TEAM ROCKET GRUNT  *(trainer #538)*
-- **Maushold** Lv34 — Return, Foul Play, Aura Sphere, Aerial Ace
-- **Rattata** Lv35 — Tackle, Air Slash, Iron Tail, Dig
+- **Maushold** Lv34 — Hyper Voice, Crunch, Aerial Ace, Seed Bomb
+- **Rattata** Lv35 — Tackle, Iron Tail, Dig, Ice Beam
 - **Raticate** Lv35 — Tackle, Iron Tail, Dig, Ice Beam
-- **Sandshrew** Lv35 — Earthquake, Rock Slide, Night Slash, Brick Break
-- **Sandslash** Lv35 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Cyclizar** Lv35 — Dragon Rush, Tackle, Foul Play, Aqua Tail
+- **Sandshrew** Lv35 — Earthquake, Stone Edge, Night Slash, Brick Break
+- **Sandslash** Lv35 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Cyclizar** Lv35 — Dragon Rush, Body Slam, Crunch, Aqua Tail
 
 ### TEAM ROCKET GRUNT  *(trainer #539)*
-- **Dragalge** Lv37 — Sludge Wave, Dragon Pulse, Surf, Iron Tail
-- **Zubat** Lv38 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Zubat** Lv38 — Cross Poison, Wing Attack, Bite, Aura Sphere
-- **Golbat** Lv38 — Poison Fang, Wing Attack, Foul Play, Aura Sphere
-- **Dodrio** Lv38 — Return, Drill Peck, Feint Attack, Liquidation
+- **Dragalge** Lv37 — Sludge Wave, Dragon Pulse, Surf, Mud-Slap
+- **Zubat** Lv38 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Zubat** Lv38 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Golbat** Lv38 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Dodrio** Lv38 — Body Slam, Drill Peck, Knock Off, Mud-Slap
 
 ### TEAM ROCKET GRUNT  *(trainer #540)*
 - **Nidoqueen** Lv47 — Poison Jab, Earthquake, Superpower, Surf
-- **Muk** Lv48 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
-- **Golbat** Lv48 — Poison Fang, Brave Bird, Foul Play, Close Combat
-- **Raticate** Lv48 — Double-Edge, Iron Tail, Power Whip, Dig
+- **Muk** Lv48 — Gunk Shot, Knock Off, Brick Break, Giga Drain
+- **Golbat** Lv48 — Poison Fang, Brave Bird, Crunch, Steel Wing
+- **Raticate** Lv48 — Double-Edge, Iron Tail, Dig, Blizzard
 - **Scolipede** Lv48 — Megahorn, Poison Jab, Iron Tail, Earthquake
-- **Victreebel** Lv48 — Power Whip, Poison Jab, Ice Punch, Fire Punch
+- **Victreebel** Lv48 — Power Whip, Poison Jab, Knock Off, Vine Whip
 
 ### TEAM ROCKET GRUNT  *(trainer #541)*
-- **Sneasler** Lv47 — Poison Jab, Close Combat, Aerial Ace, Iron Tail
-- **Machop** Lv48 — Cross Chop, Crunch, Brave Bird, Bullet Punch
-- **Machop** Lv48 — Cross Chop, Crunch, Brave Bird, Bullet Punch
-- **Machoke** Lv48 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Mienshao** Lv48 — Superpower, Stone Edge, Fire Fang, Knock Off
-- **Gallade** Lv48 — Future Sight, Close Combat, Earthquake, Thunderbolt
+- **Sneasler** Lv47 — Gunk Shot, Close Combat, Aerial Ace, Metal Claw
+- **Machop** Lv48 — Close Combat, Knock Off, Bullet Punch, Earthquake
+- **Machop** Lv48 — Close Combat, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv48 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Mienshao** Lv48 — Close Combat, Stone Edge, Knock Off, Aerial Ace
+- **Gallade** Lv48 — Zen Headbutt, Close Combat, Earthquake, Ice Punch
 
 ### TEAM ROCKET GRUNT  *(trainer #542)*
-- **Gallade** Lv48 — Future Sight, Close Combat, Earthquake, Thunderbolt
-- **Hypno** Lv49 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Hypno** Lv49 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **ScreamTail** Lv49 — Play Rough, Zen Headbutt, Thunder, Rock Tomb
-- **Meowstic** Lv49 — Psychic, Dark Pulse, Iron Tail, Energy Ball
+- **Gallade** Lv48 — Zen Headbutt, Close Combat, Earthquake, Ice Punch
+- **Hypno** Lv49 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Hypno** Lv49 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **ScreamTail** Lv49 — Play Rough, Zen Headbutt, ThunderPunch, Rock Tomb
+- **Meowstic** Lv49 — Psychic, Dark Pulse, Energy Ball, Dig
 
 ### TEAM ROCKET ADMIN  *(trainer #543)*
-- **Muk** Lv52 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
-- **Arbok** Lv53 — Gunk Shot, Crunch, Earthquake, Ice Punch
+- **Muk** Lv52 — Gunk Shot, Knock Off, Brick Break, Giga Drain
+- **Arbok** Lv53 — Gunk Shot, Crunch, Earthquake, Rock Slide
 - **Toedscruel** Lv53 — Earth Power, Energy Ball, Flash Cannon, Foul Play
-- **Vileplume** Lv54 — Energy Ball, Sludge Wave, Air Slash, Earth Power
-- **Incineroar** Lv54 — Flare Blitz, Crunch, Aqua Tail, Power Whip
+- **Vileplume** Lv54 — Energy Ball, Sludge Wave, Moonblast, Mega Drain
+- **Incineroar** Lv54 — Flare Blitz, Crunch, Aerial Ace, Iron Head
 - **Tentacruel** Lv54 — Hydro Pump, Sludge Wave, Blizzard, Knock Off
 
 ### TEAM ROCKET ADMIN  *(trainer #544)*
-- **Golbat** Lv53 — Poison Fang, Brave Bird, Foul Play, Close Combat
-- **Weezing** Lv54 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Ceruledge** Lv54 — Flare Blitz, Shadow Claw, Play Rough, Foul Play
-- **Houndoom** Lv55 — Dark Pulse, Fire Blast, Superpower, Brave Bird
+- **Golbat** Lv53 — Poison Fang, Brave Bird, Crunch, Steel Wing
+- **Weezing** Lv54 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Ceruledge** Lv54 — Flare Blitz, PhantomForce, Iron Head, Night Slash
+- **Houndoom** Lv55 — Dark Pulse, Fire Blast, Mud-Slap, Bite
 - **Luxray** Lv55 — Wild Charge, Crunch, Fire Fang, Play Rough
-- **Glimmora** Lv55 — Power Gem, Sludge Wave, Hurricane, Flash Cannon
+- **Glimmora** Lv55 — Power Gem, Sludge Wave, Flash Cannon, Energy Ball
 
 ### SCIENTIST GIDEON  *(trainer #545)*
-- **Voltorb** Lv46 — Thunder, Hydro Pump, Brave Bird, Iron Head
-- **Electrode** Lv46 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Magnemite** Lv46 — Thunder, Flash Cannon, Brave Bird, Seed Bomb
-- **Magneton** Lv46 — Thunder, Flash Cannon, Seed Bomb, Fire Punch
-- **Porygon** Lv46 — Hyper Voice, Play Rough, Liquidation, Brave Bird
-- **Probopass** Lv46 — Power Gem, Flash Cannon, Thunder, Brave Bird
+- **Voltorb** Lv46 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv46 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Magnemite** Lv46 — Thunder, Flash Cannon, ThunderShock, Spark
+- **Magneton** Lv46 — Thunder, Flash Cannon, ThunderShock, Spark
+- **Porygon** Lv46 — Double-Edge, Foul Play, Blizzard, Thunder
+- **Probopass** Lv46 — Power Gem, Flash Cannon, Ice Punch, Thunder
 
 ### SWIMMER? AMARA  *(trainer #546)*
-- **Frogadier** Lv35 — Surf, Aerial Ace, Iron Head, Dig
-- **Seel** Lv36 — Aqua Tail, Rock Blast, Iron Tail, Earth Power
-- **Seel** Lv36 — Aqua Tail, Rock Blast, Iron Tail, Earth Power
-- **Dewgong** Lv36 — Aqua Tail, Avalanche, Play Rough, Foul Play
-- **Corsola** Lv36 — Surf, Power Gem, Iron Head, Earth Power
-- **Sealeo** Lv36 — Ice Beam, Surf, Iron Tail, Seed Bomb
+- **Frogadier** Lv35 — Surf, Aerial Ace, Mud-Slap, Ice Beam
+- **Seel** Lv36 — Aqua Tail, Avalanche, Surf, Waterfall
+- **Seel** Lv36 — Aqua Tail, Avalanche, Surf, Waterfall
+- **Dewgong** Lv36 — Aqua Tail, Avalanche, Play Rough, Knock Off
+- **Corsola** Lv36 — Surf, Power Gem, Earth Power, Ice Beam
+- **Sealeo** Lv36 — Ice Beam, Surf, Iron Tail, Earthquake
 
 ### SWIMMER? MARIA  *(trainer #547)*
-- **Pyukumuku** Lv36 — Play Rough, Pain Split, Gastro Acid, Curse
-- **Seadra** Lv37 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Seadra** Lv37 — Surf, Air Slash, Flash Cannon, Ice Beam
-- **Gorebyss** Lv37 — Surf, Foul Play, Ice Beam, Aqua Tail
-- **Slowbro** Lv37 — Surf, Psychic, Air Slash, Iron Tail
+- **Pyukumuku** Lv36 — Pain Split, Gastro Acid, Curse, Purify
+- **Seadra** Lv37 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Seadra** Lv37 — Surf, Flash Cannon, Ice Beam, Water Gun
+- **Gorebyss** Lv37 — Surf, Ice Beam, Aqua Tail, Waterfall
+- **Slowbro** Lv37 — Surf, Psychic, Earthquake, Ice Beam
 
 ### SWIMMER? ABIGAIL  *(trainer #548)*
-- **Psyduck** Lv35 — Surf, Psychic, Cross Chop, Aerial Ace
-- **Psyduck** Lv36 — Surf, Psychic, Cross Chop, Aerial Ace
-- **Indeedee** Lv36 — Psychic, Return, Knock Off, Drain Punch
-- **Golduck** Lv37 — Surf, Psychic, Aura Sphere, Aerial Ace
-- **Slowking** Lv37 — Surf, Psychic, Brick Break, Iron Tail
-- **Omastar** Lv37 — AncientPower, Surf, Aura Sphere, Iron Head
+- **Psyduck** Lv35 — Surf, Psychic, Knock Off, Cross Chop
+- **Psyduck** Lv36 — Surf, Psychic, Knock Off, Cross Chop
+- **Indeedee** Lv36 — Psychic, Hyper Voice, Play Rough, Drain Punch
+- **Golduck** Lv37 — Surf, Psychic, Brick Break, Dig
+- **Slowking** Lv37 — Surf, Psychic, Brick Break, Earthquake
+- **Omastar** Lv37 — AncientPower, Surf, Gyro Ball, Earth Power
 
 ### SWIMMER? FINN  *(trainer #549)*
-- **Floatzel** Lv37 — Aqua Tail, Heat Wave, Crunch, Brick Break
+- **Floatzel** Lv37 — Aqua Tail, Crunch, Brick Break, Dig
 - **Starmie** Lv38 — Surf, Psychic, Ice Beam, Thunderbolt
 - **Starmie** Lv38 — Surf, Psychic, Ice Beam, Thunderbolt
 
 ### SWIMMER? GARRETT  *(trainer #550)*
-- **Shellder** Lv35 — Waterfall, Iron Head, Seed Bomb, Avalanche
-- **Cloyster** Lv35 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
+- **Shellder** Lv35 — Liquidation, Avalanche, Rock Blast, Water Gun
+- **Cloyster** Lv35 — Liquidation, Icicle Crash, Rock Blast, Water Gun
 - **Toxapex** Lv37 — Poison Jab, Liquidation, Bite, Ice Beam
-- **Wartortle** Lv38 — Surf, Iron Tail, Seed Bomb, Dig
-- **Pyukumuku** Lv38 — Play Rough, Recover, Pain Split, Gastro Acid
-- **Dewott** Lv38 — Surf, Night Slash, Brick Break, Air Slash
+- **Wartortle** Lv38 — Surf, Gyro Ball, Dig, Ice Beam
+- **Pyukumuku** Lv38 — Recover, Pain Split, Gastro Acid, Curse
+- **Dewott** Lv38 — Surf, Knock Off, Brick Break, Air Slash
 
 ### FISHERMAN TOMMY  *(trainer #551)*
-- **Goldeen** Lv33 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Goldeen** Lv33 — Aqua Tail, Iron Head, Mud-Slap, Ice Punch
-- **Seaking** Lv35 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Seaking** Lv35 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Seaking** Lv35 — Aqua Tail, Earth Power, Ice Beam, Air Slash
-- **Qwilfish** Lv35 — Aqua Tail, Poison Jab, Air Slash, Gyro Ball
+- **Goldeen** Lv33 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Goldeen** Lv33 — Aqua Tail, Mud-Slap, Ice Beam, Surf
+- **Seaking** Lv35 — Waterfall, Ice Beam, Surf, Scald
+- **Seaking** Lv35 — Waterfall, Ice Beam, Surf, Scald
+- **Seaking** Lv35 — Waterfall, Ice Beam, Surf, Scald
+- **Qwilfish** Lv35 — Aqua Tail, Poison Jab, Gyro Ball, Ice Beam
 
 ### CRUSH GIRL TANYA  *(trainer #552)*
-- **Toxicroak** Lv37 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
-- **Hitmonlee** Lv38  @Black Belt — Brick Break, Bullet Punch, Earthquake, Icy Wind
+- **Toxicroak** Lv37 — Poison Jab, Brick Break, Stone Edge, Foul Play
+- **Hitmonlee** Lv38  @Black Belt — Brick Break, Earthquake, Stone Edge, Sucker Punch
 - **Hitmonchan** Lv38  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Heracross** Lv38 — Pin Missile, Brick Break, Iron Head, Earthquake
-- **Bewear** Lv38 — Body Slam, Brick Break, Play Rough, Liquidation
+- **Heracross** Lv38 — Bug Bite, Brick Break, Earthquake, Stone Edge
+- **Bewear** Lv38 — Body Slam, Brick Break, Iron Head, Earthquake
 
 ### BLACK BELT SHEA  *(trainer #553)*
-- **Pawmot** Lv37 — Wild Charge, Brick Break, Fire Fang, Play Rough
-- **Machop** Lv38  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv38  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Flamigo** Lv38 — Wing Attack, Fire Fang, Play Rough, Steel Wing
-- **Conkeldurr** Lv38 — Brick Break, Earthquake, ThunderPunch, Stone Edge
+- **Pawmot** Lv37 — Wild Charge, Brick Break, Fire Punch, Play Rough
+- **Machop** Lv38  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv38  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Flamigo** Lv38 — Wing Attack, Liquidation, Aerial Ace, Air Slash
+- **Conkeldurr** Lv38 — Brick Break, Earthquake, Ice Punch, ThunderPunch
 
 ### BLACK BELT HUGH  *(trainer #554)*
-- **Breloom** Lv36 — Seed Bomb, Sky Uppercut, Aerial Ace, Iron Tail
-- **Machop** Lv37  @Black Belt — Cross Chop, Crunch, Bullet Punch, Leaf Blade
-- **Machoke** Lv37  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Heracross** Lv37 — Pin Missile, Brick Break, Iron Head, Earthquake
-- **Bewear** Lv37 — Body Slam, Brick Break, Play Rough, Liquidation
+- **Breloom** Lv36 — Seed Bomb, Sky Uppercut, Aerial Ace, Dig
+- **Machop** Lv37  @Black Belt — Cross Chop, Knock Off, Bullet Punch, Earthquake
+- **Machoke** Lv37  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Heracross** Lv37 — Bug Bite, Brick Break, Earthquake, Stone Edge
+- **Bewear** Lv37 — Body Slam, Brick Break, Iron Head, Earthquake
 
 ### CAMPER BRYCE  *(trainer #555)*
-- **Rhydon** Lv35 — Earthquake, Stone Edge, Fire Punch, Play Rough
+- **Rhydon** Lv35 — Earthquake, Stone Edge, Fire Punch, Crunch
 - **Nidorino** Lv36 — Poison Jab, Iron Tail, Dig, Ice Beam
 - **Raticate** Lv36 — Tackle, Iron Tail, Dig, Ice Beam
-- **Sandslash** Lv36 — Earthquake, Fire Fang, Night Slash, Brick Break
-- **Grafaiai** Lv36 — Poison Jab, Slash, Knock Off, Liquidation
+- **Sandslash** Lv36 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Grafaiai** Lv36 — Poison Jab, Slash, Foul Play, Dig
 
 ### PICNICKER CLAIRE  *(trainer #556)*
-- **Electabuzz** Lv34 — Thunderbolt, Cross Chop, Muddy Water, Iron Tail
-- **Meowth** Lv35 — Slash, Foul Play, Aerial Ace, Iron Tail
-- **Meowth** Lv35 — Slash, Foul Play, Aerial Ace, Iron Tail
-- **Pikachu** Lv35 — Wild Charge, Brick Break, Surf, Iron Tail
+- **Electabuzz** Lv34 — Thunderbolt, Knock Off, Brick Break, Ice Punch
+- **Meowth** Lv35 — Body Slam, Play Rough, Foul Play, Aerial Ace
+- **Meowth** Lv35 — Body Slam, Play Rough, Foul Play, Aerial Ace
+- **Pikachu** Lv35 — Wild Charge, Play Rough, Knock Off, Brick Break
 - **Clefairy** Lv35 — Moonblast, Dig, Ice Beam, Thunderbolt
 - **Vikavolt** Lv35 — Bug Buzz, Thunderbolt, Air Slash, Flash Cannon
 
 ### CRUSH KIN MIK & KIA  *(trainer #557)*
-- **Blaziken** Lv38 — Fire Punch, Sky Uppercut, Night Slash, Muddy Water
-- **Machoke** Lv39  @Black Belt — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Primeape** Lv39  @Black Belt — Cross Chop, Aerial Ace, Iron Tail, Earthquake
-- **Samurott** Lv39 — Surf, Brick Break, Night Slash, Air Slash
-- **Chesnaught** Lv39 — Seed Bomb, Brick Break, Knock Off, Aerial Ace
+- **Blaziken** Lv38 — Fire Punch, Sky Uppercut, Knock Off, Aerial Ace
+- **Machoke** Lv39  @Black Belt — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Primeape** Lv39  @Black Belt — Cross Chop, Seed Bomb, Earthquake, Ice Punch
+- **Samurott** Lv39 — Surf, Brick Break, Knock Off, Air Slash
+- **Chesnaught** Lv39 — Seed Bomb, Brick Break, Crunch, Aerial Ace
 
 ### AROMA LADY VIOLET  *(trainer #558)*
-- **Golbat** Lv35 — Poison Fang, Wing Attack, Foul Play, Aura Sphere
-- **Bulbasaur** Lv36 — Energy Ball, Sludge Bomb, Foul Play, Vine Whip
-- **Ivysaur** Lv36 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
-- **Ivysaur** Lv36 — Energy Ball, Sludge Bomb, Earth Power, Vine Whip
-- **Weepinbell** Lv36 — Razor Leaf, Poison Jab, Fire Fang, Foul Play
-- **Roselia** Lv36 — Energy Ball, Sludge Bomb, Earth Power, Mega Drain
+- **Golbat** Lv35 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Bulbasaur** Lv36 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Ivysaur** Lv36 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Ivysaur** Lv36 — Energy Ball, Sludge Bomb, Knock Off, Vine Whip
+- **Weepinbell** Lv36 — Seed Bomb, Poison Jab, Knock Off, Vine Whip
+- **Roselia** Lv36 — Energy Ball, Sludge Bomb, Mega Drain, Razor Leaf
 
 ### TUBER ALEXIS  *(trainer #559)*
 - **Ludicolo** Lv33 — Surf, Energy Ball, Ice Beam, ThunderPunch
 - **Staryu** Lv34 — Surf, Ice Beam, Thunderbolt, Power Gem
 - **Staryu** Lv34 — Surf, Ice Beam, Thunderbolt, Power Gem
-- **Krabby** Lv34 — Surf, Rock Slide, Night Slash, Brick Break
-- **Krabby** Lv34 — Surf, Rock Slide, Night Slash, Brick Break
+- **Krabby** Lv34 — Liquidation, Rock Slide, Night Slash, Brick Break
+- **Krabby** Lv34 — Liquidation, Rock Slide, Night Slash, Brick Break
 - **Jellicent** Lv34 — Surf, Shadow Ball, Energy Ball, Ice Beam
 
 ### TWINS JOY & MEG  *(trainer #560)*
-- **Azumarill** Lv36 — Surf, Play Rough, Fire Fang, Aura Sphere
+- **Azumarill** Lv36 — Surf, Play Rough, Knock Off, Brick Break
 - **Clefairy** Lv37 — Moonblast, Dig, Ice Beam, Thunderbolt
 - **Clefairy** Lv37 — Moonblast, Dig, Ice Beam, Thunderbolt
-- **Alcremie** Lv37 — Energy Ball, Earth Power, Drain Punch, Giga Drain
-- **Tinkaton** Lv37 — Play Rough, Metal Claw, Muddy Water, Bulldoze
+- **Alcremie** Lv37 — Play Rough, Energy Ball, Drain Punch, Giga Drain
+- **Tinkaton** Lv37 — Play Rough, Metal Claw, Bulldoze, Stone Edge
 
 ### SWIMMER? TISHA  *(trainer #561)*
-- **Prinplup** Lv37 — Surf, Rock Tomb, Heat Wave, Aura Sphere
-- **Kingler** Lv38 — Surf, Rock Slide, Fire Punch, Night Slash
-- **Slowbro** Lv38 — Surf, Psychic, Air Slash, Iron Tail
-- **Baraskewda** Lv38 — Liquidation, Seed Bomb, Ice Beam, Fire Fang
+- **Prinplup** Lv37 — Surf, Rock Tomb, Brick Break, Drill Peck
+- **Kingler** Lv38 — Liquidation, Rock Slide, Brick Break, Metal Claw
+- **Slowbro** Lv38 — Surf, Psychic, Earthquake, Ice Beam
+- **Baraskewda** Lv38 — Liquidation, Ice Beam, Crunch, Brick Break
 
 ### PAINTER CELINA  *(trainer #562)*
-- **Exploud** Lv49 — Return, Earthquake, Avalanche, Rock Slide
-- **Smeargle** Lv50 — Icy Wind, ThunderPunch, Power Gem, Sketch
-- **Toucannon** Lv50 — Return, Drill Peck, Rock Blast, Brick Break
-- **Unfezant** Lv50 — Body Slam, Aerial Ace, Steel Wing, Leaf Blade
+- **Exploud** Lv49 — Body Slam, Earthquake, Ice Punch, ThunderPunch
+- **Smeargle** Lv50 — Sketch, Sketch, Sketch, Sketch
+- **Toucannon** Lv50 — Hyper Voice, Brave Bird, Rock Blast, Heat Wave
+- **Unfezant** Lv50 — Brave Bird, Steel Wing, Heat Wave, Air Slash
 
 ### PAINTER RAYNA  *(trainer #563)*
-- **Dubwool** Lv49 — Double-Edge, Hydro Pump, Air Slash, Power Whip
-- **Smeargle** Lv50 — Icy Wind, ThunderPunch, Power Gem, Sketch
-- **Oinkologne** Lv50 — Double-Edge, Iron Tail, Energy Ball, Dig
+- **Dubwool** Lv49 — Double-Edge, Wild Charge, Tackle, Body Slam
+- **Smeargle** Lv50 — Sketch, Sketch, Sketch, Sketch
+- **Oinkologne** Lv50 — Double-Edge, Iron Head, Seed Bomb, Dig
 
 ### LADY GILLIAN  *(trainer #564)*
-- **Mareep** Lv47  @Stardust — Thunder, Power Whip, Earth Power, Power Gem
-- **Mareep** Lv48  @Stardust — Thunder, Power Whip, Earth Power, Power Gem
-- **Eelektross** Lv48 — Wild Charge, Iron Tail, Giga Drain, Bulldoze
-- **Flaaffy** Lv49  @Nugget — Thunder, Earth Power, Icy Wind, Power Gem
-- **Ampharos** Lv49 — Thunder, Power Gem, Flare Blitz, Close Combat
-- **Jolteon** Lv49 — Thunder, Air Slash, Iron Tail, Earth Power
+- **Mareep** Lv47  @Stardust — Thunder, Dig, Power Gem, ThunderShock
+- **Mareep** Lv48  @Stardust — Thunder, Dig, Power Gem, ThunderShock
+- **Eelektross** Lv48 — Wild Charge, Flash Cannon, Giga Drain, Bulldoze
+- **Flaaffy** Lv49  @Nugget — Thunder, Dig, Ice Punch, Power Gem
+- **Ampharos** Lv49 — Thunder, Ice Punch, Power Gem, Fire Punch
+- **Jolteon** Lv49 — Thunder, Bite, Mud-Slap, ThunderShock
 
 ### YOUNGSTER DESTIN  *(trainer #565)*
-- **Indeedee** Lv47 — Psychic, Return, Flare Blitz, Knock Off
-- **Raticate** Lv48 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Pidgeotto** Lv48 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Delibird** Lv48 — Blizzard, Drill Peck, Steel Wing, Rock Blast
+- **Indeedee** Lv47 — Psychic, Hyper Voice, Play Rough, Drain Punch
+- **Raticate** Lv48 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Pidgeotto** Lv48 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Delibird** Lv48 — Blizzard, Air Slash, Seed Bomb, Foul Play
 
 ### SWIMMER? TOBY  *(trainer #566)*
-- **Amoonguss** Lv47 — Energy Ball, Sludge Bomb, Muddy Water, Hurricane
-- **Poliwhirl** Lv48 — Liquidation, Ice Punch, Knock Off, Brick Break
+- **Amoonguss** Lv47 — Seed Bomb, Sludge Bomb, Foul Play, Mega Drain
+- **Poliwhirl** Lv48 — Liquidation, Ice Punch, Brick Break, Earthquake
 - **Tentacool** Lv48 — Hydro Pump, Sludge Wave, Blizzard, Knock Off
 - **Tentacruel** Lv48 — Hydro Pump, Sludge Wave, Blizzard, Knock Off
-- **Milotic** Lv48 — Hydro Pump, Iron Tail, Bulldoze, Blizzard
+- **Milotic** Lv48 — Hydro Pump, Iron Head, Bulldoze, Blizzard
 
 ### TEAM ROCKET GRUNT  *(trainer #567)*
-- **Garbodor** Lv47 — Gunk Shot, Giga Drain, Thunderbolt, Rock Blast
-- **Rattata** Lv48 — Double-Edge, Brave Bird, Iron Tail, Dig
-- **Grimer** Lv48 — Gunk Shot, Fire Blast, Foul Play, Drain Punch
-- **Muk** Lv48 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
-- **Glimmora** Lv48 — Power Gem, Sludge Wave, Hurricane, Flash Cannon
-- **Crobat** Lv48 — Cross Poison, Brave Bird, ThunderPunch, Power Gem
+- **Garbodor** Lv47 — Gunk Shot, Metal Claw, Seed Bomb, Thunderbolt
+- **Rattata** Lv48 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Grimer** Lv48 — Gunk Shot, Fire Punch, Drain Punch, Giga Drain
+- **Muk** Lv48 — Gunk Shot, Knock Off, Brick Break, Giga Drain
+- **Glimmora** Lv48 — Power Gem, Sludge Wave, Flash Cannon, Energy Ball
+- **Crobat** Lv48 — Cross Poison, Brave Bird, Heat Wave, Crunch
 
 ### TEAM ROCKET GRUNT  *(trainer #568)*
-- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Ice Punch
-- **Koffing** Lv49 — Sludge Wave, Icy Wind, Thunder, Fire Blast
-- **Weezing** Lv49 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
+- **Arbok** Lv48 — Gunk Shot, Crunch, Earthquake, Rock Slide
+- **Koffing** Lv49 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Weezing** Lv49 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
 - **Tentacruel** Lv49 — Hydro Pump, Sludge Wave, Blizzard, Knock Off
-- **Venusaur** Lv49 — Energy Ball, Sludge Bomb, Knock Off, Brave Bird
+- **Venusaur** Lv49 — Energy Ball, Sludge Bomb, Knock Off, Earth Power
 
 ### TEAM ROCKET GRUNT  *(trainer #569)*
-- **Weezing** Lv47 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Ekans** Lv48 — Gunk Shot, Power Whip, Earthquake, Ice Punch
-- **Gloom** Lv48 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Gloom** Lv48 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Amoonguss** Lv48 — Energy Ball, Sludge Bomb, Muddy Water, Hurricane
+- **Weezing** Lv47 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Ekans** Lv48 — Gunk Shot, Seed Bomb, Earthquake, Rock Slide
+- **Gloom** Lv48 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Gloom** Lv48 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Amoonguss** Lv48 — Seed Bomb, Sludge Bomb, Foul Play, Mega Drain
 
 ### BIRD KEEPER MILO  *(trainer #570)*
-- **Pidgey** Lv47 — Tackle, Wing Attack, Feint Attack, Steel Wing
+- **Pidgey** Lv47 — Tackle, Wing Attack, Air Slash, Hurricane
 - **Aerodactyl** Lv48 — Stone Edge, Wing Attack, Iron Tail, Earthquake
-- **Pidgeotto** Lv49 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Stantler** Lv49 — Tackle, Bite, Iron Tail, Energy Ball
-- **Cinccino** Lv49 — Return, Thunder, Rock Blast, Knock Off
+- **Pidgeotto** Lv49 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Stantler** Lv49 — Double-Edge, Bite, Energy Ball, Earthquake
+- **Cinccino** Lv49 — Double-Edge, Thunder, Rock Blast, Play Rough
 
 ### BIRD KEEPER CHAZ  *(trainer #571)*
-- **Spearow** Lv47 — Return, Drill Peck, Steel Wing, Earth Power
-- **Tauros** Lv48 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Fearow** Lv49 — Return, Drill Peck, Steel Wing, Play Rough
-- **Noivern** Lv49 — Hurricane, Dragon Pulse, Brick Break, Iron Tail
-- **Togekiss** Lv49 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
+- **Spearow** Lv47 — Drill Peck, Aerial Ace, Roost, Focus Energy
+- **Tauros** Lv48 — Double-Edge, Surf, Iron Head, Earthquake
+- **Fearow** Lv49 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Noivern** Lv49 — Hurricane, Dragon Pulse, Brick Break, Wild Charge
+- **Togekiss** Lv49 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
 
 ### BIRD KEEPER HAROLD  *(trainer #572)*
-- **Hoothoot** Lv47 — Tackle, Air Slash, Close Combat, Muddy Water
-- **Togekiss** Lv48 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
-- **Noctowl** Lv49 — Psychic, Air Slash, Steel Wing, Moonblast
-- **Sawsbuck** Lv49 — Double-Edge, Energy Ball, Flare Blitz, Foul Play
-- **Reuniclus** Lv49 — Future Sight, Hydro Pump, Hurricane, Flash Cannon
+- **Hoothoot** Lv47 — Hyper Voice, Hurricane, Heat Wave, Moonblast
+- **Togekiss** Lv48 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
+- **Noctowl** Lv49 — Future Sight, Hurricane, Heat Wave, Moonblast
+- **Sawsbuck** Lv49 — Double-Edge, Seed Bomb, Play Rough, Feint Attack
+- **Reuniclus** Lv49 — Future Sight, Flash Cannon, Energy Ball, Ice Punch
 
 ### FISHERMAN TYLOR  *(trainer #573)*
-- **Slowbro** Lv48 — Surf, Future Sight, Air Slash, Iron Tail
-- **Qwilfish** Lv49 — Aqua Tail, Poison Jab, Air Slash, Gyro Ball
-- **Qwilfish** Lv49 — Aqua Tail, Poison Jab, Air Slash, Gyro Ball
-- **Victreebel** Lv49 — Power Whip, Poison Jab, Ice Punch, Fire Punch
+- **Slowbro** Lv48 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Qwilfish** Lv49 — Aqua Tail, Gunk Shot, Gyro Ball, Blizzard
+- **Qwilfish** Lv49 — Aqua Tail, Gunk Shot, Gyro Ball, Blizzard
+- **Victreebel** Lv49 — Power Whip, Poison Jab, Knock Off, Vine Whip
 
 ### SWIMMER? MYMO  *(trainer #574)*
-- **Omastar** Lv48 — AncientPower, Hydro Pump, Aura Sphere, Hurricane
-- **Kingler** Lv49 — Surf, Rock Slide, Fire Punch, Night Slash
-- **Wartortle** Lv49 — Hydro Pump, Iron Tail, Seed Bomb, Dig
-- **Huntail** Lv49 — Aqua Tail, Rock Tomb, Crunch, Hurricane
-- **Drednaw** Lv49 — Liquidation, Stone Edge, Iron Tail, Earthquake
+- **Omastar** Lv48 — AncientPower, Hydro Pump, Gyro Ball, Earth Power
+- **Kingler** Lv49 — Liquidation, Rock Slide, Superpower, Metal Claw
+- **Wartortle** Lv49 — Hydro Pump, Gyro Ball, Dig, Blizzard
+- **Huntail** Lv49 — Aqua Tail, Rock Tomb, Crunch, Blizzard
+- **Drednaw** Lv49 — Liquidation, Stone Edge, Earthquake, Blizzard
 
 ### SWIMMER? NICOLE  *(trainer #575)*
-- **Slowking** Lv49 — Surf, Future Sight, Brick Break, Iron Tail
-- **Marill** Lv50 — Aqua Tail, Play Rough, Foul Play, Superpower
-- **Klefki** Lv50 — Flash Cannon, Play Rough, Foul Play, Aura Sphere
-- **Dachsbun** Lv50 — Play Rough, Iron Tail, Seed Bomb, Dig
+- **Slowking** Lv49 — Hydro Pump, Future Sight, Brick Break, Earthquake
+- **Marill** Lv50 — Aqua Tail, Play Rough, Knock Off, Superpower
+- **Klefki** Lv50 — Flash Cannon, Play Rough, Foul Play, Fairy Wind
+- **Dachsbun** Lv50 — Play Rough, Dig, Fire Fang, Crunch
 
 ### SIS AND BRO AVA & GEB  *(trainer #576)*
-- **Kabutops** Lv49 — Stone Edge, Liquidation, Aerial Ace, Giga Drain
-- **Poliwhirl** Lv50 — Liquidation, Ice Punch, Knock Off, Brick Break
+- **Kabutops** Lv49 — Stone Edge, Liquidation, Giga Drain, Dig
+- **Poliwhirl** Lv50 — Liquidation, Ice Punch, Brick Break, Earthquake
 - **Starmie** Lv50 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Baraskewda** Lv50 — Liquidation, Seed Bomb, Blizzard, Fire Fang
-- **Kabutops** Lv50 — Stone Edge, Liquidation, Aerial Ace, Giga Drain
+- **Baraskewda** Lv50 — Liquidation, Blizzard, Crunch, Close Combat
+- **Kabutops** Lv50 — Stone Edge, Liquidation, Giga Drain, Dig
 
 ### AROMA LADY ROSE  *(trainer #577)*
-- **Maractus** Lv48 — Energy Ball, Aerial Ace, Iron Head, Icy Wind
-- **Sunkern** Lv49 — Leaf Blade, ThunderPunch, Fire Fang, Aqua Tail
-- **Sunflora** Lv49 — Energy Ball, Heat Wave, Earth Power, Play Rough
+- **Maractus** Lv48 — Energy Ball, Sucker Punch, Drain Punch, Mega Drain
+- **Sunkern** Lv49 — Seed Bomb, Earth Power, Mega Drain, Razor Leaf
+- **Sunflora** Lv49 — Energy Ball, Earth Power, Mega Drain, Razor Leaf
 - **Decidueye** Lv49 — Leaf Blade, PhantomForce, Sucker Punch, Brave Bird
-- **IronMoth** Lv49 — Fire Blast, Sludge Wave, Energy Ball, Ice Punch
+- **IronMoth** Lv49 — Fire Blast, Sludge Wave, Energy Ball, Discharge
 
 ### SWIMMER? SAMIR  *(trainer #578)*
-- **Delibird** Lv49 — Blizzard, Drill Peck, Steel Wing, Rock Blast
-- **Gyarados** Lv50 — Aqua Tail, Hurricane, Iron Tail, Earthquake
-- **Toxapex** Lv50 — Poison Jab, Liquidation, Bite, Blizzard
-- **Politoed** Lv50 — Surf, Foul Play, Brick Break, Air Slash
+- **Delibird** Lv49 — Blizzard, Air Slash, Seed Bomb, Foul Play
+- **Gyarados** Lv50 — Aqua Tail, Hurricane, Iron Head, Earthquake
+- **Toxapex** Lv50 — Gunk Shot, Liquidation, Bite, Blizzard
+- **Politoed** Lv50 — Hydro Pump, Brick Break, Earth Power, Blizzard
 
 ### SWIMMER? DENISE  *(trainer #579)*
-- **Seismitoad** Lv48 — Hydro Pump, Earthquake, ThunderPunch, Rock Slide
-- **Chinchou** Lv49 — Hydro Pump, Thunder, Seed Bomb, Blizzard
-- **Lanturn** Lv49 — Hydro Pump, Thunder, Hurricane, Blizzard
-- **Boltund** Lv49 — Wild Charge, Dig, Play Rough, Crunch
-- **Kilowatrel** Lv49 — Thunder, Hurricane, Liquidation, Steel Wing
+- **Seismitoad** Lv48 — Liquidation, Earthquake, Rock Slide, Brick Break
+- **Chinchou** Lv49 — Hydro Pump, Thunder, Sucker Punch, Blizzard
+- **Lanturn** Lv49 — Hydro Pump, Thunder, Blizzard, Water Gun
+- **Boltund** Lv49 — Wild Charge, Dig, Fire Fang, Play Rough
+- **Kilowatrel** Lv49 — Thunder, Hurricane, ThunderShock, Spark
 
 ### TWINS MIU & MIA  *(trainer #580)*
-- **Zebstrika** Lv49 — Wild Charge, Spark, Thunderbolt, Thunder
-- **Pikachu** Lv50 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Pikachu** Lv50 — Wild Charge, Brick Break, Surf, Iron Tail
+- **Zebstrika** Lv49 — Wild Charge, Bulldoze, Spark, Thunderbolt
+- **Pikachu** Lv50 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Pikachu** Lv50 — Wild Charge, Play Rough, Knock Off, Brick Break
 - **IronHands** Lv50 — Close Combat, Wild Charge, Iron Head, Earthquake
 
 ### HIKER EARL  *(trainer #581)*
-- **Sneasler** Lv48 — Poison Jab, Close Combat, Aerial Ace, Iron Tail
-- **Onix** Lv49 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Machoke** Lv49 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Seismitoad** Lv49 — Hydro Pump, Earthquake, ThunderPunch, Rock Slide
-- **Primeape** Lv49 — Close Combat, Aerial Ace, Iron Tail, Earthquake
+- **Sneasler** Lv48 — Gunk Shot, Close Combat, Aerial Ace, Metal Claw
+- **Onix** Lv49 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Machoke** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Seismitoad** Lv49 — Liquidation, Earthquake, Rock Slide, Brick Break
+- **Primeape** Lv49 — Close Combat, Seed Bomb, Earthquake, Ice Punch
 
 ### RUIN MANIAC FOSTER  *(trainer #582)*
 - **Toedscruel** Lv49 — Earth Power, Energy Ball, Flash Cannon, Foul Play
-- **Golem** Lv50 — Stone Edge, Earthquake, Fire Punch, Foul Play
-- **Bastiodon** Lv50 — Stone Edge, Iron Tail, Liquidation, Earthquake
-- **Barbaracle** Lv50 — Stone Edge, Surf, Play Rough, Night Slash
+- **Golem** Lv50 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Bastiodon** Lv50 — Stone Edge, Iron Head, Earthquake, Avalanche
+- **Barbaracle** Lv50 — Stone Edge, Liquidation, Night Slash, Superpower
 
 ### RUIN MANIAC LARRY  *(trainer #583)*
-- **Samurott** Lv48 — Hydro Pump, Brick Break, Night Slash, Air Slash
-- **Machoke** Lv49 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machoke** Lv49 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Samurott** Lv49 — Hydro Pump, Brick Break, Night Slash, Air Slash
+- **Samurott** Lv48 — Hydro Pump, Brick Break, Knock Off, Air Slash
+- **Machoke** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machoke** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Samurott** Lv49 — Hydro Pump, Brick Break, Knock Off, Air Slash
 
 ### HIKER DARYL  *(trainer #584)*
-- **Coalossal** Lv49 — Stone Edge, Fire Blast, Knock Off, Aqua Tail
-- **Sudowoodo** Lv50 — Stone Edge, Play Rough, Sucker Punch, Brick Break
-- **Shuckle** Lv50 — Bug Bite, Stone Edge, Air Slash, Gyro Ball
-- **Stonjorner** Lv50 — Stone Edge, Heat Wave, Crunch, Superpower
+- **Coalossal** Lv49 — Stone Edge, Flare Blitz, Scald, Iron Head
+- **Sudowoodo** Lv50 — Stone Edge, Foul Play, Brick Break, Earthquake
+- **Shuckle** Lv50 — Bug Bite, Stone Edge, Gyro Ball, Earthquake
+- **Stonjorner** Lv50 — Stone Edge, Earthquake, Rock Throw, Rock Tomb
 
 ### POK?MANIAC HECTOR  *(trainer #585)*
-- **Toucannon** Lv48 — Return, Drill Peck, Rock Blast, Brick Break
-- **Rhyhorn** Lv49 — Earthquake, Stone Edge, Flare Blitz, Play Rough
-- **Kangaskhan** Lv49 — Double-Edge, Brick Break, Aqua Tail, Aerial Ace
+- **Toucannon** Lv48 — Hyper Voice, Brave Bird, Rock Blast, Heat Wave
+- **Rhyhorn** Lv49 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Kangaskhan** Lv49 — Double-Edge, Brick Break, Hydro Pump, Iron Tail
 - **Aerodactyl** Lv49 — Stone Edge, Wing Attack, Iron Tail, Earthquake
-- **Cinccino** Lv49 — Return, Thunder, Rock Blast, Knock Off
+- **Cinccino** Lv49 — Double-Edge, Thunder, Rock Blast, Play Rough
 
 ### PSYCHIC DARIO  *(trainer #586)*
-- **Espeon** Lv51 — Future Sight, Iron Tail, Mud-Slap, Confusion
-- **Girafarig** Lv52 — Tackle, Future Sight, Energy Ball, Earthquake
-- **Miltank** Lv52 — Body Slam, Blizzard, Thunder, Rock Slide
-- **Bouffalant** Lv52 — Return, Liquidation, Aerial Ace, Iron Head
+- **Espeon** Lv51 — Future Sight, Bite, Mud-Slap, Power Gem
+- **Girafarig** Lv52 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Miltank** Lv52 — Double-Edge, Ice Punch, ThunderPunch, Rock Slide
+- **Bouffalant** Lv52 — Body Slam, Close Combat, Surf, Iron Head
 
 ### PSYCHIC RODETTE  *(trainer #587)*
-- **Natu** Lv48 — Future Sight, Hurricane, Steel Wing, Giga Drain
+- **Natu** Lv48 — Future Sight, Air Slash, Steel Wing, Giga Drain
 - **Drowzee** Lv48 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
-- **Orbeetle** Lv49 — Bug Buzz, Psychic, Heat Wave, Foul Play
-- **Hypno** Lv50 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Delphox** Lv50 — Fire Blast, Future Sight, Iron Tail, Ember
-- **Staraptor** Lv50 — Double-Edge, Brave Bird, Close Combat, Hydro Pump
+- **Orbeetle** Lv49 — Bug Buzz, Future Sight, Energy Ball, Struggle Bug
+- **Hypno** Lv50 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Delphox** Lv50 — Fire Blast, Future Sight, Mud-Slap, ThunderPunch
+- **Staraptor** Lv50 — Double-Edge, Brave Bird, Close Combat, Heat Wave
 
 ### AROMA LADY MIAH  *(trainer #588)*
-- **Roserade** Lv49 — Energy Ball, Sludge Bomb, Crunch, Hydro Pump
-- **Bellossom** Lv50 — Energy Ball, Rock Blast, Drain Punch, Hydro Pump
-- **Bellossom** Lv50 — Energy Ball, Rock Blast, Drain Punch, Hydro Pump
-- **Bellossom** Lv50 — Energy Ball, Rock Blast, Drain Punch, Hydro Pump
-- **Togekiss** Lv50 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
+- **Roserade** Lv49 — Energy Ball, Sludge Bomb, Mega Drain, Giga Drain
+- **Bellossom** Lv50 — Moonblast, Energy Ball, Drain Punch, Play Rough
+- **Bellossom** Lv50 — Moonblast, Energy Ball, Drain Punch, Play Rough
+- **Bellossom** Lv50 — Moonblast, Energy Ball, Drain Punch, Play Rough
+- **Togekiss** Lv50 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
 
 ### YOUNG COUPLE EVE & JON  *(trainer #589)*
-- **IronBundle** Lv49 — Blizzard, Hydro Pump, Drill Peck, Steel Wing
-- **Golduck** Lv50 — Hydro Pump, Future Sight, Aura Sphere, Aerial Ace
-- **Psyduck** Lv50 — Hydro Pump, Future Sight, Cross Chop, Aerial Ace
+- **IronBundle** Lv49 — Blizzard, Hydro Pump, Air Cutter, Play Rough
+- **Golduck** Lv50 — Hydro Pump, Future Sight, Brick Break, Dig
+- **Psyduck** Lv50 — Hydro Pump, Psychic, Knock Off, Cross Chop
 - **Bruxish** Lv50 — Aqua Tail, Psychic, Blizzard, Crunch
-- **Veluza** Lv50 — Liquidation, Psychic, Power Gem, Fire Fang
+- **Veluza** Lv50 — Liquidation, Zen Headbutt, Crunch, Blizzard
 
 ### JUGGLER MASON  *(trainer #590)*
-- **Araquanid** Lv46 — Liquidation, X-Scissor, Seed Bomb, Blizzard
-- **Voltorb** Lv47 — Thunder, Hydro Pump, Brave Bird, Iron Head
-- **Pineco** Lv47 — Bug Bite, Earthquake, Rock Slide, Heat Wave
-- **Voltorb** Lv47 — Thunder, Hydro Pump, Brave Bird, Iron Head
-- **Pineco** Lv47 — Bug Bite, Earthquake, Rock Slide, Heat Wave
-- **Frosmoth** Lv47 — Blizzard, Bug Buzz, Fire Punch, Fairy Wind
+- **Araquanid** Lv46 — Liquidation, X-Scissor, Giga Drain, Blizzard
+- **Voltorb** Lv47 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Pineco** Lv47 — Bug Bite, Dig, Rock Slide, Gyro Ball
+- **Voltorb** Lv47 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Pineco** Lv47 — Bug Bite, Dig, Rock Slide, Gyro Ball
+- **Frosmoth** Lv47 — Blizzard, Bug Buzz, Play Rough, Hurricane
 
 ### CRUSH GIRL CYNDY  *(trainer #591)*
-- **Pangoro** Lv47 — Sky Uppercut, Foul Play, Stone Edge, Hydro Pump
-- **Primeape** Lv48  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Hitmontop** Lv48  @Black Belt — Close Combat, Aerial Ace, Bullet Punch, Earthquake
-- **Machoke** Lv48  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Pawmot** Lv48 — Wild Charge, Close Combat, Fire Fang, Play Rough
-- **Heracross** Lv48 — Megahorn, Close Combat, Iron Head, Power Whip
+- **Pangoro** Lv47 — Close Combat, Foul Play, Stone Edge, Fire Punch
+- **Primeape** Lv48  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Hitmontop** Lv48  @Black Belt — Close Combat, Aerial Ace, Gyro Ball, Earthquake
+- **Machoke** Lv48  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Pawmot** Lv48 — Wild Charge, Close Combat, Fire Punch, Play Rough
+- **Heracross** Lv48 — Megahorn, Close Combat, Earthquake, Stone Edge
 
 ### CRUSH GIRL JOCELYN  *(trainer #592)*
-- **Crabminble** Lv37 — Brick Break, Ice Punch, Earthquake, ThunderPunch
+- **Crabminble** Lv37 — Brick Break, Ice Punch, Iron Head, Earthquake
 - **Hitmonchan** Lv38  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
 - **Hitmonchan** Lv38  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Hitmontop** Lv38 — Brick Break, Aerial Ace, Bullet Punch, Earthquake
-- **Grapploct** Lv38 — Brick Break, Foul Play, Liquidation, Iron Head
+- **Hitmontop** Lv38 — Brick Break, Aerial Ace, Gyro Ball, Earthquake
+- **Grapploct** Lv38 — Brick Break, Liquidation, Dig, Ice Punch
 
 ### TAMER EVAN  *(trainer #593)*
-- **Sandslash** Lv48 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Lickitung** Lv48 — Return, Earth Power, Blizzard, Thunder
+- **Sandslash** Lv48 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Lickitung** Lv48 — Body Slam, Earthquake, Blizzard, Thunder
 - **Toedscruel** Lv48 — Earth Power, Energy Ball, Flash Cannon, Foul Play
-- **Ursaring** Lv49 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
-- **Oranguru** Lv49 — Body Slam, Future Sight, Energy Ball, Earthquake
+- **Ursaring** Lv49 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
+- **Oranguru** Lv49 — Hyper Voice, Future Sight, Energy Ball, Earthquake
 
 ### POK?MANIAC MARK  *(trainer #594)*
-- **Toucannon** Lv32 — Return, Drill Peck, Rock Blast, Brick Break
-- **Rhyhorn** Lv33 — Earthquake, Stone Edge, Fire Fang, Play Rough
-- **Lickitung** Lv33 — Return, Earth Power, Ice Beam, Thunderbolt
-- **Castform** Lv33 — Body Slam, Avalanche, Thunderbolt, Flamethrower
+- **Toucannon** Lv32 — Hyper Voice, Drill Peck, Rock Blast, Heat Wave
+- **Rhyhorn** Lv33 — Earthquake, Stone Edge, Fire Fang, Crunch
+- **Lickitung** Lv33 — Body Slam, Earthquake, Ice Beam, Thunderbolt
+- **Castform** Lv33 — Tackle, Ice Beam, Thunderbolt, Flamethrower
 
 ### ?? RANGER LOGAN  *(trainer #595)*
-- **Exeggcute** Lv37 — Energy Ball, Psychic, Crunch, Iron Head
-- **Rillaboom** Lv39 — Seed Bomb, Earthquake, Ice Punch, Knock Off
-- **Exeggutor** Lv40 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Reuniclus** Lv40 — Psychic, Air Slash, Flash Cannon, Energy Ball
-- **Alakazam** Lv40 — Psychic, Foul Play, Drain Punch, Liquidation
+- **Exeggcute** Lv37 — Energy Ball, Psychic, AncientPower, Mega Drain
+- **Rillaboom** Lv39 — Seed Bomb, Earthquake, Knock Off, Brick Break
+- **Exeggutor** Lv40 — Energy Ball, Psychic, Earthquake, Mega Drain
+- **Reuniclus** Lv40 — Psychic, Flash Cannon, Energy Ball, Ice Punch
+- **Alakazam** Lv40 — Psychic, Foul Play, Drain Punch, Iron Tail
 
 ### ?? RANGER JACKSON  *(trainer #596)*
 - **Armarouge** Lv48 — Fire Blast, Psychic, Flash Cannon, Energy Ball
-- **Tangela** Lv49 — Energy Ball, Foul Play, Ice Punch, ThunderPunch
-- **Exeggcute** Lv49 — Energy Ball, Psychic, Crunch, Iron Head
-- **Exeggutor** Lv49 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Cacturne** Lv49 — Seed Bomb, Sucker Punch, Dig, Brick Break
+- **Tangela** Lv49 — Energy Ball, Knock Off, AncientPower, Vine Whip
+- **Exeggcute** Lv49 — Energy Ball, Psychic, AncientPower, Mega Drain
+- **Exeggutor** Lv49 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **Cacturne** Lv49 — Seed Bomb, Foul Play, Dig, ThunderPunch
 
 ### ?? RANGER BETH  *(trainer #597)*
-- **Lurantis** Lv37 — Leaf Blade, Earth Power, Night Slash, Brick Break
-- **Bellsprout** Lv38 — Razor Leaf, Poison Jab, Foul Play, Vine Whip
-- **Gloom** Lv38 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Gloom** Lv38 — Energy Ball, Sludge Bomb, Drain Punch, Mega Drain
-- **Qwilfish** Lv38 — Aqua Tail, Poison Jab, Air Slash, Gyro Ball
-- **Golbat** Lv38 — Poison Fang, Wing Attack, Foul Play, Aura Sphere
+- **Lurantis** Lv37 — Leaf Blade, Night Slash, Brick Break, Razor Leaf
+- **Bellsprout** Lv38 — Seed Bomb, Poison Jab, Sucker Punch, Vine Whip
+- **Gloom** Lv38 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Gloom** Lv38 — Energy Ball, Sludge Bomb, Moonblast, Mega Drain
+- **Qwilfish** Lv38 — Aqua Tail, Poison Jab, Gyro Ball, Ice Beam
+- **Golbat** Lv38 — Poison Fang, Wing Attack, Crunch, Steel Wing
 
 ### ?? RANGER KATELYN  *(trainer #598)*
-- **Stoutland** Lv51 — Body Slam, Aerial Ace, Iron Head, Dig
-- **Chansey** Lv52 — Double-Edge, Crunch, Brick Break, Iron Tail
-- **Oranguru** Lv52 — Body Slam, Future Sight, Energy Ball, Earthquake
-- **Ursaring** Lv52 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
+- **Stoutland** Lv51 — Tackle, Iron Head, Dig, Wild Charge
+- **Chansey** Lv52 — Hyper Voice, Brick Break, Earthquake, Blizzard
+- **Oranguru** Lv52 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Ursaring** Lv52 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
 
 ### COOLTRAINER LEROY  *(trainer #599)*
-- **Rhydon** Lv47 — Earthquake, Stone Edge, Fire Punch, Play Rough
-- **Kangaskhan** Lv47 — Double-Edge, Brick Break, Aqua Tail, Aerial Ace
-- **Slowbro** Lv48 — Surf, Future Sight, Air Slash, Iron Tail
-- **Machoke** Lv48 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Ursaring** Lv50 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
-- **Farigiraf** Lv50 — Hyper Voice, Future Sight, Iron Tail, Energy Ball
+- **Rhydon** Lv47 — Earthquake, Stone Edge, Fire Punch, Crunch
+- **Kangaskhan** Lv47 — Double-Edge, Brick Break, Hydro Pump, Iron Tail
+- **Slowbro** Lv48 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Machoke** Lv48 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Ursaring** Lv50 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
+- **Farigiraf** Lv50 — Hyper Voice, Future Sight, Iron Head, Energy Ball
 
 ### COOLTRAINER MICHELLE  *(trainer #600)*
-- **Persian** Lv47 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Dewgong** Lv47 — Aqua Tail, Avalanche, Play Rough, Foul Play
-- **Ninetales** Lv48 — Fire Blast, Dark Pulse, Iron Tail, Energy Ball
-- **Rapidash** Lv48 — Flare Blitz, Aura Sphere, Iron Tail, Earth Power
-- **Girafarig** Lv50 — Tackle, Future Sight, Energy Ball, Earthquake
-- **Porygon-Z** Lv50 — Body Slam, Seed Bomb, Blizzard, Thunder
+- **Persian** Lv47 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Dewgong** Lv47 — Aqua Tail, Avalanche, Play Rough, Knock Off
+- **Ninetales** Lv48 — Fire Blast, Dark Pulse, Energy Ball, Dig
+- **Rapidash** Lv48 — Flare Blitz, Iron Tail, Wild Charge, Play Rough
+- **Girafarig** Lv50 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Porygon-Z** Lv50 — Double-Edge, Blizzard, Thunder, Dark Pulse
 
 ### COOL COUPLE LEX & NYA  *(trainer #601)*
-- **Lickilicky** Lv51 — Return, Earthquake, Blizzard, Thunder
-- **Miltank** Lv52 — Body Slam, Blizzard, Thunder, Rock Slide
-- **Tauros** Lv52 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Arboliva** Lv52 — Energy Ball, Tackle, Earth Power, Power Gem
-- **Porygon2** Lv52 — Tackle, Play Rough, Hydro Pump, Brave Bird
+- **Lickilicky** Lv51 — Body Slam, Earthquake, Ice Punch, ThunderPunch
+- **Miltank** Lv52 — Double-Edge, Ice Punch, ThunderPunch, Rock Slide
+- **Tauros** Lv52 — Double-Edge, Surf, Iron Head, Earthquake
+- **Arboliva** Lv52 — Energy Ball, Hyper Voice, Earth Power, Mega Drain
+- **Porygon2** Lv52 — Double-Edge, Foul Play, Blizzard, Thunder
 
 ### RUIN MANIAC BRANDON  *(trainer #602)*
-- **Seismitoad** Lv49 — Hydro Pump, Earthquake, ThunderPunch, Rock Slide
-- **Onix** Lv50 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Armaldo** Lv50 — Stone Edge, X-Scissor, Brick Break, Muddy Water
-- **Bastiodon** Lv50 — Stone Edge, Iron Tail, Liquidation, Earthquake
+- **Seismitoad** Lv49 — Liquidation, Earthquake, Rock Slide, Brick Break
+- **Onix** Lv50 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Armaldo** Lv50 — Stone Edge, X-Scissor, Superpower, Liquidation
+- **Bastiodon** Lv50 — Stone Edge, Iron Head, Earthquake, Avalanche
 
 ### RUIN MANIAC BENJAMIN  *(trainer #603)*
-- **Shuckle** Lv47 — Bug Bite, Stone Edge, Air Slash, Gyro Ball
-- **Geodude** Lv48 — Stone Edge, Earthquake, Fire Blast, Crunch
-- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
+- **Shuckle** Lv47 — Bug Bite, Stone Edge, Gyro Ball, Earthquake
+- **Geodude** Lv48 — Stone Edge, Earthquake, ThunderPunch, Fire Punch
+- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
 - **Steelix** Lv48 — Iron Tail, Earthquake, Fire Fang, Crunch
-- **Sandaconda** Lv48 — Earthquake, Air Slash, Power Whip, Stone Edge
+- **Sandaconda** Lv48 — Earthquake, Hurricane, Iron Head, Stone Edge
 
 ### PAINTER EDNA  *(trainer #604)*
-- **Ambipom** Lv49 — Return, Aerial Ace, Iron Tail, Dig
-- **Smeargle** Lv50 — Icy Wind, ThunderPunch, Power Gem, Sketch
+- **Ambipom** Lv49 — Double-Edge, Aerial Ace, Seed Bomb, Dig
+- **Smeargle** Lv50 — Sketch, Sketch, Sketch, Sketch
 - **Lopunny** Lv50 — Return, Ice Punch, ThunderPunch, Fire Punch
-- **Heliolisk** Lv50 — Thunder, Return, Power Whip, Dig
+- **Heliolisk** Lv50 — Thunder, Hyper Voice, Mud-Slap, Rock Slide
 
 ### GENTLEMAN CLIFFORD  *(trainer #605)*
-- **Inteleon** Lv48 — Hydro Pump, Dark Pulse, Blizzard, Water Gun
-- **Marowak** Lv49 — Earthquake, Brave Bird, Iron Tail, Blizzard
-- **Golduck** Lv49 — Hydro Pump, Future Sight, Aura Sphere, Aerial Ace
-- **Claydol** Lv49 — Earth Power, Psychic, Gyro Ball, Ice Beam
+- **Inteleon** Lv48 — Hydro Pump, Dark Pulse, Air Slash, Blizzard
+- **Marowak** Lv49 — Earthquake, Iron Tail, Blizzard, ThunderPunch
+- **Golduck** Lv49 — Hydro Pump, Future Sight, Brick Break, Dig
+- **Claydol** Lv49 — Earth Power, Future Sight, Gyro Ball, Ice Beam
 - **Bruxish** Lv49 — Aqua Tail, Psychic, Blizzard, Crunch
 
 ### LADY SELPHY  *(trainer #606)*
-- **Pidgeot** Lv48 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Persian** Lv49  @Nugget — Slash, Play Rough, Foul Play, Aerial Ace
-- **Persian** Lv49  @Nugget — Slash, Play Rough, Foul Play, Aerial Ace
-- **Oinkologne** Lv49 — Double-Edge, Iron Tail, Energy Ball, Dig
+- **Pidgeot** Lv48 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Persian** Lv49  @Nugget — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Persian** Lv49  @Nugget — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Oinkologne** Lv49 — Double-Edge, Iron Head, Seed Bomb, Dig
 
 ### RUIN MANIAC LAWSON  *(trainer #607)*
-- **Onix** Lv47 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
+- **Onix** Lv47 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Graveler** Lv48 — Stone Edge, Earthquake, Fire Punch, Brick Break
 - **Archeops** Lv48 — Stone Edge, Wing Attack, Iron Tail, Earthquake
-- **Marowak** Lv49 — Earthquake, Brave Bird, Iron Tail, Blizzard
-- **SandyShock** Lv49 — Thunder, Earth Power, Hydro Pump, Flash Cannon
-- **Garchomp** Lv49 — Dragon Rush, Earthquake, Crunch, Brick Break
+- **Marowak** Lv49 — Earthquake, Iron Tail, Blizzard, ThunderPunch
+- **SandyShock** Lv49 — Thunder, Earth Power, Flash Cannon, Power Gem
+- **Garchomp** Lv49 — Outrage, Earthquake, Crunch, Brick Break
 
 ### PSYCHIC LAURA  *(trainer #608)*
-- **Natu** Lv48 — Future Sight, Hurricane, Steel Wing, Giga Drain
-- **Natu** Lv48 — Future Sight, Hurricane, Steel Wing, Giga Drain
-- **Honchkrow** Lv48 — Foul Play, Brave Bird, Flare Blitz, Play Rough
-- **Xatu** Lv49 — Future Sight, Air Slash, Iron Head, Giga Drain
-- **Musharna** Lv49 — Psychic, Aqua Tail, Brave Bird, Iron Head
-- **Slowking** Lv49 — Surf, Future Sight, Brick Break, Iron Tail
+- **Natu** Lv48 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Natu** Lv48 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Honchkrow** Lv48 — Foul Play, Brave Bird, Heat Wave, Mud-Slap
+- **Xatu** Lv49 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Musharna** Lv49 — Future Sight, Gyro Ball, Energy Ball, Rock Slide
+- **Slowking** Lv49 — Hydro Pump, Future Sight, Brick Break, Earthquake
 
 ### ?? BREEDER BETHANY  *(trainer #609)*
-- **Bewear** Lv49 — Double-Edge, Superpower, Play Rough, Liquidation
-- **Chansey** Lv50 — Double-Edge, Crunch, Brick Break, Iron Tail
-- **Oranguru** Lv50 — Body Slam, Future Sight, Energy Ball, Earthquake
-- **Ursaring** Lv50 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
+- **Bewear** Lv49 — Double-Edge, Close Combat, Iron Head, Earthquake
+- **Chansey** Lv50 — Hyper Voice, Brick Break, Earthquake, Blizzard
+- **Oranguru** Lv50 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Ursaring** Lv50 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
 
 ### ?? BREEDER ALLISON  *(trainer #610)*
-- **Togekiss** Lv47 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
-- **Clefairy** Lv48 — Moonblast, Power Whip, Dig, Blizzard
-- **Clefairy** Lv48 — Moonblast, Power Whip, Dig, Blizzard
-- **Clefable** Lv48 — Dig, Blizzard, Thunder, Fire Blast
-- **Clefable** Lv48 — Dig, Blizzard, Thunder, Fire Blast
-- **Comfey** Lv48 — Play Rough, Energy Ball, Icy Wind, Foul Play
+- **Togekiss** Lv47 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
+- **Clefairy** Lv48 — Moonblast, Dig, Blizzard, Thunder
+- **Clefairy** Lv48 — Moonblast, Dig, Blizzard, Thunder
+- **Clefable** Lv48 — Moonblast, Dig, Blizzard, Thunder
+- **Clefable** Lv48 — Moonblast, Dig, Blizzard, Thunder
+- **Comfey** Lv48 — Play Rough, Energy Ball, Knock Off, Vine Whip
 
 ### BUG CATCHER GARRET  *(trainer #611)*
-- **Volcarona** Lv48 — Bug Buzz, Fire Blast, Close Combat, Aqua Tail
-- **Heracross** Lv49 — Megahorn, Close Combat, Iron Head, Power Whip
-- **Infernape** Lv49 — Flare Blitz, Close Combat, Icy Wind, ThunderPunch
-- **GreatTusk** Lv49 — Earthquake, Close Combat, Icy Wind, Stone Edge
+- **Volcarona** Lv48 — Bug Buzz, Fire Blast, Hurricane, Giga Drain
+- **Heracross** Lv49 — Megahorn, Close Combat, Earthquake, Stone Edge
+- **Infernape** Lv49 — Flare Blitz, Close Combat, ThunderPunch, Stone Edge
+- **GreatTusk** Lv49 — Earthquake, Close Combat, Stone Edge, Fire Fang
 
 ### BUG CATCHER JONAH  *(trainer #612)*
-- **Yanma** Lv45 — Bug Buzz, Hurricane, Ice Punch, Power Gem
-- **Beedrill** Lv45 — X-Scissor, Gunk Shot, Brick Break, Aqua Tail
-- **Yanma** Lv46 — Bug Buzz, Hurricane, Ice Punch, Power Gem
-- **Yanmega** Lv46 — Bug Buzz, Hurricane, Night Slash, Muddy Water
-- **Beedrill** Lv47 — X-Scissor, Gunk Shot, Brick Break, Aqua Tail
-- **Ribombee** Lv47 — Bug Buzz, Moonblast, ThunderPunch, Power Gem
+- **Yanma** Lv45 — Bug Buzz, Air Slash, AncientPower, Giga Drain
+- **Beedrill** Lv45 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Yanma** Lv46 — Bug Buzz, Air Slash, AncientPower, Giga Drain
+- **Yanmega** Lv46 — Bug Buzz, Air Slash, Crunch, Giga Drain
+- **Beedrill** Lv47 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Ribombee** Lv47 — Bug Buzz, Fairy Wind, DualWingbeat, Energy Ball
 
 ### BUG CATCHER VANCE  *(trainer #613)*
-- **Escavalier** Lv47 — X-Scissor, Iron Head, Night Slash, Aerial Ace
-- **Venonat** Lv48 — Leech Life, Poison Fang, ThunderPunch, Rock Blast
-- **Venomoth** Lv48 — Bug Buzz, Sludge Bomb, ThunderPunch, Muddy Water
-- **Victreebel** Lv48 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Toxicroak** Lv48 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
+- **Escavalier** Lv47 — Megahorn, Iron Head, Close Combat, Energy Ball
+- **Venonat** Lv48 — Leech Life, Poison Fang, Energy Ball, Bug Bite
+- **Venomoth** Lv48 — Bug Buzz, Sludge Wave, Air Slash, Energy Ball
+- **Victreebel** Lv48 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Toxicroak** Lv48 — Gunk Shot, Close Combat, Stone Edge, Foul Play
 
 ### YOUNGSTER NASH  *(trainer #614)*
-- **Weepinbell** Lv47 — Power Whip, Poison Jab, Fire Fang, Foul Play
-- **Weepinbell** Lv47 — Power Whip, Poison Jab, Fire Fang, Foul Play
-- **Toxapex** Lv48 — Poison Jab, Liquidation, Bite, Blizzard
-- **Victreebel** Lv49 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Bramblgast** Lv49 — Power Whip, PhantomForce, Aqua Tail, Rock Blast
-- **Appletun** Lv49 — Energy Ball, Dragon Pulse, Foul Play, Aqua Tail
+- **Weepinbell** Lv47 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Weepinbell** Lv47 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Toxapex** Lv48 — Gunk Shot, Liquidation, Bite, Blizzard
+- **Victreebel** Lv49 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Bramblgast** Lv49 — Power Whip, PhantomForce, Mega Drain, Giga Drain
+- **Appletun** Lv49 — Energy Ball, Dragon Pulse, Iron Head, Earthquake
 
 ### YOUNGSTER CORDELL  *(trainer #615)*
-- **Furfrou** Lv47 — Tackle, Heat Wave, Play Rough, Crunch
-- **Farfetch'd** Lv48 — Slash, Brave Bird, Mud-Slap, Night Slash
-- **Farfetch'd** Lv48 — Slash, Brave Bird, Mud-Slap, Night Slash
-- **Swanna** Lv48 — Waterfall, Brave Bird, Iron Head, Earth Power
-- **Cramorant** Lv48 — Drill Peck, Hydro Pump, Steel Wing, Leaf Blade
+- **Furfrou** Lv47 — Tackle, Sucker Punch, Surf, Iron Tail
+- **Farfetch'd** Lv48 — Body Slam, Brave Bird, Leaf Blade, Heat Wave
+- **Farfetch'd** Lv48 — Body Slam, Brave Bird, Leaf Blade, Heat Wave
+- **Swanna** Lv48 — Liquidation, Brave Bird, Ice Beam, Knock Off
+- **Cramorant** Lv48 — Brave Bird, Liquidation, Blizzard, Aerial Ace
 
 ### LASS DALIA  *(trainer #616)*
-- **Hoppip** Lv46 — Leaf Blade, Aerial Ace, Rock Blast, Fire Fang
-- **Hoppip** Lv47 — Leaf Blade, Aerial Ace, Rock Blast, Fire Fang
-- **Skiploom** Lv47 — Leaf Blade, Brave Bird, Aqua Tail, Play Rough
-- **Ninjask** Lv47 — X-Scissor, Aerial Ace, Night Slash, Giga Drain
-- **Skiploom** Lv48 — Leaf Blade, Brave Bird, Aqua Tail, Play Rough
-- **Lurantis** Lv48 — Leaf Blade, Earth Power, Night Slash, Brick Break
+- **Hoppip** Lv46 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Hoppip** Lv47 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Skiploom** Lv47 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Ninjask** Lv47 — X-Scissor, Aerial Ace, Metal Claw, Giga Drain
+- **Skiploom** Lv48 — Seed Bomb, Aerial Ace, Fairy Wind, Mega Drain
+- **Lurantis** Lv48 — Leaf Blade, Night Slash, Brick Break, Razor Leaf
 
 ### LASS JOANA  *(trainer #617)*
-- **Whimsicott** Lv48 — Energy Ball, Moonblast, Icy Wind, Heat Wave
-- **Snubbull** Lv49 — Play Rough, Crunch, Close Combat, Air Slash
-- **Hatterene** Lv49 — Psychic, Giga Drain, Rock Blast, Flare Blitz
-- **Gardevoir** Lv49 — Future Sight, Moonblast, Energy Ball, Thunderbolt
+- **Whimsicott** Lv48 — Energy Ball, Moonblast, Hurricane, Mega Drain
+- **Snubbull** Lv49 — Play Rough, Crunch, Close Combat, Earthquake
+- **Hatterene** Lv49 — Future Sight, Play Rough, Giga Drain, Dark Pulse
+- **Gardevoir** Lv49 — Future Sight, Moonblast, Energy Ball, Icy Wind
 
 ### CAMPER RILEY  *(trainer #618)*
-- **Pinsir** Lv49 — X-Scissor, Close Combat, Muddy Water, Seed Bomb
-- **Hawlucha** Lv49 — Cross Chop, Wing Attack, Muddy Water, Steel Wing
-- **Heracross** Lv50 — Megahorn, Close Combat, Iron Head, Power Whip
-- **Shuckle** Lv50 — Bug Bite, Stone Edge, Air Slash, Gyro Ball
-- **Yanmega** Lv50 — Bug Buzz, Hurricane, Night Slash, Muddy Water
+- **Pinsir** Lv49 — X-Scissor, Close Combat, Earthquake, Stone Edge
+- **Hawlucha** Lv49 — Close Combat, Brave Bird, Iron Head, Dig
+- **Heracross** Lv50 — Megahorn, Close Combat, Earthquake, Stone Edge
+- **Shuckle** Lv50 — Bug Bite, Stone Edge, Gyro Ball, Earthquake
+- **Yanmega** Lv50 — Bug Buzz, Air Slash, Crunch, Giga Drain
 
 ### PICNICKER MARCY  *(trainer #619)*
-- **Paras** Lv48 — X-Scissor, Energy Ball, Iron Head, Dig
-- **Paras** Lv48 — X-Scissor, Energy Ball, Iron Head, Dig
-- **Orbeetle** Lv48 — Bug Buzz, Psychic, Heat Wave, Foul Play
-- **Parasect** Lv49 — X-Scissor, Energy Ball, Dig, Rock Blast
-- **Tsareena** Lv49 — Power Whip, Muddy Water, Hurricane, Ice Punch
-- **Roserade** Lv49 — Energy Ball, Sludge Bomb, Crunch, Hydro Pump
+- **Paras** Lv48 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Paras** Lv48 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Orbeetle** Lv48 — Bug Buzz, Future Sight, Energy Ball, Struggle Bug
+- **Parasect** Lv49 — X-Scissor, Giga Drain, Dig, Brick Break
+- **Tsareena** Lv49 — Power Whip, Play Rough, Knock Off, Razor Leaf
+- **Roserade** Lv49 — Energy Ball, Sludge Bomb, Mega Drain, Giga Drain
 
 ### RUIN MANIAC LAYTON  *(trainer #620)*
-- **Palossand** Lv47 — Shadow Ball, Earth Power, AncientPower, Flare Blitz
-- **Sandslash** Lv48 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Onix** Lv48 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Sandslash** Lv48 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Drednaw** Lv48 — Liquidation, Stone Edge, Iron Tail, Earthquake
-- **Golurk** Lv48 — Earthquake, PhantomForce, Flare Blitz, Crunch
+- **Palossand** Lv47 — Shadow Ball, Earth Power, Stone Edge, Flash Cannon
+- **Sandslash** Lv48 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Onix** Lv48 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Sandslash** Lv48 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Drednaw** Lv48 — Liquidation, Stone Edge, Earthquake, Blizzard
+- **Golurk** Lv48 — Earthquake, PhantomForce, Fire Punch, Knock Off
 
 ### PICNICKER KELSEY  *(trainer #621)*
-- **Varoom** Lv20 — Iron Head, Poison Jab, Rock Blast, Bulldoze
-- **Nidoran?** Lv21 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Nidoran?** Lv21 — Poison Jab, Crunch, Aerial Ace, Iron Head
-- **Bulbasaur** Lv21 — Giga Drain, Sludge, Vine Whip, Razor Leaf
-- **Skrelp** Lv21 — Acid, Waterfall, Knock Off, Aura Sphere
+- **Varoom** Lv20 — Iron Head, Poison Jab, Bulldoze, Flash Cannon
+- **Nidoran?** Lv21 — Poison Jab, Dig, Sucker Punch, Horn Attack
+- **Nidoran?** Lv21 — Poison Jab, Crunch, Dig, Poison Fang
+- **Bulbasaur** Lv21 — Giga Drain, Knock Off, Vine Whip, Razor Leaf
+- **Skrelp** Lv21 — Acid, Liquidation, Feint Attack, Mud-Slap
 
 ### PICNICKER KELSEY  *(trainer #622)*
-- **Swalot** Lv28 — Poison Jab, Iron Head, Giga Drain, Bulldoze
+- **Swalot** Lv28 — Poison Jab, Seed Bomb, Bulldoze, Ice Punch
 - **Nidorino** Lv29 — Poison Jab, Iron Tail, Dig, Ice Beam
-- **Nidorina** Lv29 — Poison Jab, Crunch, Liquidation, Aerial Ace
+- **Nidorina** Lv29 — Poison Jab, Crunch, Iron Tail, Dig
 - **Nidorino** Lv29 — Poison Jab, Iron Tail, Dig, Ice Beam
 
 ### PICNICKER KELSEY  *(trainer #623)*
-- **Victreebel** Lv48 — Power Whip, Poison Jab, Ice Punch, Fire Punch
+- **Victreebel** Lv48 — Power Whip, Poison Jab, Knock Off, Vine Whip
 - **Nidorino** Lv49 — Poison Jab, Iron Tail, Dig, Blizzard
-- **Nidorina** Lv49 — Poison Jab, Crunch, Liquidation, Brave Bird
-- **Muk** Lv49 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
+- **Nidorina** Lv49 — Poison Jab, Crunch, Iron Tail, Dig
+- **Muk** Lv49 — Gunk Shot, Knock Off, Brick Break, Giga Drain
 
 ### CAMPER RICKY  *(trainer #624)*
-- **Squirtle** Lv22 — Scald, Aura Sphere, Iron Head, Dig
-- **Piplup** Lv22 — Scald, Power Gem, Brick Break, Drill Peck
+- **Squirtle** Lv22 — Water Gun, Brick Break, Gyro Ball, Dig
+- **Piplup** Lv22 — Bubble Beam, Rock Tomb, Brick Break, Drill Peck
 
 ### CAMPER RICKY  *(trainer #625)*
-- **Alomomola** Lv29 — Waterfall, Ice Beam, Fire Fang, Foul Play
-- **Wartortle** Lv30 — Surf, Iron Tail, Seed Bomb, Dig
+- **Alomomola** Lv29 — Liquidation, Ice Beam, Play Rough, Surf
+- **Wartortle** Lv30 — Surf, Gyro Ball, Dig, Ice Beam
 - **Bruxish** Lv30 — Aqua Tail, Psychic, Ice Beam, Crunch
 
 ### CAMPER RICKY  *(trainer #626)*
 - **Primarina** Lv54 — Hydro Pump, Moonblast, Energy Ball, Blizzard
-- **Wartortle** Lv55 — Hydro Pump, Iron Tail, Seed Bomb, Dig
-- **Greninja** Lv55 — Hydro Pump, Dark Pulse, Dig, Blizzard
+- **Wartortle** Lv55 — Hydro Pump, Gyro Ball, Dig, Blizzard
+- **Greninja** Lv55 — Hydro Pump, Dark Pulse, Mud-Slap, Blizzard
 - **Golisopod** Lv55 — X-Scissor, Liquidation, Blizzard, Rock Slide
 
 ### CAMPER JEFF  *(trainer #627)*
-- **Spearow** Lv21 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Raticate** Lv21 — Tackle, Dig, Flame Wheel, Crunch
-- **Dunsparce** Lv21 — Body Slam, Rock Slide, Crunch, Aura Sphere
+- **Spearow** Lv21 — Drill Peck, Aerial Ace, Mirror Move, Fury Attack
+- **Raticate** Lv21 — Tackle, Dig, Crunch, Bite
+- **Dunsparce** Lv21 — Body Slam, Rock Slide, Bite, Air Slash
 
 ### CAMPER JEFF  *(trainer #628)*
-- **Xatu** Lv28 — Psyshock, Air Slash, Iron Head, Giga Drain
-- **Fearow** Lv29 — Return, Drill Peck, Steel Wing, Play Rough
+- **Xatu** Lv28 — Psyshock, Air Slash, Steel Wing, Giga Drain
+- **Fearow** Lv29 — Drill Peck, Aerial Ace, Agility, Assurance
 - **Raticate** Lv29 — Tackle, Iron Tail, Dig, Ice Beam
-- **Zangoose** Lv29 — Body Slam, Surf, Aerial Ace, Iron Tail
+- **Zangoose** Lv29 — Body Slam, Surf, Aerial Ace, Metal Claw
 
 ### CAMPER JEFF  *(trainer #629)*
-- **Cyclizar** Lv53 — Dragon Rush, Double-Edge, Foul Play, Aqua Tail
-- **Fearow** Lv54 — Return, Drill Peck, Steel Wing, Play Rough
-- **Raticate** Lv54 — Double-Edge, Iron Tail, Power Whip, Dig
-- **IronJuglis** Lv54 — Dark Pulse, Hurricane, Flash Cannon, Rock Tomb
-- **Lickilicky** Lv54 — Return, Earthquake, Blizzard, Thunder
+- **Cyclizar** Lv53 — Outrage, Double-Edge, Crunch, Aqua Tail
+- **Fearow** Lv54 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Raticate** Lv54 — Double-Edge, Iron Tail, Dig, Blizzard
+- **IronJuglis** Lv54 — Dark Pulse, Hurricane, Flash Cannon, Earth Power
+- **Lickilicky** Lv54 — Body Slam, Earthquake, Ice Punch, ThunderPunch
 
 ### PICNICKER ISABELLE  *(trainer #630)*
-- **Pidgey** Lv18 — Tackle, Wing Attack, Feint Attack, Steel Wing
-- **Pidgeotto** Lv21 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv21 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Minccino** Lv21 — Return, Crunch, Aura Sphere, Liquidation
+- **Pidgey** Lv18 — Tackle, Wing Attack, Whirlwind, Quick Attack
+- **Pidgeotto** Lv21 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Pidgeotto** Lv21 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Minccino** Lv21 — Knock Off, Seed Bomb, Dig, Mud-Slap
 
 ### PICNICKER ISABELLE  *(trainer #631)*
-- **Pidgeotto** Lv26 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Aipom** Lv28 — Body Slam, Dig, Ice Punch, Crunch
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv29 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Vullaby** Lv29 — Crunch, Aerial Ace, Steel Wing, Leaf Blade
+- **Pidgeotto** Lv26 — Tackle, Wing Attack, Air Slash, Twister
+- **Aipom** Lv28 — Seed Bomb, Dig, Ice Punch, ThunderPunch
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv29 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Vullaby** Lv29 — Foul Play, DualWingbeat, Rock Tomb, Heat Wave
 
 ### PICNICKER ISABELLE  *(trainer #632)*
-- **Pidgeotto** Lv47 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv47 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Drifblim** Lv49 — Shadow Ball, Hurricane, Power Whip, Ice Punch
-- **Pidgeot** Lv50 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Audino** Lv50 — Double-Edge, Liquidation, Iron Tail, Leaf Blade
-- **Indeedee** Lv50 — Psychic, Return, Flare Blitz, Knock Off
+- **Pidgeotto** Lv47 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Pidgeotto** Lv47 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Drifblim** Lv49 — Shadow Ball, Air Slash, Icy Wind, Thunder
+- **Pidgeot** Lv50 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Audino** Lv50 — Double-Edge, Surf, Iron Tail, Dig
+- **Indeedee** Lv50 — Psychic, Hyper Voice, Play Rough, Drain Punch
 
 ### YOUNGSTER YASU  *(trainer #633)*
-- **Pidgeotto** Lv21 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Rattata** Lv22 — Tackle, Air Slash, Dig, Flame Wheel
-- **Raticate** Lv22 — Tackle, Dig, Flame Wheel, Crunch
-- **Raticate** Lv22 — Tackle, Dig, Flame Wheel, Crunch
-- **Vigoroth** Lv22 — Body Slam, Night Slash, Brick Break, Liquidation
+- **Pidgeotto** Lv21 — Tackle, Wing Attack, Air Slash, Whirlwind
+- **Rattata** Lv22 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv22 — Tackle, Dig, Crunch, Bite
+- **Raticate** Lv22 — Tackle, Dig, Crunch, Bite
+- **Vigoroth** Lv22 — Body Slam, Knock Off, Brick Break, Aerial Ace
 
 ### YOUNGSTER YASU  *(trainer #634)*
-- **Oranguru** Lv46 — Body Slam, Future Sight, Energy Ball, Earthquake
-- **Raticate** Lv47 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Raticate** Lv47 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Raticate** Lv47 — Double-Edge, Iron Tail, Power Whip, Dig
+- **Oranguru** Lv46 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Raticate** Lv47 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Raticate** Lv47 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Raticate** Lv47 — Double-Edge, Iron Tail, Dig, Blizzard
 - **Lopunny** Lv47 — Return, Ice Punch, ThunderPunch, Fire Punch
-- **Heliolisk** Lv47 — Thunder, Return, Power Whip, Dig
+- **Heliolisk** Lv47 — Thunder, Hyper Voice, Mud-Slap, Rock Slide
 
 ### ENGINEER BERNIE  *(trainer #635)*
-- **Minun** Lv27 — Discharge, Iron Head, Ice Punch, Spark
-- **Magneton** Lv28 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Magneton** Lv28 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Magneton** Lv28 — Discharge, Flash Cannon, Seed Bomb, Fire Punch
-- **Shieldon** Lv28 — Rock Slide, Iron Head, Aura Sphere, Dig
+- **Minun** Lv27 — Discharge, Mud-Slap, Spark, ThunderPunch
+- **Magneton** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Magneton** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Magneton** Lv28 — Discharge, Flash Cannon, ThunderShock, Spark
+- **Shieldon** Lv28 — Rock Slide, Iron Head, Dig, Rock Tomb
 
 ### GAMER DARIAN  *(trainer #636)*
-- **Growlithe** Lv29 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Vulpix** Lv29 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Carkol** Lv29 — Stone Edge, Fire Punch, ThunderPunch, Scald
+- **Growlithe** Lv29 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Vulpix** Lv29 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Carkol** Lv29 — Stone Edge, Heat Wave, Scald, Iron Head
 
 ### CAMPER CHRIS  *(trainer #637)*
-- **Braixen** Lv23 — Ember, Ice Punch, Power Gem, Fire Spin
-- **Growlithe** Lv24 — Fire Fang, Dig, Crunch, Aerial Ace
-- **Charmander** Lv24 — Ember, Crunch, Brick Break, Air Cutter
-- **Litten** Lv24 — Fire Punch, Crunch, Ember, Fire Fang
+- **Braixen** Lv23 — Ember, Mud-Slap, ThunderPunch, Fire Punch
+- **Growlithe** Lv24 — Fire Fang, Dig, Crunch, Ember
+- **Charmander** Lv24 — Ember, Crunch, Brick Break, Metal Claw
+- **Litten** Lv24 — Fire Fang, Crunch, Ember, Bite
 
 ### CAMPER CHRIS  *(trainer #638)*
-- **Lampent** Lv28 — Shadow Ball, Ember, Rock Blast, Dark Pulse
-- **Growlithe** Lv29 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Air Cutter
-- **Camerupt** Lv29 — Heat Wave, Earth Power, Foul Play, Aura Sphere
+- **Lampent** Lv28 — Shadow Ball, Ember, Dark Pulse, Astonish
+- **Growlithe** Lv29 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Charmeleon** Lv29 — Heat Wave, Crunch, Brick Break, Dig
+- **Camerupt** Lv29 — Heat Wave, Earth Power, Flash Cannon, Stone Edge
 
 ### CAMPER CHRIS  *(trainer #639)*
-- **Magmar** Lv53 — Fire Blast, Foul Play, Cross Chop, Liquidation
-- **Arcanine** Lv54 — Fire Fang, Dig, Ice Punch, Wild Charge
-- **Charmeleon** Lv54 — Fire Blast, Crunch, Close Combat, Hydro Pump
-- **Sunflora** Lv54 — Energy Ball, Heat Wave, Earth Power, Play Rough
-- **Simisear** Lv54 — Flare Blitz, Rock Slide, Play Rough, Crunch
+- **Magmar** Lv53 — Fire Blast, Knock Off, Brick Break, ThunderPunch
+- **Arcanine** Lv54 — Flare Blitz, Dig, Wild Charge, Play Rough
+- **Charmeleon** Lv54 — Fire Blast, Crunch, Brick Break, Dig
+- **Sunflora** Lv54 — Energy Ball, Earth Power, Mega Drain, Razor Leaf
+- **Simisear** Lv54 — Fire Punch, Rock Slide, Knock Off, Superpower
 
 ### PICNICKER ALICIA  *(trainer #640)*
-- **Litleo** Lv24 — Ember, ExtremeSpeed, Dig, Dark Pulse
-- **Meowth** Lv25 — Slash, Night Slash, Aerial Ace, Dig
-- **Chansey** Lv25 — Return, Crunch, Brick Break, Mud Bomb
+- **Litleo** Lv24 — Ember, Body Slam, Mud-Slap, Crunch
+- **Meowth** Lv25 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Chansey** Lv25 — Body Slam, Brick Break, Bulldoze, Icy Wind
 
 ### PICNICKER ALICIA  *(trainer #641)*
 - **Raticate** Lv29 — Tackle, Iron Tail, Dig, Ice Beam
-- **Persian** Lv30 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Swellow** Lv30 — Return, Wing Attack, Steel Wing, Aerial Ace
+- **Persian** Lv30 — Body Slam, Play Rough, Foul Play, Aerial Ace
+- **Swellow** Lv30 — Return, Wing Attack, Steel Wing, Heat Wave
 
 ### PICNICKER ALICIA  *(trainer #642)*
-- **Exploud** Lv54 — Return, Earthquake, Avalanche, Rock Slide
-- **Persian** Lv55 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Miltank** Lv55 — Body Slam, Blizzard, Thunder, Rock Slide
-- **Bouffalant** Lv55 — Return, Liquidation, Aerial Ace, Iron Head
+- **Exploud** Lv54 — Body Slam, Earthquake, Ice Punch, ThunderPunch
+- **Persian** Lv55 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Miltank** Lv55 — Double-Edge, Ice Punch, ThunderPunch, Rock Slide
+- **Bouffalant** Lv55 — Body Slam, Close Combat, Surf, Iron Head
 
 ### HIKER JEREMY  *(trainer #643)*
-- **Onix** Lv28 — Rock Slide, Dig, Ice Punch, Liquidation
-- **Machoke** Lv30 — Cross Chop, Bullet Punch, Earthquake, Ice Punch
-- **Golurk** Lv30 — Earthquake, PhantomForce, Fire Punch, Crunch
+- **Onix** Lv28 — Rock Slide, Dig, Iron Head, Rock Throw
+- **Machoke** Lv30 — Cross Chop, Earthquake, Ice Punch, ThunderPunch
+- **Golurk** Lv30 — Earthquake, PhantomForce, Fire Punch, Knock Off
 
 ### POK?MANIAC MARK  *(trainer #644)*
-- **Relicanth** Lv53 — Waterfall, Stone Edge, Earthquake, Blizzard
-- **Rhydon** Lv54 — Earthquake, Stone Edge, Fire Punch, Play Rough
-- **Lickitung** Lv54 — Return, Earth Power, Blizzard, Thunder
-- **Krookodile** Lv54 — Earthquake, Foul Play, Brick Break, Aqua Tail
-- **Cyclizar** Lv54 — Dragon Rush, Double-Edge, Foul Play, Aqua Tail
+- **Relicanth** Lv53 — Aqua Tail, Stone Edge, Earthquake, Blizzard
+- **Rhydon** Lv54 — Earthquake, Stone Edge, Fire Punch, Crunch
+- **Lickitung** Lv54 — Body Slam, Earthquake, Blizzard, Thunder
+- **Krookodile** Lv54 — Earthquake, Foul Play, Close Combat, Aerial Ace
+- **Cyclizar** Lv54 — Outrage, Double-Edge, Crunch, Aqua Tail
 
 ### POK?MANIAC HERMAN  *(trainer #645)*
 - **Wailmer** Lv28 — Waterfall, Avalanche, Rock Tomb, Bulldoze
-- **Marowak** Lv29 — Earthquake, Aerial Ace, Iron Tail, Ice Beam
-- **Slowbro** Lv29 — Surf, Psychic, Air Slash, Iron Tail
-- **Onix** Lv29 — Stone Edge, Earthquake, Ice Punch, Foul Play
+- **Marowak** Lv29 — Earthquake, Iron Tail, Ice Beam, ThunderPunch
+- **Slowbro** Lv29 — Surf, Psychic, Earthquake, Ice Beam
+- **Onix** Lv29 — Stone Edge, Earthquake, Iron Tail, Rock Throw
 
 ### POK?MANIAC HERMAN  *(trainer #646)*
 - **Starmie** Lv53 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Marowak** Lv54 — Earthquake, Brave Bird, Iron Tail, Blizzard
-- **Slowbro** Lv54 — Surf, Future Sight, Air Slash, Iron Tail
-- **Baraskewda** Lv54 — Liquidation, Seed Bomb, Blizzard, Fire Fang
-- **GreatTusk** Lv54 — Earthquake, Close Combat, Icy Wind, Stone Edge
+- **Marowak** Lv54 — Earthquake, Iron Tail, Blizzard, ThunderPunch
+- **Slowbro** Lv54 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Baraskewda** Lv54 — Liquidation, Blizzard, Crunch, Close Combat
+- **GreatTusk** Lv54 — Earthquake, Close Combat, Stone Edge, Fire Fang
 
 ### HIKER TRENT  *(trainer #647)*
-- **Minior** Lv30 — Power Gem, Iron Head, Seed Bomb, Ice Punch
-- **Onix** Lv31 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Graveler** Lv31 — Stone Edge, Earthquake, Fire Punch, Sucker Punch
-- **Gligar** Lv31 — Earthquake, Wing Attack, Stone Edge, Crunch
+- **Minior** Lv30 — Stone Edge, Iron Head, Earthquake, Rock Tomb
+- **Onix** Lv31 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Graveler** Lv31 — Stone Edge, Earthquake, Fire Punch, Brick Break
+- **Gligar** Lv31 — Earthquake, Wing Attack, Stone Edge, Fire Fang
 
 ### LASS MEGAN  *(trainer #648)*
-- **Meowth** Lv21 — Slash, Night Slash, Aerial Ace, Dig
-- **Pidgeotto** Lv22 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Raticate** Lv22 — Tackle, Dig, Flame Wheel, Crunch
-- **Pikachu** Lv22 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Nidoran?** Lv23 — Poison Jab, Dig, Sucker Punch, Knock Off
-- **Chinchou** Lv23 — Scald, Discharge, Seed Bomb, Icy Wind
+- **Meowth** Lv21 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Pidgeotto** Lv22 — Tackle, Wing Attack, Air Slash, Twister
+- **Raticate** Lv22 — Tackle, Dig, Crunch, Bite
+- **Pikachu** Lv22 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Nidoran?** Lv23 — Poison Jab, Dig, Sucker Punch, Horn Attack
+- **Chinchou** Lv23 — Scald, Discharge, Sucker Punch, Icy Wind
 
 ### LASS MEGAN  *(trainer #649)*
-- **Pidgeot** Lv46 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Raticate** Lv47 — Double-Edge, Iron Tail, Power Whip, Dig
+- **Pidgeot** Lv46 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Raticate** Lv47 — Double-Edge, Iron Tail, Dig, Blizzard
 - **Nidorino** Lv47 — Poison Jab, Iron Tail, Dig, Blizzard
-- **Persian** Lv47 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Raichu** Lv48 — Thunder, Brick Break, Surf, Iron Tail
-- **Galvantula** Lv48 — Bug Buzz, Thunder, Ice Punch, Fire Punch
+- **Persian** Lv47 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Raichu** Lv48 — Thunder, Play Rough, Knock Off, Brick Break
+- **Galvantula** Lv48 — Bug Buzz, Thunder, Sucker Punch, Energy Ball
 
 ### SUPER NERD GLENN  *(trainer #650)*
-- **Venomoth** Lv27 — Struggle Bug, Cross Poison, ThunderPunch, Aerial Ace
-- **Muk** Lv28 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Muk** Lv28 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Muk** Lv28 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Venomoth** Lv28 — Struggle Bug, Cross Poison, ThunderPunch, Aerial Ace
-- **Arbok** Lv28 — Poison Jab, Crunch, Dig, Ice Punch
+- **Venomoth** Lv27 — Struggle Bug, Poison Fang, Air Slash, Giga Drain
+- **Muk** Lv28 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Muk** Lv28 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Muk** Lv28 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Venomoth** Lv28 — Struggle Bug, Poison Fang, Air Slash, Giga Drain
+- **Arbok** Lv28 — Poison Jab, Crunch, Dig, Rock Slide
 
 ### GAMER RICH  *(trainer #651)*
-- **Braixen** Lv29 — Heat Wave, Iron Tail, Earth Power, Ice Punch
-- **Growlithe** Lv30 — Fire Fang, Iron Tail, Dig, Wild Charge
-- **Vulpix** Lv30 — Heat Wave, ThunderPunch, Dark Pulse, Iron Tail
-- **Monferno** Lv30 — Fire Punch, Brick Break, Dig, Icy Wind
+- **Braixen** Lv29 — Heat Wave, Foul Play, Mud-Slap, ThunderPunch
+- **Growlithe** Lv30 — Fire Fang, Dig, Wild Charge, Play Rough
+- **Vulpix** Lv30 — Heat Wave, Dark Pulse, Energy Ball, Dig
+- **Monferno** Lv30 — Fire Punch, Brick Break, Dig, ThunderPunch
 
 ### BIKER JAREN  *(trainer #652)*
-- **Muk** Lv28 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Nidorina** Lv29 — Poison Jab, Crunch, Liquidation, Aerial Ace
-- **Muk** Lv30 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Grafaiai** Lv30 — Poison Jab, Slash, Knock Off, Liquidation
+- **Muk** Lv28 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Nidorina** Lv29 — Poison Jab, Crunch, Iron Tail, Dig
+- **Muk** Lv30 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Grafaiai** Lv30 — Poison Jab, Slash, Foul Play, Dig
 
 ### FISHERMAN ELLIOT  *(trainer #653)*
-- **Araquanid** Lv27 — Liquidation, X-Scissor, Seed Bomb, Aurora Beam
-- **Poliwhirl** Lv28 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Cloyster** Lv28 — Waterfall, Icicle Crash, Rock Blast, Bubble Beam
-- **Seaking** Lv28 — Waterfall, Mud-Slap, Air Slash, Iron Head
-- **Seadra** Lv28 — Scald, Air Slash, Flash Cannon, Aurora Beam
-- **Palafin** Lv28 — Liquidation, Fire Fang, Knock Off, Drain Punch
+- **Araquanid** Lv27 — Liquidation, X-Scissor, Giga Drain, Icy Wind
+- **Poliwhirl** Lv28 — Liquidation, Ice Punch, Brick Break, Dig
+- **Cloyster** Lv28 — Liquidation, Icicle Crash, Rock Blast, Water Gun
+- **Seaking** Lv28 — Waterfall, Icy Wind, Scald, Fury Attack
+- **Seadra** Lv28 — Bubble Beam, Flash Cannon, Icy Wind, Water Gun
+- **Palafin** Lv28 — Liquidation, Ice Punch, Drain Punch, Iron Head
 
 ### ROCKER LUCA  *(trainer #654)*
-- **Electrode** Lv32 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Electrode** Lv33 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Electrode** Lv33 — Thunderbolt, Muddy Water, Gyro Ball, Spark
-- **Electabuzz** Lv33 — Thunderbolt, Cross Chop, Muddy Water, Iron Tail
+- **Electrode** Lv32 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv33 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv33 — Thunderbolt, Foul Play, Gyro Ball, ThunderShock
+- **Electabuzz** Lv33 — Thunderbolt, Knock Off, Brick Break, Ice Punch
 
 ### BEAUTY SHEILA  *(trainer #655)*
-- **FluterMane** Lv48 — Shadow Ball, Moonblast, Heat Wave, Dark Pulse
-- **Clefairy** Lv49 — Moonblast, Power Whip, Dig, Blizzard
-- **Persian** Lv49 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Pyroar** Lv49 — Fire Blast, Hyper Voice, Air Slash, Iron Tail
-- **Grimmsnarl** Lv49 — Foul Play, Play Rough, Brick Break, Aqua Tail
+- **FluterMane** Lv48 — Shadow Ball, Moonblast, Dark Pulse, Energy Ball
+- **Clefairy** Lv49 — Moonblast, Dig, Blizzard, Thunder
+- **Persian** Lv49 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Pyroar** Lv49 — Fire Blast, Hyper Voice, Mud-Slap, Wild Charge
+- **Grimmsnarl** Lv49 — Foul Play, Play Rough, Ice Punch, ThunderPunch
 
 ### BIRD KEEPER ROBERT  *(trainer #656)*
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Pidgeotto** Lv28 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Fearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Fearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Zangoose** Lv28 — Body Slam, Aerial Ace, Metal Claw, Giga Drain
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Pidgeotto** Lv28 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Fearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Fearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Zangoose** Lv28 — Body Slam, Aerial Ace, Metal Claw, Seed Bomb
 
 ### BIRD KEEPER ROBERT  *(trainer #657)*
-- **Porygon-Z** Lv46 — Body Slam, Seed Bomb, Blizzard, Thunder
-- **Pidgeot** Lv47 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Pidgeot** Lv47 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
+- **Porygon-Z** Lv46 — Double-Edge, Blizzard, Thunder, Dark Pulse
+- **Pidgeot** Lv47 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Pidgeot** Lv47 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
 - **Aerodactyl** Lv47 — Stone Edge, Wing Attack, Iron Tail, Earthquake
 
 ### PICNICKER SUSIE  *(trainer #658)*
-- **Pidgeotto** Lv27 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Meowth** Lv27 — Slash, Night Slash, Aerial Ace, Dig
-- **Raticate** Lv27 — Tackle, Dig, Flame Wheel, Crunch
-- **Pikachu** Lv27 — ThunderPunch, Brick Break, Dig, ThunderShock
-- **Meowth** Lv27 — Slash, Night Slash, Aerial Ace, Dig
-- **Greedent** Lv27 — Body Slam, Gyro Ball, Dig, Rock Blast
+- **Pidgeotto** Lv27 — Tackle, Wing Attack, Air Slash, FeatherDance
+- **Meowth** Lv27 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Raticate** Lv27 — Tackle, Dig, Crunch, Bite
+- **Pikachu** Lv27 — ThunderPunch, Knock Off, Brick Break, Dig
+- **Meowth** Lv27 — Body Slam, Night Slash, Aerial Ace, Metal Claw
+- **Greedent** Lv27 — Body Slam, Gyro Ball, Seed Bomb, Dig
 
 ### PICNICKER SUSIE  *(trainer #659)*
-- **Pidgeotto** Lv47 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Persian** Lv47 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Raticate** Lv47 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Pikachu** Lv47 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Persian** Lv47 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Arboliva** Lv47 — Energy Ball, Tackle, Earth Power, Power Gem
+- **Pidgeotto** Lv47 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Persian** Lv47 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Raticate** Lv47 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Pikachu** Lv47 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Persian** Lv47 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Arboliva** Lv47 — Energy Ball, Hyper Voice, Earth Power, Mega Drain
 
 ### PICNICKER SUSIE  *(trainer #660)*
-- **Pidgeot** Lv52 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Persian** Lv52 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Raticate** Lv52 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Raichu** Lv52 — Thunder, Brick Break, Surf, Iron Tail
-- **Persian** Lv52 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Fearow** Lv52 — Return, Drill Peck, Steel Wing, Play Rough
+- **Pidgeot** Lv52 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Persian** Lv52 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Raticate** Lv52 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Raichu** Lv52 — Thunder, Play Rough, Knock Off, Brick Break
+- **Persian** Lv52 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Fearow** Lv52 — Drill Peck, Aerial Ace, Drill Run, Roost
 
 ### BIKER LUKAS  *(trainer #661)*
-- **Amoonguss** Lv46 — Energy Ball, Sludge Bomb, Muddy Water, Hurricane
-- **Koffing** Lv47 — Sludge Wave, Icy Wind, Thunder, Fire Blast
-- **Koffing** Lv47 — Sludge Wave, Icy Wind, Thunder, Fire Blast
-- **Muk** Lv47 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
-- **Weezing** Lv47 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **IronMoth** Lv47 — Fire Blast, Sludge Wave, Energy Ball, Ice Punch
+- **Amoonguss** Lv46 — Seed Bomb, Sludge Bomb, Foul Play, Mega Drain
+- **Koffing** Lv47 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Koffing** Lv47 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Muk** Lv47 — Gunk Shot, Knock Off, Brick Break, Giga Drain
+- **Weezing** Lv47 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **IronMoth** Lv47 — Fire Blast, Sludge Wave, Energy Ball, Discharge
 
 ### BIRD KEEPER BENNY  *(trainer #662)*
-- **Archen** Lv31 — Stone Edge, Wing Attack, Aqua Tail, Iron Tail
-- **Fearow** Lv32 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv32 — Return, Drill Peck, Steel Wing, Play Rough
-- **Diggersby** Lv32 — Tackle, Earthquake, Wild Charge, Stone Edge
+- **Archen** Lv31 — Stone Edge, Wing Attack, Iron Tail, Earthquake
+- **Fearow** Lv32 — Drill Peck, Aerial Ace, Focus Energy, Agility
+- **Fearow** Lv32 — Drill Peck, Aerial Ace, Focus Energy, Agility
+- **Diggersby** Lv32 — Body Slam, Earthquake, Ice Punch, Wild Charge
 - **Raticate** Lv32 — Tackle, Iron Tail, Dig, Ice Beam
 
 ### BIRD KEEPER BENNY  *(trainer #663)*
-- **Staraptor** Lv48 — Double-Edge, Brave Bird, Close Combat, Hydro Pump
-- **Fearow** Lv49 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv49 — Return, Drill Peck, Steel Wing, Play Rough
+- **Staraptor** Lv48 — Double-Edge, Brave Bird, Close Combat, Heat Wave
+- **Fearow** Lv49 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Fearow** Lv49 — Drill Peck, Aerial Ace, Drill Run, Roost
 - **Aerodactyl** Lv49 — Stone Edge, Wing Attack, Iron Tail, Earthquake
 
 ### BIRD KEEPER MARLON  *(trainer #664)*
-- **Minior** Lv29 — Power Gem, Iron Head, Seed Bomb, Ice Punch
-- **Fearow** Lv30 — Return, Drill Peck, Steel Wing, Play Rough
-- **Doduo** Lv30 — Return, Drill Peck, Crunch, Liquidation
-- **Fearow** Lv30 — Return, Drill Peck, Steel Wing, Play Rough
-- **Audino** Lv30 — Return, Liquidation, Iron Tail, Leaf Blade
-- **Indeedee** Lv30 — Psychic, Return, Knock Off, Drain Punch
+- **Minior** Lv29 — Stone Edge, Iron Head, Earthquake, Rock Tomb
+- **Fearow** Lv30 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Doduo** Lv30 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Fearow** Lv30 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Audino** Lv30 — Body Slam, Surf, Iron Tail, Dig
+- **Indeedee** Lv30 — Psychic, Hyper Voice, Play Rough, Drain Punch
 
 ### BIRD KEEPER MARLON  *(trainer #665)*
-- **Dodrio** Lv47 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Fearow** Lv48 — Return, Drill Peck, Steel Wing, Play Rough
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Fearow** Lv48 — Return, Drill Peck, Steel Wing, Play Rough
-- **Noivern** Lv48 — Hurricane, Dragon Pulse, Brick Break, Iron Tail
-- **Togekiss** Lv48 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
+- **Dodrio** Lv47 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Fearow** Lv48 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Fearow** Lv48 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Noivern** Lv48 — Hurricane, Dragon Pulse, Brick Break, Wild Charge
+- **Togekiss** Lv48 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
 
 ### BEAUTY GRACE  *(trainer #666)*
-- **Ribombee** Lv48 — Bug Buzz, Moonblast, ThunderPunch, Power Gem
-- **Pidgeot** Lv49 — Tackle, Wing Attack, Feint Attack, Close Combat
+- **Ribombee** Lv48 — Bug Buzz, Fairy Wind, DualWingbeat, Energy Ball
+- **Pidgeot** Lv49 — Tackle, Wing Attack, Heat Wave, Air Slash
 - **Wigglytuff** Lv49 — Hyper Voice, Play Rough, Fire Blast, Dark Pulse
-- **Oinkologne** Lv49 — Double-Edge, Iron Tail, Energy Ball, Dig
+- **Oinkologne** Lv49 — Double-Edge, Iron Head, Seed Bomb, Dig
 
 ### BIRD KEEPER CHESTER  *(trainer #667)*
-- **Rufflet** Lv29 — Slash, Wing Attack, Steel Wing, Rock Slide
-- **Dodrio** Lv30 — Return, Drill Peck, Feint Attack, Liquidation
-- **Dodrio** Lv30 — Return, Drill Peck, Feint Attack, Liquidation
-- **Doduo** Lv30 — Return, Drill Peck, Crunch, Liquidation
-- **Pelipper** Lv30 — Surf, Wing Attack, Steel Wing, Ice Beam
-- **Masquerain** Lv30 — Bug Buzz, Air Slash, Ice Beam, Surf
+- **Rufflet** Lv29 — Body Slam, Wing Attack, Rock Slide, Heat Wave
+- **Dodrio** Lv30 — Body Slam, Drill Peck, Knock Off, Mud-Slap
+- **Dodrio** Lv30 — Body Slam, Drill Peck, Knock Off, Mud-Slap
+- **Doduo** Lv30 — Body Slam, Drill Peck, Mud-Slap, Knock Off
+- **Pelipper** Lv30 — Surf, Air Slash, Seed Bomb, Ice Beam
+- **Masquerain** Lv30 — Bug Buzz, Air Slash, Mud-Slap, Ice Beam
 
 ### BIRD KEEPER CHESTER  *(trainer #668)*
-- **Talonflame** Lv47 — Flare Blitz, Brave Bird, Hydro Pump, Steel Wing
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Dodrio** Lv48 — Double-Edge, Drill Peck, Flare Blitz, Feint Attack
-- **Bewear** Lv48 — Double-Edge, Superpower, Play Rough, Liquidation
-- **Pyroar** Lv48 — Fire Blast, Hyper Voice, Air Slash, Iron Tail
+- **Talonflame** Lv47 — Flare Blitz, Brave Bird, Steel Wing, Ember
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Dodrio** Lv48 — Double-Edge, Brave Bird, Knock Off, Mud-Slap
+- **Bewear** Lv48 — Double-Edge, Close Combat, Iron Head, Earthquake
+- **Pyroar** Lv48 — Fire Blast, Hyper Voice, Mud-Slap, Wild Charge
 
 ### PICNICKER BECKY  *(trainer #669)*
-- **Togedemaru** Lv31 — Wild Charge, Iron Tail, Rock Blast, Fire Punch
-- **Pikachu** Lv32 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Raichu** Lv32 — Thunderbolt, Brick Break, Surf, Iron Tail
-- **Eelektrik** Lv32 — Wild Charge, Iron Tail, Giga Drain, Icy Wind
-- **Dedenne** Lv32 — Thunderbolt, Play Rough, Foul Play, Aura Sphere
+- **Togedemaru** Lv31 — Wild Charge, Iron Tail, ThunderShock, Spark
+- **Pikachu** Lv32 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Raichu** Lv32 — Thunderbolt, Play Rough, Knock Off, Brick Break
+- **Eelektrik** Lv32 — Wild Charge, Flash Cannon, Giga Drain, Crunch
+- **Dedenne** Lv32 — Thunderbolt, Play Rough, Seed Bomb, Dig
 
 ### PICNICKER BECKY  *(trainer #670)*
-- **Zebstrika** Lv48 — Wild Charge, Spark, Thunderbolt, Thunder
-- **Pikachu** Lv49 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Raichu** Lv49 — Thunder, Brick Break, Surf, Iron Tail
-- **Bellibolt** Lv49 — Thunder, Earth Power, Sucker Punch, Muddy Water
-- **Vikavolt** Lv49 — Bug Buzz, Thunder, Hydro Pump, Air Slash
+- **Zebstrika** Lv48 — Wild Charge, Bulldoze, Spark, Thunderbolt
+- **Pikachu** Lv49 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Raichu** Lv49 — Thunder, Play Rough, Knock Off, Brick Break
+- **Bellibolt** Lv49 — Thunder, Mud-Slap, Sucker Punch, Muddy Water
+- **Vikavolt** Lv49 — Bug Buzz, Thunder, Air Slash, Flash Cannon
 
 ### PICNICKER BECKY  *(trainer #671)*
 - **Magnezone** Lv53 — Thunder, Flash Cannon, ThunderShock, Spark
-- **Raichu** Lv54 — Thunder, Brick Break, Surf, Iron Tail
-- **Raichu** Lv54 — Thunder, Brick Break, Surf, Iron Tail
-- **Jolteon** Lv54 — Thunder, Air Slash, Iron Tail, Earth Power
+- **Raichu** Lv54 — Thunder, Play Rough, Knock Off, Brick Break
+- **Raichu** Lv54 — Thunder, Play Rough, Knock Off, Brick Break
+- **Jolteon** Lv54 — Thunder, Bite, Mud-Slap, ThunderShock
 
 ### CRUSH KIN RON & MYA  *(trainer #672)*
-- **Grapploct** Lv32 — Brick Break, Foul Play, Liquidation, Iron Head
+- **Grapploct** Lv32 — Brick Break, Liquidation, Dig, Ice Punch
 - **Hitmonchan** Lv33  @Black Belt — Sky Uppercut, Earthquake, Ice Punch, ThunderPunch
-- **Hitmonlee** Lv33  @Black Belt — Brick Break, Bullet Punch, Earthquake, Icy Wind
-- **Grapploct** Lv33 — Brick Break, Foul Play, Liquidation, Iron Head
-- **Toxicroak** Lv33 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
+- **Hitmonlee** Lv33  @Black Belt — Brick Break, Earthquake, Stone Edge, Sucker Punch
+- **Grapploct** Lv33 — Brick Break, Liquidation, Dig, Ice Punch
+- **Toxicroak** Lv33 — Poison Jab, Brick Break, Stone Edge, Foul Play
 
 ### CRUSH KIN RON & MYA  *(trainer #673)*
-- **Scrafty** Lv50 — Crunch, Close Combat, Ice Punch, ThunderPunch
+- **Scrafty** Lv50 — Foul Play, Close Combat, Ice Punch, ThunderPunch
 - **Hitmonchan** Lv51  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
-- **Hitmonlee** Lv51  @Black Belt — Close Combat, Bullet Punch, Earthquake, Icy Wind
-- **Conkeldurr** Lv51 — Superpower, Earthquake, ThunderPunch, Stone Edge
-- **Poliwrath** Lv51 — Waterfall, Brick Break, Rock Slide, Fire Punch
+- **Hitmonlee** Lv51  @Black Belt — Close Combat, Earthquake, Stone Edge, Sucker Punch
+- **Conkeldurr** Lv51 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Poliwrath** Lv51 — Liquidation, Close Combat, Rock Slide, Knock Off
 
 ### CRUSH KIN RON & MYA  *(trainer #674)*
-- **Flamigo** Lv55 — Brave Bird, Superpower, Fire Fang, Play Rough
+- **Flamigo** Lv55 — Brave Bird, Close Combat, Liquidation, Wing Attack
 - **Hitmonchan** Lv56  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
-- **Hitmonlee** Lv56  @Black Belt — Close Combat, Bullet Punch, Earthquake, Icy Wind
-- **Bewear** Lv56 — Double-Edge, Superpower, Play Rough, Liquidation
-- **Machamp** Lv56 — Cross Chop, Muddy Water, Bullet Punch, Leaf Storm
+- **Hitmonlee** Lv56  @Black Belt — Close Combat, Earthquake, Stone Edge, Sucker Punch
+- **Bewear** Lv56 — Double-Edge, Close Combat, Iron Head, Earthquake
+- **Machamp** Lv56 — Close Combat, Earthquake, Ice Punch, ThunderPunch
 
 ### BIKER RUBEN  *(trainer #675)*
-- **Grafaiai** Lv47 — Gunk Shot, Slash, Knock Off, Liquidation
-- **Weezing** Lv48 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Weezing** Lv48 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Weezing** Lv48 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Victreebel** Lv48 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Toxicroak** Lv48 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
+- **Grafaiai** Lv47 — Gunk Shot, Double-Edge, Foul Play, Dig
+- **Weezing** Lv48 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Weezing** Lv48 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Weezing** Lv48 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Victreebel** Lv48 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Toxicroak** Lv48 — Gunk Shot, Close Combat, Stone Edge, Foul Play
 
 ### CUE BALL CAMRON  *(trainer #676)*
-- **Emboar** Lv48 — Flare Blitz, Superpower, Wild Charge, Stone Edge
-- **Primeape** Lv49 — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Machoke** Lv49 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Emboar** Lv49 — Flare Blitz, Superpower, Wild Charge, Stone Edge
+- **Emboar** Lv48 — Flare Blitz, Close Combat, Wild Charge, Stone Edge
+- **Primeape** Lv49 — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Machoke** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Emboar** Lv49 — Flare Blitz, Close Combat, Wild Charge, Stone Edge
 
 ### BIKER JAXON  *(trainer #677)*
 - **Drapion** Lv48 — Poison Jab, Crunch, Rock Slide, Fire Fang
-- **Weezing** Lv49 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Muk** Lv49 — Gunk Shot, Dark Pulse, Brick Break, Giga Drain
-- **Swalot** Lv49 — Gunk Shot, Iron Head, Giga Drain, Earthquake
-- **Garbodor** Lv49 — Gunk Shot, Giga Drain, Thunderbolt, Rock Blast
+- **Weezing** Lv49 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Muk** Lv49 — Gunk Shot, Knock Off, Brick Break, Giga Drain
+- **Swalot** Lv49 — Gunk Shot, Seed Bomb, Earthquake, Ice Punch
+- **Garbodor** Lv49 — Gunk Shot, Metal Claw, Seed Bomb, Thunderbolt
 
 ### CUE BALL ISAIAH  *(trainer #678)*
-- **Annihilape** Lv48 — Close Combat, PhantomForce, Aqua Tail, Aerial Ace
-- **Machoke** Lv49 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machamp** Lv49 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Annihilape** Lv49 — Close Combat, PhantomForce, Aqua Tail, Aerial Ace
-- **SlithrWing** Lv49 — U-turn, Close Combat, Crunch, Liquidation
+- **Annihilape** Lv48 — Close Combat, PhantomForce, Seed Bomb, Earthquake
+- **Machoke** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machamp** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Annihilape** Lv49 — Close Combat, PhantomForce, Seed Bomb, Earthquake
+- **SlithrWing** Lv49 — Leech Life, Close Combat, Aerial Ace, Giga Drain
 
 ### CUE BALL COREY  *(trainer #679)*
 - **IronHands** Lv48 — Close Combat, Wild Charge, Iron Head, Earthquake
-- **Primeape** Lv49 — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Machamp** Lv49 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
+- **Primeape** Lv49 — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Machamp** Lv49 — Close Combat, Earthquake, Ice Punch, ThunderPunch
 - **IronHands** Lv49 — Close Combat, Wild Charge, Iron Head, Earthquake
-- **Kommo-o** Lv49 — Outrage, Close Combat, Hydro Pump, Aerial Ace
+- **Kommo-o** Lv49 — Outrage, Close Combat, Aerial Ace, Iron Head
 
 ### BIRD KEEPER JACOB  *(trainer #680)*
-- **Minior** Lv27 — Power Gem, Iron Head, Seed Bomb, Ice Punch
-- **Fearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Spearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Fearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Spearow** Lv28 — Return, Drill Peck, Steel Wing, Feint Attack
-- **Bibarel** Lv28 — Tackle, Liquidation, Air Slash, Dig
+- **Minior** Lv27 — Rock Slide, Iron Head, Bulldoze, Rock Tomb
+- **Fearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Spearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Fearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Spearow** Lv28 — Drill Peck, Aerial Ace, Agility, Assurance
+- **Bibarel** Lv28 — Tackle, Liquidation, Bulldoze, Icy Wind
 
 ### BIRD KEEPER JACOB  *(trainer #681)*
 - **Lopunny** Lv46 — Return, Ice Punch, ThunderPunch, Fire Punch
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
-- **Fearow** Lv47 — Return, Drill Peck, Steel Wing, Play Rough
-- **Bombirdier** Lv47 — Brave Bird, Foul Play, Power Whip, Ice Punch
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Fearow** Lv47 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Bombirdier** Lv47 — Brave Bird, Foul Play, Icy Wind, Stone Edge
 
 ### SWIMMER? ALICE  *(trainer #682)*
-- **Wailord** Lv48 — Waterfall, Rock Tomb, Earthquake, Avalanche
-- **Seaking** Lv49 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Seaking** Lv49 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Dracovish** Lv49 — Waterfall, Dragon Rush, Power Whip, Earthquake
-- **Seismitoad** Lv49 — Hydro Pump, Earthquake, ThunderPunch, Rock Slide
+- **Wailord** Lv48 — Liquidation, Rock Tomb, Iron Head, Earthquake
+- **Seaking** Lv49 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Seaking** Lv49 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Dracovish** Lv49 — Liquidation, Outrage, Iron Head, Earthquake
+- **Seismitoad** Lv49 — Liquidation, Earthquake, Rock Slide, Brick Break
 
 ### SWIMMER? DARRIN  *(trainer #683)*
-- **Veluza** Lv51 — Liquidation, Psychic, Power Gem, Fire Fang
-- **Seadra** Lv52 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Seadra** Lv52 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Seadra** Lv52 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Seadra** Lv52 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Empoleon** Lv52 — Hydro Pump, Flash Cannon, Flare Blitz, Brick Break
+- **Veluza** Lv51 — Liquidation, Zen Headbutt, Crunch, Blizzard
+- **Seadra** Lv52 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Seadra** Lv52 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Seadra** Lv52 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Seadra** Lv52 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Empoleon** Lv52 — Hydro Pump, Flash Cannon, Knock Off, Brick Break
 
 ### PICNICKER MISSY  *(trainer #684)*
-- **Seismitoad** Lv48 — Hydro Pump, Earthquake, ThunderPunch, Rock Slide
-- **Seaking** Lv49 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Seaking** Lv49 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Relicanth** Lv49 — Waterfall, Stone Edge, Earthquake, Blizzard
-- **Vaporeon** Lv49 — Hydro Pump, Flare Blitz, Knock Off, Aura Sphere
+- **Seismitoad** Lv48 — Liquidation, Earthquake, Rock Slide, Brick Break
+- **Seaking** Lv49 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Seaking** Lv49 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Relicanth** Lv49 — Aqua Tail, Stone Edge, Earthquake, Blizzard
+- **Vaporeon** Lv49 — Hydro Pump, Bite, Mud-Slap, Blizzard
 
 ### PICNICKER MISSY  *(trainer #685)*
 - **Golisopod** Lv53 — X-Scissor, Liquidation, Blizzard, Rock Slide
-- **Seaking** Lv54 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Seaking** Lv54 — Aqua Tail, Earth Power, Blizzard, Brave Bird
+- **Seaking** Lv54 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Seaking** Lv54 — Waterfall, Blizzard, Surf, Hydro Pump
 - **Primarina** Lv54 — Hydro Pump, Moonblast, Energy Ball, Blizzard
-- **Inteleon** Lv54 — Hydro Pump, Dark Pulse, Blizzard, Water Gun
+- **Inteleon** Lv54 — Hydro Pump, Dark Pulse, Air Slash, Blizzard
 
 ### FISHERMAN WADE  *(trainer #686)*
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
-- **Magikarp** Lv47 — Liquidation, Icy Wind, Flail, Tackle
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
+- **Magikarp** Lv47 — Flail, Tackle, Splash, Flail
 
 ### SWIMMER? JACK  *(trainer #687)*
 - **Golisopod** Lv49 — X-Scissor, Liquidation, Blizzard, Rock Slide
 - **Starmie** Lv50 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Beheeyem** Lv50 — Psychic, Energy Ball, Earth Power, Thunderbolt
-- **Slowbro** Lv50 — Surf, Future Sight, Air Slash, Iron Tail
+- **Beheeyem** Lv50 — Future Sight, Energy Ball, Thunderbolt, Rock Slide
+- **Slowbro** Lv50 — Hydro Pump, Future Sight, Earthquake, Blizzard
 
 ### SIS AND BRO LIL & IAN  *(trainer #688)*
-- **Quaquaval** Lv49 — Liquidation, Close Combat, Wing Attack, Steel Wing
-- **Seadra** Lv50 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
+- **Quaquaval** Lv49 — Liquidation, Close Combat, Knock Off, Brave Bird
+- **Seadra** Lv50 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
 - **Starmie** Lv50 — Hydro Pump, Psychic, Blizzard, Thunder
-- **IronBundle** Lv50 — Blizzard, Hydro Pump, Drill Peck, Steel Wing
-- **Alomomola** Lv50 — Waterfall, Power Whip, Blizzard, Fire Fang
+- **IronBundle** Lv50 — Blizzard, Hydro Pump, Air Cutter, Play Rough
+- **Alomomola** Lv50 — Liquidation, Blizzard, Play Rough, Surf
 
 ### SIS AND BRO LIL & IAN  *(trainer #689)*
-- **Slowbro** Lv54 — Surf, Future Sight, Air Slash, Iron Tail
-- **Seadra** Lv55 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
+- **Slowbro** Lv54 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Seadra** Lv55 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
 - **Starmie** Lv55 — Hydro Pump, Psychic, Blizzard, Thunder
-- **IronBundle** Lv55 — Blizzard, Hydro Pump, Drill Peck, Steel Wing
+- **IronBundle** Lv55 — Blizzard, Hydro Pump, Air Cutter, Play Rough
 - **Armarouge** Lv55 — Fire Blast, Psychic, Flash Cannon, Energy Ball
 
 ### SWIMMER? FINN  *(trainer #690)*
-- **Metagross** Lv49 — Meteor Mash, Zen Headbutt, Play Rough, Close Combat
+- **Metagross** Lv49 — Meteor Mash, Zen Headbutt, Knock Off, Brick Break
 - **Starmie** Lv50 — Hydro Pump, Psychic, Blizzard, Thunder
-- **Gastrodon** Lv50 — Surf, Mud Bomb, Iron Head, Blizzard
+- **Gastrodon** Lv50 — Hydro Pump, Earth Power, Blizzard, AncientPower
 
 ### CRUSH GIRL SHARON  *(trainer #691)*
-- **Annihilape** Lv49 — Close Combat, PhantomForce, Aqua Tail, Aerial Ace
-- **Mankey** Lv50  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv50  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Sneasler** Lv50 — Poison Jab, Close Combat, Aerial Ace, Iron Tail
-- **Primeape** Lv50 — Close Combat, Aerial Ace, Iron Tail, Earthquake
+- **Annihilape** Lv49 — Close Combat, PhantomForce, Seed Bomb, Earthquake
+- **Mankey** Lv50  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv50  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Sneasler** Lv50 — Gunk Shot, Close Combat, Aerial Ace, Metal Claw
+- **Primeape** Lv50 — Close Combat, Seed Bomb, Earthquake, Ice Punch
 
 ### CRUSH GIRL SHARON  *(trainer #692)*
-- **Toxicroak** Lv54 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
-- **Primeape** Lv55  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Primeape** Lv55  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Kommo-o** Lv55 — Outrage, Close Combat, Hydro Pump, Aerial Ace
+- **Toxicroak** Lv54 — Gunk Shot, Close Combat, Stone Edge, Foul Play
+- **Primeape** Lv55  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Primeape** Lv55  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Kommo-o** Lv55 — Outrage, Close Combat, Aerial Ace, Iron Head
 - **Passimian** Lv55 — Close Combat, Seed Bomb, Earthquake, Rock Slide
 
 ### CRUSH GIRL TANYA  *(trainer #693)*
-- **Throh** Lv49 — Close Combat, Stone Edge, Foul Play, Aqua Tail
-- **Hitmonlee** Lv50  @Black Belt — Close Combat, Bullet Punch, Earthquake, Icy Wind
+- **Throh** Lv49 — Superpower, Stone Edge, Fire Punch, Earthquake
+- **Hitmonlee** Lv50  @Black Belt — Close Combat, Earthquake, Stone Edge, Sucker Punch
 - **Hitmonchan** Lv50  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
-- **Samurott** Lv50 — Hydro Pump, Brick Break, Night Slash, Air Slash
+- **Samurott** Lv50 — Hydro Pump, Brick Break, Knock Off, Air Slash
 
 ### CRUSH GIRL TANYA  *(trainer #694)*
-- **Hawlucha** Lv54 — Cross Chop, Wing Attack, Muddy Water, Steel Wing
-- **Hitmonlee** Lv55  @Black Belt — Close Combat, Bullet Punch, Earthquake, Icy Wind
+- **Hawlucha** Lv54 — Close Combat, Brave Bird, Iron Head, Dig
+- **Hitmonlee** Lv55  @Black Belt — Close Combat, Earthquake, Stone Edge, Sucker Punch
 - **Hitmonchan** Lv55  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
-- **Heracross** Lv55 — Megahorn, Close Combat, Iron Head, Power Whip
-- **Bewear** Lv55 — Double-Edge, Superpower, Play Rough, Liquidation
+- **Heracross** Lv55 — Megahorn, Close Combat, Earthquake, Stone Edge
+- **Bewear** Lv55 — Double-Edge, Close Combat, Iron Head, Earthquake
 
 ### BLACK BELT SHEA  *(trainer #695)*
-- **Crabminble** Lv49 — Close Combat, Ice Punch, Earthquake, ThunderPunch
-- **Machoke** Lv50  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machoke** Lv50  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **GreatTusk** Lv50 — Earthquake, Close Combat, Icy Wind, Stone Edge
+- **Crabminble** Lv49 — Close Combat, Ice Punch, Iron Head, Earthquake
+- **Machoke** Lv50  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machoke** Lv50  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **GreatTusk** Lv50 — Earthquake, Close Combat, Stone Edge, Fire Fang
 - **IronHands** Lv50 — Close Combat, Wild Charge, Iron Head, Earthquake
 
 ### BLACK BELT SHEA  *(trainer #696)*
-- **Poliwrath** Lv54 — Waterfall, Brick Break, Rock Slide, Fire Punch
-- **Machoke** Lv55  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machamp** Lv55  @Black Belt — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Sirfetch'd** Lv55 — Brick Break, Crunch, Brave Bird, Iron Head
-- **Mienshao** Lv55 — Superpower, Stone Edge, Fire Fang, Knock Off
+- **Poliwrath** Lv54 — Liquidation, Close Combat, Rock Slide, Knock Off
+- **Machoke** Lv55  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machamp** Lv55  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Sirfetch'd** Lv55 — Close Combat, Knock Off, Brave Bird, Steel Wing
+- **Mienshao** Lv55 — Close Combat, Stone Edge, Knock Off, Aerial Ace
 
 ### BLACK BELT HUGH  *(trainer #697)*
-- **Pawmot** Lv49 — Wild Charge, Close Combat, Fire Fang, Play Rough
-- **Machoke** Lv50  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machoke** Lv50  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Hitmonlee** Lv50 — Close Combat, Bullet Punch, Earthquake, Icy Wind
-- **Hitmontop** Lv50 — Close Combat, Aerial Ace, Bullet Punch, Earthquake
+- **Pawmot** Lv49 — Wild Charge, Close Combat, Fire Punch, Play Rough
+- **Machoke** Lv50  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machoke** Lv50  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Hitmonlee** Lv50 — Close Combat, Earthquake, Stone Edge, Sucker Punch
+- **Hitmontop** Lv50 — Close Combat, Aerial Ace, Gyro Ball, Earthquake
 
 ### BLACK BELT HUGH  *(trainer #698)*
-- **Beartic** Lv54 — Icicle Crash, Superpower, Surf, Aerial Ace
-- **Machoke** Lv55  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machamp** Lv55  @Black Belt — Cross Chop, Muddy Water, Bullet Punch, Earthquake
+- **Beartic** Lv54 — Icicle Crash, Close Combat, Liquidation, Aerial Ace
+- **Machoke** Lv55  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machamp** Lv55  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
 - **Lucario** Lv55 — Aura Sphere, Flash Cannon, Aerial Ace, Earthquake
 
 ### CRUSH KIN MIK & KIA  *(trainer #699)*
 - **Passimian** Lv50 — Close Combat, Seed Bomb, Earthquake, Rock Slide
-- **Machoke** Lv51  @Black Belt — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Primeape** Lv51  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Samurott** Lv51 — Hydro Pump, Brick Break, Night Slash, Air Slash
-- **Chesnaught** Lv51 — Seed Bomb, Brick Break, Knock Off, Aerial Ace
+- **Machoke** Lv51  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Primeape** Lv51  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Samurott** Lv51 — Hydro Pump, Brick Break, Knock Off, Air Slash
+- **Chesnaught** Lv51 — Seed Bomb, Close Combat, Crunch, Aerial Ace
 
 ### CRUSH KIN MIK & KIA  *(trainer #700)*
-- **Infernape** Lv55 — Flare Blitz, Close Combat, Icy Wind, ThunderPunch
-- **Machamp** Lv56  @Black Belt — Cross Chop, Muddy Water, Bullet Punch, Leaf Storm
-- **Primeape** Lv56  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Quaquaval** Lv56 — Liquidation, Close Combat, Wing Attack, Steel Wing
-- **Annihilape** Lv56 — Close Combat, PhantomForce, Aqua Tail, Aerial Ace
+- **Infernape** Lv55 — Flare Blitz, Close Combat, ThunderPunch, Stone Edge
+- **Machamp** Lv56  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Primeape** Lv56  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Quaquaval** Lv56 — Liquidation, Close Combat, Knock Off, Brave Bird
+- **Annihilape** Lv56 — Close Combat, PhantomForce, Seed Bomb, Earthquake
 
 ### TUBER AMIRA  *(trainer #701)*
-- **Dondozo** Lv46 — Aqua Tail, Rock Slide, Close Combat, Iron Tail
-- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Baraskewda** Lv47 — Liquidation, Seed Bomb, Blizzard, Fire Fang
-- **Kabutops** Lv47 — Stone Edge, Liquidation, Aerial Ace, Giga Drain
+- **Dondozo** Lv46 — Aqua Tail, Rock Slide, Crunch, Earthquake
+- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Poliwhirl** Lv47 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Baraskewda** Lv47 — Liquidation, Blizzard, Crunch, Close Combat
+- **Kabutops** Lv47 — Stone Edge, Liquidation, Giga Drain, Dig
 
 ### TWINS JOY & MEG  *(trainer #702)*
-- **Togekiss** Lv48 — Air Slash, Aura Sphere, Steel Wing, Fire Blast
-- **Clefairy** Lv49 — Moonblast, Power Whip, Dig, Blizzard
-- **Clefairy** Lv49 — Moonblast, Power Whip, Dig, Blizzard
-- **Gardevoir** Lv49 — Future Sight, Moonblast, Energy Ball, Thunderbolt
-- **Sylveon** Lv49 — Moonblast, Flare Blitz, Brave Bird, Iron Tail
+- **Togekiss** Lv48 — Fairy Wind, Air Slash, Aura Sphere, Steel Wing
+- **Clefairy** Lv49 — Moonblast, Dig, Blizzard, Thunder
+- **Clefairy** Lv49 — Moonblast, Dig, Blizzard, Thunder
+- **Gardevoir** Lv49 — Future Sight, Moonblast, Energy Ball, Icy Wind
+- **Sylveon** Lv49 — Moonblast, Bite, Mud-Slap, Fairy Wind
 
 ### PAINTER RAYNA  *(trainer #703)*
-- **Stoutland** Lv53 — Body Slam, Aerial Ace, Iron Head, Dig
-- **Smeargle** Lv54 — Icy Wind, ThunderPunch, Power Gem, Sketch
-- **Exploud** Lv54 — Return, Earthquake, Avalanche, Rock Slide
-- **Oranguru** Lv54 — Body Slam, Future Sight, Energy Ball, Earthquake
+- **Stoutland** Lv53 — Tackle, Iron Head, Dig, Wild Charge
+- **Smeargle** Lv54 — Sketch, Sketch, Sketch, Sketch
+- **Exploud** Lv54 — Body Slam, Earthquake, Ice Punch, ThunderPunch
+- **Oranguru** Lv54 — Hyper Voice, Future Sight, Energy Ball, Earthquake
 
 ### YOUNGSTER DESTIN  *(trainer #704)*
-- **Ambipom** Lv52 — Return, Aerial Ace, Iron Tail, Dig
-- **Raticate** Lv53 — Double-Edge, Iron Tail, Power Whip, Dig
-- **Pidgeot** Lv53 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Cyclizar** Lv53 — Dragon Rush, Double-Edge, Foul Play, Aqua Tail
+- **Ambipom** Lv52 — Double-Edge, Aerial Ace, Seed Bomb, Dig
+- **Raticate** Lv53 — Double-Edge, Iron Tail, Dig, Blizzard
+- **Pidgeot** Lv53 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Cyclizar** Lv53 — Outrage, Double-Edge, Crunch, Aqua Tail
 
 ### ?? BREEDER ALIZE  *(trainer #705)*
-- **Slowbro** Lv52 — Surf, Future Sight, Air Slash, Iron Tail
-- **Pikachu** Lv53 — Wild Charge, Brick Break, Surf, Iron Tail
-- **Clefairy** Lv53 — Moonblast, Power Whip, Dig, Blizzard
-- **Marill** Lv53 — Aqua Tail, Play Rough, Foul Play, Superpower
-- **Alcremie** Lv53 — Energy Ball, Earth Power, Drain Punch, Giga Drain
-- **Tinkaton** Lv53 — Play Rough, Metal Claw, Muddy Water, Bulldoze
+- **Slowbro** Lv52 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Pikachu** Lv53 — Wild Charge, Play Rough, Knock Off, Brick Break
+- **Clefairy** Lv53 — Moonblast, Dig, Blizzard, Thunder
+- **Marill** Lv53 — Aqua Tail, Play Rough, Knock Off, Superpower
+- **Alcremie** Lv53 — Play Rough, Energy Ball, Drain Punch, Giga Drain
+- **Tinkaton** Lv53 — Play Rough, Metal Claw, Bulldoze, Stone Edge
 
 ### YOUNG COUPLE GIA & JES  *(trainer #706)*
 - **Nidorino** Lv29 — Poison Jab, Iron Tail, Dig, Ice Beam
-- **Nidorina** Lv30 — Poison Jab, Crunch, Liquidation, Aerial Ace
+- **Nidorina** Lv30 — Poison Jab, Crunch, Iron Tail, Dig
 - **Nidorino** Lv30 — Poison Jab, Iron Tail, Dig, Ice Beam
-- **Swalot** Lv30 — Poison Jab, Iron Head, Giga Drain, Earthquake
+- **Swalot** Lv30 — Poison Jab, Seed Bomb, Earthquake, Ice Punch
 
 ### YOUNG COUPLE GIA & JES  *(trainer #707)*
-- **Weezing** Lv54 — Sludge Wave, Thunder, Fire Fang, Dark Pulse
-- **Nidoking** Lv55 — Poison Jab, Earthquake, Iron Tail, Avalanche
+- **Weezing** Lv54 — Gunk Shot, Thunder, Fire Blast, Dark Pulse
+- **Nidoking** Lv55 — Poison Jab, Earthquake, Iron Tail, Ice Punch
 - **Nidoqueen** Lv55 — Poison Jab, Earthquake, Superpower, Surf
-- **Gliscor** Lv55 — Earthquake, Wing Attack, Iron Tail, Ice Punch
+- **Gliscor** Lv55 — Earthquake, Aerial Ace, Metal Claw, Stone Edge
 - **Toedscruel** Lv55 — Earth Power, Energy Ball, Flash Cannon, Foul Play
 
 ### BIRD KEEPER MILO  *(trainer #708)*
-- **Pidgeotto** Lv53 — Tackle, Wing Attack, Crunch, Steel Wing
-- **Crobat** Lv54 — Cross Poison, Brave Bird, ThunderPunch, Power Gem
-- **Pidgeot** Lv55 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Obstagoon** Lv55 — Night Slash, Double-Edge, Thunder, Heat Wave
+- **Pidgeotto** Lv53 — Tackle, Wing Attack, Air Slash, Hurricane
+- **Crobat** Lv54 — Cross Poison, Brave Bird, Heat Wave, Crunch
+- **Pidgeot** Lv55 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Obstagoon** Lv55 — Night Slash, Double-Edge, ThunderPunch, Fire Punch
 
 ### BIRD KEEPER CHAZ  *(trainer #709)*
-- **Fearow** Lv53 — Return, Drill Peck, Steel Wing, Play Rough
-- **Porygon-Z** Lv54 — Body Slam, Seed Bomb, Blizzard, Thunder
-- **Fearow** Lv55 — Return, Drill Peck, Steel Wing, Play Rough
-- **Gyarados** Lv55 — Aqua Tail, Hurricane, Iron Tail, Earthquake
+- **Fearow** Lv53 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Porygon-Z** Lv54 — Double-Edge, Blizzard, Thunder, Dark Pulse
+- **Fearow** Lv55 — Drill Peck, Aerial Ace, Drill Run, Roost
+- **Gyarados** Lv55 — Aqua Tail, Hurricane, Iron Head, Earthquake
 - **Archeops** Lv55 — Stone Edge, Wing Attack, Iron Tail, Earthquake
 
 ### BIRD KEEPER HAROLD  *(trainer #710)*
-- **Noctowl** Lv53 — Psychic, Air Slash, Steel Wing, Moonblast
+- **Noctowl** Lv53 — Future Sight, Hurricane, Heat Wave, Moonblast
 - **Dragonite** Lv54 — Outrage, Wing Attack, Brick Break, Aqua Tail
-- **Noctowl** Lv55 — Psychic, Air Slash, Steel Wing, Moonblast
-- **Oranguru** Lv55 — Body Slam, Future Sight, Energy Ball, Earthquake
-- **Bronzong** Lv55 — Gyro Ball, Future Sight, Earthquake, Rock Slide
+- **Noctowl** Lv55 — Future Sight, Hurricane, Heat Wave, Moonblast
+- **Oranguru** Lv55 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Bronzong** Lv55 — Iron Head, Zen Headbutt, Earthquake, Rock Slide
 
 ### SWIMMER? NICOLE  *(trainer #711)*
-- **Relicanth** Lv53 — Waterfall, Stone Edge, Earthquake, Blizzard
-- **Marill** Lv54 — Aqua Tail, Play Rough, Foul Play, Superpower
-- **Hatterene** Lv54 — Psychic, Giga Drain, Rock Blast, Flare Blitz
+- **Relicanth** Lv53 — Aqua Tail, Stone Edge, Earthquake, Blizzard
+- **Marill** Lv54 — Aqua Tail, Play Rough, Knock Off, Superpower
+- **Hatterene** Lv54 — Future Sight, Play Rough, Giga Drain, Dark Pulse
 
 ### PSYCHIC JACLYN  *(trainer #712)*
-- **Natu** Lv52 — Future Sight, Hurricane, Steel Wing, Giga Drain
-- **Slowbro** Lv52 — Surf, Future Sight, Air Slash, Iron Tail
-- **Gardevoir** Lv53 — Future Sight, Moonblast, Energy Ball, Thunderbolt
-- **Kadabra** Lv54 — Future Sight, Fire Punch, Crunch, Drain Punch
-- **Orbeetle** Lv54 — Bug Buzz, Psychic, Heat Wave, Foul Play
-- **Gallade** Lv54 — Future Sight, Close Combat, Earthquake, Thunderbolt
+- **Natu** Lv52 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Slowbro** Lv52 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Gardevoir** Lv53 — Future Sight, Moonblast, Energy Ball, Icy Wind
+- **Kadabra** Lv54 — Future Sight, Fire Punch, Foul Play, Drain Punch
+- **Orbeetle** Lv54 — Bug Buzz, Future Sight, Energy Ball, Struggle Bug
+- **Gallade** Lv54 — Zen Headbutt, Close Combat, Earthquake, Ice Punch
 
 ### SWIMMER? SAMIR  *(trainer #713)*
-- **Walrein** Lv54 — Blizzard, Surf, Iron Tail, Leaf Blade
-- **Gyarados** Lv55 — Aqua Tail, Hurricane, Iron Tail, Earthquake
-- **Scyther** Lv55 — X-Scissor, Wing Attack, Flare Blitz, Night Slash
-- **Flamigo** Lv55 — Brave Bird, Superpower, Fire Fang, Play Rough
+- **Walrein** Lv54 — Blizzard, Hydro Pump, Iron Tail, Earthquake
+- **Gyarados** Lv55 — Aqua Tail, Hurricane, Iron Head, Earthquake
+- **Scyther** Lv55 — X-Scissor, Wing Attack, Night Slash, Close Combat
+- **Flamigo** Lv55 — Brave Bird, Close Combat, Liquidation, Wing Attack
 
 ### HIKER EARL  *(trainer #714)*
-- **Kommo-o** Lv53 — Outrage, Close Combat, Hydro Pump, Aerial Ace
-- **Onix** Lv54 — Stone Edge, Earthquake, Ice Punch, Foul Play
-- **Machamp** Lv54 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Pawmot** Lv54 — Wild Charge, Close Combat, Fire Fang, Play Rough
-- **Garganacl** Lv54 — Stone Edge, Brick Break, Muddy Water, Iron Head
+- **Kommo-o** Lv53 — Outrage, Close Combat, Aerial Ace, Iron Head
+- **Onix** Lv54 — Stone Edge, Earthquake, Iron Tail, Rock Throw
+- **Machamp** Lv54 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Pawmot** Lv54 — Wild Charge, Close Combat, Fire Punch, Play Rough
+- **Garganacl** Lv54 — Stone Edge, Brick Break, Iron Head, Earthquake
 
 ### RUIN MANIAC LARRY  *(trainer #715)*
 - **Passimian** Lv53 — Close Combat, Seed Bomb, Earthquake, Rock Slide
-- **Machoke** Lv54 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Machoke** Lv54 — Close Combat, Bullet Punch, Earthquake, Ice Punch
-- **Hawlucha** Lv54 — Cross Chop, Wing Attack, Muddy Water, Steel Wing
-- **Flamigo** Lv54 — Brave Bird, Superpower, Fire Fang, Play Rough
+- **Machoke** Lv54 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Machoke** Lv54 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Hawlucha** Lv54 — Close Combat, Brave Bird, Iron Head, Dig
+- **Flamigo** Lv54 — Brave Bird, Close Combat, Liquidation, Wing Attack
 
 ### POK?MANIAC HECTOR  *(trainer #716)*
-- **Relicanth** Lv54 — Waterfall, Stone Edge, Earthquake, Blizzard
-- **Rhydon** Lv55 — Earthquake, Stone Edge, Fire Punch, Play Rough
-- **Kangaskhan** Lv55 — Double-Edge, Brick Break, Aqua Tail, Aerial Ace
-- **Krookodile** Lv55 — Earthquake, Foul Play, Brick Break, Aqua Tail
-- **Obstagoon** Lv55 — Night Slash, Double-Edge, Thunder, Heat Wave
+- **Relicanth** Lv54 — Aqua Tail, Stone Edge, Earthquake, Blizzard
+- **Rhydon** Lv55 — Earthquake, Stone Edge, Fire Punch, Crunch
+- **Kangaskhan** Lv55 — Double-Edge, Brick Break, Hydro Pump, Iron Tail
+- **Krookodile** Lv55 — Earthquake, Foul Play, Close Combat, Aerial Ace
+- **Obstagoon** Lv55 — Night Slash, Double-Edge, ThunderPunch, Fire Punch
 
 ### PSYCHIC DARIO  *(trainer #717)*
-- **Dudunsprce** Lv55 — Double-Edge, Iron Tail, Power Whip, Earthquake
-- **Girafarig** Lv56 — Tackle, Future Sight, Energy Ball, Earthquake
-- **Slowking** Lv56 — Surf, Future Sight, Brick Break, Iron Tail
-- **Gothitelle** Lv56 — Future Sight, Dark Pulse, Brick Break, Air Slash
+- **Dudunsprce** Lv55 — Double-Edge, Gyro Ball, Earthquake, Blizzard
+- **Girafarig** Lv56 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Slowking** Lv56 — Hydro Pump, Future Sight, Brick Break, Earthquake
+- **Gothitelle** Lv56 — Future Sight, Dark Pulse, Brick Break, Energy Ball
 
 ### PSYCHIC RODETTE  *(trainer #718)*
-- **Oranguru** Lv52 — Body Slam, Future Sight, Energy Ball, Earthquake
-- **Natu** Lv53 — Future Sight, Hurricane, Steel Wing, Giga Drain
-- **Hypno** Lv53 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Hypno** Lv53 — Zen Headbutt, Ice Punch, ThunderPunch, Power Gem
-- **Reuniclus** Lv53 — Future Sight, Hydro Pump, Hurricane, Flash Cannon
-- **Alakazam** Lv53 — Future Sight, Foul Play, Drain Punch, Liquidation
+- **Oranguru** Lv52 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Natu** Lv53 — Future Sight, Air Slash, Steel Wing, Giga Drain
+- **Hypno** Lv53 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Hypno** Lv53 — Zen Headbutt, Ice Punch, ThunderPunch, Fire Punch
+- **Reuniclus** Lv53 — Future Sight, Flash Cannon, Energy Ball, Ice Punch
+- **Alakazam** Lv53 — Future Sight, Foul Play, Drain Punch, Iron Tail
 
 ### JUGGLER MASON  *(trainer #719)*
-- **Electrode** Lv51 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Electrode** Lv52 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Pineco** Lv52 — Bug Bite, Earthquake, Rock Slide, Heat Wave
-- **Electrode** Lv52 — Thunder, Muddy Water, Gyro Ball, Spark
-- **Pineco** Lv52 — Bug Bite, Earthquake, Rock Slide, Heat Wave
-- **Ribombee** Lv52 — Bug Buzz, Moonblast, ThunderPunch, Power Gem
+- **Electrode** Lv51 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Electrode** Lv52 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Pineco** Lv52 — Bug Bite, Dig, Rock Slide, Gyro Ball
+- **Electrode** Lv52 — Thunder, Foul Play, Gyro Ball, ThunderShock
+- **Pineco** Lv52 — Bug Bite, Dig, Rock Slide, Gyro Ball
+- **Ribombee** Lv52 — Bug Buzz, Fairy Wind, DualWingbeat, Energy Ball
 
 ### ?? RANGER NICOLAS  *(trainer #720)*
-- **Crobat** Lv54 — Cross Poison, Brave Bird, ThunderPunch, Power Gem
-- **Victreebel** Lv55 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Victreebel** Lv55 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Torterra** Lv55 — Leaf Blade, Earthquake, Iron Tail, Stone Edge
-- **Serperior** Lv55 — Leaf Blade, Iron Tail, Ice Punch, Crunch
+- **Crobat** Lv54 — Cross Poison, Brave Bird, Heat Wave, Crunch
+- **Victreebel** Lv55 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Victreebel** Lv55 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Torterra** Lv55 — Seed Bomb, Earthquake, Iron Head, Stone Edge
+- **Serperior** Lv55 — Leaf Blade, Knock Off, Aerial Ace, Vine Whip
 
 ### ?? RANGER MADELINE  *(trainer #721)*
-- **Exeggutor** Lv54 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **Vileplume** Lv55 — Energy Ball, Sludge Wave, Air Slash, Earth Power
-- **Vileplume** Lv55 — Energy Ball, Sludge Wave, Air Slash, Earth Power
-- **Victreebel** Lv55 — Power Whip, Poison Jab, Ice Punch, Fire Punch
-- **Toxicroak** Lv55 — Poison Jab, Brick Break, Stone Edge, Sucker Punch
+- **Exeggutor** Lv54 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **Vileplume** Lv55 — Energy Ball, Sludge Wave, Moonblast, Mega Drain
+- **Vileplume** Lv55 — Energy Ball, Sludge Wave, Moonblast, Mega Drain
+- **Victreebel** Lv55 — Power Whip, Poison Jab, Knock Off, Vine Whip
+- **Toxicroak** Lv55 — Gunk Shot, Close Combat, Stone Edge, Foul Play
 
 ### CRUSH GIRL CYNDY  *(trainer #722)*
-- **Chesnaught** Lv53 — Seed Bomb, Brick Break, Knock Off, Aerial Ace
-- **Primeape** Lv54  @Black Belt — Close Combat, Aerial Ace, Iron Tail, Earthquake
-- **Hitmontop** Lv54  @Black Belt — Close Combat, Aerial Ace, Bullet Punch, Earthquake
-- **Machamp** Lv54  @Black Belt — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **SlithrWing** Lv54 — U-turn, Close Combat, Crunch, Liquidation
-- **IronValint** Lv54 — Spirit Break, Close Combat, Thunderbolt, Fire Punch
+- **Chesnaught** Lv53 — Seed Bomb, Close Combat, Crunch, Aerial Ace
+- **Primeape** Lv54  @Black Belt — Close Combat, Seed Bomb, Earthquake, Ice Punch
+- **Hitmontop** Lv54  @Black Belt — Close Combat, Aerial Ace, Gyro Ball, Earthquake
+- **Machamp** Lv54  @Black Belt — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **SlithrWing** Lv54 — Leech Life, Close Combat, Aerial Ace, Giga Drain
+- **IronValint** Lv54 — Spirit Break, Close Combat, Ice Punch, ThunderPunch
 
 ### TAMER EVAN  *(trainer #723)*
-- **Sandslash** Lv52 — Earthquake, Flare Blitz, Night Slash, Brick Break
-- **Lickitung** Lv52 — Return, Earth Power, Blizzard, Thunder
-- **Pidgeot** Lv54 — Tackle, Wing Attack, Feint Attack, Close Combat
-- **Ursaring** Lv55 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
-- **Pyroar** Lv55 — Fire Blast, Hyper Voice, Air Slash, Iron Tail
-- **Braviary** Lv55 — Slash, Brave Bird, Steel Wing, Icy Wind
+- **Sandslash** Lv52 — Earthquake, Knock Off, Brick Break, Aerial Ace
+- **Lickitung** Lv52 — Body Slam, Earthquake, Blizzard, Thunder
+- **Pidgeot** Lv54 — Tackle, Wing Attack, Heat Wave, Air Slash
+- **Ursaring** Lv55 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
+- **Pyroar** Lv55 — Fire Blast, Hyper Voice, Mud-Slap, Wild Charge
+- **Braviary** Lv55 — Double-Edge, Brave Bird, Iron Head, Rock Slide
 
 ### ?? RANGER JACKSON  *(trainer #724)*
-- **Tangela** Lv53 — Energy Ball, Foul Play, Ice Punch, ThunderPunch
-- **Exeggutor** Lv54 — Energy Ball, Psychic, Liquidation, Bulldoze
-- **ScreamTail** Lv54 — Play Rough, Zen Headbutt, Thunder, Rock Tomb
-- **Exeggutor** Lv55 — Energy Ball, Psychic, Liquidation, Bulldoze
+- **Tangela** Lv53 — Energy Ball, Knock Off, AncientPower, Vine Whip
+- **Exeggutor** Lv54 — Energy Ball, Future Sight, Earthquake, Mega Drain
+- **ScreamTail** Lv54 — Play Rough, Zen Headbutt, ThunderPunch, Rock Tomb
+- **Exeggutor** Lv55 — Energy Ball, Future Sight, Earthquake, Mega Drain
 - **Tangrowth** Lv55 — Energy Ball, AncientPower, Knock Off, Brick Break
-- **Maractus** Lv55 — Energy Ball, Aerial Ace, Iron Head, Icy Wind
+- **Maractus** Lv55 — Energy Ball, Sucker Punch, Drain Punch, Mega Drain
 
 ### ?? RANGER KATELYN  *(trainer #725)*
-- **Obstagoon** Lv55 — Night Slash, Double-Edge, Thunder, Heat Wave
-- **Chansey** Lv56 — Double-Edge, Crunch, Brick Break, Iron Tail
-- **Lickilicky** Lv56 — Return, Earthquake, Blizzard, Thunder
+- **Obstagoon** Lv55 — Night Slash, Double-Edge, ThunderPunch, Fire Punch
+- **Chansey** Lv56 — Hyper Voice, Brick Break, Earthquake, Blizzard
+- **Lickilicky** Lv56 — Body Slam, Earthquake, Ice Punch, ThunderPunch
 
 ### COOLTRAINER LEROY  *(trainer #726)*
-- **Rhydon** Lv52 — Earthquake, Stone Edge, Fire Punch, Play Rough
-- **Kangaskhan** Lv52 — Double-Edge, Brick Break, Aqua Tail, Aerial Ace
-- **Machamp** Lv52 — Cross Chop, Muddy Water, Bullet Punch, Earthquake
-- **Slowbro** Lv54 — Surf, Future Sight, Air Slash, Iron Tail
-- **Ursaring** Lv55 — Double-Edge, Avalanche, ThunderPunch, Stone Edge
-- **Flamigo** Lv55 — Brave Bird, Superpower, Fire Fang, Play Rough
+- **Rhydon** Lv52 — Earthquake, Stone Edge, Fire Punch, Crunch
+- **Kangaskhan** Lv52 — Double-Edge, Brick Break, Hydro Pump, Iron Tail
+- **Machamp** Lv52 — Close Combat, Earthquake, Ice Punch, ThunderPunch
+- **Slowbro** Lv54 — Hydro Pump, Future Sight, Earthquake, Blizzard
+- **Ursaring** Lv55 — Double-Edge, Ice Punch, ThunderPunch, Stone Edge
+- **Flamigo** Lv55 — Brave Bird, Close Combat, Liquidation, Wing Attack
 
 ### COOLTRAINER MICHELLE  *(trainer #727)*
-- **Persian** Lv53 — Slash, Play Rough, Foul Play, Aerial Ace
-- **Dewgong** Lv53 — Aqua Tail, Avalanche, Play Rough, Foul Play
-- **Ninetales** Lv54 — Fire Blast, Dark Pulse, Iron Tail, Energy Ball
-- **Rapidash** Lv54 — Flare Blitz, Aura Sphere, Iron Tail, Earth Power
-- **Girafarig** Lv56 — Tackle, Future Sight, Energy Ball, Earthquake
-- **Infernape** Lv56 — Flare Blitz, Close Combat, Icy Wind, ThunderPunch
+- **Persian** Lv53 — Double-Edge, Play Rough, Foul Play, Aerial Ace
+- **Dewgong** Lv53 — Aqua Tail, Avalanche, Play Rough, Knock Off
+- **Ninetales** Lv54 — Fire Blast, Dark Pulse, Energy Ball, Dig
+- **Rapidash** Lv54 — Flare Blitz, Iron Tail, Wild Charge, Play Rough
+- **Girafarig** Lv56 — Hyper Voice, Future Sight, Energy Ball, Earthquake
+- **Infernape** Lv56 — Flare Blitz, Close Combat, ThunderPunch, Stone Edge
 
 ### COOL COUPLE LEX & NYA  *(trainer #728)*
-- **Tauros** Lv56 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Miltank** Lv57 — Body Slam, Blizzard, Thunder, Rock Slide
-- **Tauros** Lv57 — Double-Edge, Hydro Pump, Iron Tail, Seed Bomb
-- **Kangaskhan** Lv57 — Double-Edge, Brick Break, Aqua Tail, Aerial Ace
-- **Miltank** Lv57 — Body Slam, Blizzard, Thunder, Rock Slide
+- **Tauros** Lv56 — Double-Edge, Surf, Iron Head, Earthquake
+- **Miltank** Lv57 — Double-Edge, Ice Punch, ThunderPunch, Rock Slide
+- **Tauros** Lv57 — Double-Edge, Surf, Iron Head, Earthquake
+- **Kangaskhan** Lv57 — Double-Edge, Brick Break, Hydro Pump, Iron Tail
+- **Miltank** Lv57 — Double-Edge, Ice Punch, ThunderPunch, Rock Slide
 
 ### BUG CATCHER COLTON  *(trainer #729)*
-- **Dottler** Lv18 — Struggle Bug, Confusion, Knock Off, Pin Missile
-- **Metapod** Lv19 — Crunch, Air Slash, Harden, Bounce
-- **Weedle** Lv19 — Bug Bite, String Shot, Poison Sting, Telekinesis
-- **Metapod** Lv19 — Crunch, Air Slash, Harden, Bounce
+- **Dottler** Lv18 — Struggle Bug, Confusion, Light Screen, Reflect
+- **Metapod** Lv19 — Harden, Electroweb, Iron Defense, Harden
+- **Weedle** Lv19 — Bug Bite, String Shot, Poison Sting, Bug Bite
+- **Metapod** Lv19 — Harden, Electroweb, Iron Defense, Harden
 - **Roselia** Lv19 — Giga Drain, Poison Jab, Mega Drain, Razor Leaf
 
 ### BUG CATCHER COLTON  *(trainer #730)*
 - **Swellow** Lv26 — Return, Wing Attack, Steel Wing, Aerial Ace
-- **Butterfree** Lv27 — Struggle Bug, Air Slash, Giga Drain, U-turn
-- **Kakuna** Lv27 — Harden, Throat Chop, Drill Run, Water Pledge
-- **Butterfree** Lv27 — Struggle Bug, Air Slash, Giga Drain, U-turn
-- **Dottler** Lv27 — Struggle Bug, Psyshock, Knock Off, Pin Missile
+- **Butterfree** Lv27 — U-turn, Air Slash, Giga Drain, Bug Bite
+- **Kakuna** Lv27 — Harden, Harden, Harden, Harden
+- **Butterfree** Lv27 — U-turn, Air Slash, Giga Drain, Bug Bite
+- **Dottler** Lv27 — Struggle Bug, Psyshock, Leech Life, Confusion
 
 ### BUG CATCHER COLTON  *(trainer #731)*
-- **Butterfree** Lv51 — Bug Buzz, Air Slash, Energy Ball, Struggle Bug
-- **Butterfree** Lv51 — Bug Buzz, Air Slash, Energy Ball, Struggle Bug
-- **SlithrWing** Lv53 — U-turn, Close Combat, Crunch, Liquidation
-- **Beedrill** Lv54 — X-Scissor, Gunk Shot, Brick Break, Aqua Tail
-- **Scyther** Lv54 — X-Scissor, Wing Attack, Flare Blitz, Night Slash
+- **Butterfree** Lv51 — Bug Buzz, Hurricane, Energy Ball, Bug Bite
+- **Butterfree** Lv51 — Bug Buzz, Hurricane, Energy Ball, Bug Bite
+- **SlithrWing** Lv53 — Leech Life, Close Combat, Aerial Ace, Giga Drain
+- **Beedrill** Lv54 — X-Scissor, Poison Jab, Brick Break, Mega Drain
+- **Scyther** Lv54 — X-Scissor, Wing Attack, Night Slash, Close Combat
 
 ### SWIMMER? MATTHEW  *(trainer #732)*
-- **Dondozo** Lv48 — Aqua Tail, Rock Slide, Close Combat, Iron Tail
-- **Poliwhirl** Lv49 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Poliwrath** Lv49 — Waterfall, Brick Break, Rock Slide, Fire Punch
-- **Whiscash** Lv49 — Aqua Tail, Earthquake, Blizzard, Spark
-- **Lanturn** Lv49 — Hydro Pump, Thunder, Hurricane, Blizzard
+- **Dondozo** Lv48 — Aqua Tail, Rock Slide, Crunch, Earthquake
+- **Poliwhirl** Lv49 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Poliwrath** Lv49 — Liquidation, Close Combat, Rock Slide, Knock Off
+- **Whiscash** Lv49 — Aqua Tail, Earthquake, Blizzard, Stone Edge
+- **Lanturn** Lv49 — Hydro Pump, Thunder, Blizzard, Water Gun
 
 ### SWIMMER? TONY  *(trainer #733)*
-- **Gyarados** Lv48 — Aqua Tail, Hurricane, Iron Tail, Earthquake
-- **Seadra** Lv49 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Seadra** Lv49 — Hydro Pump, Air Slash, Flash Cannon, Blizzard
-- **Alomomola** Lv49 — Waterfall, Power Whip, Blizzard, Fire Fang
+- **Gyarados** Lv48 — Aqua Tail, Hurricane, Iron Head, Earthquake
+- **Seadra** Lv49 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Seadra** Lv49 — Hydro Pump, Flash Cannon, Blizzard, Water Gun
+- **Alomomola** Lv49 — Liquidation, Blizzard, Play Rough, Surf
 
 ### SWIMMER? MELISSA  *(trainer #734)*
-- **Lumineon** Lv48 — Surf, Blizzard, Water Gun, Aqua Tail
-- **Poliwhirl** Lv49 — Liquidation, Ice Punch, Knock Off, Brick Break
-- **Seaking** Lv49 — Aqua Tail, Earth Power, Blizzard, Brave Bird
-- **Kingler** Lv49 — Surf, Rock Slide, Fire Punch, Night Slash
+- **Lumineon** Lv48 — Hydro Pump, Air Slash, Blizzard, Water Gun
+- **Poliwhirl** Lv49 — Liquidation, Ice Punch, Brick Break, Earthquake
+- **Seaking** Lv49 — Waterfall, Blizzard, Surf, Hydro Pump
+- **Kingler** Lv49 — Liquidation, Rock Slide, Superpower, Metal Claw
 - **Bruxish** Lv49 — Aqua Tail, Psychic, Blizzard, Crunch
 
 ### CUE BALL PAXTON  *(trainer #742)*
-- **Muk** Lv38 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Weezing** Lv39 — Sludge Wave, Thunderbolt, Fire Fang, Dark Pulse
-- **Muk** Lv39 — Poison Jab, Dark Pulse, Brick Break, Giga Drain
-- **Golbat** Lv39 — Poison Fang, Wing Attack, Foul Play, Aura Sphere
-- **Seviper** Lv39 — Poison Jab, Brick Break, Iron Tail, Giga Drain
+- **Muk** Lv38 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Weezing** Lv39 — Sludge Wave, Thunderbolt, Heat Wave, Dark Pulse
+- **Muk** Lv39 — Poison Jab, Knock Off, Brick Break, Giga Drain
+- **Golbat** Lv39 — Poison Fang, Wing Attack, Crunch, Steel Wing
+- **Seviper** Lv39 — Poison Jab, Brick Break, Iron Head, Seed Bomb
 
