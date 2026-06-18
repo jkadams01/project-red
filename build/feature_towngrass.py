@@ -3,6 +3,10 @@
 - Gives each town a 12-slot grass encounter table (placeholder species; themer fills them):
     * towns with an existing wild entry -> set the (currently null) grass pointer.
     * towns with no wild entry          -> repurpose a redundant duplicate Altering Cave entry.
+
+A town that ALREADY has grass tiles (e.g. a patch hand-placed in HexManiacAdvance because the
+auto-picked spot was poor) keeps that grass as-is -- step 1 (auto-place) is skipped when
+count_grass != 0 -- and only gets the encounter table.
 """
 import mapinfo, map_render
 
